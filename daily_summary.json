@@ -1,7 +1,7 @@
 {
   "daily_summary": {
-    "date": "2026-10-22",
-    "headline": "今日 AI 情报 · 2026-10-22",
+    "date": "2026-10-23",
+    "headline": "今日 AI 情报 · 2026-10-23",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
         "evidence": [
           {
-            "id": "claude-duet",
-            "title": "Claude Duet",
+            "id": "every-ai-model-has-the-same-controversial-take-on-humans",
+            "title": "Every AI model has the same \"controversial\" take on humans",
             "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50186037",
+            "url": "https://news.ycombinator.com/item?id=50197313",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -25,59 +25,38 @@
         "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
-            "id": "patch-the-planet-global-response-coordination-as-agents-uncover-vulnerabilities",
-            "title": "Patch the Planet: global response coordination as agents uncover vulne",
-            "score": 0.3,
-            "url": "https://news.ycombinator.com/item?id=50181175",
+            "id": "openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-agents",
+            "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50198675",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
-            "id": "while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
-            "title": "While Amazon blocks AI agents, Walmart rolls out the welcome mat",
+            "id": "claude-duet-app-is-anthropic8217s-bet-on-agents",
+            "title": "Claude Duet app is Anthropic&#8217;s bet on agents",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/21/while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat/",
+            "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "left-alone-with-nothing-to-do-ai-agents-started-playing",
+            "title": "Left alone with nothing to do, AI agents started playing",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-y",
+            "title": "1Password launches a way for AI agents to log in on your behalf withou",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
             "reason": "里程碑式进展"
           },
           {
-            "id": "gbclaw-an-agentic-ai-framework-for-atomistic-grain-boundary-research-and-mechani",
-            "title": "GBClaw: An agentic AI framework for atomistic grain boundary research ",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.28629v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "show-hn-omnara-open-source-alternative-to-claude-managed-agents",
-            "title": "Show HN: Omnara – Open-source alternative to Claude Managed Agents",
-            "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=50183892",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "launch-hn-alter-yc-s25-access-control-for-multi-user-agents",
-            "title": "Launch HN: Alter (YC S25) – Access control for multi-user agents",
-            "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=50176908",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "layerfs-the-filesystem-for-ai-coding-agents",
-            "title": "LayerFS: The filesystem for AI coding agents",
-            "score": 0.2,
-            "url": "https://news.ycombinator.com/item?id=50179857",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "the-bridge-to-agent-scale-git-infrastructure",
-            "title": "The bridge to agent-scale Git infrastructure",
-            "score": 0.2,
-            "url": "https://news.ycombinator.com/item?id=50183344",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data",
-            "title": "Using thousands of AI agents to uncover new leads in biological data",
+            "id": "show-hn-agent-usage-guard-a-claude-code-mod-to-protect-your-usage-window",
+            "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage w",
             "score": 0.15,
-            "url": "https://news.ycombinator.com/item?id=50180752",
+            "url": "https://github.com/rbartoli/agent-usage-guard",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -86,13 +65,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：AI Agent, 融资/投资。",
+        "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "multimodal-embodied-agents-a-unified-capability-centric-perspective-from-compute",
-            "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective f",
+            "id": "uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-ponyai-and-nvid",
+            "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.",
             "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.30108v1",
+            "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -101,13 +80,13 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
-            "title": "Blacksmith hits unicorn valuation after Sequoia leads Series C",
+            "id": "openai-working-on-new-30b-raise-at-125t-valuation-ahead-of-ipo",
+            "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/21/blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c/",
+            "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -117,251 +96,179 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日5条情报涉及AI Agent及相关工具生态。典型项目包括：dipakkr/awesome-ai-engineering, While Amazon blocks AI agents, Walmart r, GBClaw: An agentic AI framework for atom。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日5条情报涉及AI Agent及相关工具生态。典型项目包括：OpenShell – A safe, private runtime for , Spotify&#8217;s current AI bet is about , Left alone with nothing to do, AI agents。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日4条情报涉及AI商业动态。包括：dipakkr/awesome-ai-engineering, Blacksmith hits unicorn valuation after , Value-Rich, Differently Organized: Measu。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日2条情报涉及AI商业动态。包括：OpenAI working on new $30B raise at $1.2, DeepSeek reportedly raises $15B days aft。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 39 | 🔧 工具生态: 8 | 💰 商业趋势: 2 | 📱 产品模式: 8",
-    "total_items": 57,
-    "high_value_count": 42,
+    "stats": "🤖 技术能力: 25 | 📱 产品模式: 9 | 💰 商业趋势: 2 | 🔧 工具生态: 3",
+    "total_items": 39,
+    "high_value_count": 32,
     "all_today_ids": [
       {
-        "id": "claude-duet",
-        "label": "Claude Duet"
+        "id": "every-ai-model-has-the-same-controversial-take-on-humans",
+        "label": "Every AI model has the same \"controversial\" take on humans"
       },
       {
-        "id": "ai-job-search-devai-job-search",
-        "label": "ai-job-search-dev/ai-job-search"
+        "id": "llms-are-making-formal-software-verification-feasible-at-a-much-larger-scale",
+        "label": "LLMs are making formal software verification feasible at a much larger scale"
       },
       {
-        "id": "dipakkrawesome-ai-engineering",
-        "label": "dipakkr/awesome-ai-engineering"
+        "id": "openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-agents",
+        "label": "OpenShell – A safe, private runtime for fleets of autonomous AI agents"
       },
       {
-        "id": "php2shell-ai-uncovers-critical-rce-in-php",
-        "label": "PHP2Shell: AI uncovers critical RCE in PHP"
+        "id": "jailbreaking-the-switch-2",
+        "label": "Jailbreaking the Switch 2"
       },
       {
-        "id": "airbnb-bans-making-guests-do-dishes-and-take-out-the-trash",
-        "label": "Airbnb bans making guests do dishes and take out the trash"
+        "id": "several-linux-kernel-vulnerabilities-accidentally-posted-to-public-mailing-list",
+        "label": "Several Linux kernel vulnerabilities accidentally posted to public mailing list"
       },
       {
-        "id": "using-claude-to-reduce-the-attack-surface-of-code",
-        "label": "Using Claude to reduce the attack surface of code"
+        "id": "ask-hn-if-the-models-are-so-good-why-doesnt-openai-just-start-100-companies",
+        "label": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?"
       },
       {
-        "id": "in-hilbert-space-all-things-are-quantumly-possible",
-        "label": "In Hilbert space, all things are quantumly possible"
+        "id": "spotify8217s-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
+        "label": "Spotify&#8217;s current AI bet is about being the music service that agents choo"
       },
       {
-        "id": "blacksmith-hits-unicorn-valuation-after-sequoia-leads-series-c",
-        "label": "Blacksmith hits unicorn valuation after Sequoia leads Series C"
+        "id": "canva-releases-its-first-image-generation-model",
+        "label": "Canva releases its first image generation model"
       },
       {
-        "id": "php-armageddon-openai-google8217s-wiz-find-ancient-holes-panicking-the-internet",
-        "label": "PHP Armageddon: OpenAI, Google&#8217;s Wiz find ancient holes, panicking the int"
+        "id": "meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
+        "label": "Meta wants to pay for its broad AI buildout with a newly created class of stock"
       },
       {
-        "id": "patch-the-planet-global-response-coordination-as-agents-uncover-vulnerabilities",
-        "label": "Patch the Planet: global response coordination as agents uncover vulnerabilities"
+        "id": "claude-duet-app-is-anthropic8217s-bet-on-agents",
+        "label": "Claude Duet app is Anthropic&#8217;s bet on agents"
       },
       {
-        "id": "blackstone8217s-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown",
-        "label": "Blackstone&#8217;s Jas Khaira says fears over AI-buildout debt are overblown"
+        "id": "openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-h",
+        "label": "OpenAI makes its Jev competitor widely available as decision model competition h"
       },
       {
-        "id": "recursive-launches-flint-a-laptop-coding-model-it-says-was-largely-built-by-ai",
-        "label": "Recursive launches Flint, a laptop coding model it says was largely built by AI"
+        "id": "left-alone-with-nothing-to-do-ai-agents-started-playing",
+        "label": "Left alone with nothing to do, AI agents started playing"
       },
       {
-        "id": "meta-says-muse-has-over-10m-users-with-shopping-a-top-activity",
-        "label": "Meta says Muse has over 10M users, with shopping a top activity"
+        "id": "chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connect",
+        "label": "Chinese hackers spied on thousands of companies after breaching IT giant Connect"
       },
       {
-        "id": "ex-nvidia-turned-vc-amulya-vishwanath-8216physical-ai-is-in-its-lego-era8217",
-        "label": "Ex-Nvidia-turned-VC Amulya Vishwanath: &#8216;Physical AI is in its LEGO era&#82"
+        "id": "uber-puts-all-30000-employees-on-chatgpt-work",
+        "label": "Uber puts all 30,000 employees on ChatGPT Work"
       },
       {
-        "id": "worldtui-i-trained-a-360m-model-to-pretend-to-be-a-terminal",
-        "label": "WorldTUI: I trained a 360M model to pretend to be a terminal"
+        "id": "openai-working-on-new-30b-raise-at-125t-valuation-ahead-of-ipo",
+        "label": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
       },
       {
-        "id": "ai-promises-productivity-but-for-managers-it8217s-mostly-a-headache-for-now",
-        "label": "AI promises productivity, but for managers, it&#8217;s mostly a headache for now"
+        "id": "uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-ponyai-and-nvid",
+        "label": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvi"
       },
       {
-        "id": "while-amazon-blocks-ai-agents-walmart-rolls-out-the-welcome-mat",
-        "label": "While Amazon blocks AI agents, Walmart rolls out the welcome mat"
+        "id": "microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he",
+        "label": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he"
       },
       {
-        "id": "show-hn-jev-cards-can-you-beat-a-vision-model-at-a-picture-quiz",
-        "label": "Show HN: Jev Cards, Can you beat a vision model at a picture quiz?"
+        "id": "deepseek-reportedly-raises-15b-days-after-us-restrictions",
+        "label": "DeepSeek reportedly raises $15B days after US restrictions"
       },
       {
-        "id": "efficient-edge-aware-attention-network-for-graph-generation",
-        "label": "Efficient Edge-aware Attention Network for Graph Generation"
+        "id": "1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-y",
+        "label": "1Password launches a way for AI agents to log in on your behalf without seeing y"
       },
       {
-        "id": "longzero-enhancing-long-context-reasoning-in-llms-from-zero-data",
-        "label": "LongZero: Enhancing Long-Context Reasoning in LLMs from Zero Data"
+        "id": "nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
+        "label": "Nirva raises $33M for a pendant that only listens to you"
       },
       {
-        "id": "quant-arena-benchmarking-llm-agents-for-quantitative-trading-research",
-        "label": "Quant-Arena: Benchmarking LLM Agents for Quantitative Trading Research"
+        "id": "direct-passk-optimization-for-thought-pruning-balancing-quality-and-diversity-in",
+        "label": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversit"
       },
       {
-        "id": "the-role-of-locality-and-weight-sharing-in-convolutional-neural-networks",
-        "label": "The role of locality and weight sharing in convolutional neural networks"
+        "id": "cost-aware-abstention-for-llm-based-it-ticket-classification",
+        "label": "Cost-Aware Abstention for LLM-Based IT Ticket Classification"
       },
       {
-        "id": "velocity-ambiguity-profiles-time-resolved-bayes-risk-diagnostics-for-flow-matchi",
-        "label": "Velocity Ambiguity Profiles: Time-Resolved Bayes-Risk Diagnostics for Flow Match"
+        "id": "spectralcanary-embarrassingly-simple-low-frequency-traces-for-t2i-dataset-use-au",
+        "label": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use A"
       },
       {
-        "id": "environment-duels-a-microcosm-of-llm-co-evolution",
-        "label": "Environment Duels: A Microcosm of LLM Co-Evolution"
+        "id": "causal-chain-of-thought-mitigating-attention-leakage-via-context-isolation",
+        "label": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation"
       },
       {
-        "id": "value-rich-differently-organized-measuring-value-expression-and-organization-in",
-        "label": "Value-Rich, Differently Organized: Measuring Value Expression and Organization i"
+        "id": "sensorimotor-alignment-a-platonic-proxy-for-embodied-policy-success",
+        "label": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
       },
       {
-        "id": "gbclaw-an-agentic-ai-framework-for-atomistic-grain-boundary-research-and-mechani",
-        "label": "GBClaw: An agentic AI framework for atomistic grain boundary research and mechan"
+        "id": "episem-bench-evaluating-safety-and-evidence-recovery-in-llm-agents-under-missing",
+        "label": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missin"
       },
       {
-        "id": "minimax-optimality-of-the-npmle-for-gaussian-mixtures-in-hellinger-distance",
-        "label": "Minimax Optimality of the NPMLE for Gaussian Mixtures in Hellinger Distance"
+        "id": "phase-transition-from-random-features-to-fully-trainable-networks",
+        "label": "Phase Transition from Random Features to Fully Trainable Networks"
       },
       {
-        "id": "a-quasipolynomial-algorithm-for-ell_infty-contractions",
-        "label": "A Quasipolynomial Algorithm for $\\ell_\\infty$ Contractions"
+        "id": "reliable-ai-assisted-decisions-via-selective-auditing",
+        "label": "Reliable AI-Assisted Decisions via Selective Auditing"
       },
       {
-        "id": "learning-adaptable-dexterous-skills-via-hybrid-dexterous-mimicking",
-        "label": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking"
+        "id": "low-bit-n-gram-embeddings-for-language-models",
+        "label": "Low-Bit N-Gram Embeddings for Language Models"
       },
       {
-        "id": "adaptive-multi-token-prediction-how-far-should-we-go",
-        "label": "Adaptive Multi-Token Prediction: How far should we go?"
+        "id": "metta-memory-enhanced-test-time-adaptation-for-meta-reinforcement-learning",
+        "label": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning"
       },
       {
-        "id": "industrial-remembr-scaling-spatiotemporal-memory-to-robot-fleets",
-        "label": "Industrial ReMEmbR: Scaling Spatiotemporal Memory to Robot Fleets"
+        "id": "a-fix-for-softmax-and-cross-entropy",
+        "label": "A Fix for Softmax and Cross-Entropy"
       },
       {
-        "id": "self-normalized-bernstein-inequalities-for-regenerative-processes-and-applicatio",
-        "label": "Self-normalized Bernstein Inequalities for Regenerative Processes and Applicatio"
+        "id": "benice-closing-loopings-inference-memory-gap-via-kv-sharing",
+        "label": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing"
       },
       {
-        "id": "think-harder-where-it-matters-item-level-adaptive-recursion-for-sequential-recom",
-        "label": "Think Harder Where It Matters: Item-Level Adaptive Recursion for Sequential Reco"
+        "id": "show-hn-ui-micro-interactions-prompts-for-ai",
+        "label": "Show HN: UI micro interactions prompts for AI"
       },
       {
-        "id": "mindview-benchmarking-generative-multi-view-spatial-intelligence",
-        "label": "MindView: Benchmarking Generative Multi-View Spatial Intelligence"
+        "id": "railpass",
+        "label": "Railpass"
       },
       {
-        "id": "planning-under-noise-with-neural-operators",
-        "label": "Planning under Noise with Neural Operators"
+        "id": "the-same-ai-request-emits-85-times-more-co2-in-texas-than-in-sweden",
+        "label": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden"
       },
       {
-        "id": "benchmarking-arabic-dialects-for-math-problems",
-        "label": "Benchmarking Arabic Dialects for Math Problems"
+        "id": "jank-the-native-clojure-dialect-with-seamless-c-interop",
+        "label": "Jank – The native Clojure dialect with seamless C++ interop"
       },
       {
-        "id": "multimodal-embodied-agents-a-unified-capability-centric-perspective-from-compute",
-        "label": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Comput"
+        "id": "show-hn-agent-usage-guard-a-claude-code-mod-to-protect-your-usage-window",
+        "label": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window"
       },
       {
-        "id": "physicalworld-in-context-physics-calibration-for-world-models",
-        "label": "PhysiCalWorld: In-Context Physics Calibration for World Models"
+        "id": "show-hn-turn-regular-javascript-into-a-neural-net",
+        "label": "Show HN: Turn regular JavaScript into a neural net"
       },
       {
-        "id": "the-end-of-consensus-research",
-        "label": "The End of Consensus Research?"
-      },
-      {
-        "id": "uniwalm-unified-world-action-language-model-for-embodied-robot-control",
-        "label": "UniWALM: Unified World Action Language Model for Embodied Robot Control"
-      },
-      {
-        "id": "semantic-observability-for-autonomous-systems-diagnostics",
-        "label": "Semantic Observability for Autonomous Systems Diagnostics"
-      },
-      {
-        "id": "joints-camera-action-co-generating-3d-motion-and-video-for-arbitrary-rigs",
-        "label": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs"
-      },
-      {
-        "id": "using-llm-for-confidence-scoring-is-a-bad-idea",
-        "label": "Using LLM for confidence scoring is a bad idea"
-      },
-      {
-        "id": "openai-cli",
-        "label": "OpenAI CLI"
-      },
-      {
-        "id": "show-hn-omnara-open-source-alternative-to-claude-managed-agents",
-        "label": "Show HN: Omnara – Open-source alternative to Claude Managed Agents"
-      },
-      {
-        "id": "cloudflare-deploys-protections-against-php2shell-vulnerability",
-        "label": "Cloudflare deploys protections against php2shell vulnerability"
-      },
-      {
-        "id": "launch-hn-alter-yc-s25-access-control-for-multi-user-agents",
-        "label": "Launch HN: Alter (YC S25) – Access control for multi-user agents"
-      },
-      {
-        "id": "compromised-litellm-11070-on-pypi-installs-a-credential-stealer-and-backdoor",
-        "label": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor"
-      },
-      {
-        "id": "good-type-against-all-odds",
-        "label": "Good type against all odds"
-      },
-      {
-        "id": "chain-of-thought-for-humans",
-        "label": "Chain of Thought for Humans"
-      },
-      {
-        "id": "layerfs-the-filesystem-for-ai-coding-agents",
-        "label": "LayerFS: The filesystem for AI coding agents"
-      },
-      {
-        "id": "the-bridge-to-agent-scale-git-infrastructure",
-        "label": "The bridge to agent-scale Git infrastructure"
-      },
-      {
-        "id": "show-hn-ai-built-browser-games-collected-in-one-place",
-        "label": "Show HN: AI-built browser games, collected in one place"
-      },
-      {
-        "id": "show-hn-i-built-a-markdown-and-raw-html-blog-platform-scoring-99-on-pagespeed",
-        "label": "Show HN: I built a Markdown and raw HTML blog platform scoring 99 on PageSpeed"
-      },
-      {
-        "id": "using-thousands-of-ai-agents-to-uncover-new-leads-in-biological-data",
-        "label": "Using thousands of AI agents to uncover new leads in biological data"
-      },
-      {
-        "id": "show-hn-computer-use-on-the-phone-itself-a-2b-model-that-operates-android-apps",
-        "label": "Show HN: Computer use on the phone itself: a 2B model that operates Android apps"
-      },
-      {
-        "id": "claude-now-works-with-google-docs-sheets-and-slides",
-        "label": "Claude Now Works with Google Docs, Sheets, and Slides"
+        "id": "the-painter-behind-manhattans-gilded-age-interiors",
+        "label": "The painter behind Manhattan’s Gilded Age interiors"
       }
     ],
-    "date_bj": "2026-10-22 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-22 18:02:04"
+    "date_bj": "2026-10-23 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-23 16:05:14"
   }
 }

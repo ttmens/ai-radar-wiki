@@ -5632,3 +5632,37 @@
 ## [2026-10-22 18:02] sync v3 | 2 new | pillars: {'capabilities': 2}
 - create: airbnb-bans-making-guests-do-dishes-and-take-out-the-trash.md
 - create: claude-now-works-with-google-docs-sheets-and-slides.md
+
+## [2026-10-23 16:05] sync v3 | 33 new | pillars: {'capabilities': 22, 'ecosystem': 3, 'patterns': 7, 'business': 1}
+- create: sensorimotor-alignment-a-platonic-proxy-for-embodied-policy-success.md
+- create: direct-passk-optimization-for-thought-pruning-balancing-quality-and-diversity-in.md
+- create: phase-transition-from-random-features-to-fully-trainable-networks.md
+- create: reliable-ai-assisted-decisions-via-selective-auditing.md
+- create: spectralcanary-embarrassingly-simple-low-frequency-traces-for-t2i-dataset-use-au.md
+- create: cost-aware-abstention-for-llm-based-it-ticket-classification.md
+- create: metta-memory-enhanced-test-time-adaptation-for-meta-reinforcement-learning.md
+- create: episem-bench-evaluating-safety-and-evidence-recovery-in-llm-agents-under-missing.md
+- create: low-bit-n-gram-embeddings-for-language-models.md
+- create: a-fix-for-softmax-and-cross-entropy.md
+- create: causal-chain-of-thought-mitigating-attention-leakage-via-context-isolation.md
+- create: benice-closing-loopings-inference-memory-gap-via-kv-sharing.md
+- create: the-same-ai-request-emits-85-times-more-co2-in-texas-than-in-sweden.md
+- create: llms-are-making-formal-software-verification-feasible-at-a-much-larger-scale.md
+- create: openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-agents.md
+- create: every-ai-model-has-the-same-controversial-take-on-humans.md
+- create: jank-the-native-clojure-dialect-with-seamless-c-interop.md
+- create: railpass.md
+- create: ask-hn-if-the-models-are-so-good-why-doesnt-openai-just-start-100-companies.md
+- create: uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-ponyai-and-nvid.md
+- create: left-alone-with-nothing-to-do-ai-agents-started-playing.md
+- create: openai-working-on-new-30b-raise-at-125t-valuation-ahead-of-ipo.md
+- create: 1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-y.md
+- create: openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-h.md
+- create: canva-releases-its-first-image-generation-model.md
+- create: microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he.md
+- create: chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connect.md
+- create: uber-puts-all-30000-employees-on-chatgpt-work.md
+- create: meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock.md
+- create: show-hn-turn-regular-javascript-into-a-neural-net.md
+- create: show-hn-agent-usage-guard-a-claude-code-mod-to-protect-your-usage-window.md
+- create: show-hn-ui-micro-interactions-prompts-for-ai.md
