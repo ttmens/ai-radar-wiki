@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-24 06:02] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 3310, 'ecosystem': 652, 'business': 462, 'patterns': 901, 'unknown': 4}
+- Top tags: {'capabilities': 3224, 'discussion': 2165, 'hacker-news': 2165, 'news': 1287, 'techcrunch': 1287}
+  🗑️ Deprecated: half-life-2-running-natively-on-haikuos.md (91d old, score=0.135)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-23 18:02] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 3303, 'ecosystem': 651, 'business': 462, 'patterns': 900, 'unknown': 4}

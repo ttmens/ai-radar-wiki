@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-23 | Total pages: 5383
+> Last updated: 2026-10-24 | Total pages: 5392
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -379,6 +379,7 @@
 - [[can-safeworld-convince-people-that-genai-robots-won8217t-hurt-them.md]] Can Safeworld convince people that GenAI robots won&#8217;t hurt them? `pillar:capabilities` `score:0.305`
 - [[can-super-intelligence-and-a-non-binding-safety-pact-solve-ais-image-problem.md]] Can ‘super intelligence’ and a non-binding safety pact solve AI’s image problem? `pillar:capabilities` `score:0.305`
 - [[can-the-ai-industry-persuade-data-center-opponents-by-getting-rid-of-ndas.md]] Can the AI industry persuade data center opponents by getting rid of NDAs? `pillar:capabilities` `score:0.305`
+- [[can-we-replace-a-150k-looker-with-a-bucket-of-html-files.md]] Can we replace a $150k Looker with a bucket of HTML files? `pillar:capabilities` `score:0.305`
 - [[can-we-understand-how-large-language-models-reason.md]] Can we understand how large language models reason? `pillar:capabilities` `score:0.445`
 - [[can-you-tell-which-images-are-ai-generated.md]] Can you tell which images are AI-generated? `pillar:capabilities` `score:0.305`
 - [[can-you-use-autoregressive-diffusion-to-generate-market-data.md]] Can you use autoregressive diffusion to generate market data? `pillar:capabilities` `score:0.255`
@@ -509,6 +510,7 @@
 - [[data-compression-explained-2012.md]] Data Compression Explained (2012) `pillar:capabilities` `score:0.395`
 - [[databricks-former-ai-chief-thinks-he-can-cut-ais-power-bill-by-1000x.md]] Databricks’ former AI chief thinks he can cut AI’s power bill by 1,000x `pillar:capabilities` `score:0.515`
 - [[datasette-apps-host-custom-html-applications-inside-datasette.md]] Datasette Apps: Host custom HTML applications inside Datasette `pillar:capabilities` `score:0.33`
+- [[datawhalechinaleedl-tutorial.md]] datawhalechina/leedl-tutorial `pillar:capabilities` `score:0.405`
 - [[daviskingdlib.md]] davisking/dlib `pillar:capabilities` `score:0.545`
 - [[de-brainrot-vacations.md]] De-Brainrot Vacations `pillar:capabilities` `score:0.425`
 - [[debian-votes-to-allow-responsible-use-of-generative-ai.md]] Debian votes to allow "responsible use of generative AI" `pillar:capabilities` `score:0.425`
@@ -536,6 +538,7 @@
 - [[desert-ant-labs-local-fast-models-that-run-on-device.md]] Desert Ant Labs: local, fast models that run on device `pillar:capabilities` `score:0.405`
 - [[designing-a-personal-pebble-watchface.md]] Designing a Personal Pebble Watchface `pillar:capabilities` `score:0.295`
 - [[designing-more-efficient-quantum-circuits-with-claude.md]] Designing more efficient quantum circuits with Claude `pillar:capabilities` `score:0.305`
+- [[dessa-the-most-authentic-full-duplex-speech-model-ever-built.md]] Dessa: the most authentic full-duplex speech model ever built `pillar:capabilities` `score:0.305`
 - [[destro-ai8217s-secret-sauce-is-getting-robots-and-humans-on-the-same-page.md]] Destro AI&#8217;s secret sauce is getting robots and humans on the same page `pillar:capabilities` `score:0.305`
 - [[details-of-the-daring-airdrop-at-tristan-da-cunha.md]] Details of the Daring Airdrop at Tristan Da Cunha `pillar:capabilities` `score:0.305`
 - [[detecting-and-countering-misuse-of-ai-september-2026.md]] Detecting and countering misuse of AI: September 2026 `pillar:capabilities` `score:0.375`
@@ -553,6 +556,7 @@
 - [[discovering-cryptographic-weaknesses-with-claude.md]] Discovering Cryptographic Weaknesses with Claude `pillar:capabilities` `score:0.53`
 - [[dishwasherbench-can-frontier-models-stack-a-dishwasher.md]] DishwasherBench – Can Frontier Models Stack a Dishwasher? `pillar:capabilities` `score:0.155`
 - [[disney-agrees-to-hire-the-majority-of-characterais-workforce.md]] Disney agrees to hire the majority of Character.AI’s workforce `pillar:capabilities` `score:0.305`
+- [[disney-raising-prices-days-after-confirming-ads-will-now-show-up-on-every-tier.md]] Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier `pillar:capabilities` `score:0.455`
 - [[disney8217s-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-character.md]] Disney&#8217;s first CTO led an AI startup it once accused of copying its charac `pillar:capabilities` `score:0.305`
 - [[dispersion-loss-counteracts-embedding-condensation-in-small-language-models.md]] Dispersion loss counteracts embedding condensation in small language models `pillar:capabilities` `score:0.295`
 - [[disrupting-supply-chain-attacks-on-npm-and-github-actions.md]] Disrupting supply chain attacks on NPM and GitHub Actions `pillar:capabilities` `score:0.38`
@@ -1287,6 +1291,7 @@
 - [[notes-from-the-mistral-ai-now-summit-in-paris.md]] Notes from the Mistral AI Now Summit in Paris `pillar:capabilities` `score:0.58`
 - [[notes-from-tired-egyptian-whose-job-is-explaining-that-humans-built-the-pyramids.md]] Notes from tired Egyptian whose job is explaining that humans built the pyramids `pillar:capabilities` `score:0.55`
 - [[notes-on-gotchas-while-migrating-35kb-preprompts-from-opus-to-self-hosted-ollama.md]] Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama `pillar:capabilities` `score:0.355`
+- [[now-google-says-it-might-use-your-gmail-and-google-photos-data-to-target-ads.md]] Now Google says it might use your Gmail and Google Photos data to target ads `pillar:capabilities` `score:0.355`
 - [[nsa-lost-access-to-mythos-amid-anthropic-dispute.md]] NSA lost access to Mythos amid Anthropic dispute `pillar:capabilities` `score:0.585`
 - [[nsa-tries-to-weaken-mlkem-standardisation.md]] NSA tries to weaken mlkem standardisation? `pillar:capabilities` `score:0.48`
 - [[nsa-using-anthropics-mythos-for-cyber-attacks.md]] NSA using Anthropic's Mythos for cyber attacks `pillar:capabilities` `score:0.33`
@@ -1825,6 +1830,7 @@
 - [[show-hn-watch-a-neural-net-learn-to-play-snake.md]] Show HN: Watch a neural net learn to play Snake `pillar:capabilities` `score:0.36`
 - [[show-hn-we-built-open-openrouter-that-turns-usage-into-a-better-model.md]] Show HN: We built open OpenRouter that turns usage into a better model `pillar:capabilities` `score:0.305`
 - [[show-hn-we-built-the-smallest-dual-band-aircraft-tracker.md]] Show HN: We built the smallest dual-band aircraft tracker `pillar:capabilities` `score:0.155`
+- [[show-hn-we-had-ai-write-a-wiki-from-45k-enron-emails-every-fact-cited.md]] Show HN: We had AI write a wiki from 45k Enron emails, every fact cited `pillar:capabilities` `score:0.155`
 - [[show-hn-we-post-trained-a-model-that-pen-tests-instead-of-refusing.md]] Show HN: We post-trained a model that pen tests instead of refusing `pillar:capabilities` `score:0.43`
 - [[show-hn-weedout-safari-extension-that-hides-youtube-ai-labeled-videos.md]] Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos `pillar:capabilities` `score:0.355`
 - [[show-hn-wonderhop-a-daily-game-guess-what-most-people-say-or-what-none-do.md]] Show HN: Wonderhop – A daily game: guess what most people say, or what none do `pillar:capabilities` `score:0.305`
@@ -2181,6 +2187,7 @@
 - [[waze-adds-new-ai-powered-features-and-customization-updates.md]] Waze adds new AI-powered features and customization updates `pillar:capabilities` `score:0.48`
 - [[we-can8217t-help-treating-ai-like-it8217s-human-but-should-we.md]] We can&#8217;t help treating AI like it&#8217;s human. But should we? `pillar:capabilities` `score:0.305`
 - [[we-gave-gpt-56-sol-a-real-business-it-lied-spammed-and-lost-447.md]] We Gave GPT 5.6 Sol a Real Business. It Lied, Spammed, and Lost $447 `pillar:capabilities` `score:0.635`
+- [[we-have-traits-at-home.md]] We have traits at home `pillar:capabilities` `score:0.155`
 - [[we-let-ais-run-radio-stations.md]] We let AIs run radio stations `pillar:capabilities` `score:0.48`
 - [[we-made-grok-45-gpt-55-and-claude-build-the-same-apps.md]] We made Grok 4.5, GPT-5.5, and Claude build the same apps `pillar:capabilities` `score:0.515`
 - [[we-should-be-more-tired-than-the-model.md]] We should be more tired than the model `pillar:capabilities` `score:0.41`
@@ -3578,6 +3585,7 @@
 - [[hmbowncodewhale.md]] Hmbown/CodeWhale `pillar:patterns` `score:0.545`
 - [[hmbowndeepseek-tui.md]] Hmbown/DeepSeek-TUI `pillar:patterns` `score:0.58`
 - [[holaboss-aiholaos.md]] holaboss-ai/holaOS `pillar:patterns` `score:0.405`
+- [[hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000.md]] Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,0 `pillar:patterns` `score:0.305`
 - [[how-japans-railways-stayed-one-while-splitting-apart.md]] How Japan's railways stayed one while splitting apart `pillar:patterns` `score:0.395`
 - [[how-memory-tools-can-make-ai-models-worse.md]] How memory tools can make AI models worse `pillar:patterns` `score:0.48`
 - [[how-much-can-you-delegate-to-agents.md]] How much can you delegate to agents? `pillar:patterns` `score:0.365`
@@ -4336,6 +4344,7 @@
 - [[discover-what8217s-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap.md]] Discover what&#8217;s next for AI, from the SaaS reckoning to the agent security `pillar:ecosystem` `score:0.445`
 - [[dmlcxgboost.md]] dmlc/xgboost `pillar:ecosystem` `score:0.615`
 - [[doj-claims-xais-unpermitted-gas-turbines-are-a-matter-of-national-economic-and-e.md]] DOJ claims xAI’s unpermitted gas turbines are a matter of ‘national, economic, a `pillar:ecosystem` `score:0.445`
+- [[ebony-vinyldsh-our-free-model.md]] Ebony-Vinyl/dsh-our-free-model `pillar:ecosystem` `score:0.505`
 - [[elorians-first-ai-model-wants-to-reason-with-images-not-just-about-them.md]] Elorian’s first AI model wants to reason with images, not just about them `pillar:ecosystem` `score:0.305`
 - [[enigma-raises-70m-to-make-controlling-a-robot-as-easy-as-adjusting-the-volume.md]] Enigma raises $70M to make controlling a robot as easy as adjusting the volume `pillar:ecosystem` `score:0.305`
 - [[enveda-secures-311m-to-bring-more-nature-derived-ai-drugs-into-clinical-trials.md]] Enveda secures $311M to bring more nature-derived AI drugs into clinical trials `pillar:ecosystem` `score:0.305`

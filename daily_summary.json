@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-10-23",
-    "headline": "今日 AI 情报 · 2026-10-23",
-    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "date": "2026-10-24",
+    "headline": "今日 AI 情报 · 2026-10-24",
+    "overview": "今日共采集 9 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
+        "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "every-ai-model-has-the-same-controversial-take-on-humans",
-            "title": "Every AI model has the same \"controversial\" take on humans",
+            "id": "disney-raising-prices-days-after-confirming-ads-will-now-show-up-on-every-tier",
+            "title": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Ev",
             "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50197313",
+            "url": "https://news.ycombinator.com/item?id=50205934",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,41 +22,13 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "insight": "今日📱 产品模式方向有新的动态。",
         "evidence": [
           {
-            "id": "openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-agents",
-            "title": "OpenShell – A safe, private runtime for fleets of autonomous AI agents",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=50198675",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "claude-duet-app-is-anthropic8217s-bet-on-agents",
-            "title": "Claude Duet app is Anthropic&#8217;s bet on agents",
+            "id": "hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000",
+            "title": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck ro",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "left-alone-with-nothing-to-do-ai-agents-started-playing",
-            "title": "Left alone with nothing to do, AI agents started playing",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/22/left-alone-with-nothing-to-do-ai-agents-started-playing/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-y",
-            "title": "1Password launches a way for AI agents to log in on your behalf withou",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/",
-            "reason": "里程碑式进展"
-          },
-          {
-            "id": "show-hn-agent-usage-guard-a-claude-code-mod-to-protect-your-usage-window",
-            "title": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage w",
-            "score": 0.15,
-            "url": "https://github.com/rbartoli/agent-usage-guard",
+            "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -68,215 +40,59 @@
         "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-ponyai-and-nvid",
-            "title": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/22/uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-pony-ai-and-nvidia/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
-        "evidence": [
-          {
-            "id": "openai-working-on-new-30b-raise-at-125t-valuation-ahead-of-ipo",
-            "title": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/22/openai-working-on-new-30b-raise-at-1-25t-valuation-ahead-of-ipo/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "ebony-vinyldsh-our-free-model",
+            "title": "Ebony-Vinyl/dsh-our-free-model",
+            "score": 0.51,
+            "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
+            "reason": "高价值信号"
           }
         ],
         "trend": "new"
       }
     ],
-    "narratives": [
-      {
-        "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日5条情报涉及AI Agent及相关工具生态。典型项目包括：OpenShell – A safe, private runtime for , Spotify&#8217;s current AI bet is about , Left alone with nothing to do, AI agents。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-        "type": "paradigm_shift",
-        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
-      },
-      {
-        "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日2条情报涉及AI商业动态。包括：OpenAI working on new $30B raise at $1.2, DeepSeek reportedly raises $15B days aft。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
-        "type": "validation",
-        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
-      }
-    ],
-    "stats": "🤖 技术能力: 26 | 📱 产品模式: 9 | 💰 商业趋势: 2 | 🔧 工具生态: 4",
-    "total_items": 41,
-    "high_value_count": 32,
+    "narratives": [],
+    "stats": "🔧 工具生态: 1 | 🤖 技术能力: 7 | 📱 产品模式: 1",
+    "total_items": 9,
+    "high_value_count": 7,
     "all_today_ids": [
       {
-        "id": "every-ai-model-has-the-same-controversial-take-on-humans",
-        "label": "Every AI model has the same \"controversial\" take on humans"
+        "id": "ebony-vinyldsh-our-free-model",
+        "label": "Ebony-Vinyl/dsh-our-free-model"
       },
       {
-        "id": "llms-are-making-formal-software-verification-feasible-at-a-much-larger-scale",
-        "label": "LLMs are making formal software verification feasible at a much larger scale"
+        "id": "disney-raising-prices-days-after-confirming-ads-will-now-show-up-on-every-tier",
+        "label": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier"
       },
       {
-        "id": "openshell-a-safe-private-runtime-for-fleets-of-autonomous-ai-agents",
-        "label": "OpenShell – A safe, private runtime for fleets of autonomous AI agents"
+        "id": "datawhalechinaleedl-tutorial",
+        "label": "datawhalechina/leedl-tutorial"
       },
       {
-        "id": "jailbreaking-the-switch-2",
-        "label": "Jailbreaking the Switch 2"
+        "id": "now-google-says-it-might-use-your-gmail-and-google-photos-data-to-target-ads",
+        "label": "Now Google says it might use your Gmail and Google Photos data to target ads"
       },
       {
-        "id": "several-linux-kernel-vulnerabilities-accidentally-posted-to-public-mailing-list",
-        "label": "Several Linux kernel vulnerabilities accidentally posted to public mailing list"
+        "id": "can-we-replace-a-150k-looker-with-a-bucket-of-html-files",
+        "label": "Can we replace a $150k Looker with a bucket of HTML files?"
       },
       {
-        "id": "ask-hn-if-the-models-are-so-good-why-doesnt-openai-just-start-100-companies",
-        "label": "Ask HN: If the models are so good, why doesn't OpenAI just start 100 companies?"
+        "id": "hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000",
+        "label": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,0"
       },
       {
-        "id": "spotify8217s-current-ai-bet-is-about-being-the-music-service-that-agents-choose",
-        "label": "Spotify&#8217;s current AI bet is about being the music service that agents choo"
+        "id": "dessa-the-most-authentic-full-duplex-speech-model-ever-built",
+        "label": "Dessa: the most authentic full-duplex speech model ever built"
       },
       {
-        "id": "canva-releases-its-first-image-generation-model",
-        "label": "Canva releases its first image generation model"
+        "id": "we-have-traits-at-home",
+        "label": "We have traits at home"
       },
       {
-        "id": "meta-wants-to-pay-for-its-broad-ai-buildout-with-a-newly-created-class-of-stock",
-        "label": "Meta wants to pay for its broad AI buildout with a newly created class of stock"
-      },
-      {
-        "id": "claude-duet-app-is-anthropic8217s-bet-on-agents",
-        "label": "Claude Duet app is Anthropic&#8217;s bet on agents"
-      },
-      {
-        "id": "openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-h",
-        "label": "OpenAI makes its Jev competitor widely available as decision model competition h"
-      },
-      {
-        "id": "left-alone-with-nothing-to-do-ai-agents-started-playing",
-        "label": "Left alone with nothing to do, AI agents started playing"
-      },
-      {
-        "id": "chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connect",
-        "label": "Chinese hackers spied on thousands of companies after breaching IT giant Connect"
-      },
-      {
-        "id": "uber-puts-all-30000-employees-on-chatgpt-work",
-        "label": "Uber puts all 30,000 employees on ChatGPT Work"
-      },
-      {
-        "id": "openai-working-on-new-30b-raise-at-125t-valuation-ahead-of-ipo",
-        "label": "OpenAI working on new $30B raise at $1.25T valuation ahead of IPO"
-      },
-      {
-        "id": "uber-rival-indrive-eyes-2027-robotaxi-tests-in-central-asia-with-ponyai-and-nvid",
-        "label": "Uber rival inDrive eyes 2027 robotaxi tests in Central Asia with Pony.ai and Nvi"
-      },
-      {
-        "id": "microsofts-mustafa-suleyman-says-its-ai-outperforms-doctors-on-hard-cases-as-he",
-        "label": "Microsoft’s Mustafa Suleyman says its AI outperforms doctors on hard cases as he"
-      },
-      {
-        "id": "deepseek-reportedly-raises-15b-days-after-us-restrictions",
-        "label": "DeepSeek reportedly raises $15B days after US restrictions"
-      },
-      {
-        "id": "1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-y",
-        "label": "1Password launches a way for AI agents to log in on your behalf without seeing y"
-      },
-      {
-        "id": "nirva-raises-33m-for-a-pendant-that-only-listens-to-you",
-        "label": "Nirva raises $33M for a pendant that only listens to you"
-      },
-      {
-        "id": "direct-passk-optimization-for-thought-pruning-balancing-quality-and-diversity-in",
-        "label": "Direct Pass@$k$ Optimization for Thought Pruning: Balancing Quality and Diversit"
-      },
-      {
-        "id": "cost-aware-abstention-for-llm-based-it-ticket-classification",
-        "label": "Cost-Aware Abstention for LLM-Based IT Ticket Classification"
-      },
-      {
-        "id": "spectralcanary-embarrassingly-simple-low-frequency-traces-for-t2i-dataset-use-au",
-        "label": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use A"
-      },
-      {
-        "id": "causal-chain-of-thought-mitigating-attention-leakage-via-context-isolation",
-        "label": "Causal Chain of Thought: Mitigating Attention Leakage via Context Isolation"
-      },
-      {
-        "id": "sensorimotor-alignment-a-platonic-proxy-for-embodied-policy-success",
-        "label": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success"
-      },
-      {
-        "id": "episem-bench-evaluating-safety-and-evidence-recovery-in-llm-agents-under-missing",
-        "label": "EpiSEM-Bench: Evaluating Safety and Evidence Recovery in LLM Agents under Missin"
-      },
-      {
-        "id": "phase-transition-from-random-features-to-fully-trainable-networks",
-        "label": "Phase Transition from Random Features to Fully Trainable Networks"
-      },
-      {
-        "id": "reliable-ai-assisted-decisions-via-selective-auditing",
-        "label": "Reliable AI-Assisted Decisions via Selective Auditing"
-      },
-      {
-        "id": "low-bit-n-gram-embeddings-for-language-models",
-        "label": "Low-Bit N-Gram Embeddings for Language Models"
-      },
-      {
-        "id": "metta-memory-enhanced-test-time-adaptation-for-meta-reinforcement-learning",
-        "label": "METTA: Memory-Enhanced Test-Time Adaptation for Meta-Reinforcement Learning"
-      },
-      {
-        "id": "a-fix-for-softmax-and-cross-entropy",
-        "label": "A Fix for Softmax and Cross-Entropy"
-      },
-      {
-        "id": "benice-closing-loopings-inference-memory-gap-via-kv-sharing",
-        "label": "BeNice! Closing Looping's Inference-Memory Gap via KV-Sharing"
-      },
-      {
-        "id": "show-hn-ui-micro-interactions-prompts-for-ai",
-        "label": "Show HN: UI micro interactions prompts for AI"
-      },
-      {
-        "id": "railpass",
-        "label": "Railpass"
-      },
-      {
-        "id": "the-same-ai-request-emits-85-times-more-co2-in-texas-than-in-sweden",
-        "label": "The same AI request emits 8.5 times more CO2 in Texas than in Sweden"
-      },
-      {
-        "id": "the-html-in-canvas-api-origin-trial",
-        "label": "The HTML-in-Canvas API origin trial"
-      },
-      {
-        "id": "jank-the-native-clojure-dialect-with-seamless-c-interop",
-        "label": "Jank – The native Clojure dialect with seamless C++ interop"
-      },
-      {
-        "id": "the-alien-space-of-science-coherent-but-cognitively-unavailable-directions",
-        "label": "The alien space of science: Coherent but cognitively unavailable directions"
-      },
-      {
-        "id": "show-hn-agent-usage-guard-a-claude-code-mod-to-protect-your-usage-window",
-        "label": "Show HN: agent-usage-guard – a Claude Code mod to protect your usage window"
-      },
-      {
-        "id": "show-hn-turn-regular-javascript-into-a-neural-net",
-        "label": "Show HN: Turn regular JavaScript into a neural net"
-      },
-      {
-        "id": "the-painter-behind-manhattans-gilded-age-interiors",
-        "label": "The painter behind Manhattan’s Gilded Age interiors"
+        "id": "show-hn-we-had-ai-write-a-wiki-from-45k-enron-emails-every-fact-cited",
+        "label": "Show HN: We had AI write a wiki from 45k Enron emails, every fact cited"
       }
     ],
-    "date_bj": "2026-10-23 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-23 18:02:10"
+    "date_bj": "2026-10-24 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-24 06:02:10"
   }
 }

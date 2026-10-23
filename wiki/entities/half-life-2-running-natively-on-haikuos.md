@@ -1,6 +1,7 @@
 ---
 title: Half-Life 2 running natively on HaikuOS
 created: 2026-07-25
+deprecated: true
 updated: 2026-07-25
 type: entity
 pillar: capabilities
