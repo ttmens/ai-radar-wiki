@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-23 | Total pages: 5381
+> Last updated: 2026-10-23 | Total pages: 5383
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -1948,6 +1948,7 @@
 - [[the-ai-productivity-gap.md]] The AI Productivity Gap `pillar:capabilities` `score:0.205`
 - [[the-ai-zombification-of-universities.md]] The AI Zombification of Universities `pillar:capabilities` `score:0.515`
 - [[the-airpods-effect.md]] The AirPods Effect `pillar:capabilities` `score:0.5`
+- [[the-alien-space-of-science-coherent-but-cognitively-unavailable-directions.md]] The alien space of science: Coherent but cognitively unavailable directions `pillar:capabilities` `score:0.205`
 - [[the-analytical-ai-handbook.md]] The Analytical AI Handbook `pillar:capabilities` `score:0.155`
 - [[the-annotated-pytorch-training-loop.md]] The annotated PyTorch training loop `pillar:capabilities` `score:0.225`
 - [[the-art-of-hackingh4cker.md]] The-Art-of-Hacking/h4cker `pillar:capabilities` `score:0.58`
@@ -4640,6 +4641,7 @@
 - [[the-browser-wars-aren8217t-about-search-anymore-here-are-the-best-alternatives-t.md]] The browser wars aren&#8217;t about search anymore — here are the best alternati `pillar:ecosystem` `score:0.48`
 - [[the-ceo-of-mullvad-is-the-main-financer-of-the-swedish-örebro-party.md]] The CEO of Mullvad is the main financer of the Swedish Örebro party `pillar:ecosystem` `score:0.385`
 - [[the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital.md]] The DOJ is investigating a16z. What does this mean for venture capital? `pillar:ecosystem` `score:0.305`
+- [[the-html-in-canvas-api-origin-trial.md]] The HTML-in-Canvas API origin trial `pillar:ecosystem` `score:0.255`
 - [[the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-meta.md]] The Hugging Face AI break-in, as told through an increasingly committed bear met `pillar:ecosystem` `score:0.48`
 - [[the-ipad-was-on-tailscale-a-webrtc-debugging-story.md]] The iPad was on Tailscale: a WebRTC debugging story `pillar:ecosystem` `score:0.325`
 - [[the-largest-available-minecraft-world-totalling-15-tb.md]] The largest available Minecraft world, totalling 15 TB `pillar:ecosystem` `score:0.41`

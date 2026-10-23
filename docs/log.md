@@ -5666,3 +5666,7 @@
 - create: show-hn-turn-regular-javascript-into-a-neural-net.md
 - create: show-hn-agent-usage-guard-a-claude-code-mod-to-protect-your-usage-window.md
 - create: show-hn-ui-micro-interactions-prompts-for-ai.md
+
+## [2026-10-23 18:02] sync v3 | 2 new | pillars: {'capabilities': 1, 'ecosystem': 1}
+- create: the-alien-space-of-science-coherent-but-cognitively-unavailable-directions.md
+- create: the-html-in-canvas-api-origin-trial.md
