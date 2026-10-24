@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-10-24",
     "headline": "今日 AI 情报 · 2026-10-24",
-    "overview": "今日共采集 9 条情报",
+    "overview": "今日共采集 19 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -51,9 +51,9 @@
       }
     ],
     "narratives": [],
-    "stats": "🔧 工具生态: 1 | 🤖 技术能力: 7 | 📱 产品模式: 1",
-    "total_items": 9,
-    "high_value_count": 7,
+    "stats": "🔧 工具生态: 1 | 🤖 技术能力: 15 | 📱 产品模式: 3",
+    "total_items": 19,
+    "high_value_count": 11,
     "all_today_ids": [
       {
         "id": "ebony-vinyldsh-our-free-model",
@@ -72,6 +72,10 @@
         "label": "Now Google says it might use your Gmail and Google Photos data to target ads"
       },
       {
+        "id": "air-purifiers-as-white-noise-machines",
+        "label": "Air Purifiers as White Noise Machines"
+      },
+      {
         "id": "can-we-replace-a-150k-looker-with-a-bucket-of-html-files",
         "label": "Can we replace a $150k Looker with a bucket of HTML files?"
       },
@@ -80,12 +84,48 @@
         "label": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,0"
       },
       {
+        "id": "openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-si",
+        "label": "OpenAI says it will no longer train its AI models on the live internet, citing “"
+      },
+      {
+        "id": "securing-our-frontier-model-training-environment",
+        "label": "Securing our frontier model training environment"
+      },
+      {
+        "id": "hacker-reverses-samsung-tv-finds-on-board-ai-listening-openai-account-suspended",
+        "label": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended"
+      },
+      {
         "id": "dessa-the-most-authentic-full-duplex-speech-model-ever-built",
         "label": "Dessa: the most authentic full-duplex speech model ever built"
       },
       {
+        "id": "a-practical-guide-to-ai-image-generation-from-diffusion-to-agents",
+        "label": "A practical guide to AI image generation, from diffusion to agents"
+      },
+      {
+        "id": "new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors",
+        "label": "New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors"
+      },
+      {
+        "id": "show-hn-corgi-a-helpful-agent-terminal-multiplexer",
+        "label": "Show HN: Corgi, a helpful {agent, terminal} multiplexer"
+      },
+      {
+        "id": "alzheimers-breakthrough-2-hrs-of-sleep-restored-without-clearing-brain-plaques",
+        "label": "Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques"
+      },
+      {
+        "id": "a-whirlwind-tour-of-systemd-nspawn-containers-2025",
+        "label": "A whirlwind tour of systemd-nspawn containers (2025)"
+      },
+      {
         "id": "we-have-traits-at-home",
         "label": "We have traits at home"
+      },
+      {
+        "id": "rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record",
+        "label": "Rise of collagen-eating microbes may help explain gaps in the fossil record"
       },
       {
         "id": "show-hn-we-had-ai-write-a-wiki-from-45k-enron-emails-every-fact-cited",
@@ -93,6 +133,6 @@
       }
     ],
     "date_bj": "2026-10-24 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-24 06:02:10"
+    "generated_at_bj": "2026-10-24 18:02:16"
   }
 }

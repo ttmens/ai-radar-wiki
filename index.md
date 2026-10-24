@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-24 | Total pages: 5392
+> Last updated: 2026-10-24 | Total pages: 5402
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -74,6 +74,7 @@
 - [[a-warning-about-model-welfare.md]] A warning about 'model welfare' `pillar:capabilities` `score:0.325`
 - [[a-way-to-exclude-sensitive-files-issue-still-open-for-openai-codex.md]] A way to exclude sensitive files issue still open for OpenAI Codex `pillar:capabilities` `score:0.48`
 - [[a-week-of-using-codex-more-than-claude.md]] A week of using Codex more than Claude `pillar:capabilities` `score:0.375`
+- [[a-whirlwind-tour-of-systemd-nspawn-containers-2025.md]] A whirlwind tour of systemd-nspawn containers (2025) `pillar:capabilities` `score:0.155`
 - [[abandoned-and-little-known-airfields.md]] Abandoned and Little-Known Airfields `pillar:capabilities` `score:0.255`
 - [[abliterationai-is-making-a-business-out-of-removing-ai-guardrails.md]] Abliteration.ai is making a business out of removing AI guardrails `pillar:capabilities` `score:0.305`
 - [[academic-research-skills-for-claude-code.md]] Academic Research Skills for Claude Code `pillar:capabilities` `score:0.395`
@@ -155,6 +156,7 @@
 - [[ai-tools-and-transformation.md]] AI, Tools and Transformation `pillar:capabilities` `score:0.255`
 - [[ai-tools-are-only-as-good-as-your-judgment.md]] AI tools are only as good as your judgment `pillar:capabilities` `score:0.43`
 - [[ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year.md]] AI will be used to estimate age of asylum seekers from next year `pillar:capabilities` `score:0.345`
+- [[air-purifiers-as-white-noise-machines.md]] Air Purifiers as White Noise Machines `pillar:capabilities` `score:0.325`
 - [[airbnb-adds-ai-search-more-social-features.md]] Airbnb adds AI search, more social features `pillar:capabilities` `score:0.305`
 - [[airbnb-bans-making-guests-do-dishes-and-take-out-the-trash.md]] Airbnb bans making guests do dishes and take out the trash `pillar:capabilities` `score:0.375`
 - [[airllm-70b-inference-with-single-4gb-gpu.md]] AirLLM 70B inference with single 4GB GPU `pillar:capabilities` `score:0.53`
@@ -177,6 +179,7 @@
 - [[alphacepvosk-api.md]] alphacep/vosk-api `pillar:capabilities` `score:0.58`
 - [[already-rich-already-successful-why-the-last-wave-of-tech-winners-is-grinding-ag.md]] Already rich, already successful, why the last wave of tech winners is grinding `pillar:capabilities` `score:0.48`
 - [[altair-basic-interpreter-source-code-1975-pdf.md]] Altair Basic Interpreter Source Code (1975) [pdf] `pillar:capabilities` `score:0.155`
+- [[alzheimers-breakthrough-2-hrs-of-sleep-restored-without-clearing-brain-plaques.md]] Alzheimer's breakthrough: 2 hrs of sleep restored without clearing brain plaques `pillar:capabilities` `score:0.155`
 - [[amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop.md]] Amazon Alexa can now alert you when something new might tempt you to shop `pillar:capabilities` `score:0.305`
 - [[amazon-devices-chief-panos-panay-sees-a-future-where-ai-devices-replace-the-need.md]] Amazon devices chief Panos Panay sees a future where AI devices replace the need `pillar:capabilities` `score:0.305`
 - [[amazon-is-taking-its-biggest-shot-at-nvidia-yet-with-new-torchneuron-dev-tool.md]] Amazon is taking its biggest shot at Nvidia yet with new TorchNeuron dev tool `pillar:capabilities` `score:0.305`
@@ -820,6 +823,7 @@
 - [[gudea-leverages-ai-to-help-organizations-prevent-social-media-crises-before-they.md]] Gudea leverages AI to help organizations prevent social media crises before they `pillar:capabilities` `score:0.305`
 - [[guess-which-of-these-llm-outputs-is-watermarked.md]] Guess which of these LLM outputs is watermarked `pillar:capabilities` `score:0.305`
 - [[hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data.md]] Hack suggests AI music generator Suno scraped YouTube for training data `pillar:capabilities` `score:0.48`
+- [[hacker-reverses-samsung-tv-finds-on-board-ai-listening-openai-account-suspended.md]] Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended `pillar:capabilities` `score:0.305`
 - [[hackerrank8217s-ai-interviewer-offers-a-glimpse-into-what-job-interviews-could-b.md]] HackerRank&#8217;s AI interviewer offers a glimpse into what job interviews coul `pillar:capabilities` `score:0.305`
 - [[hackers-are-stealing-claude-tokens-from-subscribers.md]] Hackers are stealing Claude tokens from subscribers `pillar:capabilities` `score:0.305`
 - [[hackers-obtain-counterfeit-tls-certificates-for-google-and-other-large-services.md]] Hackers obtain counterfeit TLS certificates for Google and other large services `pillar:capabilities` `score:0.255`
@@ -1268,6 +1272,7 @@
 - [[neural-networks-are-clean.md]] Neural networks are clean `pillar:capabilities` `score:0.505`
 - [[neural-render-proxies-for-interactive-and-differentiable-lighting.md]] Neural Render Proxies for Interactive and Differentiable Lighting `pillar:capabilities` `score:0.295`
 - [[neutron-scattering-explains-why-gluten-free-pasta-falls-apart-2025.md]] Neutron scattering explains why gluten-free pasta falls apart (2025) `pillar:capabilities` `score:0.22`
+- [[new-ai-is-more-than-twice-as-good-at-diagnosing-diseases-as-doctors.md]] New AI Is More Than Twice as Good at Diagnosing Diseases as Doctors `pillar:capabilities` `score:0.205`
 - [[new-ai-tutor-achieves-071-130-sd-effect-size-in-dartmouth-course-pdf.md]] New AI tutor achieves 0.71-1.30 SD effect size in Dartmouth course [pdf] `pillar:capabilities` `score:0.48`
 - [[new-eu-wide-product-repair-rules-come-into-force.md]] New EU-wide product repair rules come into force `pillar:capabilities` `score:0.355`
 - [[new-google-commercial-imagines-a-declaration-of-independence-written-with-help-f.md]] New Google commercial imagines a Declaration of Independence written with help f `pillar:capabilities` `score:0.445`
@@ -1380,6 +1385,7 @@
 - [[openai-restores-5-hour-codex-and-work-limits-for-chatgpt-plus-users.md]] OpenAI restores 5-hour Codex and Work limits for ChatGPT Plus users `pillar:capabilities` `score:0.305`
 - [[openai-safety-employee-resigns-claiming-the-companys-culture-is-broken.md]] OpenAI safety employee resigns, claiming the company’s ‘culture is broken’ `pillar:capabilities` `score:0.305`
 - [[openai-says-california-should-strengthen-its-ai-safety-bill.md]] OpenAI says California should strengthen its AI safety bill `pillar:capabilities` `score:0.305`
+- [[openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-si.md]] OpenAI says it will no longer train its AI models on the live internet, citing “ `pillar:capabilities` `score:0.305`
 - [[openai-still-doesn8217t-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity.md]] OpenAI still doesn&#8217;t seem to have a handle on all of its rogue AI activity `pillar:capabilities` `score:0.305`
 - [[openai-still-doesnt-seem-to-have-a-handle-on-all-of-its-rogue-ai-activity.md]] OpenAI still doesn't seem to have a handle on all of its rogue AI activity `pillar:capabilities` `score:0.305`
 - [[openai-takes-on-microsoft-with-the-launch-of-what-feels-a-whole-lot-like-chatgpt.md]] OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT `pillar:capabilities` `score:0.305`
@@ -1547,6 +1553,7 @@
 - [[rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls.md]] Rime picks up $24M Series A to help enterprises field customer calls `pillar:capabilities` `score:0.48`
 - [[rio-de-janeiros-city-government-model-rio35-beats-qwen37-in-recent-benchmarks.md]] Rio de Janeiro's city government model Rio3.5 beats Qwen3.7 in recent benchmarks `pillar:capabilities` `score:0.345`
 - [[rio-de-janeiros-homegrown-llm-appears-to-be-a-merge-of-an-existing-model.md]] Rio de Janeiro's "homegrown" LLM appears to be a merge of an existing model `pillar:capabilities` `score:0.565`
+- [[rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record.md]] Rise of collagen-eating microbes may help explain gaps in the fossil record `pillar:capabilities` `score:0.155`
 - [[robinhoods-abhishek-fatehpuria-on-winning-the-modern-financial-consumer-at-techc.md]] Robinhood’s Abhishek Fatehpuria on winning the modern financial consumer at Tech `pillar:capabilities` `score:0.305`
 - [[roblox-launches-an-ai-powered-game-creation-feature-in-its-mobile-app.md]] Roblox launches an AI-powered game-creation feature in its mobile app `pillar:capabilities` `score:0.48`
 - [[robot-brain-builders-are-pushing-out-of-their-gpt-2-era.md]] Robot brain builders are pushing out of their GPT-2 era `pillar:capabilities` `score:0.305`
@@ -1592,6 +1599,7 @@
 - [[sean-carroll-explains-the-biggest-ideas-in-the-universe-full-interview-video-202.md]] Sean Carroll explains the biggest ideas in the universe – Full Interview [video] `pillar:capabilities` `score:0.255`
 - [[sean-parker-is-rebuilding-stability-ai-around-music.md]] Sean Parker is rebuilding Stability AI around music `pillar:capabilities` `score:0.305`
 - [[seattle-times-and-newsday-are-the-latest-publications-to-sue-openai-and-microsof.md]] Seattle Times and Newsday are the latest publications to sue OpenAI and Microsof `pillar:capabilities` `score:0.305`
+- [[securing-our-frontier-model-training-environment.md]] Securing our frontier model training environment `pillar:capabilities` `score:0.305`
 - [[securing-services-with-rootless-containers.md]] Securing Services with Rootless Containers `pillar:capabilities` `score:0.395`
 - [[security-auditing-in-the-age-of-good-enough-ai.md]] Security auditing in the age of (good enough) AI `pillar:capabilities` `score:0.205`
 - [[self-a-new-top-level-domain-designed-to-support-self-hosting.md]] .self: A new top-level domain designed to support self-hosting `pillar:capabilities` `score:0.46`
@@ -3327,6 +3335,7 @@
 - [[a-001-bank-transfer-could-compromise-a-banking-ai-agent.md]] A €0.01 bank transfer could compromise a banking AI agent `pillar:patterns` `score:0.465`
 - [[a-claude-code-and-codex-skill-for-deliberate-skill-development.md]] A Claude Code and Codex Skill for Deliberate Skill Development `pillar:patterns` `score:0.33`
 - [[a-new-write-and-space-optimized-storage-engine-for-mysql-is-here.md]] A new write and space optimized storage engine for MySQL is here `pillar:patterns` `score:0.155`
+- [[a-practical-guide-to-ai-image-generation-from-diffusion-to-agents.md]] A practical guide to AI image generation, from diffusion to agents `pillar:patterns` `score:0.255`
 - [[a-privacy-analysis-of-web-and-mobile-conversational-ai-agents-pdf.md]] A Privacy Analysis of Web and Mobile Conversational AI Agents [pdf] `pillar:patterns` `score:0.425`
 - [[a-study-of-microsofts-early-2026-rollout-of-claude-code-and-github-copilot-cli.md]] A Study of Microsoft's Early 2026 Rollout of Claude Code and GitHub Copilot CLI `pillar:patterns` `score:0.38`
 - [[accel-backed-keenable-is-indexing-the-web-for-ai-agents.md]] Accel-backed Keenable is indexing the web for AI agents `pillar:patterns` `score:0.305`
@@ -3864,6 +3873,7 @@
 - [[show-hn-coding-agent-that-compiles-intent-into-deterministic-dag-before-running.md]] Show HN: Coding agent that compiles intent into deterministic DAG before running `pillar:patterns` `score:0.33`
 - [[show-hn-connecting-my-dumb-garage-and-cars-homelink-buttons-to-home-assistant.md]] Show HN: Connecting my dumb garage and car's homelink buttons to Home Assistant `pillar:patterns` `score:0.26`
 - [[show-hn-continue-yn-a-60-second-game-about-ai-agent-permission-fatigue.md]] Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue `pillar:patterns` `score:0.295`
+- [[show-hn-corgi-a-helpful-agent-terminal-multiplexer.md]] Show HN: Corgi, a helpful {agent, terminal} multiplexer `pillar:patterns` `score:0.205`
 - [[show-hn-corral-kill-every-command-your-agent-starts.md]] Show HN: Corral – Kill every command your agent starts `pillar:patterns` `score:0.155`
 - [[show-hn-costdev-yc-w21-making-agents-cost-aware-and-cheaper-to-call.md]] Show HN: Cost.dev (YC W21) – making agents cost-aware and cheaper to call `pillar:patterns` `score:0.33`
 - [[show-hn-craigslist-for-agent-skills-curated-by-a-human.md]] Show HN: Craigslist for agent skills, curated by a human `pillar:patterns` `score:0.155`

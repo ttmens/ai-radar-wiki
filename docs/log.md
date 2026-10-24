@@ -5678,3 +5678,8 @@
 - create: can-we-replace-a-150k-looker-with-a-bucket-of-html-files.md
 - create: we-have-traits-at-home.md
 - create: hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000.md
+
+## [2026-10-24 18:02] sync v3 | 8 new | pillars: {'patterns': 2, 'capabilities': 6}
+- create: a-practical-guide-to-ai-image-generation-from-diffusion-to-agents.md
+- create: hacker-reverses-samsung-tv-finds-on-board-ai-listening-openai-account-suspended.md
+- create: rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record.md
