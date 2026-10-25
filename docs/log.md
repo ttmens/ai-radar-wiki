@@ -5683,3 +5683,15 @@
 - create: a-practical-guide-to-ai-image-generation-from-diffusion-to-agents.md
 - create: hacker-reverses-samsung-tv-finds-on-board-ai-listening-openai-account-suspended.md
 - create: rise-of-collagen-eating-microbes-may-help-explain-gaps-in-the-fossil-record.md
+
+## [2026-10-25 06:02] sync v3 | 6 new | pillars: {'capabilities': 5, 'patterns': 1}
+- create: no-signs-of-ai-payoff-outside-the-tech-sector.md
+- create: neural-chip-decodes-interactions-between-brain-regions.md
+- create: why-is-ai-generated-language-so-hard-to-understand.md
+- create: glymphatic-clearance-to-alleviate-brain-edema-and-alzheimers-pathology-in-mice.md
+
+## [2026-10-25 12:02] sync v3 | 4 new | pillars: {'capabilities': 4}
+- create: labmlaiannotated_deep_learning_paper_implementations.md
+- create: cerebras-deploys-trillion-parameter-ai-models.md
+- create: america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai.md
+- create: oai-math-revised-a-community-hub-for-revising-openais-math-write-ups.md

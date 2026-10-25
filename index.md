@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-24 | Total pages: 5402
+> Last updated: 2026-10-25 | Total pages: 5413
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -191,6 +191,7 @@
 - [[amd-ryzen-ai-halo-4k-ai-dev-kit.md]] AMD Ryzen AI Halo – $4k AI Dev Kit `pillar:capabilities` `score:0.345`
 - [[amd-takes-on-nvidia-with-its-helios-ai-rack-scale-system.md]] AMD takes on Nvidia with its Helios AI rack-scale system `pillar:capabilities` `score:0.48`
 - [[amds-instinct-mi455x-aiming-for-the-sun.md]] AMD's Instinct MI455X: Aiming for the Sun `pillar:capabilities` `score:0.465`
+- [[america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai.md]] America has lost 200k of jobs in media, film and the arts. How much is AI? `pillar:capabilities` `score:0.455`
 - [[americagov-gets-really-weird-when-you-ask-it-about-minecraft-but-it8217s-not-a-g.md]] America.gov gets really weird when you ask it about Minecraft, but it&#8217;s no `pillar:capabilities` `score:0.305`
 - [[american-ai-is-locked-down-and-proprietary-its-losing.md]] American AI is locked down and proprietary. It's losing `pillar:capabilities` `score:0.48`
 - [[american-airlines-legendary-mechanic-passes-away-at-100-after-80-year-career.md]] American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career `pillar:capabilities` `score:0.155`
@@ -393,6 +394,7 @@
 - [[cartesian-ai-3d-modeling-for-design.md]] Cartesian – AI 3D Modeling for Design `pillar:capabilities` `score:0.305`
 - [[ccc-invites-all-model-citizens-to-40c3.md]] CCC invites all model citizens to 40C3 `pillar:capabilities` `score:0.425`
 - [[cerebras-ceo-pushes-back-on-ai-doomsday-warnings.md]] Cerebras CEO pushes back on AI doomsday warnings `pillar:capabilities` `score:0.305`
+- [[cerebras-deploys-trillion-parameter-ai-models.md]] Cerebras Deploys Trillion-Parameter AI Models `pillar:capabilities` `score:0.155`
 - [[chain-of-thought-for-humans.md]] Chain of Thought for Humans `pillar:capabilities` `score:0.255`
 - [[characterai-enters-the-microdrama-arena-with-its-own-productions-but-there8217s.md]] Character.AI enters the microdrama arena with its own productions, but there&#82 `pillar:capabilities` `score:0.48`
 - [[characterai-has-initiated-voluntary-chapter-11-bankruptcy.md]] Character.ai has initiated voluntary Chapter 11 bankruptcy `pillar:capabilities` `score:0.455`
@@ -671,6 +673,7 @@
 - [[floppy-emu-hardware-failure-analysis-results.md]] Floppy Emu Hardware Failure Analysis Results `pillar:capabilities` `score:0.205`
 - [[flux-3-x-mimic-the-next-generation-of-video-action-models.md]] Flux 3 X Mimic: The Next Generation of Video-Action Models `pillar:capabilities` `score:0.565`
 - [[food-processing-influences-metabolism-and-brain-activity.md]] Food processing influences metabolism and brain activity `pillar:capabilities` `score:0.155`
+- [[forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats.md]] Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats. `pillar:capabilities` `score:0.305`
 - [[ford-rehires-350-engineers-after-ai-fails-to-preserve-expertise-or-train-juniors.md]] Ford rehires 350 engineers after AI fails to preserve expertise or train juniors `pillar:capabilities` `score:0.55`
 - [[ford-rehires-gray-beard-engineers-after-ai-falls-short.md]] Ford rehires ‘gray beard’ engineers after AI falls short `pillar:capabilities` `score:0.48`
 - [[forever-young-how-one-molecule-can-lock-plants-in-a-youthful-state-2025.md]] Forever Young: how one molecule can lock plants in a youthful state (2025) `pillar:capabilities` `score:0.27`
@@ -735,6 +738,7 @@
 - [[glm-52-is-the-new-leading-open-weights-model-on-artificial-analysis.md]] GLM-5.2 is the new leading open weights model on Artificial Analysis `pillar:capabilities` `score:0.68`
 - [[glm-52-performance-benchmarks.md]] GLM 5.2 Performance Benchmarks `pillar:capabilities` `score:0.43`
 - [[glp-1-may-slow-biological-aging.md]] GLP-1 may slow biological aging `pillar:capabilities` `score:0.375`
+- [[glymphatic-clearance-to-alleviate-brain-edema-and-alzheimers-pathology-in-mice.md]] Glymphatic clearance to alleviate brain edema and Alzheimer's pathology in mice `pillar:capabilities` `score:0.155`
 - [[gmail-thinks-im-stupid-so-i-left.md]] Gmail thinks I'm stupid, so I left `pillar:capabilities` `score:0.63`
 - [[gmails-custom-domain-send-as-discontinues-january-2027.md]] GMails custom domain "send as" discontinues January 2027 `pillar:capabilities` `score:0.305`
 - [[go-experiments-explained.md]] Go Experiments Explained `pillar:capabilities` `score:0.26`
@@ -1059,6 +1063,7 @@
 - [[krea-3-an-image-model-built-for-editing-at-scale.md]] Krea 3 – An image model built for editing at scale `pillar:capabilities` `score:0.405`
 - [[kv4p-ht-a-homebrew-1w-radio-vhf-or-uhf-that-plugs-into-an-android-phone.md]] Kv4p HT – A homebrew 1W radio (VHF or UHF) that plugs into an Android phone `pillar:capabilities` `score:0.255`
 - [[kvarn-native-vllm-backend-for-kv-cache-quantization-by-huawei.md]] KVarN: Native vLLM backend for KV-cache quantization by Huawei `pillar:capabilities` `score:0.43`
+- [[labmlaiannotated_deep_learning_paper_implementations.md]] labmlai/annotated_deep_learning_paper_implementations `pillar:capabilities` `score:0.405`
 - [[laffaire-siloxane.md]] L'Affaire Siloxane `pillar:capabilities` `score:0.345`
 - [[language-courses-in-the-public-domain.md]] Language Courses in the Public Domain `pillar:capabilities` `score:0.26`
 - [[language-models-for-text-classification-from-bag-of-words-to-jev.md]] Language models for text classification: From bag-of-words to Jev `pillar:capabilities` `score:0.205`
@@ -1269,6 +1274,7 @@
 - [[needle-the-benchmark-your-search-engine-cant-memorize.md]] Needle: The benchmark your search engine can't memorize `pillar:capabilities` `score:0.155`
 - [[neocloud-lambda-secures-1b-in-debt-to-buy-more-chips.md]] Neocloud Lambda secures $1B in debt to buy more chips `pillar:capabilities` `score:0.305`
 - [[netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster.md]] Netris raises $15M Series A from a16z to help AI neoclouds go live faster `pillar:capabilities` `score:0.445`
+- [[neural-chip-decodes-interactions-between-brain-regions.md]] Neural chip decodes interactions between brain regions `pillar:capabilities` `score:0.255`
 - [[neural-networks-are-clean.md]] Neural networks are clean `pillar:capabilities` `score:0.505`
 - [[neural-render-proxies-for-interactive-and-differentiable-lighting.md]] Neural Render Proxies for Interactive and Differentiable Lighting `pillar:capabilities` `score:0.295`
 - [[neutron-scattering-explains-why-gluten-free-pasta-falls-apart-2025.md]] Neutron scattering explains why gluten-free pasta falls apart (2025) `pillar:capabilities` `score:0.22`
@@ -1287,6 +1293,7 @@
 - [[nndlnndl.md]] nndl/nndl `pillar:capabilities` `score:0.51`
 - [[no-ai-fridays.md]] No AI Fridays `pillar:capabilities` `score:0.355`
 - [[no-more-jetbrains-products-for-me.md]] No More JetBrains Products for Me `pillar:capabilities` `score:0.465`
+- [[no-signs-of-ai-payoff-outside-the-tech-sector.md]] No Signs of AI Payoff Outside the Tech Sector `pillar:capabilities` `score:0.455`
 - [[noam-shazeer-joins-openai.md]] Noam Shazeer Joins OpenAI `pillar:capabilities` `score:0.565`
 - [[nobel-laureate-olga-tokarczuk-apparently-used-ai-to-write-her-latest-novel.md]] Nobel laureate Olga Tokarczuk apparently used AI to write her latest novel `pillar:capabilities` `score:0.38`
 - [[nobel-prize-in-chemistry-2026-to-henri-b-kagan-and-kenso-soai.md]] Nobel Prize in Chemistry 2026 to Henri B. Kagan and Kenso Soai `pillar:capabilities` `score:0.405`
@@ -1314,6 +1321,7 @@
 - [[nvidia-partners-with-data-center-developer-cloverleaf.md]] Nvidia partners with data center developer Cloverleaf `pillar:capabilities` `score:0.305`
 - [[nvidia-starts-pac-as-ai-chip-maker-builds-dc-influence-force.md]] Nvidia Starts Pac as AI Chip Maker Builds DC Influence Force `pillar:capabilities` `score:0.155`
 - [[nvidias-ai-advantage-is-moving-beyond-the-gpu.md]] Nvidia’s AI advantage is moving beyond the GPU `pillar:capabilities` `score:0.305`
+- [[oai-math-revised-a-community-hub-for-revising-openais-math-write-ups.md]] Oai-math-revised: a community hub for revising OpenAI's math write-ups `pillar:capabilities` `score:0.205`
 - [[obama-urges-democrats-to-have-a-clear-plan-for-ai-safeguards.md]] Obama urges Democrats to have a ‘clear plan’ for AI safeguards `pillar:capabilities` `score:0.305`
 - [[ocr-it-pull-text-out-of-un-copyable-documents-for-your-llm.md]] OCR It – pull text out of un-copyable documents for your LLM `pillar:capabilities` `score:0.205`
 - [[octane-reacts-programming-model-compiled.md]] Octane – React’s programming model, compiled `pillar:capabilities` `score:0.305`
@@ -2243,6 +2251,7 @@
 - [[why-google8217s-ai-can8217t-spell-google-or-anything-else.md]] Why Google&#8217;s AI can&#8217;t spell Google (or anything else) `pillar:capabilities` `score:0.445`
 - [[why-i-email-complete-strangers.md]] Why I email complete strangers `pillar:capabilities` `score:0.36`
 - [[why-im-still-bearish-on-llms-after-navier-stokes.md]] Why I'm still bearish on LLMs after Navier-Stokes `pillar:capabilities` `score:0.305`
+- [[why-is-ai-generated-language-so-hard-to-understand.md]] Why is AI generated language so hard to understand? `pillar:capabilities` `score:0.375`
 - [[why-is-anthropics-public-writing-style-so-unlike-claudes.md]] Why is Anthropic's public writing style so unlike Claude's? `pillar:capabilities` `score:0.205`
 - [[why-is-the-liver-so-weirdly-regenerative.md]] Why is the liver so weirdly regenerative? `pillar:capabilities` `score:0.425`
 - [[why-plain-text-is-still-one-of-the-best-technologies-we-have.md]] Why Plain Text Is Still One of the Best Technologies We Have `pillar:capabilities` `score:0.155`
@@ -3438,6 +3447,7 @@
 - [[best-brain-for-agents-is-just-versioned-folders-of-markdown-files.md]] Best "Brain" for Agents Is Just Versioned Folders of Markdown Files `pillar:patterns` `score:0.365`
 - [[better-models-worse-tools.md]] Better Models: Worse Tools `pillar:patterns` `score:0.48`
 - [[bladerhumanizer.md]] blader/humanizer `pillar:patterns` `score:0.405`
+- [[block8217s-new-voice-model-sounds-eerily-human.md]] Block&#8217;s new voice model sounds eerily human `pillar:patterns` `score:0.305`
 - [[blueskys-ai-assistant-attie-expands-into-an-open-social-research-tool.md]] Bluesky’s AI assistant Attie expands into an open social research tool `pillar:patterns` `score:0.48`
 - [[bojieliai-agent-book.md]] bojieli/ai-agent-book `pillar:patterns` `score:0.405`
 - [[bookshelf-self-hosted-ebook-library-that-runs-on-object-storage.md]] Bookshelf – Self-hosted eBook library that runs on object storage `pillar:patterns` `score:0.205`
@@ -4247,6 +4257,7 @@
 - [[agentty-a-drop-in-alternative-to-claude-code-written-in-c26-110-mb-binary.md]] Agentty – A drop-in alternative to claude-code, written in C++26. 11.0 MB binary `pillar:ecosystem` `score:0.26`
 - [[agility-robotics-plants-its-flag-in-tesla8217s-backyard.md]] Agility Robotics plants its flag in Tesla&#8217;s backyard `pillar:ecosystem` `score:0.48`
 - [[ai-and-the-rise-of-the-universal-entertainment-app.md]] AI and the rise of the universal entertainment app `pillar:ecosystem` `score:0.515`
+- [[ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist.md]] AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist `pillar:ecosystem` `score:0.255`
 - [[ai-cant-be-listed-as-inventor-on-patent-applications-japans-top-court-rules.md]] AI can't be listed as inventor on patent applications, Japan's top court rules `pillar:ecosystem` `score:0.53`
 - [[ai-collectionai-collection.md]] ai-collection/ai-collection `pillar:ecosystem` `score:0.53`
 - [[ai-communism-rogue-models-and-the-why-kimi-k3-spooked-wall-street.md]] ‘AI communism’, rogue models, and the why Kimi K3 spooked Wall Street `pillar:ecosystem` `score:0.445`

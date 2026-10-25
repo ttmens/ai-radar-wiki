@@ -1,132 +1,77 @@
 {
-  "date": "2026-10-24",
-  "generated_at": "2026-10-24T18:02:50.609889+08:00",
-  "item_count": 11,
+  "date": "2026-10-25",
+  "generated_at": "2026-10-25T12:02:52.774104+08:00",
+  "item_count": 6,
   "items": [
     {
-      "id": "ebony-vinyldsh-our-free-model",
-      "label": "Ebony-Vinyl/dsh-our-free-model",
-      "summary": "在 dsh 里装上这个插件即可，无需登录、注册或填 API Key，就能使用包括 DeepSeek V4.1 Flash、Kimi K3 在内的前沿模型——完全免费，不限量。 All you do is install this plugin in dsh: no login, no sign-up, no API key — the frontier models are just there, DeepSeek V4.1 Flash and Kimi K3 among them. Completely free, with no usage cap.",
-      "pm_score": 0.505,
-      "pillar": "ecosystem",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/Ebony-Vinyl/dsh-our-free-model",
-      "date": "2026-10-24"
-    },
-    {
-      "id": "disney-raising-prices-days-after-confirming-ads-will-now-show-up-on-every-tier",
-      "label": "Disney Raising Prices Days After Confirming Ads Will Now Show Up on Every Tier",
+      "id": "america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai",
+      "label": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
       "summary": "暂无中文摘要",
       "pm_score": 0.455,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50205934",
-      "date": "2026-10-24"
+      "url": "https://news.ycombinator.com/item?id=50226419",
+      "date": "2026-10-25"
     },
     {
-      "id": "datawhalechinaleedl-tutorial",
-      "label": "datawhalechina/leedl-tutorial",
-      "summary": "《李宏毅深度学习教程》（李宏毅老师推荐👍，苹果书🍎），PDF下载地址：https://github.com/datawhalechina/leedl-tutorial/releases",
+      "id": "no-signs-of-ai-payoff-outside-the-tech-sector",
+      "label": "No Signs of AI Payoff Outside the Tech Sector",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50224463",
+      "date": "2026-10-25"
+    },
+    {
+      "id": "labmlaiannotated_deep_learning_paper_implementations",
+      "label": "labmlai/annotated_deep_learning_paper_implementations",
+      "summary": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
       "pm_score": 0.405,
       "pillar": "capabilities",
       "type": "github",
       "source_type": "github",
-      "url": "https://github.com/datawhalechina/leedl-tutorial",
-      "date": "2026-10-24"
+      "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
+      "date": "2026-10-25"
     },
     {
-      "id": "now-google-says-it-might-use-your-gmail-and-google-photos-data-to-target-ads",
-      "label": "Now Google says it might use your Gmail and Google Photos data to target ads",
+      "id": "why-is-ai-generated-language-so-hard-to-understand",
+      "label": "Why is AI generated language so hard to understand?",
       "summary": "暂无中文摘要",
-      "pm_score": 0.355,
+      "pm_score": 0.375,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50214218",
-      "date": "2026-10-24"
+      "url": "https://news.ycombinator.com/item?id=50223647",
+      "date": "2026-10-25"
     },
     {
-      "id": "air-purifiers-as-white-noise-machines",
-      "label": "Air Purifiers as White Noise Machines",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.325,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50212507",
-      "date": "2026-10-24"
-    },
-    {
-      "id": "can-we-replace-a-150k-looker-with-a-bucket-of-html-files",
-      "label": "Can we replace a $150k Looker with a bucket of HTML files?",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50212320",
-      "date": "2026-10-24"
-    },
-    {
-      "id": "hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000",
-      "label": "Hottest toy for Christmas? Nvidia CEO plays with adorable Microduck robots, 20,0",
-      "summary": "The robots, stomping their little feet and making tiny R2D2 noises, sat, fell down dead for a \"nap,\" and summersaulted on voice command.",
+      "id": "block8217s-new-voice-model-sounds-eerily-human",
+      "label": "Block&#8217;s new voice model sounds eerily human",
+      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
       "pm_score": 0.305,
       "pillar": "patterns",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/23/hottest-toy-for-christmas-nvidia-ceo-plays-with-adorable-microduck-robots-20000-sell/",
-      "date": "2026-10-24"
+      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
+      "date": "2026-10-25"
     },
     {
-      "id": "openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-si",
-      "label": "OpenAI says it will no longer train its AI models on the live internet, citing “",
-      "summary": "OpenAI will cut frontier models off from the internet weeks after one of its engineers said that solution wouldn't work.",
+      "id": "forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
+      "label": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
+      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "date": "2026-10-24"
-    },
-    {
-      "id": "securing-our-frontier-model-training-environment",
-      "label": "Securing our frontier model training environment",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50214416",
-      "date": "2026-10-24"
-    },
-    {
-      "id": "hacker-reverses-samsung-tv-finds-on-board-ai-listening-openai-account-suspended",
-      "label": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50218633",
-      "date": "2026-10-24"
-    },
-    {
-      "id": "dessa-the-most-authentic-full-duplex-speech-model-ever-built",
-      "label": "Dessa: the most authentic full-duplex speech model ever built",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50213925",
-      "date": "2026-10-24"
+      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
+      "date": "2026-10-25"
     }
   ],
   "graph_totals": {
-    "real_nodes": 9817,
-    "edges": 10813
+    "real_nodes": 9828,
+    "edges": 10824
   }
 }
