@@ -1,7 +1,7 @@
 {
   "date": "2026-10-25",
-  "generated_at": "2026-10-25T12:02:52.774104+08:00",
-  "item_count": 6,
+  "generated_at": "2026-10-25T18:02:55.221646+08:00",
+  "item_count": 7,
   "items": [
     {
       "id": "america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai",
@@ -48,6 +48,17 @@
       "date": "2026-10-25"
     },
     {
+      "id": "five-qwen38-27b-models-match-fable-5-using-gvs5h-harness",
+      "label": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50228167",
+      "date": "2026-10-25"
+    },
+    {
       "id": "block8217s-new-voice-model-sounds-eerily-human",
       "label": "Block&#8217;s new voice model sounds eerily human",
       "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
@@ -71,7 +82,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9828,
-    "edges": 10824
+    "real_nodes": 9829,
+    "edges": 10825
   }
 }

@@ -5695,3 +5695,6 @@
 - create: cerebras-deploys-trillion-parameter-ai-models.md
 - create: america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai.md
 - create: oai-math-revised-a-community-hub-for-revising-openais-math-write-ups.md
+
+## [2026-10-25 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
+- create: five-qwen38-27b-models-match-fable-5-using-gvs5h-harness.md

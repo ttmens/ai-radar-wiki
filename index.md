@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-25 | Total pages: 5413
+> Last updated: 2026-10-25 | Total pages: 5414
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -662,6 +662,7 @@
 - [[fish-audio-raises-52m-seed-to-build-ai-voice-models-for-creators-and-enterprises.md]] Fish Audio raises $52M seed to build AI voice models for creators and enterprise `pillar:capabilities` `score:0.445`
 - [[five-ai-safety-sessions-every-founder-should-have-on-their-techcrunch-disrupt-20.md]] Five AI safety sessions every founder should have on their TechCrunch Disrupt 20 `pillar:capabilities` `score:0.305`
 - [[five-frontier-llms-disagree-on-67-of-1k-real-world-fact-check-claims.md]] Five frontier LLMs disagree on 67% of 1k real-world fact-check claims `pillar:capabilities` `score:0.63`
+- [[five-qwen38-27b-models-match-fable-5-using-gvs5h-harness.md]] Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness `pillar:capabilities` `score:0.355`
 - [[fixed-three-bugs-that-made-qwen35-122b-a-daily-driver-on-mac-studio.md]] Fixed three bugs that made Qwen3.5-122B a daily driver on Mac Studio `pillar:capabilities` `score:0.43`
 - [[flash-msa-accelerating-million-token-training-with-sparse-attention-kernels.md]] Flash-MSA: Accelerating Million-Token Training with Sparse Attention Kernels `pillar:capabilities` `score:0.33`
 - [[flint-a-visualization-language-for-the-ai-era.md]] Flint: A Visualization Language for the AI Era `pillar:capabilities` `score:0.305`

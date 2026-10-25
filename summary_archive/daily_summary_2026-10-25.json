@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-10-25",
     "headline": "今日 AI 情报 · 2026-10-25",
-    "overview": "今日共采集 11 条情报",
+    "overview": "今日共采集 12 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -51,9 +51,9 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 9 | 📱 产品模式: 1 | 🔧 工具生态: 1",
-    "total_items": 11,
-    "high_value_count": 6,
+    "stats": "🤖 技术能力: 10 | 📱 产品模式: 1 | 🔧 工具生态: 1",
+    "total_items": 12,
+    "high_value_count": 7,
     "all_today_ids": [
       {
         "id": "america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai",
@@ -70,6 +70,10 @@
       {
         "id": "why-is-ai-generated-language-so-hard-to-understand",
         "label": "Why is AI generated language so hard to understand?"
+      },
+      {
+        "id": "five-qwen38-27b-models-match-fable-5-using-gvs5h-harness",
+        "label": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness"
       },
       {
         "id": "block8217s-new-voice-model-sounds-eerily-human",
@@ -101,6 +105,6 @@
       }
     ],
     "date_bj": "2026-10-25 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-25 12:02:20"
+    "generated_at_bj": "2026-10-25 18:02:24"
   }
 }
