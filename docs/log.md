@@ -5698,3 +5698,30 @@
 
 ## [2026-10-25 18:02] sync v3 | 1 new | pillars: {'capabilities': 1}
 - create: five-qwen38-27b-models-match-fable-5-using-gvs5h-harness.md
+
+## [2026-10-26 16:05] sync v3 | 25 new | pillars: {'capabilities': 19, 'ecosystem': 5, 'patterns': 1}
+- create: scenebloom-agentic-indoor-environment-generation-with-realistic-and-diverse-layo.md
+- create: robustrllib-a-unified-library-and-benchmark-for-robust-reinforcement-learning-al.md
+- create: dexport-a-hand-held-skill-interface-for-dexterous-hand-data-collection.md
+- create: flownomaly-single-step-conditional-mean-recovery-for-few-shot-anomaly-detection.md
+- create: measure-before-you-train-typed-decision-models-vs-a-classical-baseline-vs-a-gene.md
+- create: where-rounding-happens-matters-rounding-location-alignment-stabilizes-llm-reinfo.md
+- create: beyond-discrete-tokens-preserving-numerical-continuity-in-medical-vision-languag.md
+- create: monetizing-intelligence-advertising-and-subscription-design-on-llm-platforms.md
+- create: knowledge-distillation-across-item-and-code-spaces-for-parallel-generative-recom.md
+- create: if-at-first-you-dont-succeed-backtrack-lightweight-recovery-for-frozen-vlas.md
+- create: learning-positive-linear-combinations-of-relus-in-fully-polynomial-time.md
+- create: yalda-embedding-open-development-of-a-competitive-persian-retrieval-model.md
+- create: dolly-partons-imagination-library.md
+- create: ibm-ceo-says-open-weight-models-are-now-good-and-cheap-on-prem.md
+- create: microsoft-decision-1-9b-qwen-model-launch-explained.md
+- create: cognitive-mercantilism-ai-panic-resembles-fears-of-early-capitalism.md
+- create: show-hn-adrs-for-ai-deliberation-records-for-humanai-work-versioned-in-git.md
+- create: a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-diagnosis.md
+- create: making-the-buddha-head-from-merv-whole-again.md
+- create: openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within-a-few-months-why.md
+- create: ai-didnt-cause-the-tech-jobs-bust-but-it-explains-why-theres-no-recovery.md
+- create: a-mathematician-reads-the-ai-future.md
+- create: grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey.md
+- create: ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says.md
+- create: show-hn-casecite-free-rag-caselaw-research-and-document-analysis-for-lawyers.md

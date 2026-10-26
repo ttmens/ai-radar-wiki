@@ -1,88 +1,132 @@
 {
-  "date": "2026-10-25",
-  "generated_at": "2026-10-25T18:02:55.221646+08:00",
-  "item_count": 7,
+  "date": "2026-10-26",
+  "generated_at": "2026-10-26T16:05:14.549154+08:00",
+  "item_count": 11,
   "items": [
     {
-      "id": "america-has-lost-200k-of-jobs-in-media-film-and-the-arts-how-much-is-ai",
-      "label": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "id": "a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-diagnosis",
+      "label": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50233779",
+      "date": "2026-10-26"
+    },
+    {
+      "id": "dolly-partons-imagination-library",
+      "label": "Dolly Parton's Imagination Library",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50234474",
+      "date": "2026-10-26"
+    },
+    {
+      "id": "openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within-a-few-months-why",
+      "label": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
       "summary": "暂无中文摘要",
       "pm_score": 0.455,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50226419",
-      "date": "2026-10-25"
+      "url": "https://news.ycombinator.com/item?id=50236102",
+      "date": "2026-10-26"
     },
     {
-      "id": "no-signs-of-ai-payoff-outside-the-tech-sector",
-      "label": "No Signs of AI Payoff Outside the Tech Sector",
+      "id": "samsung-running-a-tensorflow-lite-model-on-960x540-image-to-track-you",
+      "label": "Samsung running a TensorFlow lite model on 960x540 image to track you",
       "summary": "暂无中文摘要",
-      "pm_score": 0.455,
+      "pm_score": 0.425,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50224463",
-      "date": "2026-10-25"
+      "url": "https://news.ycombinator.com/item?id=50230181",
+      "date": "2026-10-26"
     },
     {
-      "id": "labmlaiannotated_deep_learning_paper_implementations",
-      "label": "labmlai/annotated_deep_learning_paper_implementations",
-      "summary": "🧑‍🏫 60+ Implementations/tutorials of deep learning papers with side-by-side notes 📝; including transformers (original, xl, switch, feedback, vit, ...), optimizers (adam, adabelief, sophia, ...), gans(cyclegan, stylegan2, ...), 🎮 reinforcement learning (ppo, dqn), capsnet, distillation, ... 🧠",
-      "pm_score": 0.405,
-      "pillar": "capabilities",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/labmlai/annotated_deep_learning_paper_implementations",
-      "date": "2026-10-25"
-    },
-    {
-      "id": "why-is-ai-generated-language-so-hard-to-understand",
-      "label": "Why is AI generated language so hard to understand?",
+      "id": "ibm-ceo-says-open-weight-models-are-now-good-and-cheap-on-prem",
+      "label": "IBM CEO says open weight models are now good and cheap on-prem",
       "summary": "暂无中文摘要",
       "pm_score": 0.375,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50223647",
-      "date": "2026-10-25"
+      "url": "https://news.ycombinator.com/item?id=50238088",
+      "date": "2026-10-26"
     },
     {
-      "id": "five-qwen38-27b-models-match-fable-5-using-gvs5h-harness",
-      "label": "Five Qwen3.8-27B models match Fable 5 Using GVS5H Harness",
+      "id": "cognitive-mercantilism-ai-panic-resembles-fears-of-early-capitalism",
+      "label": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
       "summary": "暂无中文摘要",
-      "pm_score": 0.355,
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50239027",
+      "date": "2026-10-26"
+    },
+    {
+      "id": "ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says",
+      "label": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
+      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
+      "date": "2026-10-26"
+    },
+    {
+      "id": "grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
+      "label": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
+      "date": "2026-10-26"
+    },
+    {
+      "id": "a-mathematician-reads-the-ai-future",
+      "label": "A mathematician reads the AI future",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50228167",
-      "date": "2026-10-25"
+      "url": "https://news.ycombinator.com/item?id=50233347",
+      "date": "2026-10-26"
     },
     {
-      "id": "block8217s-new-voice-model-sounds-eerily-human",
-      "label": "Block&#8217;s new voice model sounds eerily human",
-      "summary": "Block said that the voice model can run locally on a MacBook M4 Max",
+      "id": "fheroes2-a-recreation-of-heroes-of-might-and-magic-ii-game-engine",
+      "label": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
+      "summary": "暂无中文摘要",
       "pm_score": 0.305,
-      "pillar": "patterns",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/24/blocks-new-voice-model-sounds-eerily-human/",
-      "date": "2026-10-25"
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50230384",
+      "date": "2026-10-26"
     },
     {
-      "id": "forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats",
-      "label": "Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.",
-      "summary": "A new study found Grok's AI overwhelmingly recommends Republican candidates while OpenAI's GPT favors Democrats, with the two AI models disagreeing in more than 90% of nearly 500 election races.",
+      "id": "the-hottest-ai-wearables-and-gadgets-you-should-know-about",
+      "label": "The hottest AI wearables and gadgets you should know about",
+      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/24/forced-to-pick-groks-ai-model-chooses-republicans-openais-picks-democrats/",
-      "date": "2026-10-25"
+      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
+      "date": "2026-10-26"
     }
   ],
   "graph_totals": {
-    "real_nodes": 9829,
-    "edges": 10825
+    "real_nodes": 9862,
+    "edges": 10874
   }
 }

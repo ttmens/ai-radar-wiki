@@ -1,0 +1,23 @@
+{
+  "title": "Learning Positive Linear Combinations of ReLUs in Fully Polynomial Time",
+  "summary": "We study the fundamental problem of PAC learning positive linear combinations of $k$ arbitrary ReLU activations on $\\mathbb{R}^d$ with respect to the Gaussian distribution, in $L_2$ loss. We give the first fully-polynomial time algorithm for this learning task. Specifically, our algorithm draws $\\mathrm{poly}(d, k, 1/ε)$ samples, runs in $\\mathrm{poly}(d, k, 1/ε)$ time, and outputs a hypothesis that is $ε$-close to the target concept with high probability. All prior algorithms for this problem require super-polynomial time in $k$ or $1/ε$, or leverage strong well-conditioned assumptions on the weight matrix.\n  On a technical level, our approach develops a novel boosting procedure of a ``weak'' learner that recovers the hidden weight vectors to constant error, in a list-decodable manner. To develop this ``weak'' learning procedure, we leverage implicit tensor computation techniques to construct a low-degree filtering procedure based on Hermite tensors of the target function. This procedure amplifies separation among (clusters of) weight vectors to learn each of them to constant error. We then argue that the same procedure can be used for improving the estimation of hidden weight vectors, using gradient descent-like updates on the Euclidean sphere. A crucial ingredient of our algorithm is a pruning approach that ensures only relevant vectors that approximate the hidden weight vectors at target accuracy are maintained by the algorithm.",
+  "url": "http://arxiv.org/abs/2610.32940v1",
+  "authors": [
+    "Ilias Diakonikolas",
+    "Jelena Diakonikolas",
+    "Puqian Wang",
+    "Nikos Zarifis"
+  ],
+  "published": "2026-10-23T17:34:15Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "accuracy",
+    "gradient"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
