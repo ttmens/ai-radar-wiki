@@ -1,6 +1,7 @@
 ---
 title: Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules
 created: 2026-07-29
+deprecated: true
 updated: 2026-07-29
 type: entity
 pillar: capabilities

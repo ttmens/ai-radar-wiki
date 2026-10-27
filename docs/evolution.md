@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-28 00:05] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 3389, 'ecosystem': 667, 'business': 465, 'patterns': 920, 'unknown': 4}
+- Top tags: {'capabilities': 3299, 'discussion': 2218, 'hacker-news': 2218, 'research': 1308, 'news': 1304}
+  🗑️ Deprecated: dolmenwood-fantasy-rpg-built-around-the-acclaimed-old-school-essentials-rules.md (91d old, score=0.12)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-27 08:03] Evolution Run
 - Deprecated: 1 nodes
 - Pillar distribution: {'capabilities': 3367, 'ecosystem': 660, 'business': 464, 'patterns': 909, 'unknown': 4}
