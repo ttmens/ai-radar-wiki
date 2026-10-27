@@ -5725,3 +5725,25 @@
 - create: grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey.md
 - create: ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says.md
 - create: show-hn-casecite-free-rag-caselaw-research-and-document-analysis-for-lawyers.md
+
+## [2026-10-27 08:03] sync v3 | 20 new | pillars: {'capabilities': 13, 'patterns': 3, 'business': 2, 'ecosystem': 2}
+- create: just-imagining-a-workout-can-make-you-stronger.md
+- create: sebastian-raschkas-from-scratch-video-course-on-building-reasoning-models.md
+- create: cross-request-kv-cache-exposure-in-the-glm-53-workers-ai-model-155-responses.md
+- create: gpt-61-terra.md
+- create: show-hn-hob-open-source-on-device-alternative-to-claude-cowork-and-chatgpt.md
+- create: anthropic-s-1.md
+- create: birdwatching-rewires-the-brain-and-slows-cognitive-decline.md
+- create: blaise-pascal-invented-fixed-route-public-transport-2024.md
+- create: fixing-tool-call-accuracy-in-vllm.md
+- create: concerning-behavior-from-a-popular-open-weight-ai-model.md
+- create: chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems.md
+- create: partyline-a-group-voice-application-for-reticulum-built-on-lxst.md
+- create: proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job.md
+- create: anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hook.md
+- create: spacex-locks-in-40b-gpu-financing-deal-with-apollo.md
+- create: anthropic-officially-files-for-its-public-debut.md
+- create: will-ai-expose-the-rickety-infrastructure-of-the-internet.md
+- create: show-hn-proc-cli-an-agent-friendly-cli-tool-for-process-and-port-management.md
+- create: show-hn-rainbowsay-learn-teach-research-languages-live-with-shows-you-love.md
+- create: show-hn-agenttrust-zero-trust-security-and-human-approvals-for-ai-agents.md

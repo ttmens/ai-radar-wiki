@@ -1,132 +1,132 @@
 {
-  "date": "2026-10-26",
-  "generated_at": "2026-10-26T16:05:14.549154+08:00",
+  "date": "2026-10-27",
+  "generated_at": "2026-10-27T08:03:59.832991+08:00",
   "item_count": 11,
   "items": [
     {
-      "id": "a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-diagnosis",
-      "label": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "id": "anthropic-s-1",
+      "label": "Anthropic S-1",
       "summary": "暂无中文摘要",
       "pm_score": 0.505,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50233779",
-      "date": "2026-10-26"
+      "url": "https://news.ycombinator.com/item?id=50242939",
+      "date": "2026-10-27"
     },
     {
-      "id": "dolly-partons-imagination-library",
-      "label": "Dolly Parton's Imagination Library",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.455,
-      "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50234474",
-      "date": "2026-10-26"
-    },
-    {
-      "id": "openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within-a-few-months-why",
-      "label": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "id": "gpt-61-terra",
+      "label": "GPT-6.1 Terra",
       "summary": "暂无中文摘要",
       "pm_score": 0.455,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50236102",
-      "date": "2026-10-26"
+      "url": "https://news.ycombinator.com/item?id=50248124",
+      "date": "2026-10-27"
     },
     {
-      "id": "samsung-running-a-tensorflow-lite-model-on-960x540-image-to-track-you",
-      "label": "Samsung running a TensorFlow lite model on 960x540 image to track you",
+      "id": "sebastian-raschkas-from-scratch-video-course-on-building-reasoning-models",
+      "label": "Sebastian Raschka's from-scratch video course on building reasoning models",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50245138",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+      "label": "Birdwatching rewires the brain and slows cognitive decline",
       "summary": "暂无中文摘要",
       "pm_score": 0.425,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50230181",
-      "date": "2026-10-26"
+      "url": "https://news.ycombinator.com/item?id=50215997",
+      "date": "2026-10-27"
     },
     {
-      "id": "ibm-ceo-says-open-weight-models-are-now-good-and-cheap-on-prem",
-      "label": "IBM CEO says open weight models are now good and cheap on-prem",
+      "id": "blaise-pascal-invented-fixed-route-public-transport-2024",
+      "label": "Blaise Pascal invented fixed route public transport (2024)",
       "summary": "暂无中文摘要",
-      "pm_score": 0.375,
+      "pm_score": 0.425,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50238088",
-      "date": "2026-10-26"
+      "url": "https://news.ycombinator.com/item?id=50200152",
+      "date": "2026-10-27"
     },
     {
-      "id": "cognitive-mercantilism-ai-panic-resembles-fears-of-early-capitalism",
-      "label": "Cognitive Mercantilism: AI panic resembles fears of early capitalism",
+      "id": "concerning-behavior-from-a-popular-open-weight-ai-model",
+      "label": "Concerning behavior from a popular open-weight AI model",
       "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50246658",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems",
+      "label": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50247630",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "fixing-tool-call-accuracy-in-vllm",
+      "label": "Fixing Tool-Call Accuracy in vLLM",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50242870",
+      "date": "2026-10-27"
+    },
+    {
+      "id": "spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+      "label": "SpaceX locks in $40B GPU financing deal with Apollo",
+      "summary": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets.",
       "pm_score": 0.305,
       "pillar": "ecosystem",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50239027",
-      "date": "2026-10-26"
-    },
-    {
-      "id": "ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says",
-      "label": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says",
-      "summary": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\"",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/25/ai-delivers-zero-financial-payoff-to-most-companies-according-to-apollo-economist/",
-      "date": "2026-10-26"
+      "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+      "date": "2026-10-27"
     },
     {
-      "id": "grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
-      "label": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
-      "summary": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest.",
+      "id": "anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hook",
+      "label": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hoo",
+      "summary": "Anthropic’s S-1 shows more than half of its $100,000-plus customers now use both the Claude Platform and a first-party app, a cross-selling playbook reminiscent of Amazon that’s making enterprise customers stickier.",
       "pm_score": 0.305,
-      "pillar": "capabilities",
+      "pillar": "business",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
-      "date": "2026-10-26"
+      "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
+      "date": "2026-10-27"
     },
     {
-      "id": "a-mathematician-reads-the-ai-future",
-      "label": "A mathematician reads the AI future",
-      "summary": "暂无中文摘要",
+      "id": "anthropic-officially-files-for-its-public-debut",
+      "label": "Anthropic officially files for its public debut",
+      "summary": "Anthropic has officially filed for an IPO, revealing soaring revenue, mounting losses, major enterprise adoption, and an unusual governance structure designed to preserve founder control and its AI safety mission.",
       "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50233347",
-      "date": "2026-10-26"
-    },
-    {
-      "id": "fheroes2-a-recreation-of-heroes-of-might-and-magic-ii-game-engine",
-      "label": "fheroes2: A recreation of Heroes of Might and Magic II game engine",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50230384",
-      "date": "2026-10-26"
-    },
-    {
-      "id": "the-hottest-ai-wearables-and-gadgets-you-should-know-about",
-      "label": "The hottest AI wearables and gadgets you should know about",
-      "summary": "We compiled a list of all the hottest AI wearables, including Muse Charm, Bee, Friend, Plaud, and more.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
+      "pillar": "business",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/10/25/the-hottest-ai-wearables-and-gadgets-you-should-know-about/",
-      "date": "2026-10-26"
+      "url": "https://techcrunch.com/2026/10/26/anthropic-officially-files-for-its-public-debut/",
+      "date": "2026-10-27"
     }
   ],
   "graph_totals": {
-    "real_nodes": 9862,
-    "edges": 10874
+    "real_nodes": 9882,
+    "edges": 10894
   }
 }

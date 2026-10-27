@@ -1,20 +1,20 @@
 {
   "daily_summary": {
-    "date": "2026-10-26",
-    "headline": "今日 AI 情报 · 2026-10-26",
+    "date": "2026-10-27",
+    "headline": "今日 AI 情报 · 2026-10-27",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施。",
         "evidence": [
           {
-            "id": "scenebloom-agentic-indoor-environment-generation-with-realistic-and-diverse-layo",
-            "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and D",
-            "score": 0.26,
-            "url": "http://arxiv.org/abs/2610.32978v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "anthropic-s-1",
+            "title": "Anthropic S-1",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50242939",
+            "reason": "高价值信号"
           }
         ],
         "trend": "new"
@@ -22,13 +22,20 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, CLI/终端交互。",
         "evidence": [
           {
-            "id": "show-hn-open-source-cybersecurity-platform-uses-ai-agents-to-protect-businesses",
-            "title": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect ",
+            "id": "show-hn-proc-cli-an-agent-friendly-cli-tool-for-process-and-port-management",
+            "title": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port ma",
             "score": 0.15,
-            "url": "https://medium.com/@thomasunise/this-open-source-cybersecurity-platform-uses-ai-agents-to-detect-threats-and-protect-businesses-762e65392b42",
+            "url": "https://proc-cli.com/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-agenttrust-zero-trust-security-and-human-approvals-for-ai-agents",
+            "title": "Show HN: AgentTrust – Zero-trust security and human approvals for AI a",
+            "score": 0.15,
+            "url": "https://github.com/SRN0129/Agenttrust",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -40,10 +47,25 @@
         "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "dolly-partons-imagination-library",
-            "title": "Dolly Parton's Imagination Library",
-            "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50234474",
+            "id": "spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+            "title": "SpaceX locks in $40B GPU financing deal with Apollo",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/26/spacex-locks-in-40b-gpu-financing-deal-with-apollo/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资, 安全/漏洞。",
+        "evidence": [
+          {
+            "id": "anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hook",
+            "title": "Anthropic’s IPO filing reveals its strategy for keeping enterprise cus",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/26/anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hooked/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -53,149 +75,109 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：SceneBloom: Agentic Indoor Environment G, Show HN: Open-Source Cybersecurity Platf。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Show HN: AgentTrust – Zero-trust securit, Show HN: Proc-CLI – An agent-friendly CL。具体信号：AI Agent, CLI/终端。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI工具链从通用走向垂直专业化",
+        "body": "今日1条情报涉及AI工具链与基础设施。包括：Fixing Tool-Call Accuracy in vLLM。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "type": "maturation",
+        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日2条情报涉及AI商业动态。包括：Anthropic’s IPO filing reveals its strat, Anthropic officially files for its publi。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 26 | 🔧 工具生态: 5 | 📱 产品模式: 2",
-    "total_items": 33,
+    "stats": "🤖 技术能力: 13 | 🔧 工具生态: 2 | 💰 商业趋势: 2 | 📱 产品模式: 3",
+    "total_items": 20,
     "high_value_count": 11,
     "all_today_ids": [
       {
-        "id": "a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-diagnosis",
-        "label": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis"
+        "id": "anthropic-s-1",
+        "label": "Anthropic S-1"
       },
       {
-        "id": "dolly-partons-imagination-library",
-        "label": "Dolly Parton's Imagination Library"
+        "id": "gpt-61-terra",
+        "label": "GPT-6.1 Terra"
       },
       {
-        "id": "openai-and-anthropic-cut-their-llm-prices-by-up-to-80-within-a-few-months-why",
-        "label": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?"
+        "id": "sebastian-raschkas-from-scratch-video-course-on-building-reasoning-models",
+        "label": "Sebastian Raschka's from-scratch video course on building reasoning models"
       },
       {
-        "id": "samsung-running-a-tensorflow-lite-model-on-960x540-image-to-track-you",
-        "label": "Samsung running a TensorFlow lite model on 960x540 image to track you"
+        "id": "birdwatching-rewires-the-brain-and-slows-cognitive-decline",
+        "label": "Birdwatching rewires the brain and slows cognitive decline"
       },
       {
-        "id": "ibm-ceo-says-open-weight-models-are-now-good-and-cheap-on-prem",
-        "label": "IBM CEO says open weight models are now good and cheap on-prem"
+        "id": "blaise-pascal-invented-fixed-route-public-transport-2024",
+        "label": "Blaise Pascal invented fixed route public transport (2024)"
       },
       {
-        "id": "cognitive-mercantilism-ai-panic-resembles-fears-of-early-capitalism",
-        "label": "Cognitive Mercantilism: AI panic resembles fears of early capitalism"
+        "id": "concerning-behavior-from-a-popular-open-weight-ai-model",
+        "label": "Concerning behavior from a popular open-weight AI model"
       },
       {
-        "id": "ai-delivers-zero-financial-payoff-to-most-companies-apollo-economist-says",
-        "label": "AI delivers ‘zero financial payoff’ to most companies, Apollo economist says"
+        "id": "chatgpt-keeps-telling-people-404-media-can-solve-their-tech-support-problems",
+        "label": "ChatGPT Keeps Telling People 404 Media Can Solve Their Tech Support Problems"
       },
       {
-        "id": "grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey",
-        "label": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’"
+        "id": "fixing-tool-call-accuracy-in-vllm",
+        "label": "Fixing Tool-Call Accuracy in vLLM"
       },
       {
-        "id": "a-mathematician-reads-the-ai-future",
-        "label": "A mathematician reads the AI future"
+        "id": "spacex-locks-in-40b-gpu-financing-deal-with-apollo",
+        "label": "SpaceX locks in $40B GPU financing deal with Apollo"
       },
       {
-        "id": "fheroes2-a-recreation-of-heroes-of-might-and-magic-ii-game-engine",
-        "label": "fheroes2: A recreation of Heroes of Might and Magic II game engine"
+        "id": "anthropics-ipo-filing-reveals-its-strategy-for-keeping-enterprise-customers-hook",
+        "label": "Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hoo"
       },
       {
-        "id": "the-hottest-ai-wearables-and-gadgets-you-should-know-about",
-        "label": "The hottest AI wearables and gadgets you should know about"
+        "id": "anthropic-officially-files-for-its-public-debut",
+        "label": "Anthropic officially files for its public debut"
       },
       {
-        "id": "nikon-photography-contest-winner-loses-title-after-scientists-spot-signs-of-ai",
-        "label": "Nikon photography contest winner loses title after scientists spot signs of AI"
+        "id": "show-hn-hob-open-source-on-device-alternative-to-claude-cowork-and-chatgpt",
+        "label": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT"
       },
       {
-        "id": "rewriting-a-commercial-engine-in-jai",
-        "label": "Rewriting a Commercial Engine in Jai"
+        "id": "will-ai-expose-the-rickety-infrastructure-of-the-internet",
+        "label": "Will AI expose the rickety infrastructure of the internet?"
       },
       {
-        "id": "beyond-discrete-tokens-preserving-numerical-continuity-in-medical-vision-languag",
-        "label": "Beyond Discrete Tokens: Preserving Numerical Continuity in Medical Vision-Langua"
+        "id": "just-imagining-a-workout-can-make-you-stronger",
+        "label": "Just Imagining a Workout Can Make You Stronger"
       },
       {
-        "id": "dexport-a-hand-held-skill-interface-for-dexterous-hand-data-collection",
-        "label": "DexPort: A Hand-Held Skill Interface for Dexterous Hand Data Collection"
+        "id": "show-hn-proc-cli-an-agent-friendly-cli-tool-for-process-and-port-management",
+        "label": "Show HN: Proc-CLI – An agent-friendly CLI tool for process and port management"
       },
       {
-        "id": "monetizing-intelligence-advertising-and-subscription-design-on-llm-platforms",
-        "label": "Monetizing Intelligence: Advertising and Subscription Design on LLM Platforms"
+        "id": "show-hn-rainbowsay-learn-teach-research-languages-live-with-shows-you-love",
+        "label": "Show HN: RainbowSay – Learn, teach, research languages live with shows you love"
       },
       {
-        "id": "knowledge-distillation-across-item-and-code-spaces-for-parallel-generative-recom",
-        "label": "Knowledge Distillation across Item and Code Spaces for Parallel Generative Recom"
+        "id": "show-hn-agenttrust-zero-trust-security-and-human-approvals-for-ai-agents",
+        "label": "Show HN: AgentTrust – Zero-trust security and human approvals for AI agents"
       },
       {
-        "id": "flownomaly-single-step-conditional-mean-recovery-for-few-shot-anomaly-detection",
-        "label": "Flownomaly: Single-Step Conditional-Mean Recovery for Few-Shot Anomaly Detection"
+        "id": "cross-request-kv-cache-exposure-in-the-glm-53-workers-ai-model-155-responses",
+        "label": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)"
       },
       {
-        "id": "robustrllib-a-unified-library-and-benchmark-for-robust-reinforcement-learning-al",
-        "label": "RobustRLlib: A Unified Library and Benchmark for Robust Reinforcement Learning A"
+        "id": "partyline-a-group-voice-application-for-reticulum-built-on-lxst",
+        "label": "Partyline: A group voice application for Reticulum, built on LXST"
       },
       {
-        "id": "yalda-embedding-open-development-of-a-competitive-persian-retrieval-model",
-        "label": "Yalda-Embedding: Open Development of a Competitive Persian Retrieval Model"
-      },
-      {
-        "id": "where-rounding-happens-matters-rounding-location-alignment-stabilizes-llm-reinfo",
-        "label": "Where Rounding Happens Matters: Rounding-Location Alignment Stabilizes LLM Reinf"
-      },
-      {
-        "id": "scenebloom-agentic-indoor-environment-generation-with-realistic-and-diverse-layo",
-        "label": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Lay"
-      },
-      {
-        "id": "learning-positive-linear-combinations-of-relus-in-fully-polynomial-time",
-        "label": "Learning Positive Linear Combinations of ReLUs in Fully Polynomial Time"
-      },
-      {
-        "id": "if-at-first-you-dont-succeed-backtrack-lightweight-recovery-for-frozen-vlas",
-        "label": "If at First You Don't Succeed, Backtrack: Lightweight Recovery for Frozen VLAs"
-      },
-      {
-        "id": "measure-before-you-train-typed-decision-models-vs-a-classical-baseline-vs-a-gene",
-        "label": "Measure Before You Train: Typed Decision Models vs. a Classical Baseline vs. a G"
-      },
-      {
-        "id": "show-hn-adrs-for-ai-deliberation-records-for-humanai-work-versioned-in-git",
-        "label": "Show HN: ADRs for AI – Deliberation records for human–AI work, versioned in Git"
-      },
-      {
-        "id": "imagine-an-ai-future-where-being-banned-means-you-are-now-economically-useless",
-        "label": "Imagine an AI future where being banned means you are now economically useless"
-      },
-      {
-        "id": "in-rainbows",
-        "label": "In Rainbows"
-      },
-      {
-        "id": "ai-didnt-cause-the-tech-jobs-bust-but-it-explains-why-theres-no-recovery",
-        "label": "AI didn't cause the tech jobs bust, but it explains why there's no recovery"
-      },
-      {
-        "id": "show-hn-casecite-free-rag-caselaw-research-and-document-analysis-for-lawyers",
-        "label": "Show HN: CaseCite – Free RAG caselaw research and document analysis for lawyers"
-      },
-      {
-        "id": "making-the-buddha-head-from-merv-whole-again",
-        "label": "Making the Buddha Head from Merv Whole Again"
-      },
-      {
-        "id": "show-hn-open-source-cybersecurity-platform-uses-ai-agents-to-protect-businesses",
-        "label": "Show HN: Open-Source Cybersecurity Platform Uses AI Agents to Protect Businesses"
-      },
-      {
-        "id": "microsoft-decision-1-9b-qwen-model-launch-explained",
-        "label": "Microsoft Decision-1: 9B Qwen Model Launch Explained"
+        "id": "proton-to-re-interview-staff-about-ai-to-see-who-gets-to-keep-their-job",
+        "label": "Proton to 'Re-Interview' Staff About AI to See Who Gets to Keep Their Job"
       }
     ],
-    "date_bj": "2026-10-26 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-26 16:04:39"
+    "date_bj": "2026-10-27 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-27 08:03:28"
   }
 }

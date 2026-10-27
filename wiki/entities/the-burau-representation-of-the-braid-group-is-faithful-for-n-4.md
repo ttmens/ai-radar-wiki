@@ -1,6 +1,7 @@
 ---
 title: The Burau representation of the braid group is faithful for n = 4
 created: 2026-07-28
+deprecated: true
 updated: 2026-07-28
 type: entity
 pillar: capabilities

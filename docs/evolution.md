@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-27 08:03] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 3367, 'ecosystem': 660, 'business': 464, 'patterns': 909, 'unknown': 4}
+- Top tags: {'capabilities': 3280, 'discussion': 2212, 'hacker-news': 2212, 'news': 1297, 'techcrunch': 1297}
+  🗑️ Deprecated: the-burau-representation-of-the-braid-group-is-faithful-for-n-4.md (91d old, score=0.085)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-26 16:05] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 3354, 'ecosystem': 658, 'business': 462, 'patterns': 906, 'unknown': 4}
