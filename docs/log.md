@@ -5824,3 +5824,5 @@
 - create: frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-d.md
 - create: googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steer.md
 - create: show-hn-specification-first-agentic-development-plugin-and-prove.md
+
+## [2026-10-28 18:01] sync v3 | 0 new | pillars: {}
