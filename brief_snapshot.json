@@ -1,8 +1,19 @@
 {
   "date": "2026-10-28",
-  "generated_at": "2026-10-28T00:05:23.359327+08:00",
-  "item_count": 40,
+  "generated_at": "2026-10-28T16:05:18.657919+08:00",
+  "item_count": 68,
   "items": [
+    {
+      "id": "anthropic-trained-claude-on-illegally-obtained-stanford-professors-books",
+      "label": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50260814",
+      "date": "2026-10-28"
+    },
     {
       "id": "ai-promised-less-work-ive-never-worked-more",
       "label": "AI promised less work. I've never worked more",
@@ -12,6 +23,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50257325",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "amazon-is-gutting-its-ai-division-after-sustained-failure",
+      "label": "Amazon Is Gutting Its AI Division After Sustained Failure",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50261589",
       "date": "2026-10-28"
     },
     {
@@ -26,6 +48,17 @@
       "date": "2026-10-28"
     },
     {
+      "id": "police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior",
+      "label": "Police are using AI to pull over drivers for 'suspicious' behavior",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50261819",
+      "date": "2026-10-28"
+    },
+    {
       "id": "the-mythical-man-month-in-the-age-of-ai",
       "label": "The Mythical Man-Month in the Age of AI",
       "summary": "暂无中文摘要",
@@ -34,6 +67,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50255298",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "tailscale-ssh-investigation-and-remediation-update",
+      "label": "Tailscale SSH: Investigation and remediation update",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50264857",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "early-progress-on-accelerating-drug-development-with-claude",
+      "label": "Early progress on accelerating drug development with Claude",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50265609",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "survival-llm-ai-assistant-and-emergency-library-that-runs-on-your-own-computer",
+      "label": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50264853",
       "date": "2026-10-28"
     },
     {
@@ -78,6 +144,17 @@
       "type": "github",
       "source_type": "github",
       "url": "https://github.com/1jehuang/jcode",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "pbakausimpeccable",
+      "label": "pbakaus/impeccable",
+      "summary": "The design vocabulary for your coding agent. Steer with polish and bolder, review with critique and audit, catch AI slop before it ships.",
+      "pm_score": 0.405,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/pbakaus/impeccable",
       "date": "2026-10-28"
     },
     {
@@ -224,6 +301,17 @@
       "date": "2026-10-28"
     },
     {
+      "id": "raspberry-pi-zero-3w-and-pi-4-model-a-spotted-in-device-trees",
+      "label": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50265594",
+      "date": "2026-10-28"
+    },
+    {
       "id": "giving-chat-feedback-gives-anthropic-your-data",
       "label": "Giving chat feedback gives Anthropic your data",
       "summary": "暂无中文摘要",
@@ -257,6 +345,17 @@
       "date": "2026-10-28"
     },
     {
+      "id": "frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-d",
+      "label": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What",
+      "summary": "TechCrunch spoke to the MIT computer scientist charged with explaining OpenAI's latest mind-bending discovery.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/27/frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-does-that-mean/",
+      "date": "2026-10-28"
+    },
+    {
       "id": "opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-brow",
       "label": "Opera introduces a new web standard to let users deploy AI locally in their brow",
       "summary": "The new standard, WebAI, is designed to work with a variety of AI models.",
@@ -279,6 +378,17 @@
       "date": "2026-10-28"
     },
     {
+      "id": "the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
+      "label": "The data center boom has an upside: innovation for the US grid",
+      "summary": "As the AI boom stresses the existing power grid, all sorts of new opportunities for grid modernization are also emerging as a result, industry insiders say.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/27/the-data-center-boom-has-an-upside-innovation-for-the-us-grid/",
+      "date": "2026-10-28"
+    },
+    {
       "id": "how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
       "label": "How OpenAI turned its coding tools into dots, an always-on personal assistant",
       "summary": "Alexander Embiricos, the OpenAI executive responsible for dots, never wants to have a meeting with someone else's AI agent.",
@@ -287,6 +397,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/26/how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant/",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "who8217s-really-in-charge-at-anthropic-after-the-ipo",
+      "label": "Who&#8217;s really in charge at Anthropic after the IPO?",
+      "summary": "Here's a clear explanation of Anthropic's incredibly complex governance structure.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
       "date": "2026-10-28"
     },
     {
@@ -301,6 +422,61 @@
       "date": "2026-10-28"
     },
     {
+      "id": "googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steer",
+      "label": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time st",
+      "summary": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/27/googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steering/",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "bank-of-america-kindly-asks-that-you-don8217t-share-your-banking-password-with-y",
+      "label": "Bank of America kindly asks that you don&#8217;t share your banking password wit",
+      "summary": "The banking giant reminds customers that \"you're responsible for activity\" resulting from your AI agents' access.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/27/bank-of-america-kindly-asks-that-you-dont-share-your-banking-password-with-your-ai-assistant/",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
+      "label": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medicatio",
+      "summary": "A family is suing OpenAI, saying ChatGPT coached their daughter to quietly taper off her seizure medication and keep it from her doctors before she died in February.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/27/parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication/",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "vcs-will-make-billions-on-anthropic8217s-ipo-but-amazon-is-set-to-make-much-much",
+      "label": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much",
+      "summary": "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
+      "label": "Disruptive raises $10B fund to make big bets on at least 10 companies",
+      "summary": "Disruptive has made headlines in recent years for pouring money into companies like chip startup Groq and the AI voice-generation startup ElevenLabs.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/10/27/disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies/",
+      "date": "2026-10-28"
+    },
+    {
       "id": "nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
       "label": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs",
       "summary": "Simplismart says its annualized revenue run rate has grown 14-fold in six months, with the U.S. accounting for more than half its revenue.",
@@ -309,6 +485,39 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/10/27/nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus/",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "rare-relevant-and-still-wrong-how-memory-fails-llm-group-decisions",
+      "label": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions",
+      "summary": "When an LLM group's discussion is compressed into a short memory for a final decision maker, what should the memory keep? Two natural heuristics keep the rarest claims or the claims relevant to the decision criteria. On hidden-profile tasks both look attractive, because how widely a fact is held is",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37624v1",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "can-llms-uncover-hidden-physical-laws-through-free-exploration",
+      "label": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?",
+      "summary": "Scientific discovery often begins with an unexpected observation that prompts a new research question. In a world with altered physical laws, can large language models (LLMs) notice unexpected behavior, such as heavier objects falling more slowly, and discover the law through experiments without bei",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37649v1",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "when-should-we-intervene-at-test-time",
+      "label": "When Should We Intervene at Test Time?",
+      "summary": "Test-time adaptation helps a deployed model respond to changing inputs, but the same intervention can rescue one batch and damage the next. Updating normalization statistics, for example, can improve corrupted images yet fail when a batch contains mostly one class. Average accuracy hides these failu",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37658v1",
       "date": "2026-10-28"
     },
     {
@@ -345,6 +554,17 @@
       "date": "2026-10-28"
     },
     {
+      "id": "kppax-preprocess-differentiable-kinetic-ode-for-machine-learning-in-atmospheric",
+      "label": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric",
+      "summary": "Atmospheric chemical mechanisms are commonly distributed in the language of the Kinetic PreProcessor (KPP), which generates efficient Fortran or C code but does not fit into the differentiable programming frameworks in which machine-learning models are developed. We present KPPax, a kinetic preproce",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37655v1",
+      "date": "2026-10-28"
+    },
+    {
       "id": "profiling-a-frontier-agent-with-ebench-from-direct-control-to-harness-with-polic",
       "label": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Poli",
       "summary": "Frontier multimodal large language models (MLLMs) can control robots without robot-specific training, but how their capabilities compare and interact with post-trained vision-language-action (VLA) and world action model (WAM) policies across manipulation demands remains to be thoroughly evaluated. I",
@@ -353,6 +573,39 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2610.35832v1",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "thinkworld-world-imagination-reinforces-chain-of-dynamics-reasoning",
+      "label": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "summary": "Vision-Language-Action (VLA) models have made substantial progress in robotic manipulation, but their generalization remains constrained by the diversity and coverage of action-labeled robot demonstrations. Human videos provide much broader behavioral and environmental experience, while learning fro",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37666v1",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "what-improves-during-pretraining-tracking-knowledge-acquisition-with-point-in-ti",
+      "label": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-T",
+      "summary": "Language models pretrained on web corpora collected over multiple years learn both general and domain-specific knowledge. How these different kinds of knowledge are learned as pretraining progresses remains unclear. Recent point-in-time models trained on web snapshots from different years provide a",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37631v1",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "honeycomb-surfels-compact-hexagonal-primitives-for-efficient-scene-rendering-and",
+      "label": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering an",
+      "summary": "Novel view synthesis and 3D reconstruction have advanced rapidly with radiance fields and splatting, yet their memory and computational demands limit their use in resource-constrained settings. We introduce Hexels: novel planar hexagonal surface elements with a first-order spatial color field for ef",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37668v1",
       "date": "2026-10-28"
     },
     {
@@ -400,6 +653,17 @@
       "date": "2026-10-28"
     },
     {
+      "id": "attention-as-lattice-gauge-theory-relations-interact-only-through-wilson-loops",
+      "label": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops",
+      "summary": "Relations compose through the entity they share - Alice is Bob's mother and Bob is Carol's father, so Alice is Carol's grandmother - and the order matters, since a father's mother is not a mother's father; verifying a composed relation means closing the loop. We show that if each entity's coordinate",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37656v1",
+      "date": "2026-10-28"
+    },
+    {
       "id": "i-hitl-inalienable-human-in-the-loop",
       "label": "I-HITL: Inalienable Human-in-the-Loop",
       "summary": "Human oversight is a pillar of AI safety. It is often exercised by a human in the loop (HITL) who approves critical actions taken by an AI agent. AI agents' increasing ability to bypass guardrails, though, raises the question of how to enforce HITL robustly.\n  We introduce the concept of inalienable",
@@ -422,6 +686,28 @@
       "date": "2026-10-28"
     },
     {
+      "id": "pushing-dexterity-and-safety-for-in-hand-object-pose-reaching-that-works-remarka",
+      "label": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarka",
+      "summary": "Dexterous manipulation with multi-fingered hands is the next frontier of robotics, yet learned hand skills remain limited to simple grasps or basic repeated motions, such as rotating an object. As robots attempt more demanding in-hand maneuvers, safety, such as not dropping the object, becomes criti",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37652v1",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "scaling-laws-for-tool-use-agents-via-controllable-environment-synthesis",
+      "label": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
+      "summary": "We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use environments affects the training of such agents. To do so, we propose the SynthAPI pipeline, which e",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37648v1",
+      "date": "2026-10-28"
+    },
+    {
       "id": "pretraining-knows-what-simulation-teaches-how-compositional-generalization-in-a",
       "label": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in",
       "summary": "A robot policy needs to understand what a task is asking for in a scene, and how to move the robot to accomplish that task. To achieve these two skills, we introduce Zero-real Agent Policy (ZAP), a recipe that teaches a small off-the-shelf vision-language model to control a robot via a simple tool h",
@@ -430,6 +716,28 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2610.35817v1",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "muongs-pretraining-llms-with-relaxed-weight-norm-control",
+      "label": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control",
+      "summary": "Weight decay and explicit weight-norm constraints improve optimizer performance in language model pretraining, yet a unified understanding of why such control helps and how much is needed remains incomplete. We analyze norm control in Muon over the entire training trajectory using the \\emph{accumula",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37647v1",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "heads-of-security-learned-attention-gates-improve-prompt-injection-robustness",
+      "label": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness",
+      "summary": "We introduce Heads of Security (HoS), a prompt injection defense that enforces instruction-data separation via a small set of learned per-head attention gates. HoS learns how each head should redistribute attention between trusted and untrusted tokens, enabling models to reason over untrusted conten",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2610.37657v1",
       "date": "2026-10-28"
     },
     {
@@ -445,7 +753,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 9923,
-    "edges": 10945
+    "real_nodes": 9955,
+    "edges": 10991
   }
 }

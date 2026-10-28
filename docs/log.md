@@ -5790,3 +5790,37 @@
 - create: nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus.md
 - create: how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant.md
 - create: cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing.md
+
+## [2026-10-28 16:05] sync v3 | 32 new | pillars: {'patterns': 6, 'capabilities': 20, 'ecosystem': 3, 'business': 3}
+- create: pbakausimpeccable.md
+- create: honeycomb-surfels-compact-hexagonal-primitives-for-efficient-scene-rendering-and.md
+- create: thinkworld-world-imagination-reinforces-chain-of-dynamics-reasoning.md
+- create: when-should-we-intervene-at-test-time.md
+- create: heads-of-security-learned-attention-gates-improve-prompt-injection-robustness.md
+- create: attention-as-lattice-gauge-theory-relations-interact-only-through-wilson-loops.md
+- create: kppax-preprocess-differentiable-kinetic-ode-for-machine-learning-in-atmospheric.md
+- create: pushing-dexterity-and-safety-for-in-hand-object-pose-reaching-that-works-remarka.md
+- create: can-llms-uncover-hidden-physical-laws-through-free-exploration.md
+- create: scaling-laws-for-tool-use-agents-via-controllable-environment-synthesis.md
+- create: muongs-pretraining-llms-with-relaxed-weight-norm-control.md
+- create: what-improves-during-pretraining-tracking-knowledge-acquisition-with-point-in-ti.md
+- create: rare-relevant-and-still-wrong-how-memory-fails-llm-group-decisions.md
+- create: survival-llm-ai-assistant-and-emergency-library-that-runs-on-your-own-computer.md
+- create: tailscale-ssh-investigation-and-remediation-update.md
+- create: early-progress-on-accelerating-drug-development-with-claude.md
+- create: raspberry-pi-zero-3w-and-pi-4-model-a-spotted-in-device-trees.md
+- create: hex-raises-100m.md
+- create: expanding-our-partnership-with-gsa-to-bring-claude-to-all-levels-of-government.md
+- create: amazon-is-gutting-its-ai-division-after-sustained-failure.md
+- create: anthropic-trained-claude-on-illegally-obtained-stanford-professors-books.md
+- create: php2shell-litellm-gitlab-find-what-you-need-to-patch.md
+- create: police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior.md
+- create: vcs-will-make-billions-on-anthropic8217s-ipo-but-amazon-is-set-to-make-much-much.md
+- create: parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication.md
+- create: the-data-center-boom-has-an-upside-innovation-for-the-us-grid.md
+- create: bank-of-america-kindly-asks-that-you-don8217t-share-your-banking-password-with-y.md
+- create: who8217s-really-in-charge-at-anthropic-after-the-ipo.md
+- create: disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies.md
+- create: frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-d.md
+- create: googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steer.md
+- create: show-hn-specification-first-agentic-development-plugin-and-prove.md

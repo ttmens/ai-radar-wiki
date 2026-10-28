@@ -1,0 +1,26 @@
+{
+  "title": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis",
+  "summary": "We explore how to build performant large language model (LLM) tool-use agents that complete complex, multi-step tasks. Specifically, we study how data composition in synthetically generated tool-use environments affects the training of such agents. To do so, we propose the SynthAPI pipeline, which explicitly controls the diversity of generated environments along the axes of tools, tasks, and the databases on which the tools operate. By systematically varying SynthAPI's generation controls in 458,752 tasks across 849 trained models of four different sizes, we derive a scaling law that predicts downstream tool-use agent generalization based on the scale and composition of the synthesized environments. These predictable relationships reveal several lessons for scaling tool-use agent data. As data budgets grow, scaling tool and database diversity becomes more effective than increasing the number of tasks, and increasing data complexity yields larger gains. Scaling according to these findings yields agents that outperform models trained on data from prior work in large-scale tool-use agent and synthetic environment generation across four evaluation benchmarks.",
+  "url": "http://arxiv.org/abs/2610.37648v1",
+  "authors": [
+    "Andrew Szot",
+    "Samira Abnar",
+    "Omar Attia",
+    "Abbas Kazerouni",
+    "Michael Kirchhof"
+  ],
+  "published": "2026-10-27T17:56:46Z",
+  "tag": "Paper",
+  "pillar": "ecosystem",
+  "pillar_keywords": [
+    "api",
+    "evaluation",
+    "eval",
+    "pipeline"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
