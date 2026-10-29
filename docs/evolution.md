@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-10-29 16:04] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 3422, 'ecosystem': 671, 'business': 473, 'patterns': 933, 'unknown': 4}
+- Top tags: {'capabilities': 3331, 'discussion': 2240, 'hacker-news': 2240, 'news': 1325, 'techcrunch': 1325}
+  🗑️ Deprecated: angels-in-coptic-magic-i-introduction.md (91d old, score=0.085)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-10-28 18:01] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 3409, 'ecosystem': 670, 'business': 468, 'patterns': 926, 'unknown': 4}

@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-10-28",
-    "headline": "今日 AI 情报 · 2026-10-28",
+    "date": "2026-10-29",
+    "headline": "今日 AI 情报 · 2026-10-29",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：融资/投资, 安全/漏洞, 模型能力。",
+        "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "anthropic-trained-claude-on-illegally-obtained-stanford-professors-books",
-            "title": "Anthropic trained Claude on illegally obtained Stanford professors' bo",
+            "id": "gemini-4-carbon",
+            "title": "Gemini 4 Carbon",
             "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50260814",
+            "url": "https://news.ycombinator.com/item?id=50276792",
             "reason": "高价值信号"
           }
         ],
@@ -22,34 +22,41 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 安全/漏洞。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 语音交互。",
         "evidence": [
           {
-            "id": "tencentcloudtencentdb-agent-memory",
-            "title": "TencentCloud/TencentDB-Agent-Memory",
+            "id": "dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assignments",
+            "title": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50275626",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "claude-code-regularly-sends-each-background-agents-transcript-to-its-model",
+            "title": "Claude Code regularly sends each background agent’s transcript to its ",
             "score": 0.41,
-            "url": "https://github.com/TencentCloud/TencentDB-Agent-Memory",
+            "url": "https://news.ycombinator.com/item?id=50284255",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
-            "id": "agentscope-aiagentscope",
-            "title": "agentscope-ai/agentscope",
-            "score": 0.41,
-            "url": "https://github.com/agentscope-ai/agentscope",
+            "id": "the-agent-sdk",
+            "title": "The Agent SDK",
+            "score": 0.38,
+            "url": "https://news.ycombinator.com/item?id=50273731",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
-            "id": "show-hn-specification-first-agentic-development-plugin-and-prove",
-            "title": "Show HN: Specification First Agentic Development Plugin and Prove",
-            "score": 0.2,
-            "url": "https://spec-first.dev/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+            "title": "As AI agents reshape the web, Google opens Gemini and Search to more a",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+            "reason": "里程碑式进展"
           },
           {
-            "id": "here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-            "title": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Wo",
-            "score": 0.2,
-            "url": "https://news.ycombinator.com/item?id=50258868",
+            "id": "openais-agents-talked-to-each-other-through-the-cpu-cache",
+            "title": "OpenAI's agents talked to each other through the CPU Cache",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=50251200",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -58,13 +65,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "ottermindchat2db",
-            "title": "OtterMind/Chat2DB",
-            "score": 0.41,
-            "url": "https://github.com/OtterMind/Chat2DB",
+            "id": "sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+            "title": "Sleep framework: A new way for LLMs to retain knowledge in continual l",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=50272479",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -73,13 +80,13 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "who8217s-really-in-charge-at-anthropic-after-the-ipo",
-            "title": "Who&#8217;s really in charge at Anthropic after the IPO?",
+            "id": "google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+            "title": "Google expands AI Search ads globally as core ad growth slows",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/27/whos-really-in-charge-at-anthropic-after-the-ipo/",
+            "url": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -89,321 +96,127 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日8条情报涉及AI Agent及相关工具生态。典型项目包括：1Panel-dev/MaxKB, 1jehuang/jcode, TencentCloud/TencentDB-Agent-Memory。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Dayjob: Tax – evaluating AI agents on 50, As AI agents reshape the web, Google ope。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
-        "title": "AI安全与信任正成为规模化部署的关键挑战",
-        "body": "今日3条情报涉及AI安全与信任议题。关键事件包括：xbtlin/ai-berkshire, I-HITL: Inalienable Human-in-the-Loop, Heads of Security: Learned Attention Gat。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-        "type": "bottleneck",
-        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
-      },
-      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日5条情报涉及AI商业动态。包括：Meta AI director Rohit Patel leaves to t, General Compute raises $100 million Seri, Who&#8217;s really in charge at Anthropi。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日1条情报涉及AI商业动态。包括：Anthropic just launched tools to show co。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 42 | 📱 产品模式: 17 | 🔧 工具生态: 10 | 💰 商业趋势: 4",
-    "total_items": 73,
-    "high_value_count": 68,
+    "stats": "🤖 技术能力: 13 | 📱 产品模式: 7 | 💰 商业趋势: 5 | 🔧 工具生态: 1",
+    "total_items": 26,
+    "high_value_count": 21,
     "all_today_ids": [
       {
-        "id": "anthropic-trained-claude-on-illegally-obtained-stanford-professors-books",
-        "label": "Anthropic trained Claude on illegally obtained Stanford professors' books"
+        "id": "gemini-4-carbon",
+        "label": "Gemini 4 Carbon"
       },
       {
-        "id": "ai-promised-less-work-ive-never-worked-more",
-        "label": "AI promised less work. I've never worked more"
+        "id": "dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assignments",
+        "label": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments"
       },
       {
-        "id": "amazon-is-gutting-its-ai-division-after-sustained-failure",
-        "label": "Amazon Is Gutting Its AI Division After Sustained Failure"
+        "id": "claude-code-regularly-sends-each-background-agents-transcript-to-its-model",
+        "label": "Claude Code regularly sends each background agent’s transcript to its model"
       },
       {
-        "id": "roblox-downloaded-145gb-models-from-us-including-adult-content-without-asking",
-        "label": "Roblox downloaded 145GB models from us (including adult content) without asking"
+        "id": "elder-pliniusl1b3rt4s",
+        "label": "elder-plinius/L1B3RT4S"
       },
       {
-        "id": "police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior",
-        "label": "Police are using AI to pull over drivers for 'suspicious' behavior"
+        "id": "two-high-speed-trains-collide-near-toledo-spain",
+        "label": "Two high-speed trains collide near Toledo, Spain"
       },
       {
-        "id": "the-mythical-man-month-in-the-age-of-ai",
-        "label": "The Mythical Man-Month in the Age of AI"
+        "id": "kentucky-man-becomes-the-first-humanist-granted-religious-exemption-from-ai",
+        "label": "Kentucky man becomes the first humanist granted religious exemption from AI"
       },
       {
-        "id": "tailscale-ssh-investigation-and-remediation-update",
-        "label": "Tailscale SSH: Investigation and remediation update"
+        "id": "formlabs-studio-1-699-resin-printer",
+        "label": "Formlabs Studio 1 $699 Resin Printer"
       },
       {
-        "id": "early-progress-on-accelerating-drug-development-with-claude",
-        "label": "Early progress on accelerating drug development with Claude"
+        "id": "the-agent-sdk",
+        "label": "The Agent SDK"
       },
       {
-        "id": "survival-llm-ai-assistant-and-emergency-library-that-runs-on-your-own-computer",
-        "label": "Survival LLM: AI assistant and emergency library that runs on your own computer"
+        "id": "google-expands-ai-search-ads-globally-as-core-ad-growth-slows",
+        "label": "Google expands AI Search ads globally as core ad growth slows"
       },
       {
-        "id": "ottermindchat2db",
-        "label": "OtterMind/Chat2DB"
+        "id": "as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps",
+        "label": "As AI agents reshape the web, Google opens Gemini and Search to more apps"
       },
       {
-        "id": "lidge-junopencodex",
-        "label": "lidge-jun/opencodex"
+        "id": "south-korea8217s-financial-industry-hit-by-fresh-wave-of-cyberattacks",
+        "label": "South Korea&#8217;s financial industry hit by fresh wave of cyberattacks"
       },
       {
-        "id": "1panel-devmaxkb",
-        "label": "1Panel-dev/MaxKB"
+        "id": "voice-ai-in-vogue-nvidia-releases-new-open-transcription-model",
+        "label": "Voice AI in vogue: Nvidia releases new open transcription model"
       },
       {
-        "id": "1jehuangjcode",
-        "label": "1jehuang/jcode"
+        "id": "microsoft-just-shared-azure8217s-actual-revenue-in-dollars-332-billion",
+        "label": "Microsoft just shared Azure&#8217;s actual revenue in dollars: $33.2 billion"
       },
       {
-        "id": "pbakausimpeccable",
-        "label": "pbakaus/impeccable"
+        "id": "7-days-until-techcrunch-founder-summit-save-up-to-100-on-your-pass-before-doors",
+        "label": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before door"
       },
       {
-        "id": "mastra-aimastra",
-        "label": "mastra-ai/mastra"
+        "id": "the-8216vulnpocalypse8217-is-coming-for-the-internets-aging-code-says-wizs-cto",
+        "label": "The &#8216;Vulnpocalypse&#8217; is coming for the internet’s aging code, says Wi"
       },
       {
-        "id": "promptfoopromptfoo",
-        "label": "promptfoo/promptfoo"
+        "id": "microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row",
+        "label": "Microsoft hits 10 quarters of record-breaking revenue in a row"
       },
       {
-        "id": "jundotomlx",
-        "label": "jundot/omlx"
+        "id": "ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public",
+        "label": "AI execs may be too out of touch to build for the general public"
       },
       {
-        "id": "googleapismcp-toolbox",
-        "label": "googleapis/mcp-toolbox"
+        "id": "chrome8217s-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms",
+        "label": "Chrome&#8217;s AI-powered Autofill can now dig through your Gmail to fill out fo"
       },
       {
-        "id": "wikipedias-cleanup-of-ai-generated-content",
-        "label": "Wikipedia's Cleanup of AI-Generated Content"
+        "id": "wizs-cto-on-php2shell-and-the-coming-8216vulnpocalypse8217",
+        "label": "Wiz’s CTO on PHP2Shell and the coming &#8216;vulnpocalypse&#8217;"
       },
       {
-        "id": "tencentcloudtencentdb-agent-memory",
-        "label": "TencentCloud/TencentDB-Agent-Memory"
+        "id": "microsoft-recorded-10-billion-in-revenue-from-openai",
+        "label": "Microsoft recorded $10 billion in revenue from OpenAI"
       },
       {
-        "id": "huggingfacepeft",
-        "label": "huggingface/peft"
+        "id": "anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying",
+        "label": "Anthropic just launched tools to show companies what their AI spending is buying"
       },
       {
-        "id": "agentscope-aiagentscope",
-        "label": "agentscope-ai/agentscope"
+        "id": "openais-agents-talked-to-each-other-through-the-cpu-cache",
+        "label": "OpenAI's agents talked to each other through the CPU Cache"
       },
       {
-        "id": "xbtlinai-berkshire",
-        "label": "xbtlin/ai-berkshire"
+        "id": "valve-responds-to-developers-fearing-ai-slop-and-clones",
+        "label": "Valve Responds to Developers Fearing AI Slop and Clones"
       },
       {
-        "id": "browser-usebrowser-harness",
-        "label": "browser-use/browser-harness"
+        "id": "nixpkgs-for-the-front-end-impaired",
+        "label": "Nixpkgs for the Front End Impaired"
       },
       {
-        "id": "winfuncopcode",
-        "label": "winfunc/opcode"
+        "id": "microsoft-and-epic-games-suddenly-agree-that-ai-is-theft",
+        "label": "Microsoft and Epic Games Suddenly Agree That AI Is Theft"
       },
       {
-        "id": "arindam200awesome-ai-apps",
-        "label": "Arindam200/awesome-ai-apps"
-      },
-      {
-        "id": "scrapegraphaiscrapegraph-ai",
-        "label": "ScrapeGraphAI/Scrapegraph-ai"
-      },
-      {
-        "id": "raspberry-pi-zero-3w-and-pi-4-model-a-spotted-in-device-trees",
-        "label": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees"
-      },
-      {
-        "id": "giving-chat-feedback-gives-anthropic-your-data",
-        "label": "Giving chat feedback gives Anthropic your data"
-      },
-      {
-        "id": "cohere-says-alibabas-qwen-model-tried-to-send-a-file-to-beijing",
-        "label": "Cohere says Alibaba’s Qwen model tried to send a file to Beijing"
-      },
-      {
-        "id": "meta-ai-director-rohit-patel-leaves-to-take-on-microsoft-office-and-google-works",
-        "label": "Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Works"
-      },
-      {
-        "id": "frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-d",
-        "label": "Frontier AI labs say their models refuted the Exponential Time Hypothesis. What"
-      },
-      {
-        "id": "opera-introduces-a-new-web-standard-to-let-users-deploy-ai-locally-in-their-brow",
-        "label": "Opera introduces a new web standard to let users deploy AI locally in their brow"
-      },
-      {
-        "id": "general-compute-raises-100-million-series-a-countering-the-neocloud-disaster-nar",
-        "label": "General Compute raises $100 million Series A, countering the neocloud disaster n"
-      },
-      {
-        "id": "the-data-center-boom-has-an-upside-innovation-for-the-us-grid",
-        "label": "The data center boom has an upside: innovation for the US grid"
-      },
-      {
-        "id": "how-openai-turned-its-coding-tools-into-dots-an-always-on-personal-assistant",
-        "label": "How OpenAI turned its coding tools into dots, an always-on personal assistant"
-      },
-      {
-        "id": "who8217s-really-in-charge-at-anthropic-after-the-ipo",
-        "label": "Who&#8217;s really in charge at Anthropic after the IPO?"
-      },
-      {
-        "id": "japan-internet-giant-gmo-says-hackers-posted-stolen-customer-data",
-        "label": "Japan internet giant GMO says hackers posted stolen customer data"
-      },
-      {
-        "id": "googles-genie-4-world-model-adds-audio-more-realistic-worlds-and-real-time-steer",
-        "label": "Google’s Genie 4 world model adds audio, more realistic worlds, and real-time st"
-      },
-      {
-        "id": "bank-of-america-kindly-asks-that-you-don8217t-share-your-banking-password-with-y",
-        "label": "Bank of America kindly asks that you don&#8217;t share your banking password wit"
-      },
-      {
-        "id": "parents-sue-openai-alleging-gpt-4o-coached-their-daughter-off-seizure-medication",
-        "label": "Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medicatio"
-      },
-      {
-        "id": "vcs-will-make-billions-on-anthropic8217s-ipo-but-amazon-is-set-to-make-much-much",
-        "label": "VCs will make billions on Anthropic&#8217;s IPO, but Amazon is set to make much"
-      },
-      {
-        "id": "disruptive-raises-10b-fund-to-make-big-bets-on-at-least-10-companies",
-        "label": "Disruptive raises $10B fund to make big bets on at least 10 companies"
-      },
-      {
-        "id": "nvidia-backs-indian-startup-helping-companies-run-ai-models-with-fewer-gpus",
-        "label": "Nvidia backs Indian startup helping companies run AI models with fewer GPUs"
-      },
-      {
-        "id": "rare-relevant-and-still-wrong-how-memory-fails-llm-group-decisions",
-        "label": "Rare, Relevant, and Still Wrong: How Memory Fails LLM Group Decisions"
-      },
-      {
-        "id": "can-llms-uncover-hidden-physical-laws-through-free-exploration",
-        "label": "Can LLMs Uncover Hidden Physical Laws through Free Exploration?"
-      },
-      {
-        "id": "when-should-we-intervene-at-test-time",
-        "label": "When Should We Intervene at Test Time?"
-      },
-      {
-        "id": "learning-force-reactive-humanoid-loco-manipulation",
-        "label": "Learning Force-Reactive Humanoid Loco-Manipulation"
-      },
-      {
-        "id": "information-theoretic-secure-aggregation-with-heterogeneous-client-quantization",
-        "label": "Information-Theoretic Secure Aggregation With Heterogeneous Client Quantization"
-      },
-      {
-        "id": "on-the-stability-of-learning",
-        "label": "On the stability of learning"
-      },
-      {
-        "id": "kppax-preprocess-differentiable-kinetic-ode-for-machine-learning-in-atmospheric",
-        "label": "KPPax: preprocess differentiable kinetic ODE for machine learning in atmospheric"
-      },
-      {
-        "id": "profiling-a-frontier-agent-with-ebench-from-direct-control-to-harness-with-polic",
-        "label": "Profiling a Frontier Agent with EBench: From Direct Control to Harness with Poli"
-      },
-      {
-        "id": "thinkworld-world-imagination-reinforces-chain-of-dynamics-reasoning",
-        "label": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning"
-      },
-      {
-        "id": "what-improves-during-pretraining-tracking-knowledge-acquisition-with-point-in-ti",
-        "label": "What Improves During Pretraining? Tracking Knowledge Acquisition with Point-in-T"
-      },
-      {
-        "id": "honeycomb-surfels-compact-hexagonal-primitives-for-efficient-scene-rendering-and",
-        "label": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering an"
-      },
-      {
-        "id": "reva-real-time-vulnerability-detection-through-contextual-probing-of-large-langu",
-        "label": "Reva: Real-Time Vulnerability Detection through Contextual Probing of Large Lang"
-      },
-      {
-        "id": "center-of-mass-interpretation-of-evolution-strategies",
-        "label": "Center-of-Mass Interpretation of Evolution Strategies"
-      },
-      {
-        "id": "work-agents-systems-capabilities-and-optimization",
-        "label": "Work Agents: Systems, Capabilities, and Optimization"
-      },
-      {
-        "id": "auto-research-arena-benchmarking-and-advancing-auto-research-in-language-modelin",
-        "label": "Auto-Research Arena: Benchmarking and Advancing Auto-Research in Language Modeli"
-      },
-      {
-        "id": "attention-as-lattice-gauge-theory-relations-interact-only-through-wilson-loops",
-        "label": "Attention as Lattice Gauge Theory: Relations Interact Only Through Wilson Loops"
-      },
-      {
-        "id": "i-hitl-inalienable-human-in-the-loop",
-        "label": "I-HITL: Inalienable Human-in-the-Loop"
-      },
-      {
-        "id": "patient-specific-rubric-based-evaluation-of-large-language-models-across-longitu",
-        "label": "Patient-specific rubric-based evaluation of large language models across longitu"
-      },
-      {
-        "id": "pushing-dexterity-and-safety-for-in-hand-object-pose-reaching-that-works-remarka",
-        "label": "Pushing Dexterity and Safety for In-Hand Object Pose Reaching That Works Remarka"
-      },
-      {
-        "id": "scaling-laws-for-tool-use-agents-via-controllable-environment-synthesis",
-        "label": "Scaling Laws for Tool-Use Agents via Controllable Environment Synthesis"
-      },
-      {
-        "id": "pretraining-knows-what-simulation-teaches-how-compositional-generalization-in-a",
-        "label": "Pretraining Knows What, Simulation Teaches How: Compositional Generalization in"
-      },
-      {
-        "id": "muongs-pretraining-llms-with-relaxed-weight-norm-control",
-        "label": "MuonGS: Pretraining LLMs with Relaxed Weight-Norm Control"
-      },
-      {
-        "id": "heads-of-security-learned-attention-gates-improve-prompt-injection-robustness",
-        "label": "Heads of Security: Learned Attention Gates Improve Prompt Injection Robustness"
-      },
-      {
-        "id": "retriever-free-retrieval-navigating-documents-with-decision-models",
-        "label": "Retriever-Free Retrieval: Navigating Documents with Decision Models"
-      },
-      {
-        "id": "hex-raises-100m",
-        "label": "Hex Raises $100M"
-      },
-      {
-        "id": "show-hn-specification-first-agentic-development-plugin-and-prove",
-        "label": "Show HN: Specification First Agentic Development Plugin and Prove"
-      },
-      {
-        "id": "expanding-our-partnership-with-gsa-to-bring-claude-to-all-levels-of-government",
-        "label": "Expanding our partnership with GSA to bring Claude to all levels of government"
-      },
-      {
-        "id": "php2shell-litellm-gitlab-find-what-you-need-to-patch",
-        "label": "PHP2Shell, LiteLLM, GitLab: Find What You Need to Patch"
-      },
-      {
-        "id": "here-be-monsters-what-do-you-still-need-to-know-when-agents-do-the-work",
-        "label": "Here Be Monsters: What Do You Still Need to Know When Agents Do the Work?"
+        "id": "sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning",
+        "label": "Sleep framework: A new way for LLMs to retain knowledge in continual learning"
       }
     ],
-    "date_bj": "2026-10-28 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-28 18:00:46"
+    "date_bj": "2026-10-29 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-29 16:04:03"
   }
 }

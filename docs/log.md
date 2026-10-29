@@ -5826,3 +5826,23 @@
 - create: show-hn-specification-first-agentic-development-plugin-and-prove.md
 
 ## [2026-10-28 18:01] sync v3 | 0 new | pillars: {}
+
+## [2026-10-29 16:04] sync v3 | 20 new | pillars: {'capabilities': 9, 'patterns': 5, 'ecosystem': 1, 'business': 5}
+- create: elder-pliniusl1b3rt4s.md
+- create: claude-code-regularly-sends-each-background-agents-transcript-to-its-model.md
+- create: openais-agents-talked-to-each-other-through-the-cpu-cache.md
+- create: gemini-4-carbon.md
+- create: formlabs-studio-1-699-resin-printer.md
+- create: nixpkgs-for-the-front-end-impaired.md
+- create: dayjob-tax-evaluating-ai-agents-on-50-professional-tax-assignments.md
+- create: the-agent-sdk.md
+- create: sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning.md
+- create: microsoft-just-shared-azure8217s-actual-revenue-in-dollars-332-billion.md
+- create: google-expands-ai-search-ads-globally-as-core-ad-growth-slows.md
+- create: microsoft-recorded-10-billion-in-revenue-from-openai.md
+- create: microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row.md
+- create: anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying.md
+- create: wizs-cto-on-php2shell-and-the-coming-8216vulnpocalypse8217.md
+- create: the-8216vulnpocalypse8217-is-coming-for-the-internets-aging-code-says-wizs-cto.md
+- create: chrome8217s-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms.md
+- create: as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps.md

@@ -1,6 +1,7 @@
 ---
 title: Angels in Coptic Magic I: Introduction
 created: 2026-07-30
+deprecated: true
 updated: 2026-07-30
 type: entity
 pillar: capabilities
