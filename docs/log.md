@@ -5846,3 +5846,30 @@
 - create: the-8216vulnpocalypse8217-is-coming-for-the-internets-aging-code-says-wizs-cto.md
 - create: chrome8217s-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms.md
 - create: as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps.md
+
+## [2026-10-30 08:05] sync v3 | 25 new | pillars: {'capabilities': 14, 'patterns': 10, 'business': 1}
+- create: were-releasing-the-weights-of-mistral-large-4.md
+- create: we-ran-ai-agent-swarms-in-minecraft-and-mindustry.md
+- create: a-tiny-world-model-running-games-on-a-raspberry-pi-pico-2-w.md
+- create: h264-is-magic-2016.md
+- create: llm-voice.md
+- create: chained-php2shell-exploit-roots-25-servers-including-us-government-servers.md
+- create: claude-duet-is-the-first-personal-assistant-type-harness-that-feels-useful.md
+- create: ige-disruptor-for-food-allergy-with-claude-enabled-antibody-design-pdf.md
+- create: launch-hn-simantic-yc-f26-firmware-simulation-for-ai-agents.md
+- create: zombie-stats-where-the-numbers-ai-quotes-come-from.md
+- create: what-we-know-so-far-about-spain-train-crash.md
+- create: the-tragedy-of-losing-your-wikipedia-page.md
+- create: aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big.md
+- create: as-search-traffic-dries-up-reddit-announces-it8217s-shifting-to-a-logged-in-expe.md
+- create: rivian-expands-joint-venture-with-vw-to-include-ai-assistant.md
+- create: openai-backed-thrive-holdings-acquires-adt.md
+- create: meta-quietly-launches-an-ai-fashion-app-called-style-sketch.md
+- create: granola-crunches-up-a-dictation-feature-to-compete-with-wispr.md
+- create: mistral-releases-weights-for-its-trillion-parameter-ai-model-targeting-cybersecu.md
+- create: us-investigated-chinese-spy-plot-aimed-at-nvidia-ceo.md
+- create: ex-palantir-execs-launch-dream-with-17m-from-a16z-to-build-ai-world-models-for-c.md
+- create: wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-125b-after-latest-round.md
+- create: deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure.md
+- create: amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-upd.md
+- create: show-hn-phpclaw-ai-agent-runtime-for-php-with-tools-memory-and-guards.md
