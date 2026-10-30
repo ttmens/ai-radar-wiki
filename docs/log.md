@@ -5873,3 +5873,28 @@
 - create: deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure.md
 - create: amazon-updates-alexa-to-help-you-manage-shopping-lists-and-subscriptions-and-upd.md
 - create: show-hn-phpclaw-ai-agent-runtime-for-php-with-tools-memory-and-guards.md
+
+## [2026-10-31 00:04] sync v3 | 23 new | pillars: {'capabilities': 20, 'patterns': 2, 'ecosystem': 1}
+- create: propose-filter-release-scaling-noise-to-typical-sensitivity-via-private-filterin.md
+- create: rethinking-neural-thickets-without-weight-perturbations.md
+- create: read-allocate-route-role-coupled-tokenization-for-pixel-space-generative-transfo.md
+- create: adaptive-scenario-generation-for-kl-dro-around-a-learned-density-model.md
+- create: luggage-re-identification-a-study-of-strategies-towards-a-real-world-application.md
+- create: from-extreme-weather-to-agricultural-consequences-with-agentic-ai.md
+- create: world2vec-mechanistic-world-models-through-latent-dynamics-learning.md
+- create: probing-spatial-state-representations-in-visual-foundation-models.md
+- create: an-ode-based-sampler-for-discrete-diffusion-models.md
+- create: difficulty-calibration-across-time-for-membership-inference-in-diffusion-models.md
+- create: textseal2-distortion-free-llm-watermarking-with-copula-mixing-and-memoryless-rac.md
+- create: when-to-assist-and-what-to-suggest-joint-gating-and-memory-grounded-hint-generat.md
+- create: backdoor-in-claude-code-for-vs-code-extension-on-the-cursor-marketplace.md
+- create: northflank-breached.md
+- create: us-reps-lead-democratic-resolution-opposing-ai-bubble-bailout-for-big-tech.md
+- create: artificial-analysis-v5-and-the-benchmarkers-dilemma.md
+- create: show-hn-i-turned-doom-into-a-transformer.md
+- create: a-pig-the-state-and-war-porco-rosso-kurenai-no-buta-2014.md
+- create: pico-css-is-no-longer-maintained.md
+- create: skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit.md
+- create: doordash-said-it8217s-only-received-8216several-hundred8217-orders-from-ai-agent.md
+- create: can-ai-data-centers-be-mass-produced-like-cars-this-startup-aims-to-find-out.md
+- create: you-don8217t-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai.md

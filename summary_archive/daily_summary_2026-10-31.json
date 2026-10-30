@@ -1,0 +1,154 @@
+{
+  "daily_summary": {
+    "date": "2026-10-31",
+    "headline": "今日 AI 情报 · 2026-10-31",
+    "overview": "今日共采集 23 条情报",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "us-reps-lead-democratic-resolution-opposing-ai-bubble-bailout-for-big-tech",
+            "title": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Bi",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50302814",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "evidence": [
+          {
+            "id": "from-extreme-weather-to-agricultural-consequences-with-agentic-ai",
+            "title": "From extreme weather to agricultural consequences with agentic AI",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2610.40641v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "when-to-assist-and-what-to-suggest-joint-gating-and-memory-grounded-hint-generat",
+            "title": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded H",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2610.40611v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [],
+    "stats": "🤖 技术能力: 20 | 📱 产品模式: 2 | 🔧 工具生态: 1",
+    "total_items": 23,
+    "high_value_count": 21,
+    "all_today_ids": [
+      {
+        "id": "us-reps-lead-democratic-resolution-opposing-ai-bubble-bailout-for-big-tech",
+        "label": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech"
+      },
+      {
+        "id": "backdoor-in-claude-code-for-vs-code-extension-on-the-cursor-marketplace",
+        "label": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace"
+      },
+      {
+        "id": "pico-css-is-no-longer-maintained",
+        "label": "Pico CSS is no longer maintained"
+      },
+      {
+        "id": "show-hn-i-turned-doom-into-a-transformer",
+        "label": "Show HN: I Turned DOOM into a Transformer"
+      },
+      {
+        "id": "doordash-said-it8217s-only-received-8216several-hundred8217-orders-from-ai-agent",
+        "label": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from"
+      },
+      {
+        "id": "skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit",
+        "label": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit"
+      },
+      {
+        "id": "can-ai-data-centers-be-mass-produced-like-cars-this-startup-aims-to-find-out",
+        "label": "Can AI data centers be mass-produced like cars? This startup aims to find out"
+      },
+      {
+        "id": "you-don8217t-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai",
+        "label": "You don&#8217;t need to believe in a god to get a religious exemption from using"
+      },
+      {
+        "id": "a-pig-the-state-and-war-porco-rosso-kurenai-no-buta-2014",
+        "label": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)"
+      },
+      {
+        "id": "when-to-assist-and-what-to-suggest-joint-gating-and-memory-grounded-hint-generat",
+        "label": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Genera"
+      },
+      {
+        "id": "propose-filter-release-scaling-noise-to-typical-sensitivity-via-private-filterin",
+        "label": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filteri"
+      },
+      {
+        "id": "probing-spatial-state-representations-in-visual-foundation-models",
+        "label": "Probing Spatial State Representations in Visual Foundation Models"
+      },
+      {
+        "id": "adaptive-scenario-generation-for-kl-dro-around-a-learned-density-model",
+        "label": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model"
+      },
+      {
+        "id": "from-extreme-weather-to-agricultural-consequences-with-agentic-ai",
+        "label": "From extreme weather to agricultural consequences with agentic AI"
+      },
+      {
+        "id": "luggage-re-identification-a-study-of-strategies-towards-a-real-world-application",
+        "label": "Luggage re-identification: A study of strategies towards a real-world applicatio"
+      },
+      {
+        "id": "textseal2-distortion-free-llm-watermarking-with-copula-mixing-and-memoryless-rac",
+        "label": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Ra"
+      },
+      {
+        "id": "read-allocate-route-role-coupled-tokenization-for-pixel-space-generative-transfo",
+        "label": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Tran"
+      },
+      {
+        "id": "world2vec-mechanistic-world-models-through-latent-dynamics-learning",
+        "label": "world2vec: Mechanistic world models through latent dynamics learning"
+      },
+      {
+        "id": "difficulty-calibration-across-time-for-membership-inference-in-diffusion-models",
+        "label": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models"
+      },
+      {
+        "id": "rethinking-neural-thickets-without-weight-perturbations",
+        "label": "Rethinking Neural Thickets Without Weight Perturbations"
+      },
+      {
+        "id": "an-ode-based-sampler-for-discrete-diffusion-models",
+        "label": "An ODE-based Sampler for Discrete Diffusion Models"
+      },
+      {
+        "id": "artificial-analysis-v5-and-the-benchmarkers-dilemma",
+        "label": "Artificial Analysis v5 and the benchmarker's dilemma"
+      },
+      {
+        "id": "northflank-breached",
+        "label": "Northflank Breached"
+      }
+    ],
+    "date_bj": "2026-10-31 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-10-31 00:04:15"
+  }
+}
