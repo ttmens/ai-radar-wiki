@@ -5898,3 +5898,22 @@
 - create: doordash-said-it8217s-only-received-8216several-hundred8217-orders-from-ai-agent.md
 - create: can-ai-data-centers-be-mass-produced-like-cars-this-startup-aims-to-find-out.md
 - create: you-don8217t-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai.md
+
+## [2026-10-31 16:04] sync v3 | 17 new | pillars: {'capabilities': 9, 'patterns': 5, 'business': 1, 'ecosystem': 2}
+- create: cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-code.md
+- create: through-captain-jean-luc-picard-patrick-stewart-taught-us-the-measure-of-a-man.md
+- create: building-an-ai-native-engineering-org.md
+- create: ai-isnt-replacing-sres-its-deskilling-them.md
+- create: ao3-down-for-maintenance.md
+- create: show-hn-sketch-stadium-watch-your-agent-play-pictionary.md
+- create: some-thing-is-happening-a-note-from-the-ai-companies.md
+- create: nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia.md
+- create: ollie-a-privacy-focused-ai-assistant-is-shutting-down.md
+- create: intel8217s-stock-crashes-knocking-12b-from-government8217s-stake.md
+- create: anthropic-expected-to-receive-high-8216junk8217-rating-from-credit-agencies-foll.md
+- create: last-minute-halloween-costumes-for-tech-nerds.md
+- create: cracks-are-emerging-in-the-ai-spending-boom.md
+- create: zest8217s-new-ai-agent-finds-restaurants-and-books-reservations-over-text.md
+- create: google8217s-first-data-center-satellite-is-online-and-writing-poetry.md
+- create: theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-8216a-great-opport.md
+- create: show-hn-spinf-serve-inference-server-for-bulk-scoring-and-decisions.md
