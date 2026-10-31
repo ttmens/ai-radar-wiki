@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-31 | Total pages: 5632
+> Last updated: 2026-10-31 | Total pages: 5633
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -3621,6 +3621,7 @@
 - [[chatgpt-for-teens-keeps-teens-talking-even-during-mental-health-crises.md]] ChatGPT for Teens keeps teens talking, even during mental health crises `pillar:patterns` `score:0.305`
 - [[chatgpt-mobile-app-gets-voice-based-agentic-features.md]] ChatGPT mobile app gets voice-based agentic features `pillar:patterns` `score:0.305`
 - [[chatgpt-now-lets-you-lock-your-chats.md]] ChatGPT now lets you lock your chats `pillar:patterns` `score:0.305`
+- [[cherryhqcherry-studio.md]] CherryHQ/cherry-studio `pillar:patterns` `score:0.405`
 - [[chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connect.md]] Chinese hackers spied on thousands of companies after breaching IT giant Connect `pillar:patterns` `score:0.305`
 - [[chromes-ai-features-may-be-hogging-4gb-of-your-co.md]] Chrome's AI features may be hogging 4GB of your computer storage `pillar:patterns` `score:0.255`
 - [[claude-code-anatomy-of-a-misfeature.md]] Claude Code: Anatomy of a Misfeature `pillar:patterns` `score:0.465`

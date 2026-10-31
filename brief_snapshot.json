@@ -1,7 +1,7 @@
 {
   "date": "2026-10-31",
-  "generated_at": "2026-10-31T16:04:36.936057+08:00",
-  "item_count": 35,
+  "generated_at": "2026-10-31T18:02:26.852350+08:00",
+  "item_count": 36,
   "items": [
     {
       "id": "ai-isnt-replacing-sres-its-deskilling-them",
@@ -56,6 +56,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50304122",
+      "date": "2026-10-31"
+    },
+    {
+      "id": "cherryhqcherry-studio",
+      "label": "CherryHQ/cherry-studio",
+      "summary": "Your AI workspace for models, agents, and productivity.",
+      "pm_score": 0.405,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/CherryHQ/cherry-studio",
       "date": "2026-10-31"
     },
     {
@@ -390,7 +401,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 10047,
-    "edges": 11097
+    "real_nodes": 10048,
+    "edges": 11098
   }
 }
