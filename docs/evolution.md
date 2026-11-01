@@ -20,6 +20,13 @@
 
 ## 运行日志
 
+## [2026-11-02 06:02] Evolution Run
+- Deprecated: 1 nodes
+- Pillar distribution: {'capabilities': 3492, 'ecosystem': 675, 'business': 476, 'patterns': 953, 'unknown': 4}
+- Top tags: {'capabilities': 3401, 'discussion': 2289, 'hacker-news': 2289, 'news': 1356, 'techcrunch': 1356}
+  🗑️ Deprecated: flock-chilling-effects-long-islands-emerging-open-air-prison.md (91d old, score=0.085)  📊 1 nodes deprecated (90d+ and score < 0.15)
+
+
 ## [2026-11-01 18:02] Evolution Run
 - Deprecated: 0 nodes
 - Pillar distribution: {'capabilities': 3482, 'ecosystem': 675, 'business': 476, 'patterns': 952, 'unknown': 4}

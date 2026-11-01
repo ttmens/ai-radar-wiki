@@ -1,6 +1,7 @@
 ---
 title: Flock – Chilling Effects: Long Island's Emerging Open-Air Prison
 created: 2026-08-03
+deprecated: true
 updated: 2026-08-03
 type: entity
 pillar: capabilities

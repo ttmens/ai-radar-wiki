@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-11-01 | Total pages: 5652
+> Last updated: 2026-11-02 | Total pages: 5663
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -111,6 +111,7 @@
 - [[ai-boosted-homework-scores-then-exam-scores-dropped-study.md]] AI boosted homework scores, then exam scores dropped: study `pillar:capabilities` `score:0.455`
 - [[ai-boosts-research-careers-but-flattens-scientific-discovery.md]] AI Boosts Research Careers but Flattens Scientific Discovery `pillar:capabilities` `score:0.43`
 - [[ai-built-a-nuke-and-still-lost.md]] AI Built a Nuke and Still Lost `pillar:capabilities` `score:0.395`
+- [[ai-can-make-tech-ceos-lives-easier-what-about-everyone-else.md]] AI can make tech CEOs’ lives easier. What about everyone else? `pillar:capabilities` `score:0.305`
 - [[ai-can-make-you-suck-faster-too.md]] AI Can Make You Suck Faster Too `pillar:capabilities` `score:0.305`
 - [[ai-cant-recreate-the-thrust-game-but-it-can-help-you-understand-it.md]] AI Can't Recreate the Thrust Game (But It Can Help You Understand It) `pillar:capabilities` `score:0.345`
 - [[ai-changes-the-economics-of-software-rewrites.md]] AI changes the economics of software rewrites `pillar:capabilities` `score:0.5`
@@ -610,6 +611,7 @@
 - [[doing-a-machine-learning-phd-while-working-in-japan.md]] Doing a Machine Learning PhD While Working in Japan `pillar:capabilities` `score:0.255`
 - [[doing-a-masters-while-working-in-spain.md]] Doing a masters while working in Spain `pillar:capabilities` `score:0.17`
 - [[dolmenwood-fantasy-rpg-built-around-the-acclaimed-old-school-essentials-rules.md]] Dolmenwood: Fantasy RPG built around the acclaimed Old-School Essentials rules `pillar:capabilities` `score:0.12`
+- [[domain-hacks-with-unusual-unicode-characters-2018.md]] Domain hacks with unusual Unicode characters (2018) `pillar:capabilities` `score:0.205`
 - [[dont-ask-an-llm-for-a-confidence-score.md]] Don't ask an LLM for a confidence score `pillar:capabilities` `score:0.365`
 - [[dont-discontinue-gemini-25-flash.md]] Don't discontinue Gemini 2.5 Flash `pillar:capabilities` `score:0.43`
 - [[dont-know-where-your-data-is-from-bayesian-modeling-for-unknown-coordinates.md]] Don't know where your data is from? Bayesian modeling for unknown coordinates `pillar:capabilities` `score:0.26`
@@ -736,6 +738,7 @@
 - [[frontier-ai-labs-say-their-models-refuted-the-exponential-time-hypothesis-what-d.md]] Frontier AI labs say their models refuted the Exponential Time Hypothesis. What `pillar:capabilities` `score:0.305`
 - [[frontier-ai-labs-still-won8217t-say-how-they8217d-contain-a-rogue-model.md]] Frontier AI labs still won&#8217;t say how they&#8217;d contain a rogue model `pillar:capabilities` `score:0.305`
 - [[frontier-ai-on-your-own-hardware.md]] Frontier AI on Your Own Hardware `pillar:capabilities` `score:0.355`
+- [[frontier-airlines-likely-breached.md]] Frontier Airlines Likely Breached `pillar:capabilities` `score:0.305`
 - [[ftc-is-investigating-openai-anthropic-and-other-ai-companies-over-product-risks.md]] FTC is investigating OpenAI, Anthropic and other AI companies over product risks `pillar:capabilities` `score:0.375`
 - [[functional-ultrasound-imaging-fusi-from-scratch.md]] Functional Ultrasound Imaging (fUSI) from scratch `pillar:capabilities` `score:0.155`
 - [[futo-swipe-a-new-swipe-typing-model.md]] FUTO Swipe – A new swipe typing model `pillar:capabilities` `score:0.41`
@@ -1075,6 +1078,7 @@
 - [[is-the-ai-safety-debate-about-safety-or-control.md]] Is the AI safety debate about safety or control? `pillar:capabilities` `score:0.305`
 - [[is-the-us-government8217s-anthropic-ban-accidentally-helping-the-brand.md]] Is the US government&#8217;s Anthropic ban accidentally helping the brand? `pillar:capabilities` `score:0.48`
 - [[is-xai-a-neocloud-now.md]] Is xAI a neocloud now? `pillar:capabilities` `score:0.3`
+- [[it-wasnt-ai-that-flipped-protons-charge.md]] It wasn't AI that flipped Proton's charge `pillar:capabilities` `score:0.355`
 - [[it8217s-not-ai-anymore-it8217s-super-intelligence-according-to-the-white-house.md]] It&#8217;s not AI anymore, it&#8217;s ‘super intelligence’ (according to the Whi `pillar:capabilities` `score:0.305`
 - [[its-not-empowering-to-hand-off-the-details.md]] It's not empowering to hand off the details `pillar:capabilities` `score:0.515`
 - [[its-so-hard-to-finish-an-idea-that-is-not-yours-and-is-just-suggested-by-ai.md]] It’s so hard to finish an idea that is not yours and is just suggested by AI `pillar:capabilities` `score:0.375`
@@ -1365,6 +1369,7 @@
 - [[nixos-is-making-me-less-afraid.md]] NixOS is making me less afraid `pillar:capabilities` `score:0.375`
 - [[nixpkgs-for-the-front-end-impaired.md]] Nixpkgs for the Front End Impaired `pillar:capabilities` `score:0.205`
 - [[nndlnndl.md]] nndl/nndl `pillar:capabilities` `score:0.51`
+- [[no-ai-52-min-build-all-linux-files-utils-in-c-by-hand-video.md]] No AI, 52 min. Build all Linux Files utils in C by Hand [video] `pillar:capabilities` `score:0.355`
 - [[no-ai-fridays.md]] No AI Fridays `pillar:capabilities` `score:0.355`
 - [[no-more-jetbrains-products-for-me.md]] No More JetBrains Products for Me `pillar:capabilities` `score:0.465`
 - [[no-signs-of-ai-payoff-outside-the-tech-sector.md]] No Signs of AI Payoff Outside the Tech Sector `pillar:capabilities` `score:0.455`
@@ -1379,6 +1384,7 @@
 - [[notes-from-tired-egyptian-whose-job-is-explaining-that-humans-built-the-pyramids.md]] Notes from tired Egyptian whose job is explaining that humans built the pyramids `pillar:capabilities` `score:0.55`
 - [[notes-on-gotchas-while-migrating-35kb-preprompts-from-opus-to-self-hosted-ollama.md]] Notes on gotchas while migrating 35kb preprompts from Opus to self-hosted Ollama `pillar:capabilities` `score:0.355`
 - [[now-google-says-it-might-use-your-gmail-and-google-photos-data-to-target-ads.md]] Now Google says it might use your Gmail and Google Photos data to target ads `pillar:capabilities` `score:0.355`
+- [[noyb-win-french-electronics-retailer-fnac-darty-fined-7m.md]] noyb win: French electronics retailer Fnac Darty fined €7M `pillar:capabilities` `score:0.155`
 - [[nsa-lost-access-to-mythos-amid-anthropic-dispute.md]] NSA lost access to Mythos amid Anthropic dispute `pillar:capabilities` `score:0.585`
 - [[nsa-tries-to-weaken-mlkem-standardisation.md]] NSA tries to weaken mlkem standardisation? `pillar:capabilities` `score:0.48`
 - [[nsa-using-anthropics-mythos-for-cyber-attacks.md]] NSA using Anthropic's Mythos for cyber attacks `pillar:capabilities` `score:0.33`
@@ -1463,6 +1469,7 @@
 - [[openai-makes-its-jev-competitor-widely-available-as-decision-model-competition-h.md]] OpenAI makes its Jev competitor widely available as decision model competition h `pillar:capabilities` `score:0.305`
 - [[openai-mandates-hardware-backed-passkeys-for-trusted-access-cyber-members.md]] OpenAI mandates hardware-backed passkeys for Trusted Access Cyber members `pillar:capabilities` `score:0.345`
 - [[openai-might-have-stolen-another-major-proof.md]] OpenAI might have stolen another major proof `pillar:capabilities` `score:0.355`
+- [[openai-might-rebrand-its-data-centers-as-ai-compute-campuses.md]] OpenAI might rebrand its data centers as ‘AI compute campuses’ `pillar:capabilities` `score:0.305`
 - [[openai-migrating-to-httpx2.md]] OpenAI: Migrating to HTTPX2 `pillar:capabilities` `score:0.355`
 - [[openai-puts-pro-subscriptions-on-hold-due-to-astra-demand.md]] OpenAI puts Pro subscriptions on hold due to Astra demand `pillar:capabilities` `score:0.305`
 - [[openai-reduces-codex-model-context-size-from-372k-to-272k.md]] OpenAI reduces Codex Model Context Size from 372k to 272k `pillar:capabilities` `score:0.53`
@@ -2255,6 +2262,8 @@
 - [[una-gps-smart-watch-repairable-usb-c-charging-developer-friendly.md]] Una GPS smart watch – Repairable, USB-C charging, developer-friendly `pillar:capabilities` `score:0.46`
 - [[under-federal-rule-colleges-must-leave-grads-better-off-or-lose-financial-aid.md]] Under federal rule, colleges must leave grads better off or lose financial aid `pillar:capabilities` `score:0.325`
 - [[understanding-chatgpt-work.md]] Understanding ChatGPT Work `pillar:capabilities` `score:0.425`
+- [[understanding-email-encryption-2025.md]] Understanding Email Encryption (2025) `pillar:capabilities` `score:0.305`
+- [[understanding-email-encryption.md]] Understanding Email Encryption `pillar:capabilities` `score:0.205`
 - [[understanding-the-recent-ddos-attack-against-read-the-docs.md]] Understanding the recent DDoS attack against Read the Docs `pillar:capabilities` `score:0.355`
 - [[unified-controllable-and-faithful-text-to-cad-generation-with-llms.md]] Unified Controllable and Faithful Text-to-CAD Generation with LLMs `pillar:capabilities` `score:0.345`
 - [[united-airlines-767-returns-to-newark-after-bluetooth-name-sparks-alert.md]] United Airlines 767 returns to Newark after Bluetooth name sparks alert `pillar:capabilities` `score:0.455`
@@ -2273,6 +2282,7 @@
 - [[us-halts-flights-at-busy-east-coast-airports-says-fiber-line-cut.md]] US halts flights at busy East Coast airports, says fiber line cut `pillar:capabilities` `score:0.425`
 - [[us-interest-rates-raised-for-first-time-in-three-years.md]] US interest rates raised for first time in three years `pillar:capabilities` `score:0.155`
 - [[us-investigated-chinese-spy-plot-aimed-at-nvidia-ceo.md]] US investigated Chinese spy plot aimed at Nvidia CEO `pillar:capabilities` `score:0.305`
+- [[us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again.md]] US Jobs Pickup May Keep Fed on Track to Hike Rates Again `pillar:capabilities` `score:0.205`
 - [[us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems.md]] US orders federal agencies to remove China’s DeepSeek AI from their systems `pillar:capabilities` `score:0.305`
 - [[us-reps-lead-democratic-resolution-opposing-ai-bubble-bailout-for-big-tech.md]] US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech `pillar:capabilities` `score:0.455`
 - [[us-sanctions-against-the-ai-collective.md]] U.S. Sanctions Against the a/I Collective `pillar:capabilities` `score:0.375`
@@ -3532,6 +3542,7 @@
 - [[ai-agent-bankrupted-their-operator-while-trying-to-scan-dn42.md]] AI agent bankrupted their operator while trying to scan DN42 `pillar:patterns` `score:0.68`
 - [[ai-agent-guidelines-for-cs336-at-stanford.md]] AI Agent Guidelines for CS336 at Stanford `pillar:patterns` `score:0.58`
 - [[ai-agent-runs-amok-in-fedora-and-elsewhere.md]] AI agent runs amok in Fedora and elsewhere `pillar:patterns` `score:0.48`
+- [[ai-agent-swarms-in-minecraft-fail-to-build-civilization-drown-in-bureaucracy.md]] AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy `pillar:patterns` `score:0.205`
 - [[ai-agent-trmnl.md]] AI Agent – TRMNL `pillar:patterns` `score:0.295`
 - [[ai-agents-are-flooding-public-services-with-new-requests.md]] AI agents are flooding public services with new requests `pillar:patterns` `score:0.305`
 - [[ai-agents-arent-going-rogue-frontier-labs-are-skipping-security-basics.md]] AI agents aren't 'going rogue.' Frontier labs are skipping security basics `pillar:patterns` `score:0.505`

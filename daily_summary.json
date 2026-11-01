@@ -1,8 +1,8 @@
 {
   "daily_summary": {
-    "date": "2026-11-01",
-    "headline": "今日 AI 情报 · 2026-11-01",
-    "overview": "AI商业动态：资本与市场持续升温",
+    "date": "2026-11-02",
+    "headline": "今日 AI 情报 · 2026-11-02",
+    "overview": "今日共采集 11 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,11 +10,11 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "serbia-just-elected-the-worlds-brainiest-parliament",
-            "title": "Serbia just elected the world's brainiest parliament",
-            "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50314654",
-            "reason": "高价值信号"
+            "id": "it-wasnt-ai-that-flipped-protons-charge",
+            "title": "It wasn't AI that flipped Proton's charge",
+            "score": 0.35,
+            "url": "https://news.ycombinator.com/item?id=50328488",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
@@ -22,139 +22,70 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向有新的动态。",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "show-hn-ultrafast-rust-based-agent-workspace",
-            "title": "Show HN: Ultrafast Rust Based Agent Workspace",
+            "id": "ai-agent-swarms-in-minecraft-fail-to-build-civilization-drown-in-bureaucracy",
+            "title": "AI agent swarms in Minecraft fail to build civilization, drown in bure",
             "score": 0.2,
-            "url": "https://trypalomino.com/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向有新的动态。",
-        "evidence": [
-          {
-            "id": "the-ai-cost-of-javascript-frameworks",
-            "title": "The AI cost of JavaScript frameworks",
-            "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=50323088",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
-        "evidence": [
-          {
-            "id": "openai-reportedly-lowers-funding-target-for-new-round",
-            "title": "OpenAI reportedly lowers funding target for new round",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
+            "url": "https://news.ycombinator.com/item?id=50325662",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
       }
     ],
-    "narratives": [
-      {
-        "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：OpenAI reportedly lowers funding target 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
-        "type": "validation",
-        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
-      }
-    ],
-    "stats": "🤖 技术能力: 16 | 💰 商业趋势: 1 | 🔧 工具生态: 1 | 📱 产品模式: 1",
-    "total_items": 19,
-    "high_value_count": 12,
+    "narratives": [],
+    "stats": "🤖 技术能力: 10 | 📱 产品模式: 1",
+    "total_items": 11,
+    "high_value_count": 6,
     "all_today_ids": [
       {
-        "id": "serbia-just-elected-the-worlds-brainiest-parliament",
-        "label": "Serbia just elected the world's brainiest parliament"
+        "id": "it-wasnt-ai-that-flipped-protons-charge",
+        "label": "It wasn't AI that flipped Proton's charge"
       },
       {
-        "id": "anthropic-blocks-users-for-anything-touching-training-larger-models",
-        "label": "Anthropic blocks users for anything touching training larger models"
+        "id": "no-ai-52-min-build-all-linux-files-utils-in-c-by-hand-video",
+        "label": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]"
       },
       {
-        "id": "do-the-math-how-we-took-over-chatgpt-accounts",
-        "label": "Do the math: How we took over ChatGPT accounts"
+        "id": "frontier-airlines-likely-breached",
+        "label": "Frontier Airlines Likely Breached"
       },
       {
-        "id": "malware-uses-llms-to-rank-victims-by-how-much-theyre-worth",
-        "label": "Malware uses LLMs to rank victims by how much they're worth"
+        "id": "understanding-email-encryption-2025",
+        "label": "Understanding Email Encryption (2025)"
       },
       {
-        "id": "anthropic-takes-steps-to-block-claude-from-reverse-engineering-video-games",
-        "label": "Anthropic takes steps to block Claude from reverse-engineering video games"
+        "id": "openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+        "label": "OpenAI might rebrand its data centers as ‘AI compute campuses’"
       },
       {
-        "id": "memdoor-a-team-of-5-qwen38-27b-models-beats-fable-5-on-livecodebench-hard",
-        "label": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard"
+        "id": "ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+        "label": "AI can make tech CEOs’ lives easier. What about everyone else?"
       },
       {
-        "id": "we-took-over-chatgpt-accounts",
-        "label": "We Took over ChatGPT Accounts"
+        "id": "domain-hacks-with-unusual-unicode-characters-2018",
+        "label": "Domain hacks with unusual Unicode characters (2018)"
       },
       {
-        "id": "ai-lean-and-the-future-of-formal-verification-with-lean-creator-leo-de-moura",
-        "label": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura"
+        "id": "understanding-email-encryption",
+        "label": "Understanding Email Encryption"
       },
       {
-        "id": "judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
-        "label": "Judge allows NAACP lawsuit over xAI data center pollution to move forward"
+        "id": "us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+        "label": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again"
       },
       {
-        "id": "openai-reportedly-lowers-funding-target-for-new-round",
-        "label": "OpenAI reportedly lowers funding target for new round"
+        "id": "ai-agent-swarms-in-minecraft-fail-to-build-civilization-drown-in-bureaucracy",
+        "label": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy"
       },
       {
-        "id": "apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
-        "label": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’"
-      },
-      {
-        "id": "4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections",
-        "label": "4 days left: How TechCrunch Founder Summit helps you make more useful connection"
-      },
-      {
-        "id": "chatgpt-and-codex-usage-limits-merging",
-        "label": "ChatGPT and Codex usage limits merging"
-      },
-      {
-        "id": "leaking-secrets-from-air-gap-computers-by-spelling-radio-signals-from-ram-2024",
-        "label": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)"
-      },
-      {
-        "id": "the-ai-cost-of-javascript-frameworks",
-        "label": "The AI cost of JavaScript frameworks"
-      },
-      {
-        "id": "show-hn-ultrafast-rust-based-agent-workspace",
-        "label": "Show HN: Ultrafast Rust Based Agent Workspace"
-      },
-      {
-        "id": "show-hn-jointter-a-daily-word-puzzle-using-dots-and-lines",
-        "label": "Show HN: Jointter – A daily word puzzle using dots and lines"
-      },
-      {
-        "id": "show-hn-a-language-model-that-lives-in-a-boot-sector",
-        "label": "Show HN: A language model that lives in a boot sector"
-      },
-      {
-        "id": "ai-text-watermarking-and-quality-loss",
-        "label": "AI text watermarking and quality loss"
+        "id": "noyb-win-french-electronics-retailer-fnac-darty-fined-7m",
+        "label": "noyb win: French electronics retailer Fnac Darty fined €7M"
       }
     ],
-    "date_bj": "2026-11-01 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-01 18:02:02"
+    "date_bj": "2026-11-02 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-02 06:02:01"
   }
 }

@@ -1,0 +1,91 @@
+{
+  "daily_summary": {
+    "date": "2026-11-02",
+    "headline": "今日 AI 情报 · 2026-11-02",
+    "overview": "今日共采集 11 条情报",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "it-wasnt-ai-that-flipped-protons-charge",
+            "title": "It wasn't AI that flipped Proton's charge",
+            "score": 0.35,
+            "url": "https://news.ycombinator.com/item?id=50328488",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "evidence": [
+          {
+            "id": "ai-agent-swarms-in-minecraft-fail-to-build-civilization-drown-in-bureaucracy",
+            "title": "AI agent swarms in Minecraft fail to build civilization, drown in bure",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50325662",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [],
+    "stats": "🤖 技术能力: 10 | 📱 产品模式: 1",
+    "total_items": 11,
+    "high_value_count": 6,
+    "all_today_ids": [
+      {
+        "id": "it-wasnt-ai-that-flipped-protons-charge",
+        "label": "It wasn't AI that flipped Proton's charge"
+      },
+      {
+        "id": "no-ai-52-min-build-all-linux-files-utils-in-c-by-hand-video",
+        "label": "No AI, 52 min. Build all Linux Files utils in C by Hand [video]"
+      },
+      {
+        "id": "frontier-airlines-likely-breached",
+        "label": "Frontier Airlines Likely Breached"
+      },
+      {
+        "id": "understanding-email-encryption-2025",
+        "label": "Understanding Email Encryption (2025)"
+      },
+      {
+        "id": "openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
+        "label": "OpenAI might rebrand its data centers as ‘AI compute campuses’"
+      },
+      {
+        "id": "ai-can-make-tech-ceos-lives-easier-what-about-everyone-else",
+        "label": "AI can make tech CEOs’ lives easier. What about everyone else?"
+      },
+      {
+        "id": "domain-hacks-with-unusual-unicode-characters-2018",
+        "label": "Domain hacks with unusual Unicode characters (2018)"
+      },
+      {
+        "id": "understanding-email-encryption",
+        "label": "Understanding Email Encryption"
+      },
+      {
+        "id": "us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again",
+        "label": "US Jobs Pickup May Keep Fed on Track to Hike Rates Again"
+      },
+      {
+        "id": "ai-agent-swarms-in-minecraft-fail-to-build-civilization-drown-in-bureaucracy",
+        "label": "AI agent swarms in Minecraft fail to build civilization, drown in bureaucracy"
+      },
+      {
+        "id": "noyb-win-french-electronics-retailer-fnac-darty-fined-7m",
+        "label": "noyb win: French electronics retailer Fnac Darty fined €7M"
+      }
+    ],
+    "date_bj": "2026-11-02 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-02 06:02:01"
+  }
+}

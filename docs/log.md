@@ -5940,3 +5940,11 @@
 ## [2026-11-01 18:02] sync v3 | 2 new | pillars: {'ecosystem': 1, 'patterns': 1}
 - create: the-ai-cost-of-javascript-frameworks.md
 - create: show-hn-ultrafast-rust-based-agent-workspace.md
+
+## [2026-11-02 06:02] sync v3 | 8 new | pillars: {'capabilities': 7, 'patterns': 1}
+- create: frontier-airlines-likely-breached.md
+- create: understanding-email-encryption-2025.md
+- create: us-jobs-pickup-may-keep-fed-on-track-to-hike-rates-again.md
+- create: it-wasnt-ai-that-flipped-protons-charge.md
+- create: openai-might-rebrand-its-data-centers-as-ai-compute-campuses.md
+- create: ai-can-make-tech-ceos-lives-easier-what-about-everyone-else.md
