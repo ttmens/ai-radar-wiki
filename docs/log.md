@@ -5936,3 +5936,7 @@
 - create: judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward.md
 - create: openai-reportedly-lowers-funding-target-for-new-round.md
 - create: show-hn-jointter-a-daily-word-puzzle-using-dots-and-lines.md
+
+## [2026-11-01 18:02] sync v3 | 2 new | pillars: {'ecosystem': 1, 'patterns': 1}
+- create: the-ai-cost-of-javascript-frameworks.md
+- create: show-hn-ultrafast-rust-based-agent-workspace.md

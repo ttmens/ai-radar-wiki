@@ -20,6 +20,36 @@
         "trend": "new"
       },
       {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "show-hn-ultrafast-rust-based-agent-workspace",
+            "title": "Show HN: Ultrafast Rust Based Agent Workspace",
+            "score": 0.2,
+            "url": "https://trypalomino.com/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "the-ai-cost-of-javascript-frameworks",
+            "title": "The AI cost of JavaScript frameworks",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=50323088",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
         "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
@@ -43,8 +73,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 16 | 💰 商业趋势: 1",
-    "total_items": 17,
+    "stats": "🤖 技术能力: 16 | 💰 商业趋势: 1 | 🔧 工具生态: 1 | 📱 产品模式: 1",
+    "total_items": 19,
     "high_value_count": 12,
     "all_today_ids": [
       {
@@ -104,6 +134,14 @@
         "label": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)"
       },
       {
+        "id": "the-ai-cost-of-javascript-frameworks",
+        "label": "The AI cost of JavaScript frameworks"
+      },
+      {
+        "id": "show-hn-ultrafast-rust-based-agent-workspace",
+        "label": "Show HN: Ultrafast Rust Based Agent Workspace"
+      },
+      {
         "id": "show-hn-jointter-a-daily-word-puzzle-using-dots-and-lines",
         "label": "Show HN: Jointter – A daily word puzzle using dots and lines"
       },
@@ -117,6 +155,6 @@
       }
     ],
     "date_bj": "2026-11-01 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-01 16:03:08"
+    "generated_at_bj": "2026-11-01 18:02:02"
   }
 }

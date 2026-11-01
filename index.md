@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-11-01 | Total pages: 5650
+> Last updated: 2026-11-01 | Total pages: 5652
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -4183,6 +4183,7 @@
 - [[show-hn-the-agent-that-builds-and-operates-its-own-saas-tools.md]] Show HN: The agent that builds and operates its own SaaS tools `pillar:patterns` `score:0.365`
 - [[show-hn-tinyaiarena-watch-ai-agents-battle-it-out.md]] Show HN: TinyAIArena watch AI agents battle it out `pillar:patterns` `score:0.305`
 - [[show-hn-tired-of-duct-taping-access-control-into-agent-prompts-heres-the-fix.md]] Show HN: Tired of duct-taping access control into agent prompts. Here's the fix `pillar:patterns` `score:0.33`
+- [[show-hn-ultrafast-rust-based-agent-workspace.md]] Show HN: Ultrafast Rust Based Agent Workspace `pillar:patterns` `score:0.205`
 - [[show-hn-visual-workspace-for-agents-based-on-unix.md]] Show HN: Visual Workspace for Agents Based on Unix `pillar:patterns` `score:0.295`
 - [[show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md]] Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves `pillar:patterns` `score:0.33`
 - [[show-hn-vt-code-open-source-terminal-coding-agent-in-rust.md]] Show HN: VT Code – open-source terminal coding agent in Rust `pillar:patterns` `score:0.26`
@@ -4877,6 +4878,7 @@
 - [[tesseract-ocrtesseract.md]] tesseract-ocr/tesseract `pillar:ecosystem` `score:0.58`
 - [[texas-grid-flags-risks-as-data-centers-crypto-sites-fail-voltage-tests.md]] Texas grid flags risks as data centers, crypto sites fail voltage tests `pillar:ecosystem` `score:0.345`
 - [[the-8220father-of-the-internet8221-is-finally-retiring.md]] The &#8220;Father of the Internet&#8221; is finally retiring `pillar:ecosystem` `score:0.375`
+- [[the-ai-cost-of-javascript-frameworks.md]] The AI cost of JavaScript frameworks `pillar:ecosystem` `score:0.255`
 - [[the-american-rebellion-against-ai-is-gaining-steam.md]] The American Rebellion Against AI Is Gaining Steam `pillar:ecosystem` `score:0.41`
 - [[the-anthropic-physical-intelligence-rumor-roiling-ai-twitter.md]] The Anthropic-Physical Intelligence rumor roiling AI Twitter `pillar:ecosystem` `score:0.48`
 - [[the-arguments-against-open-source-ai-are-bad.md]] The arguments against open source AI are bad `pillar:ecosystem` `score:0.55`
