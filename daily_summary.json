@@ -1,8 +1,8 @@
 {
   "daily_summary": {
-    "date": "2026-10-31",
-    "headline": "今日 AI 情报 · 2026-10-31",
-    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "date": "2026-11-01",
+    "headline": "今日 AI 情报 · 2026-11-01",
+    "overview": "AI商业动态：资本与市场持续升温",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,55 +10,11 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "ai-isnt-replacing-sres-its-deskilling-them",
-            "title": "AI isn't replacing SREs, it's deskilling them",
+            "id": "serbia-just-elected-the-worlds-brainiest-parliament",
+            "title": "Serbia just elected the world's brainiest parliament",
             "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50305693",
+            "url": "https://news.ycombinator.com/item?id=50314654",
             "reason": "高价值信号"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "📱 产品模式",
-        "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
-        "evidence": [
-          {
-            "id": "zest8217s-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
-            "title": "Zest&#8217;s new AI agent finds restaurants and books reservations ove",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/30/zests-new-ai-agent-finds-restaurants-and-books-reservations-over-text/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "from-extreme-weather-to-agricultural-consequences-with-agentic-ai",
-            "title": "From extreme weather to agricultural consequences with agentic AI",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2610.40641v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "show-hn-sketch-stadium-watch-your-agent-play-pictionary",
-            "title": "Show HN: Sketch Stadium – watch your agent play Pictionary",
-            "score": 0.15,
-            "url": "https://news.ycombinator.com/item?id=50305218",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：融资/投资, 基础设施。",
-        "evidence": [
-          {
-            "id": "theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-8216a-great-opport",
-            "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-            "reason": "里程碑式进展"
           }
         ],
         "trend": "new"
@@ -66,13 +22,13 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "今日💰 商业趋势方向有新的动态。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "anthropic-expected-to-receive-high-8216junk8217-rating-from-credit-agencies-foll",
-            "title": "Anthropic expected to receive high &#8216;junk&#8217; rating from cred",
+            "id": "openai-reportedly-lowers-funding-target-for-new-round",
+            "title": "OpenAI reportedly lowers funding target for new round",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/10/30/anthropic-expected-to-receive-high-junk-rating-from-credit-agencies-following-ipo-report-says/",
+            "url": "https://techcrunch.com/2026/10/31/openai-reportedly-lowers-funding-target-for-new-round/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -81,194 +37,86 @@
     ],
     "narratives": [
       {
-        "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Last-minute Halloween costumes for tech , Zest&#8217;s new AI agent finds restaura, From extreme weather to agricultural con。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-        "type": "paradigm_shift",
-        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
-      },
-      {
-        "title": "AI工具链从通用走向垂直专业化",
-        "body": "今日1条情报涉及AI工具链与基础设施。包括：Cracks are emerging in the AI spending b。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-        "type": "maturation",
-        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
-      },
-      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：Theranos whistleblower Tyler Shultz warn。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日1条情报涉及AI商业动态。包括：OpenAI reportedly lowers funding target 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 29 | 📱 产品模式: 8 | 🔧 工具生态: 3 | 💰 商业趋势: 1",
-    "total_items": 41,
-    "high_value_count": 36,
+    "stats": "🤖 技术能力: 16 | 💰 商业趋势: 1",
+    "total_items": 17,
+    "high_value_count": 12,
     "all_today_ids": [
       {
-        "id": "ai-isnt-replacing-sres-its-deskilling-them",
-        "label": "AI isn't replacing SREs, it's deskilling them"
+        "id": "serbia-just-elected-the-worlds-brainiest-parliament",
+        "label": "Serbia just elected the world's brainiest parliament"
       },
       {
-        "id": "us-reps-lead-democratic-resolution-opposing-ai-bubble-bailout-for-big-tech",
-        "label": "US Reps Lead Democratic Resolution Opposing A.I. Bubble Bailout for Big Tech"
+        "id": "anthropic-blocks-users-for-anything-touching-training-larger-models",
+        "label": "Anthropic blocks users for anything touching training larger models"
       },
       {
-        "id": "backdoor-in-claude-code-for-vs-code-extension-on-the-cursor-marketplace",
-        "label": "Backdoor in Claude Code for VS Code extension on the Cursor Marketplace"
+        "id": "do-the-math-how-we-took-over-chatgpt-accounts",
+        "label": "Do the math: How we took over ChatGPT accounts"
       },
       {
-        "id": "through-captain-jean-luc-picard-patrick-stewart-taught-us-the-measure-of-a-man",
-        "label": "Through Captain Jean-Luc Picard, Patrick Stewart taught us the measure of a man"
+        "id": "malware-uses-llms-to-rank-victims-by-how-much-theyre-worth",
+        "label": "Malware uses LLMs to rank victims by how much they're worth"
       },
       {
-        "id": "cisco-gives-engineer-unlimited-ai-tokens-to-rewrite-legacy-code",
-        "label": "Cisco gives engineer unlimited AI tokens to rewrite legacy code"
+        "id": "anthropic-takes-steps-to-block-claude-from-reverse-engineering-video-games",
+        "label": "Anthropic takes steps to block Claude from reverse-engineering video games"
       },
       {
-        "id": "cherryhqcherry-studio",
-        "label": "CherryHQ/cherry-studio"
+        "id": "memdoor-a-team-of-5-qwen38-27b-models-beats-fable-5-on-livecodebench-hard",
+        "label": "Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard"
       },
       {
-        "id": "building-an-ai-native-engineering-org",
-        "label": "Building an AI-native engineering org"
+        "id": "we-took-over-chatgpt-accounts",
+        "label": "We Took over ChatGPT Accounts"
       },
       {
-        "id": "pico-css-is-no-longer-maintained",
-        "label": "Pico CSS is no longer maintained"
+        "id": "ai-lean-and-the-future-of-formal-verification-with-lean-creator-leo-de-moura",
+        "label": "AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura"
       },
       {
-        "id": "show-hn-i-turned-doom-into-a-transformer",
-        "label": "Show HN: I Turned DOOM into a Transformer"
+        "id": "judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward",
+        "label": "Judge allows NAACP lawsuit over xAI data center pollution to move forward"
       },
       {
-        "id": "last-minute-halloween-costumes-for-tech-nerds",
-        "label": "Last-minute Halloween costumes for tech nerds"
+        "id": "openai-reportedly-lowers-funding-target-for-new-round",
+        "label": "OpenAI reportedly lowers funding target for new round"
       },
       {
-        "id": "doordash-said-it8217s-only-received-8216several-hundred8217-orders-from-ai-agent",
-        "label": "DoorDash said it&#8217;s only received &#8216;several hundred&#8217; orders from"
+        "id": "apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake",
+        "label": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’"
       },
       {
-        "id": "skip-the-small-talk-make-game-changing-connections-at-techcrunch-founder-summit",
-        "label": "Skip the small talk: Make game-changing connections at TechCrunch Founder Summit"
+        "id": "4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections",
+        "label": "4 days left: How TechCrunch Founder Summit helps you make more useful connection"
       },
       {
-        "id": "theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-8216a-great-opport",
-        "label": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a great opp"
+        "id": "chatgpt-and-codex-usage-limits-merging",
+        "label": "ChatGPT and Codex usage limits merging"
       },
       {
-        "id": "can-ai-data-centers-be-mass-produced-like-cars-this-startup-aims-to-find-out",
-        "label": "Can AI data centers be mass-produced like cars? This startup aims to find out"
+        "id": "leaking-secrets-from-air-gap-computers-by-spelling-radio-signals-from-ram-2024",
+        "label": "Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024)"
       },
       {
-        "id": "zest8217s-new-ai-agent-finds-restaurants-and-books-reservations-over-text",
-        "label": "Zest&#8217;s new AI agent finds restaurants and books reservations over text"
+        "id": "show-hn-jointter-a-daily-word-puzzle-using-dots-and-lines",
+        "label": "Show HN: Jointter – A daily word puzzle using dots and lines"
       },
       {
-        "id": "ollie-a-privacy-focused-ai-assistant-is-shutting-down",
-        "label": "Ollie, a privacy-focused AI assistant, is shutting down"
+        "id": "show-hn-a-language-model-that-lives-in-a-boot-sector",
+        "label": "Show HN: A language model that lives in a boot sector"
       },
       {
-        "id": "ao3-down-for-maintenance",
-        "label": "AO3 Down for Maintenance"
-      },
-      {
-        "id": "anthropic-expected-to-receive-high-8216junk8217-rating-from-credit-agencies-foll",
-        "label": "Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencie"
-      },
-      {
-        "id": "you-don8217t-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai",
-        "label": "You don&#8217;t need to believe in a god to get a religious exemption from using"
-      },
-      {
-        "id": "cracks-are-emerging-in-the-ai-spending-boom",
-        "label": "Cracks are emerging in the AI spending boom"
-      },
-      {
-        "id": "nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia",
-        "label": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia"
-      },
-      {
-        "id": "a-pig-the-state-and-war-porco-rosso-kurenai-no-buta-2014",
-        "label": "A Pig, the State, and War: Porco Rosso (Kurenai No Buta) (2014)"
-      },
-      {
-        "id": "google8217s-first-data-center-satellite-is-online-and-writing-poetry",
-        "label": "Google&#8217;s first data center satellite is online and writing poetry"
-      },
-      {
-        "id": "intel8217s-stock-crashes-knocking-12b-from-government8217s-stake",
-        "label": "Intel&#8217;s stock crashes, knocking $12B from government&#8217;s stake"
-      },
-      {
-        "id": "when-to-assist-and-what-to-suggest-joint-gating-and-memory-grounded-hint-generat",
-        "label": "When to Assist and What to Suggest: Joint Gating and Memory-Grounded Hint Genera"
-      },
-      {
-        "id": "propose-filter-release-scaling-noise-to-typical-sensitivity-via-private-filterin",
-        "label": "Propose-Filter-Release: Scaling Noise to Typical Sensitivity via Private Filteri"
-      },
-      {
-        "id": "probing-spatial-state-representations-in-visual-foundation-models",
-        "label": "Probing Spatial State Representations in Visual Foundation Models"
-      },
-      {
-        "id": "adaptive-scenario-generation-for-kl-dro-around-a-learned-density-model",
-        "label": "Adaptive Scenario Generation for KL-DRO Around a Learned Density Model"
-      },
-      {
-        "id": "from-extreme-weather-to-agricultural-consequences-with-agentic-ai",
-        "label": "From extreme weather to agricultural consequences with agentic AI"
-      },
-      {
-        "id": "luggage-re-identification-a-study-of-strategies-towards-a-real-world-application",
-        "label": "Luggage re-identification: A study of strategies towards a real-world applicatio"
-      },
-      {
-        "id": "textseal2-distortion-free-llm-watermarking-with-copula-mixing-and-memoryless-rac",
-        "label": "TextSeal2: Distortion-Free LLM Watermarking with Copula Mixing and Memoryless Ra"
-      },
-      {
-        "id": "read-allocate-route-role-coupled-tokenization-for-pixel-space-generative-transfo",
-        "label": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Tran"
-      },
-      {
-        "id": "world2vec-mechanistic-world-models-through-latent-dynamics-learning",
-        "label": "world2vec: Mechanistic world models through latent dynamics learning"
-      },
-      {
-        "id": "difficulty-calibration-across-time-for-membership-inference-in-diffusion-models",
-        "label": "Difficulty Calibration Across Time for Membership Inference in Diffusion Models"
-      },
-      {
-        "id": "rethinking-neural-thickets-without-weight-perturbations",
-        "label": "Rethinking Neural Thickets Without Weight Perturbations"
-      },
-      {
-        "id": "an-ode-based-sampler-for-discrete-diffusion-models",
-        "label": "An ODE-based Sampler for Discrete Diffusion Models"
-      },
-      {
-        "id": "artificial-analysis-v5-and-the-benchmarkers-dilemma",
-        "label": "Artificial Analysis v5 and the benchmarker's dilemma"
-      },
-      {
-        "id": "show-hn-sketch-stadium-watch-your-agent-play-pictionary",
-        "label": "Show HN: Sketch Stadium – watch your agent play Pictionary"
-      },
-      {
-        "id": "show-hn-spinf-serve-inference-server-for-bulk-scoring-and-decisions",
-        "label": "Show HN: Spinf-serve – inference server for bulk scoring and decisions"
-      },
-      {
-        "id": "northflank-breached",
-        "label": "Northflank Breached"
-      },
-      {
-        "id": "some-thing-is-happening-a-note-from-the-ai-companies",
-        "label": "Some Thing is Happening A note from the AI companies"
+        "id": "ai-text-watermarking-and-quality-loss",
+        "label": "AI text watermarking and quality loss"
       }
     ],
-    "date_bj": "2026-10-31 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-10-31 18:01:53"
+    "date_bj": "2026-11-01 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-01 16:03:08"
   }
 }

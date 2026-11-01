@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-10-31 | Total pages: 5633
+> Last updated: 2026-11-01 | Total pages: 5650
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -22,6 +22,7 @@
 - [[30paperscom-ilyas-30-essential-ml-papers-in-a-beginner-friendly-format.md]] 30papers.com – Ilya's 30 essential ML papers, in a beginner friendly format `pillar:capabilities` `score:0.46`
 - [[32gb-of-ddr5-now-costs-375-ai-shortage-continues-to-squeeze-pc-building.md]] 32GB of DDR5 now costs $375 – AI shortage continues to squeeze PC building `pillar:capabilities` `score:0.515`
 - [[3d-printed-book-turns-its-own-g-code-into-raised-lettering.md]] 3D-printed book turns its own G-code into raised lettering `pillar:capabilities` `score:0.395`
+- [[4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections.md]] 4 days left: How TechCrunch Founder Summit helps you make more useful connection `pillar:capabilities` `score:0.305`
 - [[4-days-left-to-exhibit-at-techcrunch-disrupt-2026.md]] 4 days left to exhibit at TechCrunch Disrupt 2026 `pillar:capabilities` `score:0.305`
 - [[4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026.md]] 4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026 `pillar:capabilities` `score:0.305`
 - [[44-on-arc-agi-1-in-67-cents.md]] 44% on ARC-AGI-1 in 67 cents `pillar:capabilities` `score:0.405`
@@ -146,6 +147,7 @@
 - [[ai-isnt-replacing-sres-its-deskilling-them.md]] AI isn't replacing SREs, it's deskilling them `pillar:capabilities` `score:0.505`
 - [[ai-kill-switch-may-need-to-be-mandatory-anthropic-co-founder-tells-bbc.md]] AI 'kill switch' may need to be mandatory, Anthropic co-founder tells BBC `pillar:capabilities` `score:0.275`
 - [[ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off.md]] AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off `pillar:capabilities` `score:0.305`
+- [[ai-lean-and-the-future-of-formal-verification-with-lean-creator-leo-de-moura.md]] AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura `pillar:capabilities` `score:0.305`
 - [[ai-learns-the-dark-art-of-rfic-design.md]] AI learns the “dark art” of RFIC design `pillar:capabilities` `score:0.495`
 - [[ai-mania-from-tulips-to-tokens.md]] AI Mania: From Tulips to Tokens `pillar:capabilities` `score:0.205`
 - [[ai-meets-cryptography-1-what-ai-found-in-cloudflares-circl.md]] AI Meets Cryptography 1: What AI Found in Cloudflare's Circl `pillar:capabilities` `score:0.38`
@@ -162,6 +164,7 @@
 - [[ai-safety-is-mostly-a-sex-cult.md]] AI Safety Is Mostly a Sex Cult `pillar:capabilities` `score:0.255`
 - [[ai-search-startups-are-blowing-up.md]] AI search startups are blowing up `pillar:capabilities` `score:0.515`
 - [[ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warnin.md]] AI spend per employee slumped at top firms in August — summer doldrums or a warn `pillar:capabilities` `score:0.305`
+- [[ai-text-watermarking-and-quality-loss.md]] AI text watermarking and quality loss `pillar:capabilities` `score:0.155`
 - [[ai-tools-and-transformation.md]] AI, Tools and Transformation `pillar:capabilities` `score:0.255`
 - [[ai-tools-are-only-as-good-as-your-judgment.md]] AI tools are only as good as your judgment `pillar:capabilities` `score:0.43`
 - [[ai-will-be-used-to-estimate-age-of-asylum-seekers-from-next-year.md]] AI will be used to estimate age of asylum seekers from next year `pillar:capabilities` `score:0.345`
@@ -222,6 +225,7 @@
 - [[anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026.md]] Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026 `pillar:capabilities` `score:0.305`
 - [[anthropic-apologizes-for-invisible-claude-fable-guardrails.md]] Anthropic apologizes for invisible Claude Fable guardrails `pillar:capabilities` `score:0.63`
 - [[anthropic-assigned-highest-junk-credit-rating-in-june.md]] Anthropic assigned highest junk credit rating in June `pillar:capabilities` `score:0.405`
+- [[anthropic-blocks-users-for-anything-touching-training-larger-models.md]] Anthropic blocks users for anything touching training larger models `pillar:capabilities` `score:0.425`
 - [[anthropic-ceo-outlines-plan-to-pace-the-frontier.md]] Anthropic CEO outlines plan to ‘pace the frontier’ `pillar:capabilities` `score:0.305`
 - [[anthropic-changes-usage-policy-to-ban-model-abuse-and-election-interference.md]] Anthropic changes usage policy to ban model abuse and election interference `pillar:capabilities` `score:0.305`
 - [[anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek.md]] Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek `pillar:capabilities` `score:0.305`
@@ -247,6 +251,7 @@
 - [[anthropic-says-its-own-ai-models-breached-three-companies-during-security-tests.md]] Anthropic says its own AI models breached three companies during security tests `pillar:capabilities` `score:0.515`
 - [[anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in.md]] Anthropic says its workforce has become less junior and is spending more time in `pillar:capabilities` `score:0.305`
 - [[anthropic-scales-claude-mythos-to-critical-infrastructure-in-15-countries.md]] Anthropic scales Claude Mythos  to critical infrastructure in 15+ countries `pillar:capabilities` `score:0.515`
+- [[anthropic-takes-steps-to-block-claude-from-reverse-engineering-video-games.md]] Anthropic takes steps to block Claude from reverse-engineering video games `pillar:capabilities` `score:0.355`
 - [[anthropic-trained-claude-on-illegally-obtained-stanford-professors-books.md]] Anthropic trained Claude on illegally obtained Stanford professors' books `pillar:capabilities` `score:0.505`
 - [[anthropic8217s-claude-fable-5-is-a-version-of-mythos-the-public-can-access-today.md]] Anthropic&#8217;s Claude Fable 5 is a version of Mythos the public can access to `pillar:capabilities` `score:0.48`
 - [[anthropic8217s-dario-amodei-gets-the-snl-treatment.md]] Anthropic&#8217;s Dario Amodei gets the SNL treatment `pillar:capabilities` `score:0.305`
@@ -267,6 +272,7 @@
 - [[ao3-down-for-maintenance.md]] AO3 Down for Maintenance `pillar:capabilities` `score:0.305`
 - [[apple-caught-off-guard-by-ai-demand-for-mac-mini-and-mac-studio.md]] Apple caught off guard by AI demand for Mac Mini and Mac Studio `pillar:capabilities` `score:0.455`
 - [[apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone.md]] Apple CEO John Ternus says the best AI device is still the iPhone `pillar:capabilities` `score:0.305`
+- [[apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake.md]] Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’ `pillar:capabilities` `score:0.305`
 - [[apple-discloses-deal-to-hire-team-and-license-tech-from-personalized-podcast-sta.md]] Apple discloses deal to hire team and license tech from personalized podcast sta `pillar:capabilities` `score:0.305`
 - [[apple-foundation-models.md]] Apple Foundation Models `pillar:capabilities` `score:0.48`
 - [[apple-gives-siri-its-own-dedicated-app.md]] Apple gives Siri its own dedicated app `pillar:capabilities` `score:0.445`
@@ -421,6 +427,7 @@
 - [[characterai-enters-the-microdrama-arena-with-its-own-productions-but-there8217s.md]] Character.AI enters the microdrama arena with its own productions, but there&#82 `pillar:capabilities` `score:0.48`
 - [[characterai-has-initiated-voluntary-chapter-11-bankruptcy.md]] Character.ai has initiated voluntary Chapter 11 bankruptcy `pillar:capabilities` `score:0.455`
 - [[chat-based-large-language-models-replicate-the-mechanisms-of-a-psychics-con.md]] Chat-based Large Language Models replicate the mechanisms of a psychic's con `pillar:capabilities` `score:0.375`
+- [[chatgpt-and-codex-usage-limits-merging.md]] ChatGPT and Codex usage limits merging `pillar:capabilities` `score:0.255`
 - [[chatgpt-images-25.md]] ChatGPT Images 2.5 `pillar:capabilities` `score:0.455`
 - [[chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons.md]] ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons `pillar:capabilities` `score:0.455`
 - [[chatgpt-is-getting-a-lot-more-visual-with-the-launch-of-a-new-interface.md]] ChatGPT is getting a lot more visual, with the launch of a new interface `pillar:capabilities` `score:0.305`
@@ -595,6 +602,7 @@
 - [[disrupting-supply-chain-attacks-on-npm-and-github-actions.md]] Disrupting supply chain attacks on NPM and GitHub Actions `pillar:capabilities` `score:0.38`
 - [[diy-bipedal-robot-used-pneumatic-air-muscles-instead-of-motors.md]] DIY Bipedal Robot Used Pneumatic "Air-Muscles" Instead of Motors `pillar:capabilities` `score:0.275`
 - [[dmarc-has-been-public-since-2012-684-of-domains-still-dont-enforce-it.md]] DMARC Has Been Public Since 2012. 68.4% of Domains Still Don't Enforce It `pillar:capabilities` `score:0.445`
+- [[do-the-math-how-we-took-over-chatgpt-accounts.md]] Do the math: How we took over ChatGPT accounts `pillar:capabilities` `score:0.425`
 - [[do-transformers-need-three-projections-systematic-study-of-qkv-variants.md]] Do transformers need three projections? Systematic study of QKV variants `pillar:capabilities` `score:0.445`
 - [[do-you-hate-xml-2010.md]] Do you hate XML? (2010) `pillar:capabilities` `score:0.255`
 - [[docling-projectdocling.md]] docling-project/docling `pillar:capabilities` `score:0.615`
@@ -1087,6 +1095,7 @@
 - [[jingyaogongminimind-v.md]] jingyaogong/minimind-v `pillar:capabilities` `score:0.53`
 - [[jingyaogongminimind.md]] jingyaogong/minimind `pillar:capabilities` `score:0.545`
 - [[john-jumper-to-join-anthropic.md]] John Jumper to join Anthropic `pillar:capabilities` `score:0.48`
+- [[judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward.md]] Judge allows NAACP lawsuit over xAI data center pollution to move forward `pillar:capabilities` `score:0.305`
 - [[judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps.md]] Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps `pillar:capabilities` `score:0.305`
 - [[judge-rules-trump-administrations-blacklisting-of-anthropic-was-illegal.md]] Judge rules Trump administration’s blacklisting of Anthropic was illegal `pillar:capabilities` `score:0.455`
 - [[juliusbrusseecaveman.md]] JuliusBrussee/caveman `pillar:capabilities` `score:0.455`
@@ -1142,6 +1151,7 @@
 - [[lawmakers-added-1-to-car-insurance-policies-that-money-paid-for-flock-cameras.md]] Lawmakers added $1 to car insurance policies. That money paid for Flock cameras `pillar:capabilities` `score:0.355`
 - [[lawmakers-demand-answers-as-cisa-tries-to-contain-data-leak.md]] Lawmakers Demand Answers as CISA Tries to Contain Data Leak `pillar:capabilities` `score:0.31`
 - [[laya-os-jev-on-mac-m4-coreml-offline-45-decisions-per-second.md]] Laya (OS Jev) on Mac M4 CoreML Offline (45 decisions per second) `pillar:capabilities` `score:0.305`
+- [[leaking-secrets-from-air-gap-computers-by-spelling-radio-signals-from-ram-2024.md]] Leaking Secrets from Air-Gap Computers by Spelling Radio Signals from RAM (2024) `pillar:capabilities` `score:0.255`
 - [[learn-programming-with-ocaml.md]] Learn Programming with OCaml `pillar:capabilities` `score:0.355`
 - [[learning-another-language-may-be-one-of-the-best-ways-to-keep-your-brain-healthy.md]] Learning Another Language May Be One of the Best Ways to Keep Your Brain Healthy `pillar:capabilities` `score:0.205`
 - [[learning-programming-in-an-age-of-llms.md]] Learning Programming in an Age of LLMs `pillar:capabilities` `score:0.375`
@@ -1211,6 +1221,7 @@
 - [[making-sense-of-the-panic-over-chinese-ai.md]] Making sense of the panic over Chinese AI `pillar:capabilities` `score:0.48`
 - [[making-tailscale-faster.md]] Making Tailscale Faster `pillar:capabilities` `score:0.355`
 - [[making-the-buddha-head-from-merv-whole-again.md]] Making the Buddha Head from Merv Whole Again `pillar:capabilities` `score:0.155`
+- [[malware-uses-llms-to-rank-victims-by-how-much-theyre-worth.md]] Malware uses LLMs to rank victims by how much they're worth `pillar:capabilities` `score:0.425`
 - [[mamdani-bans-ai-in-nyc-schools.md]] Mamdani Bans AI in NYC Schools `pillar:capabilities` `score:0.375`
 - [[marimo-teammarimo.md]] marimo-team/marimo `pillar:capabilities` `score:0.58`
 - [[mark-wahlberg-on-using-ai-in-film-8216the-right-way8217-and-being-open-to-an-ai.md]] Mark Wahlberg on using AI in film &#8216;the right way&#8217; and being open to `pillar:capabilities` `score:0.305`
@@ -1222,6 +1233,7 @@
 - [[mecka-ai-nears-500m-valuation-in-sequoia-led-deal-amid-rush-for-robot-training-d.md]] Mecka AI nears $500M valuation in Sequoia-led deal amid rush for robot training `pillar:capabilities` `score:0.305`
 - [[meet-the-next-wave-of-vcs-judging-startup-battlefield-200-at-techcrunch-disrupt.md]] Meet the next wave of VCs judging Startup Battlefield 200 at TechCrunch Disrupt `pillar:capabilities` `score:0.305`
 - [[meet-the-startup-battlefield-200-judges-wholl-decide-the-winner-at-techcrunch-di.md]] Meet the Startup Battlefield 200 judges who’ll decide the winner at TechCrunch D `pillar:capabilities` `score:0.305`
+- [[memdoor-a-team-of-5-qwen38-27b-models-beats-fable-5-on-livecodebench-hard.md]] Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard `pillar:capabilities` `score:0.355`
 - [[mercury-25-llm-hits-770-tokens-per-second.md]] Mercury 2.5 LLM hits 770 tokens per second `pillar:capabilities` `score:0.355`
 - [[mercury-3-diffusion-at-scale.md]] Mercury 3: Diffusion at scale `pillar:capabilities` `score:0.405`
 - [[mesh-llm-distributed-ai-computing-on-iroh.md]] Mesh LLM: distributed AI computing on iroh `pillar:capabilities` `score:0.48`
@@ -1694,6 +1706,7 @@
 - [[self-powered-trailers-promise-leaner-freight-runs.md]] Self-Powered Trailers Promise Leaner Freight Runs `pillar:capabilities` `score:0.33`
 - [[semiconductor-lifeline-keeps-fighter-jets-in-the-air.md]] Semiconductor Lifeline Keeps Fighter Jets in the Air `pillar:capabilities` `score:0.275`
 - [[senior-swe-bench-open-source-benchmark-that-assesses-agents-as-senior-engineers.md]] Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers `pillar:capabilities` `score:0.48`
+- [[serbia-just-elected-the-worlds-brainiest-parliament.md]] Serbia just elected the world's brainiest parliament `pillar:capabilities` `score:0.505`
 - [[setting-up-your-spare-mac-for-claude-code-to-control-a-step-by-step-guide.md]] Setting up your spare Mac for Claude Code to control, a step-by-step guide `pillar:capabilities` `score:0.515`
 - [[several-linux-kernel-vulnerabilities-accidentally-posted-to-public-mailing-list.md]] Several Linux kernel vulnerabilities accidentally posted to public mailing list `pillar:capabilities` `score:0.355`
 - [[sex-ai-and-the-apocalypse.md]] Sex, AI, and the Apocalypse `pillar:capabilities` `score:0.355`
@@ -1710,6 +1723,7 @@
 - [[show-hn-a-competition-for-small-neural-networks-that-play-strategy-games.md]] Show HN: A competition for small neural networks that play strategy games `pillar:capabilities` `score:0.255`
 - [[show-hn-a-dark-cave-minimalistic-graphics-in-the-age-of-ai-slop.md]] Show HN: A Dark Cave – Minimalistic Graphics in the Age of AI Slop `pillar:capabilities` `score:0.295`
 - [[show-hn-a-graph-paper-generator-that-renders-vector-pdfs-in-the-browser.md]] Show HN: A graph paper generator that renders vector PDFs in the browser `pillar:capabilities` `score:0.12`
+- [[show-hn-a-language-model-that-lives-in-a-boot-sector.md]] Show HN: A language model that lives in a boot sector `pillar:capabilities` `score:0.205`
 - [[show-hn-a-new-kind-of-fps-aim-trainer.md]] Show HN: A new kind of FPS aim trainer `pillar:capabilities` `score:0.345`
 - [[show-hn-a-techno-machine-in-one-html-file-with-verifiable-renders.md]] Show HN: A techno machine in one HTML file, with verifiable renders `pillar:capabilities` `score:0.305`
 - [[show-hn-a-working-3d-model-of-an-enigma-machine.md]] Show HN: A working 3D model of an Enigma machine `pillar:capabilities` `score:0.155`
@@ -1816,6 +1830,7 @@
 - [[show-hn-jevman-ai-decision-models-play-pac-man.md]] Show HN: Jevman – AI decision models play Pac-Man `pillar:capabilities` `score:0.205`
 - [[show-hn-jevstiller-distill-jev-into-a-local-model-with-a-disagreement-bound.md]] Show HN: Jevstiller – Distill Jev into a local model, with a disagreement bound `pillar:capabilities` `score:0.205`
 - [[show-hn-jigsaw-haiku.md]] Show HN: Jigsaw Haiku `pillar:capabilities` `score:0.255`
+- [[show-hn-jointter-a-daily-word-puzzle-using-dots-and-lines.md]] Show HN: Jointter – A daily word puzzle using dots and lines `pillar:capabilities` `score:0.205`
 - [[show-hn-juggler-an-open-source-gui-coding-agent-by-the-creator-of-juce.md]] Show HN: Juggler – an open-source GUI coding agent, by the creator of JUCE `pillar:capabilities` `score:0.465`
 - [[show-hn-kern-container-and-resource-runtime-in-a-15-mb-binary-no-daemon.md]] Show HN: Kern – container and resource runtime in a 1.5 MB binary, no daemon `pillar:capabilities` `score:0.205`
 - [[show-hn-kinesis-control-your-mac-with-the-meta-neural-band.md]] Show HN: Kinesis – Control your Mac with the Meta Neural Band `pillar:capabilities` `score:0.305`
@@ -2303,6 +2318,7 @@
 - [[we-let-ais-run-radio-stations.md]] We let AIs run radio stations `pillar:capabilities` `score:0.48`
 - [[we-made-grok-45-gpt-55-and-claude-build-the-same-apps.md]] We made Grok 4.5, GPT-5.5, and Claude build the same apps `pillar:capabilities` `score:0.515`
 - [[we-should-be-more-tired-than-the-model.md]] We should be more tired than the model `pillar:capabilities` `score:0.41`
+- [[we-took-over-chatgpt-accounts.md]] We Took over ChatGPT Accounts `pillar:capabilities` `score:0.355`
 - [[we-turned-embeddinggemma-2-into-a-speech-to-text-model.md]] We turned EmbeddingGemma 2 into a speech-to-text model `pillar:capabilities` `score:0.405`
 - [[we8217re-dangerously-close-to-dead-internet-theory-says-pangram8217s-ceo.md]] We&#8217;re ‘dangerously close’ to dead internet theory, says Pangram&#8217;s CE `pillar:capabilities` `score:0.305`
 - [[webllm-high-performance-in-browser-llm-inference-engine.md]] WebLLM: high-performance in-browser LLM inference engine `pillar:capabilities` `score:0.205`
@@ -5404,6 +5420,7 @@
 - [[openai-proposed-donating-5-of-its-equity-to-a-us-sovereign-wealth-fund.md]] OpenAI proposed donating 5% of its equity to a US sovereign wealth fund `pillar:business` `score:0.445`
 - [[openai-pushes-back-on-apple-trade-secret-lawsuit.md]] OpenAI pushes back on Apple trade secret lawsuit `pillar:business` `score:0.305`
 - [[openai-reportedly-in-talks-to-raise-30b-round-at-14t-valuation.md]] OpenAI reportedly in talks to raise $30B round at $1.4T valuation `pillar:business` `score:0.305`
+- [[openai-reportedly-lowers-funding-target-for-new-round.md]] OpenAI reportedly lowers funding target for new round `pillar:business` `score:0.305`
 - [[openai-repotedly-in-talks-to-raise-30b-round-at-14t-valuation.md]] OpenAI repotedly in talks to raise $30B round at $1.4T valuation `pillar:business` `score:0.305`
 - [[openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued.md]] OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued `pillar:business` `score:0.445`
 - [[openai-submits-s-1-draft-to-sec.md]] OpenAI Submits S-1 Draft to SEC `pillar:business` `score:0.45`

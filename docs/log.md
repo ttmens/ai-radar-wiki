@@ -5920,3 +5920,19 @@
 
 ## [2026-10-31 18:02] sync v3 | 1 new | pillars: {'patterns': 1}
 - create: cherryhqcherry-studio.md
+
+## [2026-11-01 16:03] sync v3 | 16 new | pillars: {'capabilities': 15, 'business': 1}
+- create: memdoor-a-team-of-5-qwen38-27b-models-beats-fable-5-on-livecodebench-hard.md
+- create: leaking-secrets-from-air-gap-computers-by-spelling-radio-signals-from-ram-2024.md
+- create: chatgpt-and-codex-usage-limits-merging.md
+- create: do-the-math-how-we-took-over-chatgpt-accounts.md
+- create: anthropic-blocks-users-for-anything-touching-training-larger-models.md
+- create: ai-text-watermarking-and-quality-loss.md
+- create: show-hn-a-language-model-that-lives-in-a-boot-sector.md
+- create: anthropic-takes-steps-to-block-claude-from-reverse-engineering-video-games.md
+- create: malware-uses-llms-to-rank-victims-by-how-much-theyre-worth.md
+- create: apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake.md
+- create: 4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections.md
+- create: judge-allows-naacp-lawsuit-over-xai-data-center-pollution-to-move-forward.md
+- create: openai-reportedly-lowers-funding-target-for-new-round.md
+- create: show-hn-jointter-a-daily-word-puzzle-using-dots-and-lines.md
