@@ -5948,3 +5948,20 @@
 - create: it-wasnt-ai-that-flipped-protons-charge.md
 - create: openai-might-rebrand-its-data-centers-as-ai-compute-campuses.md
 - create: ai-can-make-tech-ceos-lives-easier-what-about-everyone-else.md
+
+## [2026-11-02 20:03] sync v3 | 16 new | pillars: {'capabilities': 15, 'patterns': 1}
+- create: latent-reasoning-in-continuous-space-for-unified-multimodal-models.md
+- create: latent-sparse-attention-towards-subquadratic-ultra-long-context-attention.md
+- create: hierarchical-world-models-with-implicit-dynamics.md
+- create: roboarchitect-automating-the-design-of-robotic-agents-with-persistent-memory.md
+- create: counting-on-dummies-privacy-amplification-with-observable-counts-and-truncated-b.md
+- create: a-better-critic-matters-for-distribution-matching-distillation.md
+- create: instance-dependent-sequential-limits-as-an-exact-information-ledger.md
+- create: physiological-trajectories-and-observation-patterns-in-icu-mortality-prediction.md
+- create: gradient-descent-on-two-relu-neurons-global-landscape-and-bifurcation-dynamics.md
+- create: fast-privacy-loss-accounting-for-random-allocation-via-multiscale-fft.md
+- create: acct-asymmetric-cross-llm-context-transfer.md
+- create: subquadratic-attention-with-a-hierarchical-tree-structured-indexer.md
+- create: bones-may-release-proteins-that-slow-aging-and-extend-life-span.md
+- create: chinas-first-frontier-ai-export-controls-mofcom-announcement-no-48.md
+- create: i-am-the-reason-openai-is-killing-unlimited-chats.md

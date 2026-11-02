@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-11-02 | Total pages: 5663
+> Last updated: 2026-11-02 | Total pages: 5678
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -379,6 +379,7 @@
 - [[bluesky-expands-its-ai-powered-attie-app-to-let-anyone-build-websites-games-and.md]] Bluesky expands its AI-powered Attie app to let anyone build websites, games, an `pillar:capabilities` `score:0.305`
 - [[bmad-code-orgbmad-method.md]] bmad-code-org/BMAD-METHOD `pillar:capabilities` `score:0.405`
 - [[boffin-claims-microsofts-quantum-leap-is-invalid-due-to-basic-python-errors.md]] Boffin claims Microsoft’s “quantum leap” is invalid due to “basic Python errors” `pillar:capabilities` `score:0.53`
+- [[bones-may-release-proteins-that-slow-aging-and-extend-life-span.md]] Bones may release proteins that slow aging and extend life span `pillar:capabilities` `score:0.305`
 - [[bonsai-2-27b-near-lossless-compression-in-a-9x-smaller-footprint.md]] Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint `pillar:capabilities` `score:0.305`
 - [[bonsai-27b-a-27b-class-model-that-runs-on-a-phone.md]] Bonsai 27B: A 27B-Class model that runs on a phone `pillar:capabilities` `score:0.615`
 - [[book-of-shapes-collection-of-minimal-generative-and-customizable-svg-patterns.md]] Book of Shapes – Collection of minimal, generative and customizable SVG-patterns `pillar:capabilities` `score:0.305`
@@ -442,6 +443,7 @@
 - [[cheaper-faster-and-culturally-aware-avataar8217s-video-ai-is-built-for-india8217.md]] Cheaper, faster, and culturally aware, Avataar&#8217;s video AI is built for Ind `pillar:capabilities` `score:0.445`
 - [[check-if-a-file-was-made-with-claude.md]] Check if a file was made with Claude `pillar:capabilities` `score:0.375`
 - [[chicago-ohare-digs-up-50-ton-boulder-under-airfield-asks-public-for-name-ideas.md]] Chicago O'Hare digs up 50-ton boulder under airfield, asks public for name ideas `pillar:capabilities` `score:0.355`
+- [[chinas-first-frontier-ai-export-controls-mofcom-announcement-no-48.md]] China's First Frontier AI Export Controls: Mofcom Announcement No. 48 `pillar:capabilities` `score:0.255`
 - [[chinese-cybercrime-operation-that-used-ai-to-scam-8216hundreds-of-thousands-of-v.md]] Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands o `pillar:capabilities` `score:0.445`
 - [[chrome-again-exempts-google-from-user-site-data-settings.md]] Chrome again exempts Google from user site data settings `pillar:capabilities` `score:0.255`
 - [[chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscap.md]] Chrome is now shipping updates every 2 weeks as AI changes the security landscap `pillar:capabilities` `score:0.305`
@@ -978,6 +980,7 @@
 - [[hybrid-reasoning-agents-llm-agents-that-think-in-latent-space-act-through-text.md]] Hybrid Reasoning Agents: LLM agents that think in latent space, act through text `pillar:capabilities` `score:0.255`
 - [[hyundai-buys-boston-dynamics.md]] Hyundai buys Boston Dynamics `pillar:capabilities` `score:0.645`
 - [[i-admire-fabrice-bellard-he-is-almost-certainly-a-better-overall-programmer.md]] I admire Fabrice Bellard. He is almost certainly a better overall programmer `pillar:capabilities` `score:0.54`
+- [[i-am-the-reason-openai-is-killing-unlimited-chats.md]] I Am the Reason OpenAI Is Killing Unlimited Chats `pillar:capabilities` `score:0.255`
 - [[i-built-a-low-latency-ai-companion-that-plays-skyrim-with-me.md]] I built a low-latency AI companion that plays Skyrim with me `pillar:capabilities` `score:0.305`
 - [[i-built-a-programming-language-that-llms-cant-use.md]] I built a programming language that LLMs can't use `pillar:capabilities` `score:0.425`
 - [[i-built-a-tool-to-track-what-ai-leaders-say-and-how-their-views-change-on-video.md]] I built a tool to track what AI leaders say and how their views change on video `pillar:capabilities` `score:0.205`
@@ -2450,6 +2453,7 @@
 - [[4d-hof-hand-object-flow-matching-for-feed-forward-4d-interaction-reconstruction.md]] 4D-HOF: Hand-Object Flow Matching for Feed-Forward 4D Interaction Reconstruction `pillar:capabilities` `score:0.305`
 - [[4dr360-state-reasoning-for-joint-3d-detection-and-occupancy-prediction-in-4d-rad.md]] 4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Ra `pillar:capabilities` `score:0.395`
 - [[a-balanced-data-diet-addressing-the-exploration-bottleneck-in-mega-scale-rl-for.md]] A Balanced Data Diet: Addressing the Exploration Bottleneck in Mega-Scale RL for `pillar:capabilities` `score:0.305`
+- [[a-better-critic-matters-for-distribution-matching-distillation.md]] A Better Critic Matters for Distribution Matching Distillation `pillar:capabilities` `score:0.255`
 - [[a-blueprint-for-equilibrium-based-differentiable-continuous-variable-thermodynam.md]] A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynam `pillar:capabilities` `score:0.43`
 - [[a-chosen-future-can-still-be-rewritten-causal-writability-in-video-models.md]] A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models `pillar:capabilities` `score:0.305`
 - [[a-common-measure-of-communication-for-speech-brain-computer-interfaces.md]] A Common Measure of Communication for Speech Brain-Computer Interfaces `pillar:capabilities` `score:0.305`
@@ -2472,6 +2476,7 @@
 - [[a-welding-penetration-prediction-model-for-laser-welding-process-based-on-self-s.md]] A welding penetration prediction model for laser welding process based on self-s `pillar:capabilities` `score:0.445`
 - [[a-zeroth-order-paradigm-for-llm-preference-alignment.md]] A Zeroth-Order Paradigm for LLM Preference Alignment `pillar:capabilities` `score:0.305`
 - [[accelerated-decentralized-stochastic-gradient-descent-for-strongly-convex-optimi.md]] Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimi `pillar:capabilities` `score:0.395`
+- [[acct-asymmetric-cross-llm-context-transfer.md]] ACCT: Asymmetric Cross-LLM Context Transfer `pillar:capabilities` `score:0.255`
 - [[accuracy-and-satisfaction-in-multi-turn-llm-dialogues-for-nfr-assessment.md]] Accuracy and Satisfaction in Multi-Turn LLM Dialogues for NFR Assessment `pillar:capabilities` `score:0.48`
 - [[accurate-interdisciplinary-and-transparent-structure-property-understanding-with.md]] Accurate, Interdisciplinary and Transparent Structure-property Understanding wit `pillar:capabilities` `score:0.48`
 - [[across-design-uncertainty-in-short-pricing-panels-evidence-from-simulated-price.md]] Across-Design Uncertainty in Short Pricing Panels: Evidence from Simulated Price `pillar:capabilities` `score:0.255`
@@ -2655,6 +2660,7 @@
 - [[cost-augmented-schrödinger-bridges-on-graphs-are-exactly-solvable-a-feynman-kac.md]] Cost-augmented Schrödinger bridges on graphs are exactly solvable: a Feynman-Kac `pillar:capabilities` `score:0.305`
 - [[cost-aware-abstention-for-llm-based-it-ticket-classification.md]] Cost-Aware Abstention for LLM-Based IT Ticket Classification `pillar:capabilities` `score:0.305`
 - [[cottonleafvision-an-explainable-and-robust-deep-learning-framework-for-cotton-le.md]] CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton L `pillar:capabilities` `score:0.395`
+- [[counting-on-dummies-privacy-amplification-with-observable-counts-and-truncated-b.md]] Counting on Dummies: Privacy Amplification with Observable Counts and Truncated `pillar:capabilities` `score:0.255`
 - [[cowam-coordination-contracts-for-selective-policy-intervention-with-wams.md]] CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs `pillar:capabilities` `score:0.305`
 - [[cropland-patterns-parallel-dimensional-attention-networks-and-attention-to-datas.md]] Cropland PAtteRNS: Parallel Dimensional Attention Networks and Attention to Data `pillar:capabilities` `score:0.305`
 - [[csf-contextual-safety-filtering-for-motion-generators.md]] CSF: Contextual Safety Filtering for Motion Generators `pillar:capabilities` `score:0.305`
@@ -2777,6 +2783,7 @@
 - [[fame-failure-aware-mixture-of-experts-for-message-level-log-anomaly-detection.md]] FAME: Failure-Aware Mixture-of-Experts for Message-Level Log Anomaly Detection `pillar:capabilities` `score:0.515`
 - [[famos-feed-forward-3d-articulation-modeling-from-sparse-observations.md]] FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations `pillar:capabilities` `score:0.305`
 - [[fast-byte-latent-transformer.md]] Fast Byte Latent Transformer `pillar:capabilities` `score:0.255`
+- [[fast-privacy-loss-accounting-for-random-allocation-via-multiscale-fft.md]] Fast Privacy Loss Accounting for Random Allocation via Multiscale FFT `pillar:capabilities` `score:0.255`
 - [[fathom-vaidya-advancing-medical-reasoning-with-rubric-based-rewards.md]] Fathom-Vaidya: Advancing Medical Reasoning with Rubric-Based Rewards `pillar:capabilities` `score:0.305`
 - [[fde-gym-the-last-mile-of-ai-delivery.md]] FDE-Gym: The Last Mile of AI Delivery `pillar:capabilities` `score:0.305`
 - [[fedlab-traceable-semantic-codebooks-for-federated-multimodal-graph-foundation-le.md]] FedLAB: Traceable Semantic Codebooks for Federated Multimodal Graph Foundation L `pillar:capabilities` `score:0.48`
@@ -2840,6 +2847,7 @@
 - [[gpu-parallel-linearization-error-bounds-for-real-time-robust-optimal-control-of.md]] GPU-Parallel Linearization Error Bounds for Real-Time Robust Optimal Control of `pillar:capabilities` `score:0.48`
 - [[gq-fsl-green-quantized-federated-split-learning.md]] GQ-FSL: Green Quantized Federated Split Learning `pillar:capabilities` `score:0.43`
 - [[gradcuit-credit-assigned-gradient-flow-enables-robust-and-interpretable-test-tim.md]] GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Ti `pillar:capabilities` `score:0.445`
+- [[gradient-descent-on-two-relu-neurons-global-landscape-and-bifurcation-dynamics.md]] Gradient Descent on Two ReLU Neurons: Global Landscape and Bifurcation Dynamics `pillar:capabilities` `score:0.255`
 - [[grading-the-grader-lessons-from-evaluating-an-agentic-data-analysis-system.md]] Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System `pillar:capabilities` `score:0.445`
 - [[gradsolve-fast-exact-gradients-for-ode-ensembles-on-gpus.md]] GRADSOLVE: fast exact gradients for ODE ensembles on GPUs `pillar:capabilities` `score:0.305`
 - [[graph-convolutional-attention-a-spectral-perspective-on-graph-denoising-and-diff.md]] Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Dif `pillar:capabilities` `score:0.445`
@@ -2901,6 +2909,7 @@
 - [[information-theoretic-secure-aggregation-with-heterogeneous-client-quantization.md]] Information-Theoretic Secure Aggregation With Heterogeneous Client Quantization `pillar:capabilities` `score:0.305`
 - [[input-aware-dynamic-backdoor-attack-against-quantum-neural-networks.md]] Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks `pillar:capabilities` `score:0.41`
 - [[inside-the-unfair-judge-a-mechanistic-interpretability-account-of-llm-as-judge-b.md]] Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge `pillar:capabilities` `score:0.48`
+- [[instance-dependent-sequential-limits-as-an-exact-information-ledger.md]] Instance-dependent sequential limits as an exact information ledger `pillar:capabilities` `score:0.255`
 - [[instructmesh-selective-refinement-of-generative-3d-models-for-fabrication.md]] InstructMesh: Selective Refinement of Generative 3D Models for Fabrication `pillar:capabilities` `score:0.255`
 - [[integrable-elasticity-via-neural-demand-potentials.md]] Integrable Elasticity via Neural Demand Potentials `pillar:capabilities` `score:0.48`
 - [[interpretable-computer-vision-for-defect-detection-in-x-ray-tomography-of-aerosp.md]] Interpretable Computer Vision for Defect Detection in X-ray Tomography of Aerosp `pillar:capabilities` `score:0.48`
@@ -2937,6 +2946,8 @@
 - [[language-models-need-sleep.md]] Language Models Need Sleep `pillar:capabilities` `score:0.48`
 - [[latcomm-reusable-context-compression-for-latent-communication-between-large-lang.md]] LatComm: Reusable Context Compression for Latent Communication between Large Lan `pillar:capabilities` `score:0.305`
 - [[latent-compaction-with-test-time-training.md]] Latent Compaction with Test-Time Training `pillar:capabilities` `score:0.305`
+- [[latent-reasoning-in-continuous-space-for-unified-multimodal-models.md]] Latent Reasoning in Continuous Space for Unified Multimodal Models `pillar:capabilities` `score:0.255`
+- [[latent-sparse-attention-towards-subquadratic-ultra-long-context-attention.md]] Latent Sparse Attention: Towards Subquadratic Ultra-Long Context Attention `pillar:capabilities` `score:0.255`
 - [[layer-equivalence-is-not-a-property-of-layers-alone-how-you-test-redundancy-chan.md]] Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Cha `pillar:capabilities` `score:0.395`
 - [[lbi-parallel-scan-backpropagation-via-latent-bounded-interf.md]] LBI: Parallel Scan Backpropagation via Latent Bounded Interfaces `pillar:capabilities` `score:0.255`
 - [[lcguard-latent-communication-guard-for-safe-kv-sharing-in-multi-agent-systems.md]] LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems `pillar:capabilities` `score:0.515`
@@ -3131,6 +3142,7 @@
 - [[physicalworld-in-context-physics-calibration-for-world-models.md]] PhysiCalWorld: In-Context Physics Calibration for World Models `pillar:capabilities` `score:0.305`
 - [[physics-constrained-deep-learning-model-for-contactless-blood-pressure-monitorin.md]] Physics-Constrained Deep Learning Model for Contactless Blood Pressure Monitorin `pillar:capabilities` `score:0.305`
 - [[physics-is-all-you-need-a-case-study-in-physicist-supervised-ai-development-of-s.md]] Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of `pillar:capabilities` `score:0.305`
+- [[physiological-trajectories-and-observation-patterns-in-icu-mortality-prediction.md]] Physiological Trajectories and Observation Patterns in ICU Mortality Prediction: `pillar:capabilities` `score:0.255`
 - [[physstream-streaming-physics-grounded-video-generation-with-structured-scene-mem.md]] PhysStream: Streaming Physics-Grounded Video Generation with Structured Scene Me `pillar:capabilities` `score:0.305`
 - [[pictura-perspective-view-self-play-at-scale-for-driving.md]] Pictura: Perspective-View Self-Play at Scale for Driving `pillar:capabilities` `score:0.445`
 - [[pion-a-spectrum-preserving-optimizer-via-orthogonal-equival.md]] Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation `pillar:capabilities` `score:0.41`
@@ -3241,6 +3253,7 @@
 - [[rmisc-a-large-scale-real-world-multivariate-corpus-for-time-series-foundation-mo.md]] RMISC: A Large-scale Real-world Multivariate Corpus for Time Series Foundation M `pillar:capabilities` `score:0.305`
 - [[rmuscle-robotic-muscle-memory-for-efficient-vision-language-action-model-inferen.md]] rMuscle: Robotic Muscle Memory for Efficient Vision-Language-Action Model Infere `pillar:capabilities` `score:0.305`
 - [[rnadyn-a-benchmark-for-generating-and-understanding-rna-dynamics.md]] RNADyn: A Benchmark for Generating and Understanding RNA Dynamics `pillar:capabilities` `score:0.255`
+- [[roboarchitect-automating-the-design-of-robotic-agents-with-persistent-memory.md]] RoboArchitect: Automating the Design of Robotic Agents with Persistent Memory `pillar:capabilities` `score:0.255`
 - [[robojepa-scaling-robotic-latent-world-models.md]] RoboJEPA: Scaling Robotic Latent World Models `pillar:capabilities` `score:0.305`
 - [[robottt-context-scaling-for-robot-policies.md]] RoboTTT: Context Scaling for Robot Policies `pillar:capabilities` `score:0.48`
 - [[robust-pac-learning-of-concurrent-stochastic-games.md]] Robust PAC Learning of Concurrent Stochastic Games `pillar:capabilities` `score:0.305`
@@ -3324,6 +3337,7 @@
 - [[stride-training-data-attribution-via-sparse-recovery-from-subset-perturbations.md]] STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations `pillar:capabilities` `score:0.445`
 - [[structured-memory-for-edge-language-models-persistent-context-and-corpus-retriev.md]] Structured Memory for Edge Language Models: Persistent Context and Corpus Retrie `pillar:capabilities` `score:0.48`
 - [[structuring-and-tokenizing-distributed-user-interest-context-for-generative-reco.md]] Structuring and Tokenizing Distributed User Interest Context for Generative Reco `pillar:capabilities` `score:0.48`
+- [[subquadratic-attention-with-a-hierarchical-tree-structured-indexer.md]] Subquadratic Attention with a Hierarchical Tree-Structured Indexer `pillar:capabilities` `score:0.255`
 - [[sun-persistent-programs-for-language-grounded-control-to-learning-to-real-polici.md]] SUN: Persistent Programs For Language-Grounded Control-to-Learning-to-Real Polic `pillar:capabilities` `score:0.305`
 - [[super-weights-in-llms-and-the-failure-of-selective-training.md]] Super Weights in LLMs and the Failure of Selective Training `pillar:capabilities` `score:0.445`
 - [[superintelligent-retrieval-agent-the-next-frontier-of-infor.md]] Superintelligent Retrieval Agent: The Next Frontier of Information Retrieval `pillar:capabilities` `score:0.515`
@@ -4401,6 +4415,7 @@
 - [[gating-before-commitment-anticipating-intent-divergence-to-prevent-post-interact.md]] Gating Before Commitment: Anticipating Intent Divergence to Prevent Post-Interac `pillar:patterns` `score:0.305`
 - [[gbclaw-an-agentic-ai-framework-for-atomistic-grain-boundary-research-and-mechani.md]] GBClaw: An agentic AI framework for atomistic grain boundary research and mechan `pillar:patterns` `score:0.305`
 - [[gricea-an-open-science-platform-for-conversational-ai-research.md]] Gricea: An Open Science Platform for Conversational AI Research `pillar:patterns` `score:0.255`
+- [[hierarchical-world-models-with-implicit-dynamics.md]] Hierarchical World Models with Implicit Dynamics `pillar:patterns` `score:0.255`
 - [[history-anchors-how-prior-behavior-steers-llm-decisions-toward-unsafe-actions.md]] History Anchors: How Prior Behavior Steers LLM Decisions Toward Unsafe Actions `pillar:patterns` `score:0.48`
 - [[how-ai-agents-reshape-knowledge-work-autonomy-efficiency-and-scope.md]] How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope `pillar:patterns` `score:0.465`
 - [[i-hitl-inalienable-human-in-the-loop.md]] I-HITL: Inalienable Human-in-the-Loop `pillar:patterns` `score:0.305`

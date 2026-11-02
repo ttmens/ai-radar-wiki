@@ -1,7 +1,7 @@
 {
   "date": "2026-11-02",
-  "generated_at": "2026-11-02T06:02:34.904650+08:00",
-  "item_count": 6,
+  "generated_at": "2026-11-02T20:03:48.231864+08:00",
+  "item_count": 7,
   "items": [
     {
       "id": "it-wasnt-ai-that-flipped-protons-charge",
@@ -48,6 +48,17 @@
       "date": "2026-11-02"
     },
     {
+      "id": "bones-may-release-proteins-that-slow-aging-and-extend-life-span",
+      "label": "Bones may release proteins that slow aging and extend life span",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50331957",
+      "date": "2026-11-02"
+    },
+    {
       "id": "openai-might-rebrand-its-data-centers-as-ai-compute-campuses",
       "label": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
       "summary": "Data centers are deeply unpopular. But what if we called them something else?",
@@ -71,7 +82,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 10078,
-    "edges": 11128
+    "real_nodes": 10093,
+    "edges": 11150
   }
 }
