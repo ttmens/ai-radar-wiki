@@ -5965,3 +5965,33 @@
 - create: bones-may-release-proteins-that-slow-aging-and-extend-life-span.md
 - create: chinas-first-frontier-ai-export-controls-mofcom-announcement-no-48.md
 - create: i-am-the-reason-openai-is-killing-unlimited-chats.md
+
+## [2026-11-03 16:06] sync v3 | 28 new | pillars: {'ecosystem': 5, 'capabilities': 19, 'patterns': 2, 'business': 2}
+- create: pixel-umi-learning-environment-aware-whole-body-manipulation-from-sensorized-hum.md
+- create: pixel-a-co-designed-full-stack-robot-system-for-learning-general-purpose-mobile.md
+- create: from-natural-language-to-exact-cover-a-neuro-symbolic-approach-to-zebra-puzzles.md
+- create: webharbor-docking-real-websites-for-evolving-gui-agent-environments.md
+- create: pretraining-data-scale-reverses-the-muon-adamw-fine-tuning-gap.md
+- create: not-all-reasoning-generalizes-a-case-study-on-learning-generalizable-reasoning-s.md
+- create: fade-factored-ability-difficulty-filtering-for-online-rlvr-scheduling.md
+- create: thought-deciphering-via-hierarchical-eeg-to-text-alignment.md
+- create: da-decoupling-description-and-assessment-enables-vlms-as-zero-shot-robotic-rewar.md
+- create: strategist-evolving-reasoning-with-agents.md
+- create: tracing-the-scientific-discovery-capacity-of-llms-to-their-training-data.md
+- create: benchmark-prediction-with-sparse-and-unpaired-cached-responses.md
+- create: scaling-git-at-openai.md
+- create: launch-hn-momentic-yc-w24-agents-that-catch-bugs-by-using-your-app.md
+- create: egoless-mathematics-in-the-ai-era.md
+- create: the-sec-should-block-anthropics-ipo-to-protect-the-public.md
+- create: c64-basic-dungeon-crawler-stairs-levels-and-levelling-up-part-11.md
+- create: longcat-25-native-multimodality-for-agentic-tasks.md
+- create: apple-watch8217s-ai-features-for-rewinding-and-recapping-conversations-begin-bet.md
+- create: google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-t.md
+- create: apple-may-try-to-increase-revenue-by-doing8230something-with-third-party-ai-apps.md
+- create: y-combinator8217s-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-o.md
+- create: trajectory-raises-45m-to-make-ai-model-training-accessible-to-nontechnical-exper.md
+- create: anthropic-warns-that-it8217s-very-close-to-rsi-capability-aka-self-building-ai.md
+- create: web-host-squarespace-lays-off-19-of-its-employees.md
+- create: new-york-times-and-other-outlets-sue-web-browser-brave-over-alleged-content-scra.md
+- create: 42ai-comes-out-of-stealth-with-625m-and-a-world-model-that-can-8216predict-human.md
+- create: elon-musk-throttles-grok-bot-limits-due-to-8216unsustainably-high8217-costs.md
