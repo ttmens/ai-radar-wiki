@@ -6032,3 +6032,5 @@
 - create: anthropic-is-still-grappling-with-the-economics-of-compute.md
 - create: google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search.md
 - create: show-hn-interactive-notes-on-rlhf-attention-lora-and-llm-evals.md
+
+## [2026-11-04 18:01] sync v3 | 0 new | pillars: {}
