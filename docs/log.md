@@ -5997,3 +5997,38 @@
 - create: elon-musk-throttles-grok-bot-limits-due-to-8216unsustainably-high8217-costs.md
 
 ## [2026-11-03 18:01] sync v3 | 0 new | pillars: {}
+
+## [2026-11-04 16:06] sync v3 | 35 new | pillars: {'capabilities': 28, 'patterns': 2, 'ecosystem': 4, 'business': 1}
+- create: dreamx-video-diffusion-model-is-a-universal-latent-action-learner.md
+- create: from-autonomous-agents-to-cognitive-symbionts-toward-ai-augmented-human-intellig.md
+- create: aligning-language-models-with-general-preferences-an-empirical-study-of-direct-n.md
+- create: policyik-high-precision-inverse-kinematics-for-robot-arms-with-reinforcement-lea.md
+- create: guild-guided-iterative-data-collection-for-imitation-learning.md
+- create: suppressing-misaligned-behaviors-in-language-models-durably.md
+- create: reading-why-born-measured-attention-with-exact-word-evidence-on-light-and-qubits.md
+- create: agnostic-learning-by-imitating.md
+- create: adversarial-speculative-reasoning-improves-long-horizon-agents.md
+- create: a-circuit-for-in-context-learning.md
+- create: weight-space-programming-for-auditing-clinical-decision-networks.md
+- create: medphysbench-a-benchmark-for-evaluating-language-models-on-medical-physics-calcu.md
+- create: jailbreaking-my-cars-navigation-system-just-so-i-can-change-the-time.md
+- create: show-hn-uncracked-city-detective-game-where-you-question-llm-suspects-that-lie.md
+- create: qwen-38-27b-on-my-laptop-can-interpret-model-weights-too.md
+- create: were-training-a-figma-fluent-editing-model.md
+- create: postman-silently-auto-installs-ai-plugins-and-attempts-to-share-all-api-data.md
+- create: how-i-use-ai-oct-2026.md
+- create: the-little-book-of-generative-ai-foundations-an-intuitive-mathematical-primer.md
+- create: there-is-no-posttraining-data-commons.md
+- create: show-hn-kairos-open-source-risk-and-fraud-decisioning-platform.md
+- create: openai-seems-to-be-silently-re-enabling-model-training-on-codex-chats.md
+- create: usdb-scaling-storage-for-next-generation-recommender-systems-at-bytedance.md
+- create: google-will-turn-off-search-for-schools-that-reject-ai.md
+- create: anthropic-is-working-on-a-system-to-prove-ai-models8217-identity.md
+- create: data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows.md
+- create: ted-schlein8217s-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybe.md
+- create: hiding-inside-palantir8217s-skyrocketing-quarter-is-a-foreboding-signal.md
+- create: ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges.md
+- create: netflix8217s-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your.md
+- create: anthropic-is-still-grappling-with-the-economics-of-compute.md
+- create: google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search.md
+- create: show-hn-interactive-notes-on-rlhf-attention-lora-and-llm-evals.md

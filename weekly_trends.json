@@ -1,33 +1,33 @@
 {
-  "generated_at": "2026-11-03T18:01:47.504016+08:00",
-  "days_analyzed": 161,
+  "generated_at": "2026-11-04T16:06:01.603135+08:00",
+  "days_analyzed": 162,
   "pillar_trends": {
     "capabilities": {
-      "trend": "up",
-      "delta": 2,
-      "current": 3,
-      "previous": 1,
+      "trend": "down",
+      "delta": -2,
+      "current": 1,
+      "previous": 3,
       "has_data": true
     },
     "patterns": {
-      "trend": "up",
-      "delta": 2,
-      "current": 3,
-      "previous": 1,
+      "trend": "down",
+      "delta": -2,
+      "current": 1,
+      "previous": 3,
       "has_data": true
     },
     "ecosystem": {
-      "trend": "up",
-      "delta": 1,
+      "trend": "stable",
+      "delta": 0,
       "current": 1,
-      "previous": 0,
+      "previous": 1,
       "has_data": true
     },
     "business": {
-      "trend": "up",
-      "delta": 1,
+      "trend": "stable",
+      "delta": 0,
       "current": 1,
-      "previous": 0,
+      "previous": 1,
       "has_data": true
     }
   },
@@ -2149,7 +2149,8 @@
         "2026-10-30",
         "2026-10-31",
         "2026-11-01",
-        "2026-11-03"
+        "2026-11-03",
+        "2026-11-04"
       ],
       "instances": [
         {
@@ -3283,6 +3284,22 @@
               "pillar": "patterns"
             }
           ]
+        },
+        {
+          "date": "2026-11-04",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日1条情报涉及AI商业动态。包括：AI inference startup Fal doubles its val。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "hiding-inside-palantir8217s-skyrocketing-quarter-is-a-foreboding-signal",
+              "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding si",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "business"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -3311,7 +3328,8 @@
         "2026-10-07",
         "2026-10-09",
         "2026-10-13",
-        "2026-10-28"
+        "2026-10-28",
+        "2026-11-04"
       ],
       "instances": [
         {
@@ -3701,6 +3719,22 @@
               "title": "Anthropic trained Claude on illegally obtained Stanford professors' bo",
               "score": 0.51,
               "url": "https://news.ycombinator.com/item?id=50260814",
+              "reason": "高价值信号",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-04",
+          "title": "AI安全与信任正成为规模化部署的关键挑战",
+          "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Jailbreaking my car's navigation system , Adversarial Speculative Reasoning Improv。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
+          "type": "bottleneck",
+          "evidence": [
+            {
+              "id": "google-will-turn-off-search-for-schools-that-reject-ai",
+              "title": "Google will turn off search for schools that reject AI",
+              "score": 0.51,
+              "url": "https://news.ycombinator.com/item?id=50353192",
               "reason": "高价值信号",
               "pillar": "capabilities"
             }
@@ -4391,7 +4425,13 @@
       "lifecycle": "emerging"
     }
   ],
-  "contradictions": [],
+  "contradictions": [
+    {
+      "date": "2026-11-04",
+      "type": "growth_vs_risk",
+      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
+    }
+  ],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-11-03**（161天），累计 **4538** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势；📱 产品模式呈上升趋势；🔧 工具生态呈上升趋势；💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-11-04**（162天），累计 **4579** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }
