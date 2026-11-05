@@ -6034,3 +6034,42 @@
 - create: show-hn-interactive-notes-on-rlhf-attention-lora-and-llm-evals.md
 
 ## [2026-11-04 18:01] sync v3 | 0 new | pillars: {}
+
+## [2026-11-05 16:05] sync v3 | 39 new | pillars: {'ecosystem': 6, 'capabilities': 27, 'patterns': 6}
+- create: a-framework-for-context-enrichment-and-selective-robustness-in-llm-social-agents.md
+- create: flowreconbench-accuracy-calibration-and-cost-of-learned-and-classical-flow-recon.md
+- create: beaker-an-expert-curated-benchmark-for-embodied-brains-in-self-driving-chemical.md
+- create: frontierphysics-evaluating-agents-for-end-to-end-physics-research.md
+- create: perceptive-humanoid-motion-from-simulation.md
+- create: reinforcement-learning-enables-scaling-generalist-robot-policy-improvement.md
+- create: occlusion-for-free-detecting-occlusion-from-the-disagreement-between-two-monocul.md
+- create: dull-dirty-dangerous-working-conditions-and-the-limits-of-occupational-ai-exposu.md
+- create: adaptive-multi-mode-budget-aware-routing-of-optimizers-by-online-landscape-probe.md
+- create: learning-to-decode-linear-codes-with-generalized-belief-propagation-network.md
+- create: on-turn-level-best-of-n-sampling-for-scaling-llm-agents.md
+- create: counterfactual-retrieval-for-evidence-aware-individual-animal-identification.md
+- create: kimi-k31-pro-model-weights-are-out.md
+- create: ripple-65b-preview-us-open-weight-sota-on-agentic-coding.md
+- create: ask-hn-whats-your-current-ai-agentic-setup.md
+- create: qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-card-with-128gb-at-548gbs.md
+- create: progress-on-provable-inference-for-large-language-models.md
+- create: launch-hn-kino-ai-yc-s23-ai-media-manager-and-video-editor.md
+- create: openai-to-acquire-pierre-computer-company.md
+- create: its-just-vape-nail-charity-shops-can-anything-save-uk-high-street.md
+- create: basically-no-one-is-using-ai-agents-for-their-doordash-orders.md
+- create: ycs-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens.md
+- create: from-wild-to-mild-friendly-foxes-show-changes-in-brain-region.md
+- create: american-voters-overwhelmingly-reject-ai-data-centers.md
+- create: apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage.md
+- create: after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming.md
+- create: ai-pacs-spent-millions-trying-to-shape-congress-here8217s-how-they-fared.md
+- create: nothing-ceo-says-company8217s-mysterious-ai-first-device-is-dropping-next-month.md
+- create: almost-no-one-uses-ai-agents-to-book-their-uber-company-says.md
+- create: openai-is-already-trying-to-shape-the-2028-election.md
+- create: meta-acquires-ai-coding-startup-conductor.md
+- create: open-source-ai-is-booming-hugging-face-explains-who-profits.md
+- create: duckduckgo-pitches-itself-to-schools-amid-backlash-over-google8217s-ai-policy.md
+- create: building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-tra.md
+- create: i-tried-apple8217s-siri-recaps-they8217re-surprisingly-useful-and-a-little-unset.md
+- create: google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restr.md
+- create: show-hn-unclickbait-replace-clickbait-youtube-thumbnails.md

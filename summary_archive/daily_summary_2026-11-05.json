@@ -1,0 +1,271 @@
+{
+  "daily_summary": {
+    "date": "2026-11-05",
+    "headline": "今日 AI 情报 · 2026-11-05",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 融资/投资。",
+        "evidence": [
+          {
+            "id": "ycs-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+            "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on",
+            "score": 0.33,
+            "url": "https://news.ycombinator.com/item?id=50366971",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "frontierphysics-evaluating-agents-for-end-to-end-physics-research",
+            "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.06910v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent, 模型能力。",
+        "evidence": [
+          {
+            "id": "ask-hn-whats-your-current-ai-agentic-setup",
+            "title": "Ask HN: What's your current AI agentic setup?",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50366117",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "ripple-65b-preview-us-open-weight-sota-on-agentic-coding",
+            "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50369925",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "basically-no-one-is-using-ai-agents-for-their-doordash-orders",
+            "title": "Basically no one is using AI agents for their DoorDash orders",
+            "score": 0.41,
+            "url": "https://news.ycombinator.com/item?id=50338474",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+            "title": "Almost no one uses AI agents to book their Uber, company says",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "open-source-ai-is-booming-hugging-face-explains-who-profits",
+            "title": "Open source AI is booming. Hugging Face explains who profits.",
+            "score": 0.3,
+            "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日6条情报涉及AI Agent及相关工具生态。典型项目包括：Ask HN: What's your current AI agentic s, Ripple-65B Preview: U.S. Open-Weight SOT, Basically no one is using AI agents for 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：CounterFactual Retrieval for Evidence-Aw。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 30 | 📱 产品模式: 6 | 🔧 工具生态: 6",
+    "total_items": 42,
+    "high_value_count": 37,
+    "all_today_ids": [
+      {
+        "id": "ai-is-forcing-us-to-pay-off-40-years-of-technical-debt",
+        "label": "AI is forcing us to pay off 40 years of technical debt"
+      },
+      {
+        "id": "ask-hn-whats-your-current-ai-agentic-setup",
+        "label": "Ask HN: What's your current AI agentic setup?"
+      },
+      {
+        "id": "geoffrey-hinton-it-might-turn-out-we-were-better-off-without-ai",
+        "label": "Geoffrey Hinton: it might turn out we were better off without AI"
+      },
+      {
+        "id": "kimi-k31-pro-model-weights-are-out",
+        "label": "Kimi K3.1 Pro model weights are out"
+      },
+      {
+        "id": "nvidia-rtx-spark-encrypted-firmware-slows-inference-speed-to-35-on-linux",
+        "label": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux"
+      },
+      {
+        "id": "ripple-65b-preview-us-open-weight-sota-on-agentic-coding",
+        "label": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding"
+      },
+      {
+        "id": "progress-on-provable-inference-for-large-language-models",
+        "label": "Progress on provable inference for large language models"
+      },
+      {
+        "id": "its-just-vape-nail-charity-shops-can-anything-save-uk-high-street",
+        "label": "'It's just vape, nail, charity shops': Can anything save UK high street?"
+      },
+      {
+        "id": "basically-no-one-is-using-ai-agents-for-their-doordash-orders",
+        "label": "Basically no one is using AI agents for their DoorDash orders"
+      },
+      {
+        "id": "tell-hn-gemini-trains-on-chat-history-even-for-subscribers-personal-accounts",
+        "label": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)"
+      },
+      {
+        "id": "openai-to-acquire-pierre-computer-company",
+        "label": "OpenAI to acquire Pierre Computer Company"
+      },
+      {
+        "id": "qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-card-with-128gb-at-548gbs",
+        "label": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s"
+      },
+      {
+        "id": "ycs-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+        "label": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens"
+      },
+      {
+        "id": "almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+        "label": "Almost no one uses AI agents to book their Uber, company says"
+      },
+      {
+        "id": "meta-acquires-ai-coding-startup-conductor",
+        "label": "Meta acquires AI coding startup Conductor"
+      },
+      {
+        "id": "after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+        "label": "After the midterms, a bigger clash over data centers could be coming"
+      },
+      {
+        "id": "nothing-ceo-says-company8217s-mysterious-ai-first-device-is-dropping-next-month",
+        "label": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next mon"
+      },
+      {
+        "id": "open-source-ai-is-booming-hugging-face-explains-who-profits",
+        "label": "Open source AI is booming. Hugging Face explains who profits."
+      },
+      {
+        "id": "duckduckgo-pitches-itself-to-schools-amid-backlash-over-google8217s-ai-policy",
+        "label": "DuckDuckGo pitches itself to schools amid backlash over Google&#8217;s AI policy"
+      },
+      {
+        "id": "google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restr",
+        "label": "Google faces backlash for plan that would turn off Search for schools that restr"
+      },
+      {
+        "id": "openai-is-already-trying-to-shape-the-2028-election",
+        "label": "OpenAI is already trying to shape the 2028 election"
+      },
+      {
+        "id": "i-tried-apple8217s-siri-recaps-they8217re-surprisingly-useful-and-a-little-unset",
+        "label": "I tried Apple&#8217;s Siri Recaps. They&#8217;re surprisingly useful — and a lit"
+      },
+      {
+        "id": "building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-tra",
+        "label": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and"
+      },
+      {
+        "id": "ai-pacs-spent-millions-trying-to-shape-congress-here8217s-how-they-fared",
+        "label": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared"
+      },
+      {
+        "id": "apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+        "label": "Apple is reportedly cutting budgets for its internal AI usage"
+      },
+      {
+        "id": "flowreconbench-accuracy-calibration-and-cost-of-learned-and-classical-flow-recon",
+        "label": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow rec"
+      },
+      {
+        "id": "a-framework-for-context-enrichment-and-selective-robustness-in-llm-social-agents",
+        "label": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents"
+      },
+      {
+        "id": "counterfactual-retrieval-for-evidence-aware-individual-animal-identification",
+        "label": "CounterFactual Retrieval for Evidence-Aware Individual Animal Identification"
+      },
+      {
+        "id": "occlusion-for-free-detecting-occlusion-from-the-disagreement-between-two-monocul",
+        "label": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocu"
+      },
+      {
+        "id": "on-turn-level-best-of-n-sampling-for-scaling-llm-agents",
+        "label": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents"
+      },
+      {
+        "id": "dull-dirty-dangerous-working-conditions-and-the-limits-of-occupational-ai-exposu",
+        "label": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exp"
+      },
+      {
+        "id": "adaptive-multi-mode-budget-aware-routing-of-optimizers-by-online-landscape-probe",
+        "label": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Prob"
+      },
+      {
+        "id": "reinforcement-learning-enables-scaling-generalist-robot-policy-improvement",
+        "label": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement"
+      },
+      {
+        "id": "frontierphysics-evaluating-agents-for-end-to-end-physics-research",
+        "label": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research"
+      },
+      {
+        "id": "beaker-an-expert-curated-benchmark-for-embodied-brains-in-self-driving-chemical",
+        "label": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical"
+      },
+      {
+        "id": "perceptive-humanoid-motion-from-simulation",
+        "label": "Perceptive Humanoid Motion from Simulation"
+      },
+      {
+        "id": "learning-to-decode-linear-codes-with-generalized-belief-propagation-network",
+        "label": "Learning to Decode Linear Codes with Generalized Belief Propagation Network"
+      },
+      {
+        "id": "launch-hn-kino-ai-yc-s23-ai-media-manager-and-video-editor",
+        "label": "Launch HN: Kino AI (YC S23) – AI media manager and video editor"
+      },
+      {
+        "id": "from-wild-to-mild-friendly-foxes-show-changes-in-brain-region",
+        "label": "From wild to mild: Friendly foxes show changes in brain region"
+      },
+      {
+        "id": "show-hn-unclickbait-replace-clickbait-youtube-thumbnails",
+        "label": "Show HN: Unclickbait – Replace clickbait YouTube thumbnails"
+      },
+      {
+        "id": "jaron-lanier-on-parallels-between-ai-and-social-media",
+        "label": "Jaron Lanier on parallels between AI and social media"
+      },
+      {
+        "id": "american-voters-overwhelmingly-reject-ai-data-centers",
+        "label": "American Voters Overwhelmingly Reject AI Data Centers"
+      }
+    ],
+    "date_bj": "2026-11-05 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-05 16:04:43"
+  }
+}

@@ -1,20 +1,27 @@
 {
   "daily_summary": {
-    "date": "2026-11-04",
-    "headline": "今日 AI 情报 · 2026-11-04",
-    "overview": "AI安全与信任正成为规模化部署的关键挑战",
+    "date": "2026-11-05",
+    "headline": "今日 AI 情报 · 2026-11-05",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：安全/漏洞, 融资/投资。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 融资/投资。",
         "evidence": [
           {
-            "id": "google-will-turn-off-search-for-schools-that-reject-ai",
-            "title": "Google will turn off search for schools that reject AI",
-            "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50353192",
-            "reason": "高价值信号"
+            "id": "ycs-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+            "title": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on",
+            "score": 0.33,
+            "url": "https://news.ycombinator.com/item?id=50366971",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "frontierphysics-evaluating-agents-for-end-to-end-physics-research",
+            "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.06910v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
@@ -22,14 +29,35 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent, 模型能力。",
         "evidence": [
           {
-            "id": "from-autonomous-agents-to-cognitive-symbionts-toward-ai-augmented-human-intellig",
-            "title": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Hum",
+            "id": "ask-hn-whats-your-current-ai-agentic-setup",
+            "title": "Ask HN: What's your current AI agentic setup?",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50366117",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "ripple-65b-preview-us-open-weight-sota-on-agentic-coding",
+            "title": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50369925",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "basically-no-one-is-using-ai-agents-for-their-doordash-orders",
+            "title": "Basically no one is using AI agents for their DoorDash orders",
+            "score": 0.41,
+            "url": "https://news.ycombinator.com/item?id=50338474",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+            "title": "Almost no one uses AI agents to book their Uber, company says",
             "score": 0.3,
-            "url": "http://arxiv.org/abs/2611.05376v1",
-            "reason": "里程碑式进展"
+            "url": "https://techcrunch.com/2026/11/04/almost-no-one-uses-ai-agents-to-book-their-uber-company-says/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
@@ -40,25 +68,10 @@
         "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "postman-silently-auto-installs-ai-plugins-and-attempts-to-share-all-api-data",
-            "title": "Postman silently auto-installs AI plugins and attempts to share all AP",
-            "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50354960",
-            "reason": "高价值信号"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "insight": "今日💰 商业趋势方向有新的动态。",
-        "evidence": [
-          {
-            "id": "hiding-inside-palantir8217s-skyrocketing-quarter-is-a-foreboding-signal",
-            "title": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding si",
+            "id": "open-source-ai-is-booming-hugging-face-explains-who-profits",
+            "title": "Open source AI is booming. Hugging Face explains who profits.",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/03/hiding-inside-palantirs-skyrocketing-quarter-is-a-foreboding-signal/",
+            "url": "https://techcrunch.com/video/open-source-ai-is-booming-hugging-face-explains-who-profits/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -67,188 +80,192 @@
     ],
     "narratives": [
       {
-        "title": "AI安全与信任正成为规模化部署的关键挑战",
-        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Jailbreaking my car's navigation system , Adversarial Speculative Reasoning Improv。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-        "type": "bottleneck",
-        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日6条情报涉及AI Agent及相关工具生态。典型项目包括：Ask HN: What's your current AI agentic s, Ripple-65B Preview: U.S. Open-Weight SOT, Basically no one is using AI agents for 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：AI inference startup Fal doubles its val。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日1条情报涉及AI商业动态。包括：CounterFactual Retrieval for Evidence-Aw。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 34 | 🔧 工具生态: 4 | 💰 商业趋势: 1 | 📱 产品模式: 2",
-    "total_items": 41,
-    "high_value_count": 32,
+    "stats": "🤖 技术能力: 30 | 📱 产品模式: 6 | 🔧 工具生态: 6",
+    "total_items": 42,
+    "high_value_count": 37,
     "all_today_ids": [
       {
-        "id": "google-will-turn-off-search-for-schools-that-reject-ai",
-        "label": "Google will turn off search for schools that reject AI"
+        "id": "ai-is-forcing-us-to-pay-off-40-years-of-technical-debt",
+        "label": "AI is forcing us to pay off 40 years of technical debt"
       },
       {
-        "id": "jailbreaking-my-cars-navigation-system-just-so-i-can-change-the-time",
-        "label": "Jailbreaking my car's navigation system just so I can change the time"
+        "id": "ask-hn-whats-your-current-ai-agentic-setup",
+        "label": "Ask HN: What's your current AI agentic setup?"
       },
       {
-        "id": "postman-silently-auto-installs-ai-plugins-and-attempts-to-share-all-api-data",
-        "label": "Postman silently auto-installs AI plugins and attempts to share all API data"
+        "id": "geoffrey-hinton-it-might-turn-out-we-were-better-off-without-ai",
+        "label": "Geoffrey Hinton: it might turn out we were better off without AI"
       },
       {
-        "id": "qwen-38-27b-on-my-laptop-can-interpret-model-weights-too",
-        "label": "Qwen 3.8 27B on my laptop can interpret model weights, too"
+        "id": "kimi-k31-pro-model-weights-are-out",
+        "label": "Kimi K3.1 Pro model weights are out"
       },
       {
-        "id": "openai-seems-to-be-silently-re-enabling-model-training-on-codex-chats",
-        "label": "OpenAI seems to be silently re-enabling model training on Codex chats"
+        "id": "nvidia-rtx-spark-encrypted-firmware-slows-inference-speed-to-35-on-linux",
+        "label": "Nvidia RTX Spark encrypted firmware slows inference speed to 35% on Linux"
       },
       {
-        "id": "the-little-book-of-generative-ai-foundations-an-intuitive-mathematical-primer",
-        "label": "The Little Book of Generative AI Foundations: An Intuitive Mathematical Primer"
+        "id": "ripple-65b-preview-us-open-weight-sota-on-agentic-coding",
+        "label": "Ripple-65B Preview: U.S. Open-Weight SOTA on Agentic Coding"
       },
       {
-        "id": "how-i-use-ai-oct-2026",
-        "label": "How I use AI (Oct 2026)"
+        "id": "progress-on-provable-inference-for-large-language-models",
+        "label": "Progress on provable inference for large language models"
       },
       {
-        "id": "just-a-little-ai-resistance-as-a-treat",
-        "label": "Just a little AI resistance, as a treat"
+        "id": "its-just-vape-nail-charity-shops-can-anything-save-uk-high-street",
+        "label": "'It's just vape, nail, charity shops': Can anything save UK high street?"
       },
       {
-        "id": "google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search",
-        "label": "Google will let schools disable its AI tools, but not without sacrificing Search"
+        "id": "basically-no-one-is-using-ai-agents-for-their-doordash-orders",
+        "label": "Basically no one is using AI agents for their DoorDash orders"
       },
       {
-        "id": "were-training-a-figma-fluent-editing-model",
-        "label": "We're training a Figma-fluent editing model"
+        "id": "tell-hn-gemini-trains-on-chat-history-even-for-subscribers-personal-accounts",
+        "label": "Tell HN: Gemini trains on chat history, even for subscribers (personal accounts)"
       },
       {
-        "id": "the-techcrunch-founder-summit-agenda-is-only-half-the-reason-to-be-in-boston-on",
-        "label": "The TechCrunch Founder Summit agenda is only half the reason to be in Boston on"
+        "id": "openai-to-acquire-pierre-computer-company",
+        "label": "OpenAI to acquire Pierre Computer Company"
       },
       {
-        "id": "netflix8217s-new-ai-discover-tab-helps-you-find-something-to-watch-based-on-your",
-        "label": "Netflix&#8217;s new AI Discover tab helps you find something to watch based on y"
+        "id": "qualcomm-cloud-ai-100-ultra-150w-ai-accelerator-card-with-128gb-at-548gbs",
+        "label": "Qualcomm Cloud AI 100 Ultra – 150W AI Accelerator Card with 128GB at 548GB/s"
       },
       {
-        "id": "apple-restricts-dating-apps-and-ai-companions-to-users-18-and-up",
-        "label": "Apple restricts dating apps and AI companions to users 18 and up"
+        "id": "ycs-garry-tan-uses-ai-agents-so-much-he-spends-up-to-200k-a-year-on-tokens",
+        "label": "YC's Garry Tan uses AI agents so much, he spends up to $200K a year on tokens"
       },
       {
-        "id": "data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows",
-        "label": "Data centers are turning to old jet engines as the wait for power grows"
+        "id": "almost-no-one-uses-ai-agents-to-book-their-uber-company-says",
+        "label": "Almost no one uses AI agents to book their Uber, company says"
       },
       {
-        "id": "tomorrow-techcrunch-founder-summit-takes-over-boston-and-when-pass-rates-increas",
-        "label": "Tomorrow: TechCrunch Founder Summit takes over Boston and when pass rates increa"
+        "id": "meta-acquires-ai-coding-startup-conductor",
+        "label": "Meta acquires AI coding startup Conductor"
       },
       {
-        "id": "anthropic-is-still-grappling-with-the-economics-of-compute",
-        "label": "Anthropic is still grappling with the economics of compute"
+        "id": "after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming",
+        "label": "After the midterms, a bigger clash over data centers could be coming"
       },
       {
-        "id": "ai-inference-startup-fal-doubles-its-valuation-to-16b-as-demand-surges",
-        "label": "AI inference startup Fal doubles its valuation to $16B as demand surges"
+        "id": "nothing-ceo-says-company8217s-mysterious-ai-first-device-is-dropping-next-month",
+        "label": "Nothing CEO says company&#8217;s mysterious AI-first device is dropping next mon"
       },
       {
-        "id": "hiding-inside-palantir8217s-skyrocketing-quarter-is-a-foreboding-signal",
-        "label": "Hiding inside Palantir&#8217;s skyrocketing quarter is a foreboding signal"
+        "id": "open-source-ai-is-booming-hugging-face-explains-who-profits",
+        "label": "Open source AI is booming. Hugging Face explains who profits."
       },
       {
-        "id": "ted-schlein8217s-ballistic-ventures-seeks-490m-for-new-funds-amid-ai-driven-cybe",
-        "label": "Ted Schlein&#8217;s Ballistic Ventures seeks $490M for new funds amid AI-driven"
+        "id": "duckduckgo-pitches-itself-to-schools-amid-backlash-over-google8217s-ai-policy",
+        "label": "DuckDuckGo pitches itself to schools amid backlash over Google&#8217;s AI policy"
       },
       {
-        "id": "anthropic-is-working-on-a-system-to-prove-ai-models8217-identity",
-        "label": "Anthropic is working on a system to prove AI models&#8217; identity"
+        "id": "google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restr",
+        "label": "Google faces backlash for plan that would turn off Search for schools that restr"
       },
       {
-        "id": "dreamx-video-diffusion-model-is-a-universal-latent-action-learner",
-        "label": "DreamX: Video Diffusion Model is a Universal Latent Action Learner"
+        "id": "openai-is-already-trying-to-shape-the-2028-election",
+        "label": "OpenAI is already trying to shape the 2028 election"
       },
       {
-        "id": "aligning-language-models-with-general-preferences-an-empirical-study-of-direct-n",
-        "label": "Aligning Language Models with General Preferences: An Empirical Study of Direct"
+        "id": "i-tried-apple8217s-siri-recaps-they8217re-surprisingly-useful-and-a-little-unset",
+        "label": "I tried Apple&#8217;s Siri Recaps. They&#8217;re surprisingly useful — and a lit"
       },
       {
-        "id": "agnostic-learning-by-imitating",
-        "label": "Agnostic Learning by Imitating"
+        "id": "building-on-open-source-ai-hugging-faces-policy-chief-on-the-costs-risks-and-tra",
+        "label": "Building on open source AI? Hugging Face’s policy chief on the costs, risks, and"
       },
       {
-        "id": "suppressing-misaligned-behaviors-in-language-models-durably",
-        "label": "Suppressing Misaligned Behaviors in Language Models, Durably"
+        "id": "ai-pacs-spent-millions-trying-to-shape-congress-here8217s-how-they-fared",
+        "label": "AI PACs spent millions trying to shape Congress — here&#8217;s how they fared"
       },
       {
-        "id": "medphysbench-a-benchmark-for-evaluating-language-models-on-medical-physics-calcu",
-        "label": "MedPhysBench: A Benchmark for Evaluating Language Models on Medical Physics Calc"
+        "id": "apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage",
+        "label": "Apple is reportedly cutting budgets for its internal AI usage"
       },
       {
-        "id": "guild-guided-iterative-data-collection-for-imitation-learning",
-        "label": "GUILD: Guided Iterative Data Collection for Imitation Learning"
+        "id": "flowreconbench-accuracy-calibration-and-cost-of-learned-and-classical-flow-recon",
+        "label": "FlowReconBench: Accuracy, calibration and cost of learned and classical flow rec"
       },
       {
-        "id": "policyik-high-precision-inverse-kinematics-for-robot-arms-with-reinforcement-lea",
-        "label": "PolicyIK: High-Precision Inverse Kinematics for Robot Arms with Reinforcement Le"
+        "id": "a-framework-for-context-enrichment-and-selective-robustness-in-llm-social-agents",
+        "label": "A Framework for Context Enrichment and Selective Robustness in LLM Social Agents"
       },
       {
-        "id": "reading-why-born-measured-attention-with-exact-word-evidence-on-light-and-qubits",
-        "label": "Reading Why: Born-Measured Attention with Exact Word Evidence on Light and Qubit"
+        "id": "counterfactual-retrieval-for-evidence-aware-individual-animal-identification",
+        "label": "CounterFactual Retrieval for Evidence-Aware Individual Animal Identification"
       },
       {
-        "id": "adversarial-speculative-reasoning-improves-long-horizon-agents",
-        "label": "Adversarial Speculative Reasoning Improves Long Horizon Agents"
+        "id": "occlusion-for-free-detecting-occlusion-from-the-disagreement-between-two-monocul",
+        "label": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocu"
       },
       {
-        "id": "a-circuit-for-in-context-learning",
-        "label": "A Circuit for In-Context Learning"
+        "id": "on-turn-level-best-of-n-sampling-for-scaling-llm-agents",
+        "label": "On Turn-Level Best-of-N Sampling for Scaling LLM Agents"
       },
       {
-        "id": "from-autonomous-agents-to-cognitive-symbionts-toward-ai-augmented-human-intellig",
-        "label": "From Autonomous Agents to Cognitive Symbionts: Toward AI-Augmented Human Intelli"
+        "id": "dull-dirty-dangerous-working-conditions-and-the-limits-of-occupational-ai-exposu",
+        "label": "Dull, Dirty, Dangerous? Working Conditions and the Limits of Occupational AI Exp"
       },
       {
-        "id": "weight-space-programming-for-auditing-clinical-decision-networks",
-        "label": "Weight-space programming for auditing clinical decision networks"
+        "id": "adaptive-multi-mode-budget-aware-routing-of-optimizers-by-online-landscape-probe",
+        "label": "Adaptive Multi Mode: Budget-Aware Routing of Optimizers By Online Landscape Prob"
       },
       {
-        "id": "fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand",
-        "label": "Fujifilm to boost tape production 5x as AI fuels archiving demand"
+        "id": "reinforcement-learning-enables-scaling-generalist-robot-policy-improvement",
+        "label": "Reinforcement Learning Enables Scaling Generalist Robot Policy Improvement"
       },
       {
-        "id": "the-ai-bubble-monitor",
-        "label": "The AI Bubble Monitor"
+        "id": "frontierphysics-evaluating-agents-for-end-to-end-physics-research",
+        "label": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research"
       },
       {
-        "id": "show-hn-kairos-open-source-risk-and-fraud-decisioning-platform",
-        "label": "Show HN: Kairos – Open-source risk and fraud decisioning platform"
+        "id": "beaker-an-expert-curated-benchmark-for-embodied-brains-in-self-driving-chemical",
+        "label": "BEAKER: An Expert-Curated Benchmark for Embodied Brains in Self-Driving Chemical"
       },
       {
-        "id": "there-is-no-posttraining-data-commons",
-        "label": "There is no posttraining data commons"
+        "id": "perceptive-humanoid-motion-from-simulation",
+        "label": "Perceptive Humanoid Motion from Simulation"
       },
       {
-        "id": "ai-is-destroying-my-cs-degree",
-        "label": "AI is destroying my CS degree"
+        "id": "learning-to-decode-linear-codes-with-generalized-belief-propagation-network",
+        "label": "Learning to Decode Linear Codes with Generalized Belief Propagation Network"
       },
       {
-        "id": "show-hn-bema-work-messaging-built-for-humans",
-        "label": "Show HN: Bema: Work messaging built for humans"
+        "id": "launch-hn-kino-ai-yc-s23-ai-media-manager-and-video-editor",
+        "label": "Launch HN: Kino AI (YC S23) – AI media manager and video editor"
       },
       {
-        "id": "show-hn-uncracked-city-detective-game-where-you-question-llm-suspects-that-lie",
-        "label": "Show HN: Uncracked City, detective game where you question LLM suspects that lie"
+        "id": "from-wild-to-mild-friendly-foxes-show-changes-in-brain-region",
+        "label": "From wild to mild: Friendly foxes show changes in brain region"
       },
       {
-        "id": "usdb-scaling-storage-for-next-generation-recommender-systems-at-bytedance",
-        "label": "USDB: Scaling Storage for Next-Generation Recommender Systems at ByteDance"
+        "id": "show-hn-unclickbait-replace-clickbait-youtube-thumbnails",
+        "label": "Show HN: Unclickbait – Replace clickbait YouTube thumbnails"
       },
       {
-        "id": "show-hn-interactive-notes-on-rlhf-attention-lora-and-llm-evals",
-        "label": "Show HN: Interactive notes on RLHF, attention, LoRA and LLM evals"
+        "id": "jaron-lanier-on-parallels-between-ai-and-social-media",
+        "label": "Jaron Lanier on parallels between AI and social media"
+      },
+      {
+        "id": "american-voters-overwhelmingly-reject-ai-data-centers",
+        "label": "American Voters Overwhelmingly Reject AI Data Centers"
       }
     ],
-    "date_bj": "2026-11-04 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-04 18:01:19"
+    "date_bj": "2026-11-05 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-05 16:04:43"
   }
 }
