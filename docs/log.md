@@ -6073,3 +6073,28 @@
 - create: i-tried-apple8217s-siri-recaps-they8217re-surprisingly-useful-and-a-little-unset.md
 - create: google-faces-backlash-for-plan-that-would-turn-off-search-for-schools-that-restr.md
 - create: show-hn-unclickbait-replace-clickbait-youtube-thumbnails.md
+
+## [2026-11-06 08:04] sync v3 | 26 new | pillars: {'capabilities': 11, 'patterns': 10, 'ecosystem': 3, 'business': 2}
+- create: claude-code-sends-your-email-address-to-websites.md
+- create: ms-paint-remote-code-execution-vulnerability.md
+- create: tencent-launches-hy4-one-of-the-leading-open-source-ai-models.md
+- create: launch-hn-rivet-yc-w23-scale-and-orchestrate-agents-on-s3.md
+- create: show-hn-a-decent-text-to-image-model-trained-for-20k-apache-20-weights.md
+- create: gpt-6-astra-covertly-underperforms-on-safety-research.md
+- create: mcp-explained.md
+- create: hungary-communist-era-files-released-up-to-60k-former-agents-revealed.md
+- create: show-hn-stroq-a-local-audit-of-what-your-coding-agent-did-and-why.md
+- create: baidu-released-ernie-55-flash-base.md
+- create: building-a-multi-agent-system-from-scratch-architecture-patterns.md
+- create: airbnb-says-it8217s-launching-an-ai-travel-agent-in-the-first-half-of-2027.md
+- create: meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar.md
+- create: meta-warns-that-election-backlash-against-data-centers-could-make-ai-expansion-h.md
+- create: openai-released-a-new-cybersecurity-model-is-that-enough.md
+- create: openai-president-greg-brockman-says-company-could-be-ipo-ready-in-2027.md
+- create: claude-can-now-analyze-your-spending-with-its-new-personal-finance-tool.md
+- create: axiom-math-wants-to-keep-ai-slop-out-of-mathematics.md
+- create: dropbox-acquires-tigris-data-for-350m-to-bolster-its-ai-infrastructure.md
+- create: aina8217s-smart-ring-has-a-screen-a-joystick-and-a-mic-so-you-can-talk-to-ai-age.md
+- create: box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system.md
+- create: a-yc-startup-is-putting-1m-behind-5-unsolved-materials-science-problems-for-ai.md
+- create: agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buy.md
