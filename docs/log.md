@@ -6098,3 +6098,28 @@
 - create: box-taps-nvidias-nemotron-for-new-agent-first-content-retrieval-system.md
 - create: a-yc-startup-is-putting-1m-behind-5-unsolved-materials-science-problems-for-ai.md
 - create: agility-is-the-first-pure-humanoid-robot-company-on-the-stock-market-are-you-buy.md
+
+## [2026-11-07 00:05] sync v3 | 95 new | pillars: {'patterns': 31, 'ecosystem': 18, 'capabilities': 44, 'business': 2}
+- create: p-e-wheretic.md
+- create: user-embeddings-are-superpositions-of-interpretable-behavioral-modes.md
+- create: swarmevolve-latent-agent-swarms-for-evolutionary-discovery-and-optimization.md
+- create: scientist-world-grow-a-research-world-for-ai-scientists.md
+- create: xstack-a-benchmark-for-ml-repo-migration.md
+- create: same-behavior-different-mechanism-what-finite-experiments-can-certify-about-inte.md
+- create: towards-interpreting-any-residual-stream-direction-by-scaling-activation-inversi.md
+- create: adversarial-training-with-large-step-sizes-implicit-bias-optimization-and-sharpn.md
+- create: unpacking-the-compute-efficiency-of-strong-to-weak-opd-against-grpo.md
+- create: reprobridge-building-reproducibility-into-ml-research-artifacts.md
+- create: a-hidden-markov-preference-model-for-online-prediction-of-adversary-actions.md
+- create: label-wording-augmentation-in-a-typed-decision-encoder-gains-on-unfamiliar-words.md
+- create: understanding-ai-from-the-inside-the-state-of-mechanistic-interpretability-for-a.md
+- create: gemini-omni-12-flash.md
+- create: university-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk.md
+- create: ai-for-scientific-discovery-how-researchers-use-claude.md
+- create: britain-to-make-salary-disclosure-in-job-ads-mandatory.md
+- create: cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-16b-fraud-revenue.md
+- create: ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo.md
+- create: after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop.md
+- create: underdog-shows-off-a-32mb-speech-model-in-new-demo.md
+- create: physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots.md
+- create: palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m.md
