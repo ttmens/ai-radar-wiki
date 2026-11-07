@@ -6123,3 +6123,23 @@
 - create: underdog-shows-off-a-32mb-speech-model-in-new-demo.md
 - create: physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots.md
 - create: palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m.md
+
+## [2026-11-07 16:04] sync v3 | 21 new | pillars: {'capabilities': 10, 'patterns': 8, 'business': 2, 'ecosystem': 1}
+- create: us-faa-says-it-will-phase-out-floppy-disks-from-air-traffic-control-by-2028.md
+- create: ai-is-dramatically-accelerating-ai-research.md
+- create: githubs-new-git-storage-architecture.md
+- create: restaurant-delivery-payment-skimming-campaign.md
+- create: memorilla-latent-semantic-memory-for-llms.md
+- create: anthropic-ipo-buyers-see-valuation-as-low-as-11t.md
+- create: ozempic-style-drugs-now-in-trials-for-heart-failure-addiction-and-even-aging.md
+- create: 40c3-halfnarp-submit-talk-preferences-to-aid-scheduling.md
+- create: crusoe-sells-troubled-wyoming-data-center-project-to-google.md
+- create: openai-reportedly-raises-an-additional-11-billion-at-a-125-trillion-valuation.md
+- create: hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web.md
+- create: meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent.md
+- create: how-a-blue-wave-midterm-might-reshape-the-ai-industry.md
+- create: after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years.md
+- create: show-hn-tmux-restore-saves-tmux-windows-and-agent-sessions-across-reboots.md
+- create: show-hn-agents-infer-lego-mechanisms-from-sources-then-animate-them.md
+- create: show-hn-aegiskernel-zero-trust-posix-runtime-for-ai-agents-in-0016ms.md
+- create: show-hn-agentic-identity-broker-oauth-delegation-for-ai-agents.md

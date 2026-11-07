@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-11-07 | Total pages: 5843
+> Last updated: 2026-11-07 | Total pages: 5861
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -26,6 +26,7 @@
 - [[4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections.md]] 4 days left: How TechCrunch Founder Summit helps you make more useful connection `pillar:capabilities` `score:0.305`
 - [[4-days-left-to-exhibit-at-techcrunch-disrupt-2026.md]] 4 days left to exhibit at TechCrunch Disrupt 2026 `pillar:capabilities` `score:0.305`
 - [[4-days-to-save-up-to-200-reason-2-of-5-to-be-at-techcrunch-disrupt-2026.md]] 4 days to save up to $200: Reason 2 of 5 to be at TechCrunch Disrupt 2026 `pillar:capabilities` `score:0.305`
+- [[40c3-halfnarp-submit-talk-preferences-to-aid-scheduling.md]] 40C3 halfnarp – Submit talk preferences to aid scheduling `pillar:capabilities` `score:0.155`
 - [[42ai-comes-out-of-stealth-with-625m-and-a-world-model-that-can-8216predict-human.md]] 42AI comes out of stealth with $62.5M and a world model that can &#8216;predict `pillar:capabilities` `score:0.305`
 - [[44-on-arc-agi-1-in-67-cents.md]] 44% on ARC-AGI-1 in 67 cents `pillar:capabilities` `score:0.405`
 - [[48-hours-to-techcrunch-disrupt-2026-hear-directly-from-the-people-building-whats.md]] 48 hours to TechCrunch Disrupt 2026 — hear directly from the people building wha `pillar:capabilities` `score:0.305`
@@ -101,6 +102,7 @@
 - [[after-killer-quarter-palantir-ceo-alex-karp-calls-ai-industry-8216marxist8217.md]] After killer quarter, Palantir CEO Alex Karp calls AI industry &#8216;Marxist&#8 `pillar:capabilities` `score:0.305`
 - [[after-nvidia8217s-20b-not-acqui-hire-ai-chip-startup-groq-reportedly-raising-650.md]] After Nvidia&#8217;s $20B not-acqui-hire, AI chip startup Groq reportedly raisin `pillar:capabilities` `score:0.48`
 - [[after-the-midterms-a-bigger-clash-over-data-centers-could-be-coming.md]] After the midterms, a bigger clash over data centers could be coming `pillar:capabilities` `score:0.305`
+- [[after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years.md]] After the midterms, is the AI industry in for a rough two years? `pillar:capabilities` `score:0.305`
 - [[afterquery-reportedly-becomes-y-combinator8217s-fastest-ever-unicorn-now-valued.md]] AfterQuery reportedly becomes Y Combinator&#8217;s fastest-ever unicorn, now val `pillar:capabilities` `score:0.305`
 - [[against-usefulness.md]] Against Usefulness `pillar:capabilities` `score:0.345`
 - [[age-verification-is-just-a-precursor-to-automated-attribution-of-speech.md]] Age verification is just a precursor to automated attribution of speech `pillar:capabilities` `score:0.63`
@@ -149,6 +151,7 @@
 - [[ai-is-breaking-this-thing-we-call-trust.md]] AI Is Breaking This Thing We Call Trust `pillar:capabilities` `score:0.255`
 - [[ai-is-code-and-cant-be-prompted-into-being-smarter.md]] AI is code – and can't be prompted into being smarter `pillar:capabilities` `score:0.53`
 - [[ai-is-destroying-my-cs-degree.md]] AI is destroying my CS degree `pillar:capabilities` `score:0.155`
+- [[ai-is-dramatically-accelerating-ai-research.md]] AI is dramatically accelerating AI research `pillar:capabilities` `score:0.455`
 - [[ai-is-forcing-us-to-pay-off-40-years-of-technical-debt.md]] AI is forcing us to pay off 40 years of technical debt `pillar:capabilities` `score:0.455`
 - [[ai-is-just-unauthorised-plagiarism-at-a-bigger-scale.md]] AI is just unauthorised plagiarism at a bigger scale `pillar:capabilities` `score:0.63`
 - [[ai-is-making-me-dumb.md]] AI is making me dumb `pillar:capabilities` `score:0.63`
@@ -560,6 +563,7 @@
 - [[crush-this-lady-how-ebay-harassment-campaign-led-to-56m-payout.md]] 'Crush this lady': how eBay harassment campaign led to $56M payout `pillar:capabilities` `score:0.255`
 - [[crusoe-abandons-125b-plan-to-use-boom-turbines-at-ai-data-centers.md]] Crusoe abandons $1.25B plan to use Boom turbines at AI data centers `pillar:capabilities` `score:0.305`
 - [[crusoe-raises-39b-to-build-massive-data-centers-and-small-modular-8220ai-factori.md]] Crusoe raises $3.9B to build massive data centers and small modular &#8220;AI fa `pillar:capabilities` `score:0.305`
+- [[crusoe-sells-troubled-wyoming-data-center-project-to-google.md]] Crusoe sells troubled Wyoming data center project to Google `pillar:capabilities` `score:0.305`
 - [[crypto-capture-of-foreign-aid.md]] Crypto Capture of Foreign Aid `pillar:capabilities` `score:0.255`
 - [[cs336-language-modeling-from-scratch.md]] CS336: Language Modeling from Scratch `pillar:capabilities` `score:0.345`
 - [[cutting-inference-cold-starts-by-40x-with-lp-fuse-cr-and-cuda-checkpoint.md]] Cutting inference cold starts by 40x with LP, FUSE, C/R, and CUDA-checkpoint `pillar:capabilities` `score:0.38`
@@ -956,6 +960,7 @@
 - [[hot-french-startup-zml-releases-free-product-to-speed-inference-across-lots-of-a.md]] Hot French startup ZML releases free product to speed inference across lots of A `pillar:capabilities` `score:0.515`
 - [[hot-girl-hotline-is-like-8216dear-abby8217-for-the-ai-era.md]] Hot Girl Hotline is like &#8216;Dear Abby&#8217; for the AI era `pillar:capabilities` `score:0.305`
 - [[houthis-used-claude-code-to-develop-missile-guidance-software-anthropic.md]] Houthis Used Claude Code to Develop Missile Guidance Software: Anthropic `pillar:capabilities` `score:0.205`
+- [[how-a-blue-wave-midterm-might-reshape-the-ai-industry.md]] How a Blue Wave midterm might reshape the AI industry `pillar:capabilities` `score:0.305`
 - [[how-a-new-dsl-may-survive-in-the-era-of-llms.md]] How a new DSL may survive in the era of LLMs `pillar:capabilities` `score:0.295`
 - [[how-a-texas-student-blew-the-whistle-on-a-rogue-ai-hacking-attempt.md]] How a Texas student blew the whistle on a rogue AI hacking attempt `pillar:capabilities` `score:0.255`
 - [[how-abliterated-models-can-get-you-pwned.md]] How abliterated models can get you pwned `pillar:capabilities` `score:0.355`
@@ -1578,6 +1583,7 @@
 - [[overseas-fakers-using-ai-videos-to-push-a-narrative-of-uk-decline-bbc-finds.md]] Overseas fakers using AI videos to push a narrative of UK decline, BBC finds `pillar:capabilities` `score:0.38`
 - [[owainlewisawesome-artificial-intelligence.md]] owainlewis/awesome-artificial-intelligence `pillar:capabilities` `score:0.58`
 - [[oxcaml-in-space.md]] O(x)Caml in Space `pillar:capabilities` `score:0.275`
+- [[ozempic-style-drugs-now-in-trials-for-heart-failure-addiction-and-even-aging.md]] Ozempic-style drugs now in trials for heart failure, addiction and even aging `pillar:capabilities` `score:0.255`
 - [[p-e-wheretic.md]] p-e-w/heretic `pillar:capabilities` `score:0.405`
 - [[pacing-the-frontier-is-not-the-actual-goal-for-ai-labs.md]] Pacing the Frontier is not the actual goal for AI labs `pillar:capabilities` `score:0.205`
 - [[paddlepaddlepaddle.md]] PaddlePaddle/Paddle `pillar:capabilities` `score:0.615`
@@ -1705,6 +1711,7 @@
 - [[resistance-training-prescription-for-muscle-function-hypertrophy-in-health.md]] Resistance Training Prescription for Muscle Function, Hypertrophy in Health `pillar:capabilities` `score:0.205`
 - [[response-to-ai-slop-is-from-robin-williams.md]] Response to AI slop is from Robin Williams `pillar:capabilities` `score:0.375`
 - [[responsible-release-of-ai-generated-mathematics.md]] Responsible Release of AI-Generated Mathematics `pillar:capabilities` `score:0.305`
+- [[restaurant-delivery-payment-skimming-campaign.md]] Restaurant Delivery Payment-Skimming Campaign `pillar:capabilities` `score:0.355`
 - [[restoration-of-retinal-regenerative-potential.md]] Restoration of Retinal Regenerative Potential `pillar:capabilities` `score:0.205`
 - [[rethinking-legal-education-in-the-ai-era.md]] Rethinking Legal Education in the AI Era `pillar:capabilities` `score:0.36`
 - [[retrofitting-language-models-to-operate-over-bytes.md]] Retrofitting language models to operate over bytes `pillar:capabilities` `score:0.205`
@@ -2358,6 +2365,7 @@
 - [[us-army-corps-of-engineers-bay-model.md]] U.S. Army Corps of Engineers Bay Model `pillar:capabilities` `score:0.375`
 - [[us-citizen-charged-after-grapheneos-phone-wipes-during-airport-search.md]] US citizen charged after GrapheneOS phone wipes during airport search `pillar:capabilities` `score:0.595`
 - [[us-data-centers-could-consume-more-natural-gas-than-germany-and-japan-combined-b.md]] US data centers could consume more natural gas than Germany and Japan combined b `pillar:capabilities` `score:0.305`
+- [[us-faa-says-it-will-phase-out-floppy-disks-from-air-traffic-control-by-2028.md]] US FAA says it will phase out floppy disks from air traffic control by 2028 `pillar:capabilities` `score:0.455`
 - [[us-government-sides-with-openai-on-issue-of-training-llms-on-copyrighted-materia.md]] US government sides with OpenAI on issue of training LLMs on copyrighted materia `pillar:capabilities` `score:0.305`
 - [[us-halts-flights-at-busy-east-coast-airports-says-fiber-line-cut.md]] US halts flights at busy East Coast airports, says fiber line cut `pillar:capabilities` `score:0.425`
 - [[us-interest-rates-raised-for-first-time-in-three-years.md]] US interest rates raised for first time in three years `pillar:capabilities` `score:0.155`
@@ -3871,6 +3879,7 @@
 - [[gemini8217s-personalized-ai-image-generation-is-now-free-for-us-users.md]] Gemini&#8217;s personalized AI image generation is now free for US users `pillar:patterns` `score:0.515`
 - [[general-intuition8217s-23b-bet-that-video-games-can-train-ai-agents-for-the-real.md]] General Intuition&#8217;s $2.3B bet that video games can train AI agents for the `pillar:patterns` `score:0.515`
 - [[github-copilot-app.md]] GitHub Copilot App `pillar:patterns` `score:0.515`
+- [[githubs-new-git-storage-architecture.md]] GitHub's new Git storage architecture `pillar:patterns` `score:0.305`
 - [[githubspec-kit.md]] github/spec-kit `pillar:patterns` `score:0.58`
 - [[gitlost-we-tricked-githubs-ai-agent-into-leaking-private-repos.md]] GitLost: We Tricked GitHub's AI Agent into Leaking Private Repos `pillar:patterns` `score:0.53`
 - [[gm-just-laid-off-hundreds-of-it-workers-to-hire-th.md]] GM just laid off hundreds of IT workers to hire those with stronger AI skills `pillar:patterns` `score:0.305`
@@ -4009,6 +4018,7 @@
 - [[medicare8217s-new-payment-model-is-built-for-ai.md]] Medicare&#8217;s new payment model is built for AI, and most of the tech world h `pillar:patterns` `score:0.305`
 - [[meilisearchmeilisearch.md]] meilisearch/meilisearch `pillar:patterns` `score:0.615`
 - [[mem0aimem0.md]] mem0ai/mem0 `pillar:patterns` `score:0.615`
+- [[memorilla-latent-semantic-memory-for-llms.md]] Memorilla: Latent Semantic Memory for LLMs `pillar:patterns` `score:0.255`
 - [[memory-decline-after-menopause-linked-to-loss-of-estrogen-production-in-brain.md]] Memory decline after menopause linked to loss of estrogen production in brain `pillar:patterns` `score:0.205`
 - [[mens-average-testosterone-levels-have-halved-in-last-50-years.md]] Men's average testosterone levels have halved in last 50 years `pillar:patterns` `score:0.12`
 - [[meta-acquires-ai-coding-startup-conductor.md]] Meta acquires AI coding startup Conductor `pillar:patterns` `score:0.305`
@@ -4017,6 +4027,7 @@
 - [[meta-debuts-its-muse-ai-agent-will-consumers-trust-it.md]] Meta debuts its Muse AI agent. Will consumers trust it? `pillar:patterns` `score:0.305`
 - [[meta-disputes-claim-that-muse-read-a-user8217s-private-messages-without-permissi.md]] Meta disputes claim that Muse read a user&#8217;s private messages without permi `pillar:patterns` `score:0.305`
 - [[meta-enters-the-crowded-ai-coding-battle-with-muse-spark-11.md]] Meta enters the crowded AI coding battle with Muse Spark 1.1 `pillar:patterns` `score:0.48`
+- [[meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent.md]] Meta introduces Spaces, a new way to collaborate with your Muse agent `pillar:patterns` `score:0.305`
 - [[meta-is-expanding-its-ai-agent-muse-to-small-businesses.md]] Meta is expanding its AI agent Muse to small businesses `pillar:patterns` `score:0.305`
 - [[meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model.md]] Meta is paying to peek at how you use their latest AI model `pillar:patterns` `score:0.305`
 - [[meta-is-putting-its-muscle-behind-muse-as-the-ai-app-takes-off.md]] Meta is putting its muscle behind Muse as the AI app takes off `pillar:patterns` `score:0.305`
@@ -4179,6 +4190,7 @@
 - [[show-hn-adamsreview-better-multi-agent-pr-revie.md]] Show HN: adamsreview – better multi-agent PR reviews for Claude Code `pillar:patterns` `score:0.33`
 - [[show-hn-adaptive-recall-persistent-memory-for-ai-assistants-over-mcp.md]] Show HN: Adaptive Recall, persistent memory for AI assistants over MCP `pillar:patterns` `score:0.33`
 - [[show-hn-adrafinil-keep-a-lid-closed-mac-awake-only-while-agents-work.md]] Show HN: Adrafinil – keep a lid-closed Mac awake only while agents work `pillar:patterns` `score:0.31`
+- [[show-hn-aegiskernel-zero-trust-posix-runtime-for-ai-agents-in-0016ms.md]] Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms `pillar:patterns` `score:0.155`
 - [[show-hn-agent-draw-an-agent-draws-while-you-talk-built-on-tldraw.md]] Show HN: Agent Draw: An agent draws while you talk, built on TLDraw `pillar:patterns` `score:0.365`
 - [[show-hn-agent-in-9-lines-python.md]] Show HN: Agent in 9 Lines Python `pillar:patterns` `score:0.295`
 - [[show-hn-agent-skills-eval-test-whether-agent-sk.md]] Show HN: Agent-skills-eval – Test whether Agent Skills improve outputs `pillar:patterns` `score:0.155`
@@ -4186,11 +4198,13 @@
 - [[show-hn-agent-usage-guard-a-claude-code-mod-to-protect-your-usage-window.md]] Show HN: agent-usage-guard – a Claude Code mod to protect your usage window `pillar:patterns` `score:0.155`
 - [[show-hn-agentemail-sign-up-via-curl-claim-with-a-human-otp.md]] Show HN: Agent.email – sign up via curl, claim with a human OTP `pillar:patterns` `score:0.38`
 - [[show-hn-agentic-cuda-kernel-optimizer.md]] Show HN: Agentic CUDA Kernel Optimizer `pillar:patterns` `score:0.155`
+- [[show-hn-agentic-identity-broker-oauth-delegation-for-ai-agents.md]] Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents `pillar:patterns` `score:0.155`
 - [[show-hn-agentic-interface-for-mainframes-and-cobo.md]] Show HN: Agentic interface for mainframes and COBOL `pillar:patterns` `score:0.155`
 - [[show-hn-agentic-orchestrator-a-tui-for-long-running-coding-agents.md]] Show HN: Agentic Orchestrator, a TUI for long-running coding agents `pillar:patterns` `score:0.33`
 - [[show-hn-agentnest-self-hosted-sandboxes-for-ai-agents.md]] Show HN: AgentNest, self-hosted sandboxes for AI agents `pillar:patterns` `score:0.33`
 - [[show-hn-agentreviews-where-ai-agents-read-and-write-reviews-on-tools.md]] Show HN: Agent.reviews – Where AI agents read and write reviews on tools `pillar:patterns` `score:0.205`
 - [[show-hn-agentrun-dsl-to-turn-agents-into-workflows.md]] Show HN: AgentRun: DSL to turn agents into workflows `pillar:patterns` `score:0.155`
+- [[show-hn-agents-infer-lego-mechanisms-from-sources-then-animate-them.md]] Show HN: Agents infer Lego mechanisms from sources, then animate them `pillar:patterns` `score:0.155`
 - [[show-hn-agenttrust-zero-trust-security-and-human-approvals-for-ai-agents.md]] Show HN: AgentTrust – Zero-trust security and human approvals for AI agents `pillar:patterns` `score:0.155`
 - [[show-hn-aireterag-a-rete-rule-engine-decides-rag-explains-why.md]] Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why `pillar:patterns` `score:0.155`
 - [[show-hn-an-ai-agent-runs-ten-web-errands-a-day-every-transcript-published.md]] Show HN: An AI agent runs ten web errands a day, every transcript published `pillar:patterns` `score:0.155`
@@ -4339,6 +4353,7 @@
 - [[show-hn-the-agent-that-builds-and-operates-its-own-saas-tools.md]] Show HN: The agent that builds and operates its own SaaS tools `pillar:patterns` `score:0.365`
 - [[show-hn-tinyaiarena-watch-ai-agents-battle-it-out.md]] Show HN: TinyAIArena watch AI agents battle it out `pillar:patterns` `score:0.305`
 - [[show-hn-tired-of-duct-taping-access-control-into-agent-prompts-heres-the-fix.md]] Show HN: Tired of duct-taping access control into agent prompts. Here's the fix `pillar:patterns` `score:0.33`
+- [[show-hn-tmux-restore-saves-tmux-windows-and-agent-sessions-across-reboots.md]] Show HN: Tmux-restore saves tmux windows and agent sessions across reboots `pillar:patterns` `score:0.155`
 - [[show-hn-ultrafast-rust-based-agent-workspace.md]] Show HN: Ultrafast Rust Based Agent Workspace `pillar:patterns` `score:0.205`
 - [[show-hn-visual-workspace-for-agents-based-on-unix.md]] Show HN: Visual Workspace for Agents Based on Unix `pillar:patterns` `score:0.295`
 - [[show-hn-voicedraw-talk-system-design-out-loud-the-diagrams-draw-themselves.md]] Show HN: VoiceDraw – Talk system design out loud, the diagrams draw themselves `pillar:patterns` `score:0.33`
@@ -4795,6 +4810,7 @@
 - [[how-proprietary-formats-have-become-microsofts-main-tool-for-lock-in.md]] How proprietary formats have become Microsoft’s main tool for lock-in `pillar:ecosystem` `score:0.48`
 - [[hugging-face-is-selling-a-cute-399-open-source-duck-robot-microduck.md]] Hugging Face is selling a cute $399 open source duck robot, Microduck `pillar:ecosystem` `score:0.305`
 - [[hugging-face8217s-ceo-on-why-companies-are-done-renting-their-ai.md]] Hugging Face&#8217;s CEO on why companies are done renting their AI `pillar:ecosystem` `score:0.515`
+- [[hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web.md]] Hundreds of Artex AI hacking tools found publicly exposed to the web `pillar:ecosystem` `score:0.305`
 - [[if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai.md]] If you’re giving a commencement speech in 2026, maybe don’t mention AI `pillar:ecosystem` `score:0.515`
 - [[in-praise-of-memcached.md]] In praise of memcached `pillar:ecosystem` `score:0.445`
 - [[in-the-hugging-face-breach-openai8217s-hacker-was-noisy-and-fast-but-not-unstopp.md]] In the Hugging Face breach, OpenAI&#8217;s hacker was noisy and fast — but not u `pillar:ecosystem` `score:0.375`
@@ -5359,6 +5375,7 @@
 - [[anthropic-courts-a-new-kind-of-customer-small-bus.md]] Anthropic courts a new kind of customer: small business owners `pillar:business` `score:0.48`
 - [[anthropic-expected-to-receive-high-8216junk8217-rating-from-credit-agencies-foll.md]] Anthropic expected to receive high &#8216;junk&#8217; rating from credit agencie `pillar:business` `score:0.305`
 - [[anthropic-files-to-go-public.md]] Anthropic files to go public `pillar:business` `score:0.48`
+- [[anthropic-ipo-buyers-see-valuation-as-low-as-11t.md]] Anthropic IPO buyers see valuation as low as $1.1T `pillar:business` `score:0.455`
 - [[anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying.md]] Anthropic just launched tools to show companies what their AI spending is buying `pillar:business` `score:0.305`
 - [[anthropic-now-has-more-business-customers-than-ope.md]] Anthropic now has more business customers than OpenAI, according to Ramp data `pillar:business` `score:0.305`
 - [[anthropic-officially-files-for-its-public-debut.md]] Anthropic officially files for its public debut `pillar:business` `score:0.305`
@@ -5612,6 +5629,7 @@
 - [[openai-pushes-back-on-apple-trade-secret-lawsuit.md]] OpenAI pushes back on Apple trade secret lawsuit `pillar:business` `score:0.305`
 - [[openai-reportedly-in-talks-to-raise-30b-round-at-14t-valuation.md]] OpenAI reportedly in talks to raise $30B round at $1.4T valuation `pillar:business` `score:0.305`
 - [[openai-reportedly-lowers-funding-target-for-new-round.md]] OpenAI reportedly lowers funding target for new round `pillar:business` `score:0.305`
+- [[openai-reportedly-raises-an-additional-11-billion-at-a-125-trillion-valuation.md]] OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation `pillar:business` `score:0.305`
 - [[openai-repotedly-in-talks-to-raise-30b-round-at-14t-valuation.md]] OpenAI repotedly in talks to raise $30B round at $1.4T valuation `pillar:business` `score:0.305`
 - [[openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued.md]] OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued `pillar:business` `score:0.445`
 - [[openai-submits-s-1-draft-to-sec.md]] OpenAI Submits S-1 Draft to SEC `pillar:business` `score:0.45`

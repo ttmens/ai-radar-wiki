@@ -1,8 +1,19 @@
 {
   "date": "2026-11-07",
-  "generated_at": "2026-11-07T00:05:24.445095+08:00",
-  "item_count": 21,
+  "generated_at": "2026-11-07T16:04:29.006298+08:00",
+  "item_count": 32,
   "items": [
+    {
+      "id": "ai-is-dramatically-accelerating-ai-research",
+      "label": "AI is dramatically accelerating AI research",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50397994",
+      "date": "2026-11-07"
+    },
     {
       "id": "britain-to-make-salary-disclosure-in-job-ads-mandatory",
       "label": "Britain to make salary disclosure in job ads mandatory",
@@ -12,6 +23,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50389222",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "anthropic-ipo-buyers-see-valuation-as-low-as-11t",
+      "label": "Anthropic IPO buyers see valuation as low as $1.1T",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50394906",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "us-faa-says-it-will-phase-out-floppy-disks-from-air-traffic-control-by-2028",
+      "label": "US FAA says it will phase out floppy disks from air traffic control by 2028",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50388001",
       "date": "2026-11-07"
     },
     {
@@ -45,6 +78,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50392118",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "restaurant-delivery-payment-skimming-campaign",
+      "label": "Restaurant Delivery Payment-Skimming Campaign",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50397017",
       "date": "2026-11-07"
     },
     {
@@ -92,6 +136,28 @@
       "date": "2026-11-07"
     },
     {
+      "id": "openai-reportedly-raises-an-additional-11-billion-at-a-125-trillion-valuation",
+      "label": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation",
+      "summary": "OpenAI has reportedly raised an additional $11 billion as part of a funding round that hasn't closed yet but is expected to in the coming weeks.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/06/openai-reportedly-raises-an-additional-11-billion-at-a-1-25-trillion-valuation/",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "crusoe-sells-troubled-wyoming-data-center-project-to-google",
+      "label": "Crusoe sells troubled Wyoming data center project to Google",
+      "summary": "The deal highlights the challenges of developing massive AI data centers.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "date": "2026-11-07"
+    },
+    {
       "id": "after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
       "label": "After blocking Muse, Amazon now lets users text Alexa to help them shop",
       "summary": "Amazon said that the feature will roll out to millions of users in coming weeks.",
@@ -100,6 +166,61 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/11/06/after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop/",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
+      "label": "Hundreds of Artex AI hacking tools found publicly exposed to the web",
+      "summary": "Security researchers found hundreds of servers hosting the penetration testing tool Artex exposed to the internet, allowing anyone access to the hacking tool.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/06/hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web/",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
+      "label": "After the midterms, is the AI industry in for a rough two years?",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
+      "label": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+      "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "githubs-new-git-storage-architecture",
+      "label": "GitHub's new Git storage architecture",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50397099",
+      "date": "2026-11-07"
+    },
+    {
+      "id": "how-a-blue-wave-midterm-might-reshape-the-ai-industry",
+      "label": "How a Blue Wave midterm might reshape the AI industry",
+      "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers we",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/podcast/how-a-blue-wave-midterm-might-reshape-the-ai-industry/",
       "date": "2026-11-07"
     },
     {
@@ -236,7 +357,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 10258,
-    "edges": 11365
+    "real_nodes": 10276,
+    "edges": 11385
   }
 }
