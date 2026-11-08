@@ -39,6 +39,13 @@
             "reason": "里程碑式进展"
           },
           {
+            "id": "the-components-of-agent-memory",
+            "title": "The Components of Agent Memory",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50402212",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "show-hn-agents-infer-lego-mechanisms-from-sources-then-animate-them",
             "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
             "score": 0.15,
@@ -120,8 +127,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 23 | 💰 商业趋势: 4 | 🔧 工具生态: 5 | 📱 产品模式: 9",
-    "total_items": 41,
+    "stats": "🤖 技术能力: 24 | 💰 商业趋势: 4 | 🔧 工具生态: 5 | 📱 产品模式: 10",
+    "total_items": 43,
     "high_value_count": 32,
     "all_today_ids": [
       {
@@ -265,6 +272,10 @@
         "label": "Ozempic-style drugs now in trials for heart failure, addiction and even aging"
       },
       {
+        "id": "the-components-of-agent-memory",
+        "label": "The Components of Agent Memory"
+      },
+      {
         "id": "ai-for-scientific-discovery-how-researchers-use-claude",
         "label": "AI for scientific discovery: How researchers use Claude"
       },
@@ -287,9 +298,13 @@
       {
         "id": "show-hn-agentic-identity-broker-oauth-delegation-for-ai-agents",
         "label": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents"
+      },
+      {
+        "id": "panthera-amperes-cpu-performance-model",
+        "label": "Panthera: Ampere's CPU Performance Model"
       }
     ],
     "date_bj": "2026-11-07 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-07 16:03:55"
+    "generated_at_bj": "2026-11-07 18:01:43"
   }
 }

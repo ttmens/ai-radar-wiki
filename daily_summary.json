@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-11-07",
-    "headline": "今日 AI 情报 · 2026-11-07",
-    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "date": "2026-11-08",
+    "headline": "今日 AI 情报 · 2026-11-08",
+    "overview": "今日共采集 12 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：安全/漏洞, AI Agent。",
+        "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "swarmevolve-latent-agent-swarms-for-evolutionary-discovery-and-optimization",
-            "title": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimi",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2611.08483v1",
+            "id": "claude-codes-dont-ask-again-exposes-passwords-in-1122-public-github-files",
+            "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitH",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50407882",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -25,45 +25,10 @@
         "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
-            "title": "Palo Alto Networks in talks to buy AI agent security startup Clutch fo",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/05/palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
-            "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-            "reason": "里程碑式进展"
-          },
-          {
-            "id": "show-hn-agents-infer-lego-mechanisms-from-sources-then-animate-them",
-            "title": "Show HN: Agents infer Lego mechanisms from sources, then animate them",
-            "score": 0.15,
-            "url": "https://github.com/anteloc/ldraw-mecha/tree/v0.5.0",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "show-hn-aegiskernel-zero-trust-posix-runtime-for-ai-agents-in-0016ms",
-            "title": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.01",
-            "score": 0.15,
-            "url": "https://adikshatriyag-crypto.github.io/aegis-kernel/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "show-hn-tmux-restore-saves-tmux-windows-and-agent-sessions-across-reboots",
-            "title": "Show HN: Tmux-restore saves tmux windows and agent sessions across reb",
-            "score": 0.15,
-            "url": "https://github.com/andrewboldi/tmux-restore",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "show-hn-agentic-identity-broker-oauth-delegation-for-ai-agents",
-            "title": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents",
-            "score": 0.15,
-            "url": "https://github.com/zalando-incubator/agentic-identity-broker",
+            "id": "openmontageincopenmontage",
+            "title": "OpenMontageInc/OpenMontage",
+            "score": 0.41,
+            "url": "https://github.com/OpenMontageInc/OpenMontage",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -72,224 +37,74 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI安全与信任正成为规模化部署的关键挑战。该方向的具体信号：安全/漏洞。",
+        "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
-            "title": "Physicl raises $10M to make the digital world real enough for robots",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/06/physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
-        "evidence": [
-          {
-            "id": "anthropic-ipo-buyers-see-valuation-as-low-as-11t",
-            "title": "Anthropic IPO buyers see valuation as low as $1.1T",
-            "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50394906",
+            "id": "show-hn-spindle-a-full-featured-type-safe-web-framework-for-ocaml-5",
+            "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml ",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=50377613",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
       }
     ],
-    "narratives": [
-      {
-        "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：Palo Alto Networks in talks to buy AI ag, SwarmEvolve: Latent Agent Swarms for Evo, Show HN: AegisKernel – Zero-trust POSIX 。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-        "type": "paradigm_shift",
-        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
-      },
-      {
-        "title": "AI安全与信任正成为规模化部署的关键挑战",
-        "body": "今日2条情报涉及AI安全与信任议题。关键事件包括：Adversarial Training with Large Step Siz, Understanding AI from the Inside: The St。具体信号：安全漏洞。安全已从技术问题升级为企业级AI采购的核心决策因素。PM需要在产品设计中将安全/合规作为一等公民。",
-        "type": "bottleneck",
-        "action": "建议：审查当前产品的安全/信任/合规设计，是否需要升级。这是获取企业客户的关键竞争力。"
-      },
-      {
-        "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日3条情报涉及AI商业动态。包括：Anthropic IPO buyers see valuation as lo, Ramp data shows AI spending stalling jus, OpenAI reportedly raises an additional $。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
-        "type": "validation",
-        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
-      }
-    ],
-    "stats": "🤖 技术能力: 23 | 💰 商业趋势: 4 | 🔧 工具生态: 5 | 📱 产品模式: 9",
-    "total_items": 41,
-    "high_value_count": 32,
+    "narratives": [],
+    "stats": "🤖 技术能力: 10 | 📱 产品模式: 1 | 🔧 工具生态: 1",
+    "total_items": 12,
+    "high_value_count": 8,
     "all_today_ids": [
       {
-        "id": "ai-is-dramatically-accelerating-ai-research",
-        "label": "AI is dramatically accelerating AI research"
+        "id": "claude-codes-dont-ask-again-exposes-passwords-in-1122-public-github-files",
+        "label": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files"
       },
       {
-        "id": "britain-to-make-salary-disclosure-in-job-ads-mandatory",
-        "label": "Britain to make salary disclosure in job ads mandatory"
+        "id": "the-end-of-microsoft-researchs-ai-frontiers-group",
+        "label": "The end of Microsoft Research's AI Frontiers group"
       },
       {
-        "id": "anthropic-ipo-buyers-see-valuation-as-low-as-11t",
-        "label": "Anthropic IPO buyers see valuation as low as $1.1T"
+        "id": "goodbye-claude-hello-pi",
+        "label": "Goodbye Claude, Hello Pi"
       },
       {
-        "id": "us-faa-says-it-will-phase-out-floppy-disks-from-air-traffic-control-by-2028",
-        "label": "US FAA says it will phase out floppy disks from air traffic control by 2028"
+        "id": "openmontageincopenmontage",
+        "label": "OpenMontageInc/OpenMontage"
       },
       {
-        "id": "cuban-facebook-knowingly-runs-ai-deepfake-scam-ads-docs-say-16b-fraud-revenue",
-        "label": "Cuban: Facebook knowingly runs AI deepfake scam ads; docs say $16B fraud revenue"
+        "id": "uranium-cubes-reveal-why-the-german-nuclear-project-failed",
+        "label": "Uranium cubes reveal why the German nuclear project failed"
       },
       {
-        "id": "p-e-wheretic",
-        "label": "p-e-w/heretic"
+        "id": "how-long-can-life-wait",
+        "label": "How Long Can Life Wait?"
       },
       {
-        "id": "gemini-omni-12-flash",
-        "label": "Gemini Omni 1.2 Flash"
+        "id": "after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+        "label": "After the midterms, things are looking rocky for Elon Musk and data centers"
       },
       {
-        "id": "restaurant-delivery-payment-skimming-campaign",
-        "label": "Restaurant Delivery Payment-Skimming Campaign"
+        "id": "megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-m",
+        "label": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence"
       },
       {
-        "id": "ramp-data-shows-ai-spending-stalling-just-as-anthropic-nears-its-ipo",
-        "label": "Ramp data shows AI spending stalling just as Anthropic nears its IPO"
+        "id": "show-hn-we-compressed-a-31b-videoaudio-diffusion-model-to-14b-6-steps-int8",
+        "label": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8"
       },
       {
-        "id": "underdog-shows-off-a-32mb-speech-model-in-new-demo",
-        "label": "Underdog shows off a 32MB speech model in new demo"
+        "id": "show-hn-spindle-a-full-featured-type-safe-web-framework-for-ocaml-5",
+        "label": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5"
       },
       {
-        "id": "physicl-raises-10m-to-make-the-digital-world-real-enough-for-robots",
-        "label": "Physicl raises $10M to make the digital world real enough for robots"
+        "id": "show-hn-an-offline-desktop-companion-to-help-maintain-a-healthy-blink-rhythm",
+        "label": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm"
       },
       {
-        "id": "palo-alto-networks-in-talks-to-buy-ai-agent-security-startup-clutch-for-500m",
-        "label": "Palo Alto Networks in talks to buy AI agent security startup Clutch for $500M"
-      },
-      {
-        "id": "openai-reportedly-raises-an-additional-11-billion-at-a-125-trillion-valuation",
-        "label": "OpenAI reportedly raises an additional $11 billion at a $1.25 trillion valuation"
-      },
-      {
-        "id": "crusoe-sells-troubled-wyoming-data-center-project-to-google",
-        "label": "Crusoe sells troubled Wyoming data center project to Google"
-      },
-      {
-        "id": "after-blocking-muse-amazon-now-lets-users-text-alexa-to-help-them-shop",
-        "label": "After blocking Muse, Amazon now lets users text Alexa to help them shop"
-      },
-      {
-        "id": "hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web",
-        "label": "Hundreds of Artex AI hacking tools found publicly exposed to the web"
-      },
-      {
-        "id": "after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years",
-        "label": "After the midterms, is the AI industry in for a rough two years?"
-      },
-      {
-        "id": "meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent",
-        "label": "Meta introduces Spaces, a new way to collaborate with your Muse agent"
-      },
-      {
-        "id": "githubs-new-git-storage-architecture",
-        "label": "GitHub's new Git storage architecture"
-      },
-      {
-        "id": "how-a-blue-wave-midterm-might-reshape-the-ai-industry",
-        "label": "How a Blue Wave midterm might reshape the AI industry"
-      },
-      {
-        "id": "swarmevolve-latent-agent-swarms-for-evolutionary-discovery-and-optimization",
-        "label": "SwarmEvolve: Latent Agent Swarms for Evolutionary Discovery and Optimization"
-      },
-      {
-        "id": "towards-interpreting-any-residual-stream-direction-by-scaling-activation-inversi",
-        "label": "Towards interpreting any residual stream direction by scaling activation inversi"
-      },
-      {
-        "id": "adversarial-training-with-large-step-sizes-implicit-bias-optimization-and-sharpn",
-        "label": "Adversarial Training with Large Step Sizes: Implicit Bias, Optimization, and Sha"
-      },
-      {
-        "id": "unpacking-the-compute-efficiency-of-strong-to-weak-opd-against-grpo",
-        "label": "Unpacking the Compute Efficiency of Strong-to-Weak OPD against GRPO"
-      },
-      {
-        "id": "xstack-a-benchmark-for-ml-repo-migration",
-        "label": "XStack: A Benchmark for ML Repo Migration"
-      },
-      {
-        "id": "label-wording-augmentation-in-a-typed-decision-encoder-gains-on-unfamiliar-words",
-        "label": "Label-Wording Augmentation in a Typed-Decision Encoder: Gains on Unfamiliar Word"
-      },
-      {
-        "id": "understanding-ai-from-the-inside-the-state-of-mechanistic-interpretability-for-a",
-        "label": "Understanding AI from the Inside: The State of Mechanistic Interpretability for"
-      },
-      {
-        "id": "a-hidden-markov-preference-model-for-online-prediction-of-adversary-actions",
-        "label": "A Hidden Markov Preference Model for Online Prediction of Adversary Actions"
-      },
-      {
-        "id": "same-behavior-different-mechanism-what-finite-experiments-can-certify-about-inte",
-        "label": "Same Behavior, Different Mechanism: What Finite Experiments Can Certify About In"
-      },
-      {
-        "id": "scientist-world-grow-a-research-world-for-ai-scientists",
-        "label": "Scientist World: Grow a Research World for AI-Scientists"
-      },
-      {
-        "id": "reprobridge-building-reproducibility-into-ml-research-artifacts",
-        "label": "ReproBridge: Building Reproducibility into ML Research Artifacts"
-      },
-      {
-        "id": "user-embeddings-are-superpositions-of-interpretable-behavioral-modes",
-        "label": "User Embeddings are Superpositions of Interpretable Behavioral Modes"
-      },
-      {
-        "id": "memorilla-latent-semantic-memory-for-llms",
-        "label": "Memorilla: Latent Semantic Memory for LLMs"
-      },
-      {
-        "id": "university-libraries-are-being-swarmed-by-ai-bots-putting-public-access-at-risk",
-        "label": "University libraries are being swarmed by AI bots, putting public access at risk"
-      },
-      {
-        "id": "ozempic-style-drugs-now-in-trials-for-heart-failure-addiction-and-even-aging",
-        "label": "Ozempic-style drugs now in trials for heart failure, addiction and even aging"
-      },
-      {
-        "id": "ai-for-scientific-discovery-how-researchers-use-claude",
-        "label": "AI for scientific discovery: How researchers use Claude"
-      },
-      {
-        "id": "show-hn-agents-infer-lego-mechanisms-from-sources-then-animate-them",
-        "label": "Show HN: Agents infer Lego mechanisms from sources, then animate them"
-      },
-      {
-        "id": "40c3-halfnarp-submit-talk-preferences-to-aid-scheduling",
-        "label": "40C3 halfnarp – Submit talk preferences to aid scheduling"
-      },
-      {
-        "id": "show-hn-aegiskernel-zero-trust-posix-runtime-for-ai-agents-in-0016ms",
-        "label": "Show HN: AegisKernel – Zero-trust POSIX runtime for AI agents in <0.016ms"
-      },
-      {
-        "id": "show-hn-tmux-restore-saves-tmux-windows-and-agent-sessions-across-reboots",
-        "label": "Show HN: Tmux-restore saves tmux windows and agent sessions across reboots"
-      },
-      {
-        "id": "show-hn-agentic-identity-broker-oauth-delegation-for-ai-agents",
-        "label": "Show HN: Agentic Identity Broker, OAuth Delegation for AI Agents"
+        "id": "show-hn-overhead-the-planes-overhead-painted-on-an-e-ink-frame",
+        "label": "Show HN: Overhead – the planes overhead, painted on an e-ink frame"
       }
     ],
-    "date_bj": "2026-11-07 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-07 16:03:55"
+    "date_bj": "2026-11-08 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-08 16:02:53"
   }
 }

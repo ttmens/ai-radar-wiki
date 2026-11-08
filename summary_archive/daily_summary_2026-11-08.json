@@ -1,0 +1,110 @@
+{
+  "daily_summary": {
+    "date": "2026-11-08",
+    "headline": "今日 AI 情报 · 2026-11-08",
+    "overview": "今日共采集 12 条情报",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "claude-codes-dont-ask-again-exposes-passwords-in-1122-public-github-files",
+            "title": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitH",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50407882",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "evidence": [
+          {
+            "id": "openmontageincopenmontage",
+            "title": "OpenMontageInc/OpenMontage",
+            "score": 0.41,
+            "url": "https://github.com/OpenMontageInc/OpenMontage",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "show-hn-spindle-a-full-featured-type-safe-web-framework-for-ocaml-5",
+            "title": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml ",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=50377613",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [],
+    "stats": "🤖 技术能力: 10 | 📱 产品模式: 1 | 🔧 工具生态: 1",
+    "total_items": 12,
+    "high_value_count": 8,
+    "all_today_ids": [
+      {
+        "id": "claude-codes-dont-ask-again-exposes-passwords-in-1122-public-github-files",
+        "label": "Claude Code's \"Don't Ask Again\" exposes passwords in 1,122 public GitHub files"
+      },
+      {
+        "id": "the-end-of-microsoft-researchs-ai-frontiers-group",
+        "label": "The end of Microsoft Research's AI Frontiers group"
+      },
+      {
+        "id": "goodbye-claude-hello-pi",
+        "label": "Goodbye Claude, Hello Pi"
+      },
+      {
+        "id": "openmontageincopenmontage",
+        "label": "OpenMontageInc/OpenMontage"
+      },
+      {
+        "id": "uranium-cubes-reveal-why-the-german-nuclear-project-failed",
+        "label": "Uranium cubes reveal why the German nuclear project failed"
+      },
+      {
+        "id": "how-long-can-life-wait",
+        "label": "How Long Can Life Wait?"
+      },
+      {
+        "id": "after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers",
+        "label": "After the midterms, things are looking rocky for Elon Musk and data centers"
+      },
+      {
+        "id": "megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-m",
+        "label": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence"
+      },
+      {
+        "id": "show-hn-we-compressed-a-31b-videoaudio-diffusion-model-to-14b-6-steps-int8",
+        "label": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8"
+      },
+      {
+        "id": "show-hn-spindle-a-full-featured-type-safe-web-framework-for-ocaml-5",
+        "label": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5"
+      },
+      {
+        "id": "show-hn-an-offline-desktop-companion-to-help-maintain-a-healthy-blink-rhythm",
+        "label": "Show HN: An offline desktop companion to help maintain a healthy blink rhythm"
+      },
+      {
+        "id": "show-hn-overhead-the-planes-overhead-painted-on-an-e-ink-frame",
+        "label": "Show HN: Overhead – the planes overhead, painted on an e-ink frame"
+      }
+    ],
+    "date_bj": "2026-11-08 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-08 16:02:53"
+  }
+}

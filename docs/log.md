@@ -6143,3 +6143,15 @@
 - create: show-hn-agents-infer-lego-mechanisms-from-sources-then-animate-them.md
 - create: show-hn-aegiskernel-zero-trust-posix-runtime-for-ai-agents-in-0016ms.md
 - create: show-hn-agentic-identity-broker-oauth-delegation-for-ai-agents.md
+
+## [2026-11-08 16:03] sync v3 | 13 new | pillars: {'patterns': 2, 'capabilities': 10, 'ecosystem': 1}
+- create: openmontageincopenmontage.md
+- create: goodbye-claude-hello-pi.md
+- create: claude-codes-dont-ask-again-exposes-passwords-in-1122-public-github-files.md
+- create: uranium-cubes-reveal-why-the-german-nuclear-project-failed.md
+- create: the-end-of-microsoft-researchs-ai-frontiers-group.md
+- create: how-long-can-life-wait.md
+- create: show-hn-an-offline-desktop-companion-to-help-maintain-a-healthy-blink-rhythm.md
+- create: show-hn-we-compressed-a-31b-videoaudio-diffusion-model-to-14b-6-steps-int8.md
+- create: after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers.md
+- create: megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-m.md
