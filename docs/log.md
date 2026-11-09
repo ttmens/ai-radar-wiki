@@ -6182,3 +6182,8 @@
 - create: is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a.md
 - create: nvidia-will-investigate-ceo-jensen-huangs-relationship-with-possible-chinese-spy.md
 - create: show-hn-flide-make-jev-like-decision-models-up-to-95x-faster.md
+
+## [2026-11-09 18:02] sync v3 | 3 new | pillars: {'capabilities': 3}
+- create: next-concept-modeling-fast-parallel-coarse-to-fine-text-generation.md
+- create: a-bit-about-email.md
+- create: asahi-linux-drops-mit-goes-full-gpl-after-ai-used-to-steal-unreleased-code.md

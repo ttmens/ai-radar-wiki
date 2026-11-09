@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-11-09 | Total pages: 5906
+> Last updated: 2026-11-09 | Total pages: 5909
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -44,6 +44,7 @@
 - [[a-10-year-old-cnn-outperforms-frontier-llms-for-skin-cancer-diagnosis.md]] A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis `pillar:capabilities` `score:0.505`
 - [[a-1969-camera-operators-strike-created-upstairs-downstairs-multiverse.md]] A 1969 camera operators' strike created Upstairs Downstairs multiverse `pillar:capabilities` `score:0.135`
 - [[a-500-rl-fine-tune-of-a-9b-open-model-beat-frontier-models-on-catalog-review.md]] A $500 RL fine-tune of a 9B open model beat frontier models on catalog review `pillar:capabilities` `score:0.365`
+- [[a-bit-about-email.md]] A Bit about Email `pillar:capabilities` `score:0.155`
 - [[a-case-against-boolean-logic.md]] A case against Boolean logic `pillar:capabilities` `score:0.395`
 - [[a-dark-horse-enters-chinas-ai-race-startlux.md]] A dark horse enters China's AI race: StartLux `pillar:capabilities` `score:0.205`
 - [[a-design-space-exploration-of-asyncawait.md]] A Design Space Exploration of Async/Await `pillar:capabilities` `score:0.405`
@@ -339,6 +340,7 @@
 - [[as-anthropic-suspends-access-to-new-models-india-debates-its-ai-future.md]] As Anthropic suspends access to new models, India debates its AI future `pillar:capabilities` `score:0.48`
 - [[as-search-traffic-dries-up-reddit-announces-it8217s-shifting-to-a-logged-in-expe.md]] As search traffic dries up, Reddit announces it&#8217;s shifting to a logged-in `pillar:capabilities` `score:0.305`
 - [[as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safa.md]] As the browser wars heat up, here are the hottest alternatives to Chrome and Saf `pillar:capabilities` `score:0.305`
+- [[asahi-linux-drops-mit-goes-full-gpl-after-ai-used-to-steal-unreleased-code.md]] Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code `pillar:capabilities` `score:0.155`
 - [[ashishpatel26500-ai-machine-learning-deep-learning-computer-vision-nlp-projects.md]] ashishpatel26/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code `pillar:capabilities` `score:0.405`
 - [[ashton-kutcher-leaving-sound-ventures-to-launch-new-vc-firm-with-morgan-beller.md]] Ashton Kutcher leaving Sound Ventures to launch new VC firm with Morgan Beller `pillar:capabilities` `score:0.305`
 - [[asian-ai-startups-launch-mythos-like-models.md]] Asian AI startups launch Mythos-like models `pillar:capabilities` `score:0.445`
@@ -1433,6 +1435,7 @@
 - [[new-eu-wide-product-repair-rules-come-into-force.md]] New EU-wide product repair rules come into force `pillar:capabilities` `score:0.355`
 - [[new-google-commercial-imagines-a-declaration-of-independence-written-with-help-f.md]] New Google commercial imagines a Declaration of Independence written with help f `pillar:capabilities` `score:0.445`
 - [[new-serious-vulnerabilities-spiked-around-release-of-claude-mythos-preview.md]] New serious vulnerabilities spiked around release of Claude Mythos Preview `pillar:capabilities` `score:0.38`
+- [[next-concept-modeling-fast-parallel-coarse-to-fine-text-generation.md]] Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation `pillar:capabilities` `score:0.205`
 - [[next-token-predictor-is-the-wrong-mental-model-for-llms.md]] “Next-token predictor” is the wrong mental model for LLMs `pillar:capabilities` `score:0.405`
 - [[next-wave-of-vcs-judging-startup-battlefield-200-contenders-at-techcrunch-disrup.md]] Next wave of VCs judging Startup Battlefield 200 contenders at TechCrunch Disrup `pillar:capabilities` `score:0.305`
 - [[nicolas-cage-says-he-wont-work-with-amazon-again-over-ai-dispute.md]] Nicolas Cage says he won't work with Amazon again over AI dispute `pillar:capabilities` `score:0.155`
