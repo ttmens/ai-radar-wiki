@@ -1,0 +1,19 @@
+{
+  "title": "Graded convolutional networks: scale invariance without the scale and robustness to unknown blur",
+  "summary": "The Gaussian jet of an image is a graded vector space: a dilation by $λ$ multiplies derivatives of order $k$ by $λ^{-k}$. Local graded convolutions are exactly homogeneous differential operators, and a local feature is dilation-invariant if and only if it factors through the scale-normalized jet or, without the scale, through the retraction onto the weighted sphere of the grading. Under unknown Gaussian blur the retraction changes only by a change of scale, whereas the scale-normalized jet acquires a grading factor that no radial normalization removes. At the zero jet the retraction separates image families that radial normalizations and continuous classifiers cannot. Networks built on the retraction are universal for invariant features. On MNIST such a network keeps 88.4% accuracy under a two-pixel blur, against 66.2% for the same network on scale-normalized derivatives; in Lindeberg's Gaussian derivative network the retraction raises accuracy at that blur from 91.5% to 95.1%.",
+  "url": "http://arxiv.org/abs/2611.09878v1",
+  "authors": [
+    "Tanush Shaska"
+  ],
+  "published": "2026-11-06T18:54:03Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "accuracy"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

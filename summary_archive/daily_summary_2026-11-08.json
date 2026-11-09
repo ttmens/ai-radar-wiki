@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-11-08",
     "headline": "今日 AI 情报 · 2026-11-08",
-    "overview": "今日共采集 12 条情报",
+    "overview": "今日共采集 13 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -51,8 +51,8 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 10 | 📱 产品模式: 1 | 🔧 工具生态: 1",
-    "total_items": 12,
+    "stats": "🤖 技术能力: 11 | 📱 产品模式: 1 | 🔧 工具生态: 1",
+    "total_items": 13,
     "high_value_count": 8,
     "all_today_ids": [
       {
@@ -92,6 +92,10 @@
         "label": "Show HN: We compressed a 31B video+audio diffusion model to 14B, 6 steps, INT8"
       },
       {
+        "id": "consumer-brain-wave-headsets-threaten-privacy",
+        "label": "Consumer brain wave headsets threaten privacy"
+      },
+      {
         "id": "show-hn-spindle-a-full-featured-type-safe-web-framework-for-ocaml-5",
         "label": "Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5"
       },
@@ -105,6 +109,6 @@
       }
     ],
     "date_bj": "2026-11-08 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-08 16:02:53"
+    "generated_at_bj": "2026-11-08 18:01:43"
   }
 }

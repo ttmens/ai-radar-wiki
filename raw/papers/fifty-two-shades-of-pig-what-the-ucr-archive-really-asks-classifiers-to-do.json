@@ -1,0 +1,25 @@
+{
+  "title": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do",
+  "summary": "The pigs were bleeding. That was the point of the experiment: could airway pressure reveal hemorrhage before it became critical? In the UCR Time Series Classification Archive, the de facto benchmark for Time Series Classification (TSC), the same recordings ask a different question: \"which of 52 pigs produced this trace?\". The dataset PigAirwayPressure is not an outlier. Although the archive is the standard benchmark, whether its tasks resemble the problems TSC is meant to solve has rarely been examined. We find that several datasets are repurposed from their original task, built from toy setups, or have flawed test splits. We further question how representative the archive's ordered non-temporal sequences (e.g. spectra, shape outlines) are of real TSC, and the potential downsides from the decomposition of multivariate problems. Our findings call for more careful interpretation of archive-wide scores and greater attention to deployment-relevant evaluation. The audit is at https://github.com/automl/ucr-provenance-audit.",
+  "url": "http://arxiv.org/abs/2611.09843v1",
+  "authors": [
+    "Omar Swelam",
+    "Jaris Küken",
+    "Shi Bin Hoo",
+    "Frank Hutter",
+    "Lennart Purucker"
+  ],
+  "published": "2026-11-06T18:28:12Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "attention",
+    "dataset"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

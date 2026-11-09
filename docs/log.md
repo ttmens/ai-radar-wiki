@@ -6155,3 +6155,30 @@
 - create: show-hn-we-compressed-a-31b-videoaudio-diffusion-model-to-14b-6-steps-int8.md
 - create: after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers.md
 - create: megaspeed-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-m.md
+
+## [2026-11-09 16:05] sync v3 | 28 new | pillars: {'capabilities': 26, 'patterns': 2}
+- create: on-agentic-manipulation-policies.md
+- create: cpu-arc-agentic-reasoning-caching-for-on-cpu-reasoning-reuse.md
+- create: on-the-non-closedness-of-the-set-of-relu-networks.md
+- create: flowmop-stochastic-multi-person-motion-prediction.md
+- create: graded-convolutional-networks-scale-invariance-without-the-scale-and-robustness.md
+- create: on-the-reliability-of-majority-vote-pseudo-labels-in-test-time-reinforcement-lea.md
+- create: grac-graph-based-retrieval-augmented-captioning-for-surgical-scene-description.md
+- create: grasp-tags-task-aware-grasp-selection-via-critic-distillation-for-prehensile-loc.md
+- create: flow-guided-target-space-alignment-via-path-consistency.md
+- create: computer-use-agents-are-embodied-generalists.md
+- create: ensemble-methodology-for-reference-free-confidence-estimation-in-llm-based-code.md
+- create: fifty-two-shades-of-pig-what-the-ucr-archive-really-asks-classifiers-to-do.md
+- create: im-not-convinced-the-ai-bubble-exists.md
+- create: declarative-dragging.md
+- create: outlookcom-is-rejecting-email-from-domains-without-dmarc.md
+- create: nvidia-ceo-jensen-huangs-letter-to-staff-about-affair.md
+- create: goldman-sachs-is-pulling-claude-code-from-its-bankers-and-traders.md
+- create: how-i-fight-ai-brain-fry.md
+- create: air-holes-turn-silicon-wafers-into-flat-uv-focusing-mirrors-for-compact-optics.md
+- create: im-not-a-fan-of-denos-security-model-2024.md
+- create: edward-hoppers-iconic-painting-nighthawks.md
+- create: apple-capped-engineers-at-a-200-daily-ai-budget.md
+- create: is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a.md
+- create: nvidia-will-investigate-ceo-jensen-huangs-relationship-with-possible-chinese-spy.md
+- create: show-hn-flide-make-jev-like-decision-models-up-to-95x-faster.md

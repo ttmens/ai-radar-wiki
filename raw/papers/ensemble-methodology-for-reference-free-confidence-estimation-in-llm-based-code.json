@@ -1,0 +1,23 @@
+{
+  "title": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code Summarization",
+  "summary": "This paper describes an approach and use case to estimate the correctness of LLM-generated COBOL summaries without access to human-authored references. The core intuition is that inter-model agreement on semantics is informative about truth, and that an LLM-as-judge can provide higher-fidelity pairwise assessments than traditional string- or embedding-based metrics. We operationalise this intuition with (i) controlled summary generation from diverse models; (ii) a LLM evaluator that compares pairs of summaries and emits structured judgments; and (iii) a calibrated aggregation rule that combines supportive evidence while penalising only corroborated contradictions.",
+  "url": "http://arxiv.org/abs/2611.09846v1",
+  "authors": [
+    "Marco Colombo",
+    "Balaji A Jayaram",
+    "Sowmyakumari Selvaraj",
+    "Sumit Tokkar",
+    "Animesh Kumar"
+  ],
+  "published": "2026-11-06T18:29:48Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "embedding"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

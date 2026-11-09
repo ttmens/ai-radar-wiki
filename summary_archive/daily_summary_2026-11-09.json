@@ -1,0 +1,209 @@
+{
+  "daily_summary": {
+    "date": "2026-11-09",
+    "headline": "今日 AI 情报 · 2026-11-09",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 融资/投资。",
+        "evidence": [
+          {
+            "id": "on-agentic-manipulation-policies",
+            "title": "On Agentic Manipulation Policies",
+            "score": 0.26,
+            "url": "http://arxiv.org/abs/2611.09892v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "cpu-arc-agentic-reasoning-caching-for-on-cpu-reasoning-reuse",
+            "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
+            "score": 0.26,
+            "url": "http://arxiv.org/abs/2611.09891v1",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "computer-use-agents-are-embodied-generalists",
+            "title": "Computer-Use Agents Are Embodied Generalists",
+            "score": 0.26,
+            "url": "http://arxiv.org/abs/2611.09847v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "declarative-dragging",
+            "title": "Declarative Dragging",
+            "score": 0.41,
+            "url": "https://news.ycombinator.com/item?id=50368481",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "openai-raises-11b-at-a-125t-valuation",
+            "title": "OpenAI raises $11B at a $1.25T valuation",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=50413822",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：On Agentic Manipulation Policies, CPU-ARC: Agentic Reasoning Caching for o。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日2条情报涉及AI商业动态。包括：Fifty-Two Shades of Pig: What the UCR Ar, OpenAI raises $11B at a $1.25T valuation。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 27 | 📱 产品模式: 2 | 💰 商业趋势: 1",
+    "total_items": 30,
+    "high_value_count": 12,
+    "all_today_ids": [
+      {
+        "id": "nvidia-ceo-jensen-huangs-letter-to-staff-about-affair",
+        "label": "Nvidia CEO Jensen Huang's letter to staff about affair"
+      },
+      {
+        "id": "goldman-sachs-is-pulling-claude-code-from-its-bankers-and-traders",
+        "label": "Goldman Sachs is pulling Claude Code from its bankers and traders"
+      },
+      {
+        "id": "outlookcom-is-rejecting-email-from-domains-without-dmarc",
+        "label": "Outlook.com is rejecting email from domains without DMARC"
+      },
+      {
+        "id": "im-not-convinced-the-ai-bubble-exists",
+        "label": "I'm not convinced the AI bubble exists"
+      },
+      {
+        "id": "how-i-fight-ai-brain-fry",
+        "label": "How I Fight AI Brain Fry"
+      },
+      {
+        "id": "declarative-dragging",
+        "label": "Declarative Dragging"
+      },
+      {
+        "id": "agent-memory-needs-its-opentelemetry-moment",
+        "label": "Agent memory needs its OpenTelemetry moment"
+      },
+      {
+        "id": "llama-modchip-284b-deepseek-on-64gb-ram-no-gpu",
+        "label": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
+      },
+      {
+        "id": "apple-capped-engineers-at-a-200-daily-ai-budget",
+        "label": "Apple capped engineers at a $200 daily AI budget"
+      },
+      {
+        "id": "is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a",
+        "label": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “abo"
+      },
+      {
+        "id": "nvidia-will-investigate-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
+        "label": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese sp"
+      },
+      {
+        "id": "im-not-a-fan-of-denos-security-model-2024",
+        "label": "I'm not a fan of Deno's security model (2024)"
+      },
+      {
+        "id": "edward-hoppers-iconic-painting-nighthawks",
+        "label": "Edward Hopper's Iconic Painting, \"Nighthawks"
+      },
+      {
+        "id": "on-agentic-manipulation-policies",
+        "label": "On Agentic Manipulation Policies"
+      },
+      {
+        "id": "grac-graph-based-retrieval-augmented-captioning-for-surgical-scene-description",
+        "label": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description"
+      },
+      {
+        "id": "ensemble-methodology-for-reference-free-confidence-estimation-in-llm-based-code",
+        "label": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code"
+      },
+      {
+        "id": "flowmop-stochastic-multi-person-motion-prediction",
+        "label": "FlowMoP: Stochastic Multi-Person Motion Prediction"
+      },
+      {
+        "id": "on-the-non-closedness-of-the-set-of-relu-networks",
+        "label": "On the (non-)closedness of the set of ReLU networks"
+      },
+      {
+        "id": "fifty-two-shades-of-pig-what-the-ucr-archive-really-asks-classifiers-to-do",
+        "label": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do"
+      },
+      {
+        "id": "grasp-tags-task-aware-grasp-selection-via-critic-distillation-for-prehensile-loc",
+        "label": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Lo"
+      },
+      {
+        "id": "cpu-arc-agentic-reasoning-caching-for-on-cpu-reasoning-reuse",
+        "label": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse"
+      },
+      {
+        "id": "on-the-reliability-of-majority-vote-pseudo-labels-in-test-time-reinforcement-lea",
+        "label": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Lea"
+      },
+      {
+        "id": "computer-use-agents-are-embodied-generalists",
+        "label": "Computer-Use Agents Are Embodied Generalists"
+      },
+      {
+        "id": "graded-convolutional-networks-scale-invariance-without-the-scale-and-robustness",
+        "label": "Graded convolutional networks: scale invariance without the scale and robustness"
+      },
+      {
+        "id": "flow-guided-target-space-alignment-via-path-consistency",
+        "label": "Flow-Guided Target-Space Alignment via Path Consistency"
+      },
+      {
+        "id": "air-holes-turn-silicon-wafers-into-flat-uv-focusing-mirrors-for-compact-optics",
+        "label": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics"
+      },
+      {
+        "id": "quadrillion-parameter-transformers-and-how-to-train-them",
+        "label": "Quadrillion-parameter transformers and how to train them"
+      },
+      {
+        "id": "show-hn-llm-weight-editing-tool-made-by-a-15-year-old",
+        "label": "Show HN: LLM weight editing tool made by a 15-year-old"
+      },
+      {
+        "id": "openai-raises-11b-at-a-125t-valuation",
+        "label": "OpenAI raises $11B at a $1.25T valuation"
+      },
+      {
+        "id": "show-hn-flide-make-jev-like-decision-models-up-to-95x-faster",
+        "label": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster"
+      }
+    ],
+    "date_bj": "2026-11-09 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-09 16:04:41"
+  }
+}

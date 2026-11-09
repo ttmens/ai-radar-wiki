@@ -1,0 +1,21 @@
+{
+  "title": "On the (non-)closedness of the set of ReLU networks",
+  "summary": "We prove that the set $\\mathcal{N}_N$ of ReLU networks with one hidden layer and at most $N\\in\\mathbb N$ neurons is weakly closed in $W^{1,p}(Ω)$, for a bounded connected open set $Ω\\subset\\mathbb R^d$. Consequently, every coercive, weakly lower semicontinuous energy on this space attains its minimum over $\\mathcal{N}_N$. This covers the Deep Ritz method with convex integrands, Sobolev training and Lipschitz learning. Moreover, as the weight decay parameter tends to zero, minimizers of the regularized problem converge, up to subsequences, to minimizers with minimal parameter norm. We also prove that the set of ReLU networks with two hidden layers of bounded widths is not closed in $W^{1,p}(Ω)$ or in $C(\\overlineΩ)$. This disproves a conjecture of Petersen, Raslan and Voigtlaender.",
+  "url": "http://arxiv.org/abs/2611.09887v1",
+  "authors": [
+    "Eloi Martinet",
+    "Leon Bungert"
+  ],
+  "published": "2026-11-06T18:58:06Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "parameter"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

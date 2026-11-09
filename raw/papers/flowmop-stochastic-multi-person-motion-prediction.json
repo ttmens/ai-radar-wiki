@@ -1,0 +1,24 @@
+{
+  "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+  "summary": "Predicting the future motion of multiple people is inherently stochastic: the same observed history admits many plausible continuations depending on intent, coordination, and social context. Yet the dominant paradigm in multi-person 3D motion prediction remains deterministic, with existing methods producing a fixed number of outputs per agent. In contrast, we present a conditional flow matching framework that jointly generates diverse future motions for multiple agents, modeling both global trajectories and root-relative poses. A B-spline reparameterization compresses the generative state space while enforcing temporal smoothness, and a dual-stream transformer conditions each agent's predictions on observed neighbor motion for interaction-aware forecasting. Our method achieves state-of-the-art performance on CMU-Mocap (UMPM) and 3DPW, outperforming deterministic baselines on joint position error, pose error, and final displacement error despite producing a full predictive distribution. We additionally establish the first motion prediction baseline on WorldPose, a large-scale professional soccer dataset, where social conditioning demonstrably concentrates predictive uncertainty along interaction-constrained directions.",
+  "url": "http://arxiv.org/abs/2611.09882v1",
+  "authors": [
+    "Aadya Agrawal",
+    "Ho Kei Cheng",
+    "Alexander Schwing"
+  ],
+  "published": "2026-11-06T18:56:41Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "dpo",
+    "transformer",
+    "parameter",
+    "dataset"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

@@ -1,0 +1,27 @@
+{
+  "title": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description",
+  "summary": "Purpose: Surgical operative reports support procedural documentation, surgical training, performance assessment, and workflow review. However, extracting meaningful information often requires extensive manual review and clinical expertise. Automated surgical scene descriptions could reduce this burden by leveraging recurring surgical activities and prior knowledge.\n  Methods: We propose GRAC (Graph-Based Retrieval-Augmented Captioning), a framework that represents surgical scenes as graphs capturing relationships among instruments, actions, and anatomical structures. Given an input scene graph, GRAC learns to retrieve relevant graph-caption pairs from training data. It compares instrument-tissue interactions between retrieved examples and the input scene, using comparison features to condition retrieved-caption representations during generation.\n  Results: On the EndoVis-18 benchmark, GRAC achieved a CIDEr-D of 5.88, compared with 4.23 for SGT and 3.36 for the strongest conventional Transformer baseline. Exact instrument-action-target triplet-set accuracy reached 52.6%, compared with 32.7% for SGT and 26.2% for the strongest conventional baseline. These results demonstrate improvements in language quality and factual agreement. On TORS, GRAC achieved a CIDEr-D of 5.06, compared with 3.80 for the strongest baseline.\n  Conclusion: GRAC demonstrates that combining structured surgical scene representations with retrieved examples improves surgical scene captioning and produces more contextually meaningful descriptions.",
+  "url": "http://arxiv.org/abs/2611.09866v1",
+  "authors": [
+    "Rochak Dhakal",
+    "Chen Zhao",
+    "Soup Cobb",
+    "Xin Qian",
+    "Xiaofeng Yang"
+  ],
+  "published": "2026-11-06T18:47:23Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "benchmark",
+    "training",
+    "transformer",
+    "accuracy",
+    "retrieval"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

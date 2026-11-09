@@ -1,0 +1,30 @@
+{
+  "title": "Flow-Guided Target-Space Alignment via Path Consistency",
+  "summary": "Many multimodal alignment problems require mapping a source modality into a fixed space defined by a target modality, where the target space is not merely an intermediate embedding but is used directly for downstream analysis. In this setting, successful alignment should preserve both the global structure of the target distribution and the instance-level correspondence observed in paired source--target training data. Existing objectives typically address only part of this goal: contrastive losses encourage relative similarity, distribution-matching losses improve marginal agreement, and pointwise regression fits each source sample to its paired target without explicitly modeling target-space path geometry. We propose FlowAlign, a flow-guided target-space alignment method that repurposes conditional flow matching as a training-time alignment signal rather than an inference-time transport model. FlowAlign uses the learned flow field to guide the alignment of source-side representations with the fixed target space, encouraging them to preserve paired correspondence while remaining compatible with the global target-space structure. We further provide theoretical analysis showing how FlowAlign helps improve paired correspondence by controlling endpoint accuracy and capturing local target-space geometry. Experiments on synthetic data, paired single-cell multiome benchmarks, and image--text alignment demonstrate that FlowAlign improves instance level correspondence while preserving target-space structure across different modality settings.",
+  "url": "http://arxiv.org/abs/2611.09863v1",
+  "authors": [
+    "Ruizhi Yuan",
+    "Zeqiu Yu",
+    "Wei Gao",
+    "Wei Chen",
+    "Xiwei Tang"
+  ],
+  "published": "2026-11-06T18:44:08Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "inference",
+    "benchmark",
+    "multimodal",
+    "training",
+    "dpo",
+    "embedding",
+    "accuracy",
+    "similarity"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
