@@ -1,0 +1,248 @@
+{
+  "daily_summary": {
+    "date": "2026-11-10",
+    "headline": "今日 AI 情报 · 2026-11-10",
+    "overview": "AI商业动态：资本与市场持续升温",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "payments-canada-announces-launch-of-canadas-real-time-rail-rtr-payment-system",
+            "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) paym",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50427362",
+            "reason": "高价值信号"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "chatgpt-desktop-forwards-your-ssh-agent-to-remote-machines",
+            "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=50422628",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向的核心信号集中在融资/投资, AI Agent。",
+        "evidence": [
+          {
+            "id": "mitigating-agentic-deception-via-evaluation-side-partially-observable-games",
+            "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable ",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.12835v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
+        "evidence": [
+          {
+            "id": "anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+            "title": "Anthropic reportedly plans to move forward with IPO plans",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日3条情报涉及AI商业动态。包括：Anthropic reportedly plans to move forwa, Mitigating Agentic Deception via Evaluat, Adaptive Quantization Preserves Fast Rat。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 38 | 📱 产品模式: 1 | 💰 商业趋势: 1 | 🔧 工具生态: 1",
+    "total_items": 41,
+    "high_value_count": 37,
+    "all_today_ids": [
+      {
+        "id": "payments-canada-announces-launch-of-canadas-real-time-rail-rtr-payment-system",
+        "label": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system"
+      },
+      {
+        "id": "claude-fable-52-and-mythos-52",
+        "label": "Claude Fable 5.2 and Mythos 5.2"
+      },
+      {
+        "id": "foldable-flight-the-best-paper-airplanes",
+        "label": "Foldable Flight: The Best Paper Airplanes"
+      },
+      {
+        "id": "google-gemini-routes-personal-drive-files-and-emails-to-human-annotators",
+        "label": "Google Gemini routes personal Drive files and emails to human annotators"
+      },
+      {
+        "id": "humans-will-never-again-create-a-project-like-wikipedia",
+        "label": "Humans will never again create a project like Wikipedia"
+      },
+      {
+        "id": "claude-fable-52-scores-65-on-artificial-analysis-highest-so-far",
+        "label": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far"
+      },
+      {
+        "id": "muse-ember-our-smallest-most-efficient-model",
+        "label": "Muse Ember: Our smallest, most efficient model"
+      },
+      {
+        "id": "semi-transparent-colored-cadmium-telluride-photovoltaic-panels-in-agrivoltaics",
+        "label": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics"
+      },
+      {
+        "id": "fold-epic-paper-airplanes",
+        "label": "Fold Epic Paper Airplanes"
+      },
+      {
+        "id": "coreweave-bond-yield-tops-16-as-ai-credit-stress-rises",
+        "label": "CoreWeave bond yield tops 16% as AI credit stress rises"
+      },
+      {
+        "id": "drones-built-to-look-like-birds-evaded-detection-at-air-force-tech-exercise",
+        "label": "Drones built to look like birds evaded detection at Air Force tech exercise"
+      },
+      {
+        "id": "jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profil",
+        "label": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profi"
+      },
+      {
+        "id": "deepx-claims-inference-up-to-100b-parameters-at-less-than-5-w",
+        "label": "DeepX claims inference up to 100B parameters at less than 5 W"
+      },
+      {
+        "id": "otter-ai-can-now-follow-conversations-across-30-languages",
+        "label": "Otter AI can now follow conversations across 30+ languages"
+      },
+      {
+        "id": "automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
+        "label": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet"
+      },
+      {
+        "id": "anthropic-joins-ais-natural-gas-frenzy-buys-34b-worth-of-turbines",
+        "label": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines"
+      },
+      {
+        "id": "chatgpt-desktop-forwards-your-ssh-agent-to-remote-machines",
+        "label": "ChatGPT Desktop forwards your SSH agent to remote machines"
+      },
+      {
+        "id": "jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
+        "label": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy"
+      },
+      {
+        "id": "a-short-seller-flagged-nvidia-ceo8217s-ties-to-a-suspected-chinese-spy-six-month",
+        "label": "A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six mo"
+      },
+      {
+        "id": "anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+        "label": "Anthropic reportedly plans to move forward with IPO plans"
+      },
+      {
+        "id": "medium8217s-new-tk-app-brings-ai-assistance-directly-into-the-writing-process",
+        "label": "Medium&#8217;s new TK app brings AI assistance directly into the writing process"
+      },
+      {
+        "id": "the-race-is-on-to-sue-nvidia",
+        "label": "The race is on to sue Nvidia"
+      },
+      {
+        "id": "anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+        "label": "Anthropic releases new Mythos and Fable models amid RSI concerns"
+      },
+      {
+        "id": "meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+        "label": "Meta releases Muse Ember, a new lightweight model for agent execution"
+      },
+      {
+        "id": "jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under",
+        "label": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions und"
+      },
+      {
+        "id": "hive-mem-interleaving-horizontal-memory-expansion-and-vertical-evidence-composit",
+        "label": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composi"
+      },
+      {
+        "id": "mitigating-agentic-deception-via-evaluation-side-partially-observable-games",
+        "label": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games"
+      },
+      {
+        "id": "guiding-data-allocation-for-robust-subpopulation-generalization",
+        "label": "Guiding Data Allocation for Robust Subpopulation Generalization"
+      },
+      {
+        "id": "vendi-anomaly-scores-for-efficient-and-accurate-anomaly-detection",
+        "label": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection"
+      },
+      {
+        "id": "kolmogorov-chapman-maps-trajectory-free-learning-for-simulating-molecular-dynami",
+        "label": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynam"
+      },
+      {
+        "id": "shortcuts-and-boundaries-verifiable-rl-misalignment-and-contextual-safety-learni",
+        "label": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learn"
+      },
+      {
+        "id": "what-kills-v-prediction-a-patch-wise-pca-perspective-on-pixel-space-flow-matchin",
+        "label": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matc"
+      },
+      {
+        "id": "is-persona-generalization-predictable",
+        "label": "Is Persona Generalization Predictable?"
+      },
+      {
+        "id": "programming-prescience-issues-in-human-construction-of-forecasting-bots",
+        "label": "Programming Prescience: Issues in Human Construction of Forecasting Bots"
+      },
+      {
+        "id": "adaptive-quantization-preserves-fast-rates-for-td-learning-over-rate-limited-cha",
+        "label": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Cha"
+      },
+      {
+        "id": "where-does-alignment-emerge-and-what-does-it-mean-a-closer-look-at-the-platonic",
+        "label": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic"
+      },
+      {
+        "id": "what-the-loss-curve-misses-fp4-pretraining-slows-the-acquisition-of-rare-facts",
+        "label": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts"
+      },
+      {
+        "id": "show-hn-ste80-humanizer-de-ai-text-by-writing-80-of-the-way-to-asd-ste100",
+        "label": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100"
+      },
+      {
+        "id": "6-hours-of-youtube-and-85-handtyped-pages-of-notes-on-llm-inference-start-here",
+        "label": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here"
+      },
+      {
+        "id": "ur-nammu-founder-of-the-sumerian-renaissance",
+        "label": "Ur-Nammu Founder of the Sumerian Renaissance"
+      },
+      {
+        "id": "show-hn-recalc-spreadsheet-where-cells-can-be-claude-code-or-codex-terminals",
+        "label": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals"
+      }
+    ],
+    "date_bj": "2026-11-10 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-10 16:05:14"
+  }
+}

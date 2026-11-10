@@ -1,34 +1,20 @@
 {
   "daily_summary": {
-    "date": "2026-11-09",
-    "headline": "今日 AI 情报 · 2026-11-09",
-    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "date": "2026-11-10",
+    "headline": "今日 AI 情报 · 2026-11-10",
+    "overview": "AI商业动态：资本与市场持续升温",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent, 融资/投资。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "on-agentic-manipulation-policies",
-            "title": "On Agentic Manipulation Policies",
-            "score": 0.26,
-            "url": "http://arxiv.org/abs/2611.09892v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "cpu-arc-agentic-reasoning-caching-for-on-cpu-reasoning-reuse",
-            "title": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse",
-            "score": 0.26,
-            "url": "http://arxiv.org/abs/2611.09891v1",
-            "reason": "里程碑式进展"
-          },
-          {
-            "id": "computer-use-agents-are-embodied-generalists",
-            "title": "Computer-Use Agents Are Embodied Generalists",
-            "score": 0.26,
-            "url": "http://arxiv.org/abs/2611.09847v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "payments-canada-announces-launch-of-canadas-real-time-rail-rtr-payment-system",
+            "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) paym",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50427362",
+            "reason": "高价值信号"
           }
         ],
         "trend": "new"
@@ -39,10 +25,25 @@
         "insight": "今日📱 产品模式方向有新的动态。",
         "evidence": [
           {
-            "id": "declarative-dragging",
-            "title": "Declarative Dragging",
-            "score": 0.41,
-            "url": "https://news.ycombinator.com/item?id=50368481",
+            "id": "chatgpt-desktop-forwards-your-ssh-agent-to-remote-machines",
+            "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=50422628",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向的核心信号集中在融资/投资, AI Agent。",
+        "evidence": [
+          {
+            "id": "mitigating-agentic-deception-via-evaluation-side-partially-observable-games",
+            "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable ",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.12835v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -51,13 +52,13 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
         "evidence": [
           {
-            "id": "openai-raises-11b-at-a-125t-valuation",
-            "title": "OpenAI raises $11B at a $1.25T valuation",
-            "score": 0.15,
-            "url": "https://news.ycombinator.com/item?id=50413822",
+            "id": "anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+            "title": "Anthropic reportedly plans to move forward with IPO plans",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -66,156 +67,182 @@
     ],
     "narratives": [
       {
-        "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：On Agentic Manipulation Policies, CPU-ARC: Agentic Reasoning Caching for o。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-        "type": "paradigm_shift",
-        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
-      },
-      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日2条情报涉及AI商业动态。包括：Fifty-Two Shades of Pig: What the UCR Ar, OpenAI raises $11B at a $1.25T valuation。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：Anthropic reportedly plans to move forwa, Mitigating Agentic Deception via Evaluat, Adaptive Quantization Preserves Fast Rat。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 30 | 📱 产品模式: 2 | 💰 商业趋势: 1",
-    "total_items": 33,
-    "high_value_count": 12,
+    "stats": "🤖 技术能力: 38 | 📱 产品模式: 1 | 💰 商业趋势: 1 | 🔧 工具生态: 1",
+    "total_items": 41,
+    "high_value_count": 37,
     "all_today_ids": [
       {
-        "id": "nvidia-ceo-jensen-huangs-letter-to-staff-about-affair",
-        "label": "Nvidia CEO Jensen Huang's letter to staff about affair"
+        "id": "payments-canada-announces-launch-of-canadas-real-time-rail-rtr-payment-system",
+        "label": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system"
       },
       {
-        "id": "goldman-sachs-is-pulling-claude-code-from-its-bankers-and-traders",
-        "label": "Goldman Sachs is pulling Claude Code from its bankers and traders"
+        "id": "claude-fable-52-and-mythos-52",
+        "label": "Claude Fable 5.2 and Mythos 5.2"
       },
       {
-        "id": "outlookcom-is-rejecting-email-from-domains-without-dmarc",
-        "label": "Outlook.com is rejecting email from domains without DMARC"
+        "id": "foldable-flight-the-best-paper-airplanes",
+        "label": "Foldable Flight: The Best Paper Airplanes"
       },
       {
-        "id": "im-not-convinced-the-ai-bubble-exists",
-        "label": "I'm not convinced the AI bubble exists"
+        "id": "google-gemini-routes-personal-drive-files-and-emails-to-human-annotators",
+        "label": "Google Gemini routes personal Drive files and emails to human annotators"
       },
       {
-        "id": "how-i-fight-ai-brain-fry",
-        "label": "How I Fight AI Brain Fry"
+        "id": "humans-will-never-again-create-a-project-like-wikipedia",
+        "label": "Humans will never again create a project like Wikipedia"
       },
       {
-        "id": "declarative-dragging",
-        "label": "Declarative Dragging"
+        "id": "claude-fable-52-scores-65-on-artificial-analysis-highest-so-far",
+        "label": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far"
       },
       {
-        "id": "agent-memory-needs-its-opentelemetry-moment",
-        "label": "Agent memory needs its OpenTelemetry moment"
+        "id": "muse-ember-our-smallest-most-efficient-model",
+        "label": "Muse Ember: Our smallest, most efficient model"
       },
       {
-        "id": "llama-modchip-284b-deepseek-on-64gb-ram-no-gpu",
-        "label": "Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU"
+        "id": "semi-transparent-colored-cadmium-telluride-photovoltaic-panels-in-agrivoltaics",
+        "label": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics"
       },
       {
-        "id": "apple-capped-engineers-at-a-200-daily-ai-budget",
-        "label": "Apple capped engineers at a $200 daily AI budget"
+        "id": "fold-epic-paper-airplanes",
+        "label": "Fold Epic Paper Airplanes"
       },
       {
-        "id": "is-jensen-huangs-job-on-the-line-yales-jeffrey-sonnenfeld-estimates-its-about-a",
-        "label": "Is Jensen Huang’s job on the line? Yale’s Jeffrey Sonnenfeld estimates it’s “abo"
+        "id": "coreweave-bond-yield-tops-16-as-ai-credit-stress-rises",
+        "label": "CoreWeave bond yield tops 16% as AI credit stress rises"
       },
       {
-        "id": "nvidia-will-investigate-ceo-jensen-huangs-relationship-with-possible-chinese-spy",
-        "label": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese sp"
+        "id": "drones-built-to-look-like-birds-evaded-detection-at-air-force-tech-exercise",
+        "label": "Drones built to look like birds evaded detection at Air Force tech exercise"
       },
       {
-        "id": "im-not-a-fan-of-denos-security-model-2024",
-        "label": "I'm not a fan of Deno's security model (2024)"
+        "id": "jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profil",
+        "label": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profi"
       },
       {
-        "id": "edward-hoppers-iconic-painting-nighthawks",
-        "label": "Edward Hopper's Iconic Painting, \"Nighthawks"
+        "id": "deepx-claims-inference-up-to-100b-parameters-at-less-than-5-w",
+        "label": "DeepX claims inference up to 100B parameters at less than 5 W"
       },
       {
-        "id": "on-agentic-manipulation-policies",
-        "label": "On Agentic Manipulation Policies"
+        "id": "otter-ai-can-now-follow-conversations-across-30-languages",
+        "label": "Otter AI can now follow conversations across 30+ languages"
       },
       {
-        "id": "grac-graph-based-retrieval-augmented-captioning-for-surgical-scene-description",
-        "label": "GRAC: Graph-Based Retrieval-Augmented Captioning for Surgical Scene Description"
+        "id": "automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
+        "label": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet"
       },
       {
-        "id": "ensemble-methodology-for-reference-free-confidence-estimation-in-llm-based-code",
-        "label": "Ensemble Methodology for Reference-Free Confidence Estimation in LLM-based Code"
+        "id": "anthropic-joins-ais-natural-gas-frenzy-buys-34b-worth-of-turbines",
+        "label": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines"
       },
       {
-        "id": "flowmop-stochastic-multi-person-motion-prediction",
-        "label": "FlowMoP: Stochastic Multi-Person Motion Prediction"
+        "id": "chatgpt-desktop-forwards-your-ssh-agent-to-remote-machines",
+        "label": "ChatGPT Desktop forwards your SSH agent to remote machines"
       },
       {
-        "id": "on-the-non-closedness-of-the-set-of-relu-networks",
-        "label": "On the (non-)closedness of the set of ReLU networks"
+        "id": "jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
+        "label": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy"
       },
       {
-        "id": "fifty-two-shades-of-pig-what-the-ucr-archive-really-asks-classifiers-to-do",
-        "label": "Fifty-Two Shades of Pig: What the UCR Archive Really Asks Classifiers to Do"
+        "id": "a-short-seller-flagged-nvidia-ceo8217s-ties-to-a-suspected-chinese-spy-six-month",
+        "label": "A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six mo"
       },
       {
-        "id": "grasp-tags-task-aware-grasp-selection-via-critic-distillation-for-prehensile-loc",
-        "label": "Grasp-TAGS: Task-Aware Grasp Selection via Critic Distillation for Prehensile Lo"
+        "id": "anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
+        "label": "Anthropic reportedly plans to move forward with IPO plans"
       },
       {
-        "id": "cpu-arc-agentic-reasoning-caching-for-on-cpu-reasoning-reuse",
-        "label": "CPU-ARC: Agentic Reasoning Caching for on-CPU Reasoning Reuse"
+        "id": "medium8217s-new-tk-app-brings-ai-assistance-directly-into-the-writing-process",
+        "label": "Medium&#8217;s new TK app brings AI assistance directly into the writing process"
       },
       {
-        "id": "on-the-reliability-of-majority-vote-pseudo-labels-in-test-time-reinforcement-lea",
-        "label": "On the Reliability of Majority-Vote Pseudo-Labels in Test-Time Reinforcement Lea"
+        "id": "the-race-is-on-to-sue-nvidia",
+        "label": "The race is on to sue Nvidia"
       },
       {
-        "id": "computer-use-agents-are-embodied-generalists",
-        "label": "Computer-Use Agents Are Embodied Generalists"
+        "id": "anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
+        "label": "Anthropic releases new Mythos and Fable models amid RSI concerns"
       },
       {
-        "id": "graded-convolutional-networks-scale-invariance-without-the-scale-and-robustness",
-        "label": "Graded convolutional networks: scale invariance without the scale and robustness"
+        "id": "meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
+        "label": "Meta releases Muse Ember, a new lightweight model for agent execution"
       },
       {
-        "id": "flow-guided-target-space-alignment-via-path-consistency",
-        "label": "Flow-Guided Target-Space Alignment via Path Consistency"
+        "id": "jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under",
+        "label": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions und"
       },
       {
-        "id": "next-concept-modeling-fast-parallel-coarse-to-fine-text-generation",
-        "label": "Next-Concept Modeling: Fast, Parallel Coarse-to-Fine Text Generation"
+        "id": "hive-mem-interleaving-horizontal-memory-expansion-and-vertical-evidence-composit",
+        "label": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composi"
       },
       {
-        "id": "air-holes-turn-silicon-wafers-into-flat-uv-focusing-mirrors-for-compact-optics",
-        "label": "Air holes turn silicon wafers into flat UV focusing mirrors for compact optics"
+        "id": "mitigating-agentic-deception-via-evaluation-side-partially-observable-games",
+        "label": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games"
       },
       {
-        "id": "quadrillion-parameter-transformers-and-how-to-train-them",
-        "label": "Quadrillion-parameter transformers and how to train them"
+        "id": "guiding-data-allocation-for-robust-subpopulation-generalization",
+        "label": "Guiding Data Allocation for Robust Subpopulation Generalization"
       },
       {
-        "id": "show-hn-llm-weight-editing-tool-made-by-a-15-year-old",
-        "label": "Show HN: LLM weight editing tool made by a 15-year-old"
+        "id": "vendi-anomaly-scores-for-efficient-and-accurate-anomaly-detection",
+        "label": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection"
       },
       {
-        "id": "openai-raises-11b-at-a-125t-valuation",
-        "label": "OpenAI raises $11B at a $1.25T valuation"
+        "id": "kolmogorov-chapman-maps-trajectory-free-learning-for-simulating-molecular-dynami",
+        "label": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynam"
       },
       {
-        "id": "asahi-linux-drops-mit-goes-full-gpl-after-ai-used-to-steal-unreleased-code",
-        "label": "Asahi Linux Drops MIT, Goes Full GPL After AI Used to Steal Unreleased Code"
+        "id": "shortcuts-and-boundaries-verifiable-rl-misalignment-and-contextual-safety-learni",
+        "label": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learn"
       },
       {
-        "id": "show-hn-flide-make-jev-like-decision-models-up-to-95x-faster",
-        "label": "Show HN: Flide: Make Jev-like decision models up to 9.5x faster"
+        "id": "what-kills-v-prediction-a-patch-wise-pca-perspective-on-pixel-space-flow-matchin",
+        "label": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matc"
       },
       {
-        "id": "a-bit-about-email",
-        "label": "A Bit about Email"
+        "id": "is-persona-generalization-predictable",
+        "label": "Is Persona Generalization Predictable?"
+      },
+      {
+        "id": "programming-prescience-issues-in-human-construction-of-forecasting-bots",
+        "label": "Programming Prescience: Issues in Human Construction of Forecasting Bots"
+      },
+      {
+        "id": "adaptive-quantization-preserves-fast-rates-for-td-learning-over-rate-limited-cha",
+        "label": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Cha"
+      },
+      {
+        "id": "where-does-alignment-emerge-and-what-does-it-mean-a-closer-look-at-the-platonic",
+        "label": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic"
+      },
+      {
+        "id": "what-the-loss-curve-misses-fp4-pretraining-slows-the-acquisition-of-rare-facts",
+        "label": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts"
+      },
+      {
+        "id": "show-hn-ste80-humanizer-de-ai-text-by-writing-80-of-the-way-to-asd-ste100",
+        "label": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100"
+      },
+      {
+        "id": "6-hours-of-youtube-and-85-handtyped-pages-of-notes-on-llm-inference-start-here",
+        "label": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here"
+      },
+      {
+        "id": "ur-nammu-founder-of-the-sumerian-renaissance",
+        "label": "Ur-Nammu Founder of the Sumerian Renaissance"
+      },
+      {
+        "id": "show-hn-recalc-spreadsheet-where-cells-can-be-claude-code-or-codex-terminals",
+        "label": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals"
       }
     ],
-    "date_bj": "2026-11-09 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-09 18:01:43"
+    "date_bj": "2026-11-10 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-10 16:05:14"
   }
 }

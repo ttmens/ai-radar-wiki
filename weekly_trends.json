@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-09T18:02:18.082064+08:00",
-  "days_analyzed": 167,
+  "generated_at": "2026-11-10T16:05:47.898163+08:00",
+  "days_analyzed": 168,
   "pillar_trends": {
     "capabilities": {
-      "trend": "up",
-      "delta": 2,
-      "current": 3,
-      "previous": 1,
+      "trend": "down",
+      "delta": -2,
+      "current": 1,
+      "previous": 3,
       "has_data": true
     },
     "patterns": {
@@ -17,17 +17,17 @@
       "has_data": true
     },
     "ecosystem": {
-      "trend": "down",
-      "delta": -1,
-      "current": 0,
-      "previous": 1,
-      "has_data": false
-    },
-    "business": {
       "trend": "up",
       "delta": 1,
       "current": 1,
       "previous": 0,
+      "has_data": true
+    },
+    "business": {
+      "trend": "stable",
+      "delta": 0,
+      "current": 1,
+      "previous": 1,
       "has_data": true
     }
   },
@@ -2278,7 +2278,8 @@
         "2026-11-05",
         "2026-11-06",
         "2026-11-07",
-        "2026-11-09"
+        "2026-11-09",
+        "2026-11-10"
       ],
       "instances": [
         {
@@ -3483,6 +3484,22 @@
               "pillar": "business"
             }
           ]
+        },
+        {
+          "date": "2026-11-10",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日3条情报涉及AI商业动态。包括：Anthropic reportedly plans to move forwa, Mitigating Agentic Deception via Evaluat, Adaptive Quantization Preserves Fast Rat。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "payments-canada-announces-launch-of-canadas-real-time-rail-rtr-payment-system",
+              "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) paym",
+              "score": 0.51,
+              "url": "https://news.ycombinator.com/item?id=50427362",
+              "reason": "高价值信号",
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -4633,13 +4650,7 @@
       "lifecycle": "emerging"
     }
   ],
-  "contradictions": [
-    {
-      "date": "2026-11-07",
-      "type": "growth_vs_risk",
-      "description": "Growth validation detected alongside infrastructure/trust bottlenecks."
-    }
-  ],
+  "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-11-09**（167天），累计 **4734** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🤖 技术能力呈上升趋势；💰 商业动态呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-11-10**（168天），累计 **4775** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：🔧 工具生态呈上升趋势"
 }
