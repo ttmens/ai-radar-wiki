@@ -1,0 +1,176 @@
+{
+  "daily_summary": {
+    "date": "2026-11-12",
+    "headline": "今日 AI 情报 · 2026-11-12",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "30m-raised-to-redo-the-cpu",
+            "title": "$30M Raised to Redo the CPU",
+            "score": 0.38,
+            "url": "https://news.ycombinator.com/item?id=50447036",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "evidence": [
+          {
+            "id": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h",
+            "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyra",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50452455",
+            "reason": "高价值信号"
+          },
+          {
+            "id": "databricks8217-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
+            "title": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished tr",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-g",
+            "title": "Plurai wants to help AI agents work better using the same approach tha",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "atuin-threads-all-your-agent-sessions-on-every-machine",
+            "title": "Atuin Threads: All your agent sessions on every machine",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=50453637",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向的核心信号集中在融资/投资。",
+        "evidence": [
+          {
+            "id": "contrastive-discovery-open-ended-scientific-discovery-over-competing-explanation",
+            "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing ",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.14514v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Google SWE points 48 AI agents at NASA L, Databricks&#8217; new AI agent tells CEO, Plurai wants to help AI agents work bett。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日2条情报涉及AI商业动态。包括：Comparative Analysis of Agent Evaluation, TimeSeek: Multi-Task and Multi-Domain Pr。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "📱 产品模式: 5 | 🤖 技术能力: 11 | 🔧 工具生态: 4",
+    "total_items": 20,
+    "high_value_count": 17,
+    "all_today_ids": [
+      {
+        "id": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h",
+        "label": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h"
+      },
+      {
+        "id": "30m-raised-to-redo-the-cpu",
+        "label": "$30M Raised to Redo the CPU"
+      },
+      {
+        "id": "databricks8217-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
+        "label": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth"
+      },
+      {
+        "id": "nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
+        "label": "Nvidia’s crisis has corporate governance experts reaching for the popcorn"
+      },
+      {
+        "id": "plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-g",
+        "label": "Plurai wants to help AI agents work better using the same approach that helped g"
+      },
+      {
+        "id": "contrastive-discovery-open-ended-scientific-discovery-over-competing-explanation",
+        "label": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanatio"
+      },
+      {
+        "id": "medical-image-segmentation-foundation-model-adaptation-versus-task-specific-trai",
+        "label": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Tra"
+      },
+      {
+        "id": "retrace-distilling-tool-using-agents-into-planner-free-workflows",
+        "label": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows"
+      },
+      {
+        "id": "torchcurves-differentiable-parametric-curves",
+        "label": "TorchCurves: Differentiable Parametric Curves"
+      },
+      {
+        "id": "comparative-analysis-of-agent-evaluation-frameworks-stability-detection-and-disc",
+        "label": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and D"
+      },
+      {
+        "id": "continual-arc-measuring-skill-acquisition-over-a-working-lifetime",
+        "label": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime"
+      },
+      {
+        "id": "when-does-the-real-wiring-win-testing-connectome-structure-function-claims-again",
+        "label": "When Does the Real Wiring Win? Testing connectome structure-function claims agai"
+      },
+      {
+        "id": "emergent-biological-capabilities-in-a-foundation-model-for-molecular-interaction",
+        "label": "Emergent Biological Capabilities in a Foundation Model for Molecular Interaction"
+      },
+      {
+        "id": "pyrite-building-and-benchmarking-protein-ligand-pose-ranking-agents",
+        "label": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents"
+      },
+      {
+        "id": "toward-foundation-detection-models-via-example-based-grounding-in-em-detr",
+        "label": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR"
+      },
+      {
+        "id": "timeseek-multi-task-and-multi-domain-pretraining-for-generalized-time-series-ana",
+        "label": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series An"
+      },
+      {
+        "id": "autoscaffold-ai-guided-scaffolding-for-reinforcement-learning-of-language-models",
+        "label": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Model"
+      },
+      {
+        "id": "llms-play-zachtronics-tis-100",
+        "label": "LLMs Play Zachtronics' TIS-100"
+      },
+      {
+        "id": "atuin-threads-all-your-agent-sessions-on-every-machine",
+        "label": "Atuin Threads: All your agent sessions on every machine"
+      },
+      {
+        "id": "next-level-benchmarking-overfitting-thomas-neumann",
+        "label": "Next-Level Benchmarking Overfitting – Thomas Neumann"
+      }
+    ],
+    "date_bj": "2026-11-12 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-12 00:04:12"
+  }
+}

@@ -6253,3 +6253,25 @@
 - create: spotify8217s-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter.md
 - create: ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterp.md
 - create: show-hn-i-have-trained-15-blood-glucose-forecasting-models-on-my-own-data.md
+
+## [2026-11-12 00:04] sync v3 | 20 new | pillars: {'capabilities': 11, 'ecosystem': 4, 'patterns': 5}
+- create: medical-image-segmentation-foundation-model-adaptation-versus-task-specific-trai.md
+- create: toward-foundation-detection-models-via-example-based-grounding-in-em-detr.md
+- create: torchcurves-differentiable-parametric-curves.md
+- create: autoscaffold-ai-guided-scaffolding-for-reinforcement-learning-of-language-models.md
+- create: contrastive-discovery-open-ended-scientific-discovery-over-competing-explanation.md
+- create: pyrite-building-and-benchmarking-protein-ligand-pose-ranking-agents.md
+- create: when-does-the-real-wiring-win-testing-connectome-structure-function-claims-again.md
+- create: continual-arc-measuring-skill-acquisition-over-a-working-lifetime.md
+- create: emergent-biological-capabilities-in-a-foundation-model-for-molecular-interaction.md
+- create: comparative-analysis-of-agent-evaluation-frameworks-stability-detection-and-disc.md
+- create: retrace-distilling-tool-using-agents-into-planner-free-workflows.md
+- create: timeseek-multi-task-and-multi-domain-pretraining-for-generalized-time-series-ana.md
+- create: google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h.md
+- create: atuin-threads-all-your-agent-sessions-on-every-machine.md
+- create: next-level-benchmarking-overfitting-thomas-neumann.md
+- create: llms-play-zachtronics-tis-100.md
+- create: 30m-raised-to-redo-the-cpu.md
+- create: databricks8217-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth.md
+- create: plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-g.md
+- create: nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn.md
