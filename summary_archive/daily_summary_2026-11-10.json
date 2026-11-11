@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资, 安全/漏洞。",
         "evidence": [
           {
             "id": "payments-canada-announces-launch-of-canadas-real-time-rail-rtr-payment-system",
@@ -37,7 +37,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向的核心信号集中在融资/投资, AI Agent。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent, 融资/投资。",
         "evidence": [
           {
             "id": "mitigating-agentic-deception-via-evaluation-side-partially-observable-games",
@@ -73,8 +73,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 38 | 📱 产品模式: 1 | 💰 商业趋势: 1 | 🔧 工具生态: 1",
-    "total_items": 41,
+    "stats": "🤖 技术能力: 41 | 📱 产品模式: 1 | 💰 商业趋势: 1 | 🔧 工具生态: 1",
+    "total_items": 44,
     "high_value_count": 37,
     "all_today_ids": [
       {
@@ -230,8 +230,16 @@
         "label": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100"
       },
       {
+        "id": "a-failed-experiment-in-laptop-cooling",
+        "label": "A failed experiment in laptop cooling"
+      },
+      {
         "id": "6-hours-of-youtube-and-85-handtyped-pages-of-notes-on-llm-inference-start-here",
         "label": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here"
+      },
+      {
+        "id": "fireworks-ai-security-breach-impacts-notion-and-their-customers",
+        "label": "Fireworks AI security breach impacts Notion and their customers"
       },
       {
         "id": "ur-nammu-founder-of-the-sumerian-renaissance",
@@ -240,9 +248,13 @@
       {
         "id": "show-hn-recalc-spreadsheet-where-cells-can-be-claude-code-or-codex-terminals",
         "label": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals"
+      },
+      {
+        "id": "show-hn-airgap-check-find-what-your-ai-app-silently-downloads-offline",
+        "label": "Show HN: Airgap-check – find what your AI app silently downloads offline"
       }
     ],
     "date_bj": "2026-11-10 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-10 16:05:14"
+    "generated_at_bj": "2026-11-10 18:01:54"
   }
 }

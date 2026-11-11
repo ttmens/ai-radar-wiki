@@ -1,20 +1,20 @@
 {
   "daily_summary": {
-    "date": "2026-11-10",
-    "headline": "今日 AI 情报 · 2026-11-10",
-    "overview": "AI商业动态：资本与市场持续升温",
+    "date": "2026-11-11",
+    "headline": "今日 AI 情报 · 2026-11-11",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：安全/漏洞, 融资/投资。",
         "evidence": [
           {
-            "id": "payments-canada-announces-launch-of-canadas-real-time-rail-rtr-payment-system",
-            "title": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) paym",
-            "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50427362",
-            "reason": "高价值信号"
+            "id": "synaptics-patent-claims-stop-work-on-displaylink-drivers",
+            "title": "Synaptics patent claims stop work on DisplayLink drivers",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50443824",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
@@ -22,13 +22,27 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向有新的动态。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
-            "id": "chatgpt-desktop-forwards-your-ssh-agent-to-remote-machines",
-            "title": "ChatGPT Desktop forwards your SSH agent to remote machines",
+            "id": "show-hn-get-your-coding-agent-off-2019-javascript-onto-modern-web-primitives",
+            "title": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web p",
+            "score": 0.41,
+            "url": "https://news.ycombinator.com/item?id=50443812",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "adobe-brings-ai-agents-and-new-creative-tools-to-photoshop-premiere-and-firefly",
+            "title": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, ",
             "score": 0.3,
-            "url": "https://news.ycombinator.com/item?id=50422628",
+            "url": "https://techcrunch.com/2026/11/10/adobe-adds-more-ai-to-its-products-and-launches-an-mcp/",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "meta8217s-ai-agent-muse-lands-on-apple-watch-and-android-wear-os",
+            "title": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/10/metas-ai-agent-muse-lands-on-apple-watch-and-wear-os/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -37,13 +51,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向的核心信号集中在融资/投资, AI Agent。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施。",
         "evidence": [
           {
-            "id": "mitigating-agentic-deception-via-evaluation-side-partially-observable-games",
-            "title": "Mitigating Agentic Deception via Evaluation-Side Partially Observable ",
+            "id": "nvidia-ceo-jensen-huang8217s-affair-with-alleged-chinese-spy-a-timeline",
+            "title": "Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a tim",
             "score": 0.3,
-            "url": "http://arxiv.org/abs/2611.12835v1",
+            "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -55,10 +69,10 @@
         "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
         "evidence": [
           {
-            "id": "anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
-            "title": "Anthropic reportedly plans to move forward with IPO plans",
+            "id": "oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
+            "title": "Oura to acquire AI-native primary care startup Counsel Health for $625",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+            "url": "https://techcrunch.com/2026/11/10/oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -67,182 +81,138 @@
     ],
     "narratives": [
       {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Adobe brings AI agents and new creative , Meta&#8217;s AI agent Muse lands on Appl。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI工具链从通用走向垂直专业化",
+        "body": "今日1条情报涉及AI工具链与基础设施。包括：Nvidia CEO Jensen Huang&#8217;s affair w。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "type": "maturation",
+        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
+      },
+      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日3条情报涉及AI商业动态。包括：Anthropic reportedly plans to move forwa, Mitigating Agentic Deception via Evaluat, Adaptive Quantization Preserves Fast Rat。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：Oura to acquire AI-native primary care s, All 7 Anthropic founders will each cash , Anthropic sets IPO price range of $70 to。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 38 | 📱 产品模式: 1 | 💰 商业趋势: 1 | 🔧 工具生态: 1",
-    "total_items": 41,
-    "high_value_count": 37,
+    "stats": "📱 产品模式: 6 | 🤖 技术能力: 18 | 💰 商业趋势: 2 | 🔧 工具生态: 1",
+    "total_items": 27,
+    "high_value_count": 23,
     "all_today_ids": [
       {
-        "id": "payments-canada-announces-launch-of-canadas-real-time-rail-rtr-payment-system",
-        "label": "Payments Canada announces launch of Canada's Real-Time Rail (RTR) payment system"
+        "id": "ai-usage-generates-a-fragile-codebase",
+        "label": "AI usage generates a fragile codebase"
       },
       {
-        "id": "claude-fable-52-and-mythos-52",
-        "label": "Claude Fable 5.2 and Mythos 5.2"
+        "id": "synaptics-patent-claims-stop-work-on-displaylink-drivers",
+        "label": "Synaptics patent claims stop work on DisplayLink drivers"
       },
       {
-        "id": "foldable-flight-the-best-paper-airplanes",
-        "label": "Foldable Flight: The Best Paper Airplanes"
+        "id": "show-hn-get-your-coding-agent-off-2019-javascript-onto-modern-web-primitives",
+        "label": "Show HN: Get your coding agent off ~2019 JavaScript, onto modern web primitives"
       },
       {
-        "id": "google-gemini-routes-personal-drive-files-and-emails-to-human-annotators",
-        "label": "Google Gemini routes personal Drive files and emails to human annotators"
+        "id": "claude-whiteboards-claude-sheets-and-claude-data",
+        "label": "Claude Whiteboards, Claude Sheets, and Claude Data"
       },
       {
-        "id": "humans-will-never-again-create-a-project-like-wikipedia",
-        "label": "Humans will never again create a project like Wikipedia"
+        "id": "anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and",
+        "label": "Anthropic launches Claude Meetings to turn workplace discussions into plans and"
       },
       {
-        "id": "claude-fable-52-scores-65-on-artificial-analysis-highest-so-far",
-        "label": "Claude Fable 5.2 scores 65 on Artificial Analysis, highest so far"
+        "id": "oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m",
+        "label": "Oura to acquire AI-native primary care startup Counsel Health for $625M"
       },
       {
-        "id": "muse-ember-our-smallest-most-efficient-model",
-        "label": "Muse Ember: Our smallest, most efficient model"
+        "id": "ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterp",
+        "label": "Ring, known for its doorbell cameras, launches a home security drone and an ente"
       },
       {
-        "id": "semi-transparent-colored-cadmium-telluride-photovoltaic-panels-in-agrivoltaics",
-        "label": "Semi-transparent, colored cadmium telluride photovoltaic panels in agrivoltaics"
+        "id": "all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo",
+        "label": "All 7 Anthropic founders will each cash out about $250M in IPO"
       },
       {
-        "id": "fold-epic-paper-airplanes",
-        "label": "Fold Epic Paper Airplanes"
+        "id": "anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuati",
+        "label": "Anthropic sets IPO price range of $70 to $78 per share to reach an implied valua"
       },
       {
-        "id": "coreweave-bond-yield-tops-16-as-ai-credit-stress-rises",
-        "label": "CoreWeave bond yield tops 16% as AI credit stress rises"
+        "id": "psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery",
+        "label": "PSI is trying to make a business out of AI-driven scientific discovery"
       },
       {
-        "id": "drones-built-to-look-like-birds-evaded-detection-at-air-force-tech-exercise",
-        "label": "Drones built to look like birds evaded detection at Air Force tech exercise"
+        "id": "openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect",
+        "label": "OpenAI, Anthropic face new oversight as New York’s AI safety law takes effect"
       },
       {
-        "id": "jensen-huang-reportedly-engaged-a-pr-firm-with-a-history-of-handling-high-profil",
-        "label": "Jensen Huang reportedly engaged a PR firm with a history of handling  high-profi"
+        "id": "google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips",
+        "label": "Google broadens its AI hardware portfolio with two new specialized chips"
       },
       {
-        "id": "deepx-claims-inference-up-to-100b-parameters-at-less-than-5-w",
-        "label": "DeepX claims inference up to 100B parameters at less than 5 W"
+        "id": "after-challenging-google8217s-android-with-cyanogen-its-co-founder-takes-aim-at",
+        "label": "After challenging Google&#8217;s Android with Cyanogen, its co-founder takes aim"
       },
       {
-        "id": "otter-ai-can-now-follow-conversations-across-30-languages",
-        "label": "Otter AI can now follow conversations across 30+ languages"
+        "id": "nvidia-ceo-jensen-huang8217s-affair-with-alleged-chinese-spy-a-timeline",
+        "label": "Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a timeline"
       },
       {
-        "id": "automattic-debuts-a-platform-to-deploy-vibe-coding-apps-amid-a-changing-internet",
-        "label": "Automattic debuts a platform to deploy vibe coding apps amid a changing internet"
+        "id": "life-on-claude-nine",
+        "label": "Life on Claude Nine"
       },
       {
-        "id": "anthropic-joins-ais-natural-gas-frenzy-buys-34b-worth-of-turbines",
-        "label": "Anthropic joins AI’s natural gas frenzy, buys $3.4B worth of turbines"
+        "id": "show-hn-valencia-spain-in-sim-cityisometric-view",
+        "label": "Show HN: Valencia, Spain in Sim City/Isometric View"
       },
       {
-        "id": "chatgpt-desktop-forwards-your-ssh-agent-to-remote-machines",
-        "label": "ChatGPT Desktop forwards your SSH agent to remote machines"
+        "id": "after-7-months-glasswing-overwelms-maintainers-with-underwhelming-findings",
+        "label": "After 7 Months, Glasswing Overwelms Maintainers with Underwhelming Findings"
       },
       {
-        "id": "jensen-huang-pulls-out-of-elevenlabs-summit-amid-nvidia-controversy",
-        "label": "Jensen Huang pulls out of ElevenLabs Summit amid Nvidia controversy"
+        "id": "a-failed-experiment-in-laptop-cooling-2025",
+        "label": "A failed experiment in laptop cooling (2025)"
       },
       {
-        "id": "a-short-seller-flagged-nvidia-ceo8217s-ties-to-a-suspected-chinese-spy-six-month",
-        "label": "A short seller flagged Nvidia CEO&#8217;s ties to a suspected Chinese spy six mo"
+        "id": "spotify8217s-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter",
+        "label": "Spotify&#8217;s AI DJ gets new voices, personalities, and an option for less cha"
       },
       {
-        "id": "anthropic-reportedly-plans-to-move-forward-with-ipo-plans",
-        "label": "Anthropic reportedly plans to move forward with IPO plans"
+        "id": "openai-acquires-odessia-travel-startup-created-by-sonder-founder",
+        "label": "OpenAI acquires Odessia, travel startup created by Sonder founder"
       },
       {
-        "id": "medium8217s-new-tk-app-brings-ai-assistance-directly-into-the-writing-process",
-        "label": "Medium&#8217;s new TK app brings AI assistance directly into the writing process"
+        "id": "openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-lik",
+        "label": "OpenAI rolls out new business profiles, making ChatGPT just a little bit more li"
       },
       {
-        "id": "the-race-is-on-to-sue-nvidia",
-        "label": "The race is on to sue Nvidia"
+        "id": "adobe-brings-ai-agents-and-new-creative-tools-to-photoshop-premiere-and-firefly",
+        "label": "Adobe brings AI agents and new creative tools to Photoshop, Premiere, and Firefl"
       },
       {
-        "id": "anthropic-releases-new-mythos-and-fable-models-amid-rsi-concerns",
-        "label": "Anthropic releases new Mythos and Fable models amid RSI concerns"
+        "id": "meta8217s-ai-agent-muse-lands-on-apple-watch-and-android-wear-os",
+        "label": "Meta&#8217;s AI agent Muse lands on Apple Watch and Android Wear OS"
       },
       {
-        "id": "meta-releases-muse-ember-a-new-lightweight-model-for-agent-execution",
-        "label": "Meta releases Muse Ember, a new lightweight model for agent execution"
+        "id": "show-hn-ghanaian-street-games-you-can-play-in-the-browser",
+        "label": "Show HN: Ghanaian street games you can play in the browser"
       },
       {
-        "id": "jensen-huangs-affair-with-alleged-chinese-spy-puts-nvidias-china-ambitions-under",
-        "label": "Jensen Huang’s affair with alleged Chinese spy puts Nvidia’s China ambitions und"
+        "id": "an-open-field-guide-to-inference-engineering",
+        "label": "An Open Field Guide to Inference Engineering"
       },
       {
-        "id": "hive-mem-interleaving-horizontal-memory-expansion-and-vertical-evidence-composit",
-        "label": "HiVe-Mem: Interleaving Horizontal Memory Expansion and Vertical Evidence Composi"
+        "id": "work-at-the-frontier-ais-effect-on-freelance-work",
+        "label": "Work at the Frontier: AI's effect on freelance work"
       },
       {
-        "id": "mitigating-agentic-deception-via-evaluation-side-partially-observable-games",
-        "label": "Mitigating Agentic Deception via Evaluation-Side Partially Observable Games"
-      },
-      {
-        "id": "guiding-data-allocation-for-robust-subpopulation-generalization",
-        "label": "Guiding Data Allocation for Robust Subpopulation Generalization"
-      },
-      {
-        "id": "vendi-anomaly-scores-for-efficient-and-accurate-anomaly-detection",
-        "label": "Vendi Anomaly Scores for Efficient and Accurate Anomaly Detection"
-      },
-      {
-        "id": "kolmogorov-chapman-maps-trajectory-free-learning-for-simulating-molecular-dynami",
-        "label": "Kolmogorov-Chapman Maps: Trajectory-Free Learning for Simulating Molecular Dynam"
-      },
-      {
-        "id": "shortcuts-and-boundaries-verifiable-rl-misalignment-and-contextual-safety-learni",
-        "label": "Shortcuts and Boundaries: Verifiable RL Misalignment and Contextual Safety Learn"
-      },
-      {
-        "id": "what-kills-v-prediction-a-patch-wise-pca-perspective-on-pixel-space-flow-matchin",
-        "label": "What kills $v$-prediction? A Patch-wise PCA Perspective on Pixel-Space Flow Matc"
-      },
-      {
-        "id": "is-persona-generalization-predictable",
-        "label": "Is Persona Generalization Predictable?"
-      },
-      {
-        "id": "programming-prescience-issues-in-human-construction-of-forecasting-bots",
-        "label": "Programming Prescience: Issues in Human Construction of Forecasting Bots"
-      },
-      {
-        "id": "adaptive-quantization-preserves-fast-rates-for-td-learning-over-rate-limited-cha",
-        "label": "Adaptive Quantization Preserves Fast Rates for TD Learning over Rate-Limited Cha"
-      },
-      {
-        "id": "where-does-alignment-emerge-and-what-does-it-mean-a-closer-look-at-the-platonic",
-        "label": "Where Does Alignment Emerge and What Does It Mean? A Closer Look at the Platonic"
-      },
-      {
-        "id": "what-the-loss-curve-misses-fp4-pretraining-slows-the-acquisition-of-rare-facts",
-        "label": "What the Loss Curve Misses: FP4 Pretraining Slows the Acquisition of Rare Facts"
-      },
-      {
-        "id": "show-hn-ste80-humanizer-de-ai-text-by-writing-80-of-the-way-to-asd-ste100",
-        "label": "Show HN: STE80 Humanizer – de-AI text by writing 80% of the way to ASD-STE100"
-      },
-      {
-        "id": "6-hours-of-youtube-and-85-handtyped-pages-of-notes-on-llm-inference-start-here",
-        "label": "6 Hours of YouTube and 85 handtyped pages of notes on LLM Inference – Start here"
-      },
-      {
-        "id": "ur-nammu-founder-of-the-sumerian-renaissance",
-        "label": "Ur-Nammu Founder of the Sumerian Renaissance"
-      },
-      {
-        "id": "show-hn-recalc-spreadsheet-where-cells-can-be-claude-code-or-codex-terminals",
-        "label": "Show HN: Recalc – Spreadsheet where cells can be Claude Code or Codex terminals"
+        "id": "show-hn-i-have-trained-15-blood-glucose-forecasting-models-on-my-own-data",
+        "label": "Show HN: I have trained 15 blood glucose forecasting models on my own data"
       }
     ],
-    "date_bj": "2026-11-10 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-10 16:05:14"
+    "date_bj": "2026-11-11 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-11 08:04:42"
   }
 }

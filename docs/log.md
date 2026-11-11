@@ -6224,3 +6224,32 @@
 - create: anthropic-joins-ais-natural-gas-frenzy-buys-34b-worth-of-turbines.md
 - create: medium8217s-new-tk-app-brings-ai-assistance-directly-into-the-writing-process.md
 - create: show-hn-recalc-spreadsheet-where-cells-can-be-claude-code-or-codex-terminals.md
+
+## [2026-11-11 08:05] sync v3 | 27 new | pillars: {'capabilities': 18, 'patterns': 6, 'business': 2, 'ecosystem': 1}
+- create: after-7-months-glasswing-overwelms-maintainers-with-underwhelming-findings.md
+- create: synaptics-patent-claims-stop-work-on-displaylink-drivers.md
+- create: show-hn-get-your-coding-agent-off-2019-javascript-onto-modern-web-primitives.md
+- create: show-hn-valencia-spain-in-sim-cityisometric-view.md
+- create: ai-usage-generates-a-fragile-codebase.md
+- create: an-open-field-guide-to-inference-engineering.md
+- create: claude-whiteboards-claude-sheets-and-claude-data.md
+- create: life-on-claude-nine.md
+- create: a-failed-experiment-in-laptop-cooling-2025.md
+- create: work-at-the-frontier-ais-effect-on-freelance-work.md
+- create: show-hn-ghanaian-street-games-you-can-play-in-the-browser.md
+- create: openai-acquires-odessia-travel-startup-created-by-sonder-founder.md
+- create: openai-anthropic-face-new-oversight-as-new-yorks-ai-safety-law-takes-effect.md
+- create: all-7-anthropic-founders-will-each-cash-out-about-250m-in-ipo.md
+- create: oura-to-acquire-ai-native-primary-care-startup-counsel-health-for-625m.md
+- create: psi-is-trying-to-make-a-business-out-of-ai-driven-scientific-discovery.md
+- create: openai-rolls-out-new-business-profiles-making-chatgpt-just-a-little-bit-more-lik.md
+- create: anthropic-launches-claude-meetings-to-turn-workplace-discussions-into-plans-and.md
+- create: nvidia-ceo-jensen-huang8217s-affair-with-alleged-chinese-spy-a-timeline.md
+- create: google-broadens-its-ai-hardware-portfolio-with-two-new-specialized-chips.md
+- create: meta8217s-ai-agent-muse-lands-on-apple-watch-and-android-wear-os.md
+- create: adobe-brings-ai-agents-and-new-creative-tools-to-photoshop-premiere-and-firefly.md
+- create: anthropic-sets-ipo-price-range-of-70-to-78-per-share-to-reach-an-implied-valuati.md
+- create: after-challenging-google8217s-android-with-cyanogen-its-co-founder-takes-aim-at.md
+- create: spotify8217s-ai-dj-gets-new-voices-personalities-and-an-option-for-less-chatter.md
+- create: ring-known-for-its-doorbell-cameras-launches-a-home-security-drone-and-an-enterp.md
+- create: show-hn-i-have-trained-15-blood-glucose-forecasting-models-on-my-own-data.md
