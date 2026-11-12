@@ -6302,3 +6302,5 @@
 - create: show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-available.md
 - create: show-hn-aq-an-attention-queue-tui-for-claude-code.md
 - create: show-hn-aircad-professional-drafting-and-3d-modeling-in-the-browser.md
+
+## [2026-11-12 18:01] sync v3 | 0 new | pillars: {}
