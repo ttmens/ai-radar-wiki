@@ -6275,3 +6275,30 @@
 - create: databricks8217-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth.md
 - create: plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-g.md
 - create: nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn.md
+
+## [2026-11-12 16:05] sync v3 | 25 new | pillars: {'capabilities': 14, 'patterns': 5, 'ecosystem': 5, 'business': 1}
+- create: 93-of-paint-splatters-are-valid-perl-programs-2019.md
+- create: i-gave-an-agent-a-lakehouse-and-control-of-my-garden.md
+- create: gemini-decisions-api.md
+- create: united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers.md
+- create: emacs-in-the-age-of-magic.md
+- create: faster-retrieval-for-better-more-efficient-rag.md
+- create: huawei-releases-macaq-its-internal-quantizer-for-local-inference.md
+- create: jensen-huang-said-to-have-had-relationship-with-executive-who-reports-to-him.md
+- create: launch-hn-pomerado-yc-f26-turn-any-website-into-an-mcp-for-agents.md
+- create: tools-for-exploring-the-souls-of-large-language-models.md
+- create: who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors.md
+- create: the-unfolding-jensen-huang-scandal-a-timeline.md
+- create: nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang.md
+- create: jensen-huang-accused-of-having-another-affair-with-an-nvidia-exec.md
+- create: why-the-data-center-you-dread-might-never-even-be-built.md
+- create: meta-is-losing-its-longtime-head-of-infrastructure.md
+- create: how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave.md
+- create: coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth.md
+- create: with-720m-round-britain8217s-fractile-gets-a-leg-up-in-the-race-for-ai-chips.md
+- create: congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair.md
+- create: is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems.md
+- create: openai8217s-quarterly-revenue-reportedly-crosses-10b-for-the-first-time.md
+- create: show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-available.md
+- create: show-hn-aq-an-attention-queue-tui-for-claude-code.md
+- create: show-hn-aircad-professional-drafting-and-3d-modeling-in-the-browser.md

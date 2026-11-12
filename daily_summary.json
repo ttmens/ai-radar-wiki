@@ -10,10 +10,10 @@
         "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "30m-raised-to-redo-the-cpu",
-            "title": "$30M Raised to Redo the CPU",
-            "score": 0.38,
-            "url": "https://news.ycombinator.com/item?id=50447036",
+            "id": "jensen-huang-said-to-have-had-relationship-with-executive-who-reports-to-him",
+            "title": "Jensen Huang said to have had relationship with executive who reports ",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50459321",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -24,6 +24,13 @@
         "pillar_key": "patterns",
         "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
+          {
+            "id": "united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+            "title": "United Airlines bans AI agents from booking flights on behalf of trave",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50458900",
+            "reason": "高价值信号"
+          },
           {
             "id": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h",
             "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyra",
@@ -46,6 +53,27 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-available",
+            "title": "Show HN: Klad, a paint app your coding agent can drive (source-availab",
+            "score": 0.26,
+            "url": "https://github.com/klad-app/klad",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "launch-hn-pomerado-yc-f26-turn-any-website-into-an-mcp-for-agents",
+            "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=50455811",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "i-gave-an-agent-a-lakehouse-and-control-of-my-garden",
+            "title": "I gave an agent a lakehouse and control of my garden",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=50415162",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "atuin-threads-all-your-agent-sessions-on-every-machine",
             "title": "Atuin Threads: All your agent sessions on every machine",
             "score": 0.15,
@@ -58,13 +86,28 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向的核心信号集中在融资/投资。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, 融资/投资。",
         "evidence": [
           {
-            "id": "contrastive-discovery-open-ended-scientific-discovery-over-competing-explanation",
-            "title": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing ",
+            "id": "gemini-decisions-api",
+            "title": "Gemini Decisions API",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50456791",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日💰 商业趋势方向有新的动态。",
+        "evidence": [
+          {
+            "id": "openai8217s-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+            "title": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first",
             "score": 0.3,
-            "url": "http://arxiv.org/abs/2611.14514v1",
+            "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -74,9 +117,15 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Google SWE points 48 AI agents at NASA L, Databricks&#8217; new AI agent tells CEO, Plurai wants to help AI agents work bett。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：United Airlines bans AI agents from book, Google SWE points 48 AI agents at NASA L, Databricks&#8217; new AI agent tells CEO。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI工具链从通用走向垂直专业化",
+        "body": "今日1条情报涉及AI工具链与基础设施。包括：The unfolding Jensen Huang scandal: a ti。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "type": "maturation",
+        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
@@ -85,29 +134,101 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "📱 产品模式: 5 | 🤖 技术能力: 11 | 🔧 工具生态: 4",
-    "total_items": 20,
-    "high_value_count": 17,
+    "stats": "📱 产品模式: 10 | 🤖 技术能力: 25 | 🔧 工具生态: 9 | 💰 商业趋势: 1",
+    "total_items": 45,
+    "high_value_count": 35,
     "all_today_ids": [
+      {
+        "id": "united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
+        "label": "United Airlines bans AI agents from booking flights on behalf of travelers"
+      },
       {
         "id": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h",
         "label": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h"
+      },
+      {
+        "id": "jensen-huang-said-to-have-had-relationship-with-executive-who-reports-to-him",
+        "label": "Jensen Huang said to have had relationship with executive who reports to him"
+      },
+      {
+        "id": "gemini-decisions-api",
+        "label": "Gemini Decisions API"
+      },
+      {
+        "id": "93-of-paint-splatters-are-valid-perl-programs-2019",
+        "label": "93% of paint splatters are valid Perl programs (2019)"
+      },
+      {
+        "id": "emacs-in-the-age-of-magic",
+        "label": "Emacs in the Age of Magic"
       },
       {
         "id": "30m-raised-to-redo-the-cpu",
         "label": "$30M Raised to Redo the CPU"
       },
       {
+        "id": "is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems",
+        "label": "Is Jensen Huang’s bad behavior more commonplace than it seems?"
+      },
+      {
+        "id": "who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
+        "label": "Who could replace Jensen Huang? A highly unscientific list of possible successor"
+      },
+      {
+        "id": "openai8217s-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
+        "label": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time"
+      },
+      {
         "id": "databricks8217-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
         "label": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth"
+      },
+      {
+        "id": "meta-is-losing-its-longtime-head-of-infrastructure",
+        "label": "Meta is losing its longtime head of  infrastructure"
+      },
+      {
+        "id": "faster-retrieval-for-better-more-efficient-rag",
+        "label": "Faster Retrieval for Better, More Efficient RAG"
+      },
+      {
+        "id": "with-720m-round-britain8217s-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
+        "label": "With $720M round, Britain&#8217;s Fractile gets a leg up in the race for AI chip"
+      },
+      {
+        "id": "coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
+        "label": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth"
+      },
+      {
+        "id": "congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair",
+        "label": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair"
       },
       {
         "id": "nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
         "label": "Nvidia’s crisis has corporate governance experts reaching for the popcorn"
       },
       {
+        "id": "nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
+        "label": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang"
+      },
+      {
+        "id": "the-unfolding-jensen-huang-scandal-a-timeline",
+        "label": "The unfolding Jensen Huang scandal: a timeline"
+      },
+      {
+        "id": "jensen-huang-accused-of-having-another-affair-with-an-nvidia-exec",
+        "label": "Jensen Huang accused of having another affair — with an Nvidia exec"
+      },
+      {
         "id": "plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-g",
         "label": "Plurai wants to help AI agents work better using the same approach that helped g"
+      },
+      {
+        "id": "how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave",
+        "label": "How backlash and red tape continue to slow data centers post-Blue Wave"
+      },
+      {
+        "id": "why-the-data-center-you-dread-might-never-even-be-built",
+        "label": "Why the data center you dread might never even be built"
       },
       {
         "id": "contrastive-discovery-open-ended-scientific-discovery-over-competing-explanation",
@@ -158,8 +279,28 @@
         "label": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Model"
       },
       {
+        "id": "huawei-releases-macaq-its-internal-quantizer-for-local-inference",
+        "label": "Huawei releases MACaQ, its internal quantizer for local inference"
+      },
+      {
+        "id": "show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-available",
+        "label": "Show HN: Klad, a paint app your coding agent can drive (source-available)"
+      },
+      {
+        "id": "launch-hn-pomerado-yc-f26-turn-any-website-into-an-mcp-for-agents",
+        "label": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents"
+      },
+      {
         "id": "llms-play-zachtronics-tis-100",
         "label": "LLMs Play Zachtronics' TIS-100"
+      },
+      {
+        "id": "show-hn-aircad-professional-drafting-and-3d-modeling-in-the-browser",
+        "label": "Show HN: Aircad – Professional drafting and 3D modeling in the browser"
+      },
+      {
+        "id": "i-gave-an-agent-a-lakehouse-and-control-of-my-garden",
+        "label": "I gave an agent a lakehouse and control of my garden"
       },
       {
         "id": "atuin-threads-all-your-agent-sessions-on-every-machine",
@@ -168,9 +309,17 @@
       {
         "id": "next-level-benchmarking-overfitting-thomas-neumann",
         "label": "Next-Level Benchmarking Overfitting – Thomas Neumann"
+      },
+      {
+        "id": "show-hn-aq-an-attention-queue-tui-for-claude-code",
+        "label": "Show HN: Aq – an attention queue TUI for Claude Code"
+      },
+      {
+        "id": "tools-for-exploring-the-souls-of-large-language-models",
+        "label": "Tools for exploring the souls of large language models"
       }
     ],
     "date_bj": "2026-11-12 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-12 00:04:12"
+    "generated_at_bj": "2026-11-12 16:05:05"
   }
 }
