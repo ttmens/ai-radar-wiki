@@ -1,0 +1,171 @@
+{
+  "daily_summary": {
+    "date": "2026-11-14",
+    "headline": "今日 AI 情报 · 2026-11-14",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "eli-lilly-ceo-pushes-back-on-dario-amodeis-medical-claims",
+            "title": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50483480",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "evidence": [
+          {
+            "id": "chatgpt8217s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+            "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent。",
+        "evidence": [
+          {
+            "id": "brave-search-api-now-accepts-agentic-payments-via-the-x402-protocol",
+            "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50477649",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Brave Search API now accepts agentic pay, ChatGPT&#8217;s new Wallet lets AI agent。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：Sketching Language Models for Context At。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 21 | 🔧 工具生态: 1 | 📱 产品模式: 2",
+    "total_items": 24,
+    "high_value_count": 23,
+    "all_today_ids": [
+      {
+        "id": "eli-lilly-ceo-pushes-back-on-dario-amodeis-medical-claims",
+        "label": "Eli Lilly CEO pushes back on Dario Amodei's medical claims"
+      },
+      {
+        "id": "elevated-errors-on-claudeai-claude-code-and-platformclaudecom",
+        "label": "Elevated errors on claude.ai, Claude Code, and platform.claude.com"
+      },
+      {
+        "id": "brave-search-api-now-accepts-agentic-payments-via-the-x402-protocol",
+        "label": "Brave Search API now accepts agentic payments via the x402 protocol"
+      },
+      {
+        "id": "edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+        "label": "Edge0-145B: Frontier AI Capabilities on Your Own Computer"
+      },
+      {
+        "id": "claude-is-down",
+        "label": "Claude Is Down"
+      },
+      {
+        "id": "reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
+        "label": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud"
+      },
+      {
+        "id": "ai-is-destroying-the-trust-between-writers-and-readers",
+        "label": "AI Is Destroying the Trust Between Writers and Readers"
+      },
+      {
+        "id": "elevenlabs8217-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+        "label": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams"
+      },
+      {
+        "id": "jensen-huang-didn8217t-show-confidence-in-his-successor-report-says",
+        "label": "Jensen Huang didn&#8217;t show confidence in his successor, report says"
+      },
+      {
+        "id": "chatgpt8217s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+        "label": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you"
+      },
+      {
+        "id": "israel8217s-vcs-see-opportunity-for-challengers-in-nvidia8217s-turmoil",
+        "label": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil"
+      },
+      {
+        "id": "agentssl-can-mle-agents-leverage-unlabeled-data",
+        "label": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?"
+      },
+      {
+        "id": "archspace-recording-reviewing-and-referencing-llm-architecture-research",
+        "label": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research"
+      },
+      {
+        "id": "linking-rapid-learning-to-compositional-structure-in-neural-networks-evidence-fr",
+        "label": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence f"
+      },
+      {
+        "id": "classical-energies-learn-to-reason-1000x-faster-than-looped-models",
+        "label": "Classical Energies Learn to Reason 1,000x Faster than Looped Models"
+      },
+      {
+        "id": "towards-a-theory-of-learnability-via-debate",
+        "label": "Towards a Theory of Learnability via Debate"
+      },
+      {
+        "id": "unbundling-multimodal-vision-encoding",
+        "label": "Unbundling Multimodal Vision Encoding"
+      },
+      {
+        "id": "flex-lbp-learning-local-binary-patterns-with-exact-binary-inference-for-texture",
+        "label": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture"
+      },
+      {
+        "id": "coremem-cost-internalizing-memory-for-successive-coding-tasks-with-prospective-v",
+        "label": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective"
+      },
+      {
+        "id": "internalizing-investment-mandates-a-neurosymbolic-rl-approach-to-portfolio-alloc",
+        "label": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allo"
+      },
+      {
+        "id": "quantifying-structural-stability-of-transparent-models-for-general-insurance-pri",
+        "label": "Quantifying structural stability of transparent models for general insurance pri"
+      },
+      {
+        "id": "consistent-video-to-video-translation-via-explicit-correspondences",
+        "label": "Consistent Video-to-Video Translation via Explicit Correspondences"
+      },
+      {
+        "id": "sketching-language-models-for-context-attribution",
+        "label": "Sketching Language Models for Context Attribution"
+      },
+      {
+        "id": "show-hn-realtimevad-trading-false-positives-for-110ms-earlier-end-of-speech",
+        "label": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech"
+      }
+    ],
+    "date_bj": "2026-11-14 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-14 00:05:04"
+  }
+}

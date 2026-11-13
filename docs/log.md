@@ -6336,3 +6336,29 @@
 - create: trump-floats-apple-chairman-tim-cook-as-jensen-huang8217s-successor.md
 - create: show-hn-ai-red-lines-write-down-what-would-make-you-act-on-ai.md
 - create: show-hn-fable52games-play-and-inspect-fable-52-single-file-html-games.md
+
+## [2026-11-14 00:05] sync v3 | 25 new | pillars: {'capabilities': 21, 'patterns': 2, 'ecosystem': 2}
+- create: unbundling-multimodal-vision-encoding.md
+- create: archspace-recording-reviewing-and-referencing-llm-architecture-research.md
+- create: internalizing-investment-mandates-a-neurosymbolic-rl-approach-to-portfolio-alloc.md
+- create: agentssl-can-mle-agents-leverage-unlabeled-data.md
+- create: coremem-cost-internalizing-memory-for-successive-coding-tasks-with-prospective-v.md
+- create: linking-rapid-learning-to-compositional-structure-in-neural-networks-evidence-fr.md
+- create: sketching-language-models-for-context-attribution.md
+- create: classical-energies-learn-to-reason-1000x-faster-than-looped-models.md
+- create: quantifying-structural-stability-of-transparent-models-for-general-insurance-pri.md
+- create: towards-a-theory-of-learnability-via-debate.md
+- create: flex-lbp-learning-local-binary-patterns-with-exact-binary-inference-for-texture.md
+- create: consistent-video-to-video-translation-via-explicit-correspondences.md
+- create: reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud.md
+- create: elevated-errors-on-claudeai-claude-code-and-platformclaudecom.md
+- create: brave-search-api-now-accepts-agentic-payments-via-the-x402-protocol.md
+- create: ai-is-destroying-the-trust-between-writers-and-readers.md
+- create: edge0-145b-frontier-ai-capabilities-on-your-own-computer.md
+- create: eli-lilly-ceo-pushes-back-on-dario-amodeis-medical-claims.md
+- create: claude-is-down.md
+- create: chatgpt8217s-new-wallet-lets-ai-agents-shop-and-check-out-for-you.md
+- create: elevenlabs8217-new-app-combines-meeting-note-taking-and-dictation-for-teams.md
+- create: israel8217s-vcs-see-opportunity-for-challengers-in-nvidia8217s-turmoil.md
+- create: jensen-huang-didn8217t-show-confidence-in-his-successor-report-says.md
+- create: show-hn-realtimevad-trading-false-positives-for-110ms-earlier-end-of-speech.md

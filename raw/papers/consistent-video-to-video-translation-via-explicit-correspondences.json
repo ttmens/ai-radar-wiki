@@ -1,0 +1,25 @@
+{
+  "title": "Consistent Video-to-Video Translation via Explicit Correspondences",
+  "summary": "Interactive video-to-video applications require real-time generation while maintaining long-range temporal consistency. However, recent methods achieve speed by restricting attention to a fixed-length causal window. This limits long-range consistency whenever relevant history falls outside the context window. To address this limitation, we introduce vid2vid-long, a correspondence-based approach grounded in a simple observation. Video-to-video translation provides an explicit cross-frame reference: the regions that match in the input video should match in the output video too. Concretely, we compute patch-level correspondences in the input, guiding retrieval of previously generated outputs in the corresponding regions, and condition the model on these patches through correspondence cross-attention. Our experiments demonstrate that vid2vid-long consistently improves long-range temporal consistency across recent video models while preserving generation quality and real-time performance.",
+  "url": "http://arxiv.org/abs/2611.17298v1",
+  "authors": [
+    "Gaurav Parmar",
+    "Zhengqi Li",
+    "Richard Zhang",
+    "Jun-Yan Zhu",
+    "Srinivasa Narasimhan"
+  ],
+  "published": "2026-11-12T18:55:09Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "context window",
+    "attention",
+    "retrieval"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

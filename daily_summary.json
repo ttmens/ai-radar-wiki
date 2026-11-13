@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-11-13",
-    "headline": "今日 AI 情报 · 2026-11-13",
+    "date": "2026-11-14",
+    "headline": "今日 AI 情报 · 2026-11-14",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "gemini-4-hydrogen",
-            "title": "Gemini 4 Hydrogen",
+            "id": "eli-lilly-ceo-pushes-back-on-dario-amodeis-medical-claims",
+            "title": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
             "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50471431",
+            "url": "https://news.ycombinator.com/item?id=50483480",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -25,24 +25,10 @@
         "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
-            "id": "nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brand",
-            "title": "Nectar launches an AI agent to automate creator discovery and outreach",
+            "id": "chatgpt8217s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+            "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
-            "reason": "里程碑式进展"
-          },
-          {
-            "id": "united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
-            "title": "United Airlines blocks AI agents from booking flights, citing cybersec",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "show-hn-agentrun-open-source-self-improving-managed-agents",
-            "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
-            "score": 0.2,
-            "url": "https://news.ycombinator.com/item?id=50471650",
+            "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -51,29 +37,14 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huang8217",
-            "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+            "id": "brave-search-api-now-accepts-agentic-payments-via-the-x402-protocol",
+            "title": "Brave Search API now accepts agentic payments via the x402 protocol",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50477649",
             "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
-        "evidence": [
-          {
-            "id": "anthropic-ipo",
-            "title": "Anthropic IPO",
-            "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50465829",
-            "reason": "高价值信号"
           }
         ],
         "trend": "new"
@@ -82,149 +53,119 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Nectar launches an AI agent to automate , United Airlines blocks AI agents from bo。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Brave Search API now accepts agentic pay, ChatGPT&#8217;s new Wallet lets AI agent。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
-        "title": "AI工具链从通用走向垂直专业化",
-        "body": "今日1条情报涉及AI工具链与基础设施。包括：Nebius tests the neocloud playbook with 。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-        "type": "maturation",
-        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
-      },
-      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：Anthropic IPO。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日1条情报涉及AI商业动态。包括：Sketching Language Models for Context At。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "💰 商业趋势: 1 | 🤖 技术能力: 21 | 📱 产品模式: 4 | 🔧 工具生态: 4",
-    "total_items": 30,
+    "stats": "🤖 技术能力: 21 | 🔧 工具生态: 1 | 📱 产品模式: 2",
+    "total_items": 24,
     "high_value_count": 23,
     "all_today_ids": [
       {
-        "id": "anthropic-ipo",
-        "label": "Anthropic IPO"
+        "id": "eli-lilly-ceo-pushes-back-on-dario-amodeis-medical-claims",
+        "label": "Eli Lilly CEO pushes back on Dario Amodei's medical claims"
       },
       {
-        "id": "gemini-4-hydrogen",
-        "label": "Gemini 4 Hydrogen"
+        "id": "elevated-errors-on-claudeai-claude-code-and-platformclaudecom",
+        "label": "Elevated errors on claude.ai, Claude Code, and platform.claude.com"
       },
       {
-        "id": "pingdotggt3code",
-        "label": "pingdotgg/t3code"
+        "id": "brave-search-api-now-accepts-agentic-payments-via-the-x402-protocol",
+        "label": "Brave Search API now accepts agentic payments via the x402 protocol"
       },
       {
-        "id": "codewhale-hqcodewhale",
-        "label": "codewhale-hq/Codewhale"
+        "id": "edge0-145b-frontier-ai-capabilities-on-your-own-computer",
+        "label": "Edge0-145B: Frontier AI Capabilities on Your Own Computer"
       },
       {
-        "id": "gemini-4-hydrogen-and-orchestrator",
-        "label": "Gemini 4 Hydrogen and Orchestrator"
+        "id": "claude-is-down",
+        "label": "Claude Is Down"
       },
       {
-        "id": "im-making-llms-work-on-small-and-old-devices",
-        "label": "I'm making LLMs work on small and old devices"
+        "id": "reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
+        "label": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud"
       },
       {
-        "id": "muse-can-now-place-calls-to-us-businesses-if-you-pay",
-        "label": "Muse can now place calls to US businesses — if you pay"
+        "id": "ai-is-destroying-the-trust-between-writers-and-readers",
+        "label": "AI Is Destroying the Trust Between Writers and Readers"
       },
       {
-        "id": "nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brand",
-        "label": "Nectar launches an AI agent to automate creator discovery and outreach for brand"
+        "id": "elevenlabs8217-new-app-combines-meeting-note-taking-and-dictation-for-teams",
+        "label": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams"
       },
       {
-        "id": "hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huang8217",
-        "label": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#82"
+        "id": "jensen-huang-didn8217t-show-confidence-in-his-successor-report-says",
+        "label": "Jensen Huang didn&#8217;t show confidence in his successor, report says"
       },
       {
-        "id": "trump-floats-apple-chairman-tim-cook-as-jensen-huang8217s-successor",
-        "label": "Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor"
+        "id": "chatgpt8217s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
+        "label": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you"
       },
       {
-        "id": "five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
-        "label": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry"
+        "id": "israel8217s-vcs-see-opportunity-for-challengers-in-nvidia8217s-turmoil",
+        "label": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil"
       },
       {
-        "id": "softbanks-billion-dollar-loss-may-have-put-a-cap-on-ai8217s-natural-gas-ambition",
-        "label": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambi"
+        "id": "agentssl-can-mle-agents-leverage-unlabeled-data",
+        "label": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?"
       },
       {
-        "id": "show-hn-fable52games-play-and-inspect-fable-52-single-file-html-games",
-        "label": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games"
+        "id": "archspace-recording-reviewing-and-referencing-llm-architecture-research",
+        "label": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research"
       },
       {
-        "id": "jensen-huang-was-having-a-third-affair-reuters-reports",
-        "label": "Jensen Huang was having a third affair, Reuters reports"
+        "id": "linking-rapid-learning-to-compositional-structure-in-neural-networks-evidence-fr",
+        "label": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence f"
       },
       {
-        "id": "ai-is-turning-apples-app-review-process-into-a-nightmare-for-synth-developers",
-        "label": "AI is turning Apple's app review process into a nightmare for synth developers"
+        "id": "classical-energies-learn-to-reason-1000x-faster-than-looped-models",
+        "label": "Classical Energies Learn to Reason 1,000x Faster than Looped Models"
       },
       {
-        "id": "libreagi-save-oss-models",
-        "label": "Libreagi – Save OSS Models"
+        "id": "towards-a-theory-of-learnability-via-debate",
+        "label": "Towards a Theory of Learnability via Debate"
       },
       {
-        "id": "google8217s-latest-search-upgrade-promises-better-answers-to-your-most-complicat",
-        "label": "Google&#8217;s latest Search upgrade promises better answers to your most compli"
+        "id": "unbundling-multimodal-vision-encoding",
+        "label": "Unbundling Multimodal Vision Encoding"
       },
       {
-        "id": "phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
-        "label": "Phota Labs uses AI to turn everyday photos into professional-looking shots"
+        "id": "flex-lbp-learning-local-binary-patterns-with-exact-binary-inference-for-texture",
+        "label": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture"
       },
       {
-        "id": "united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
-        "label": "United Airlines blocks AI agents from booking flights, citing cybersecurity risk"
+        "id": "coremem-cost-internalizing-memory-for-successive-coding-tasks-with-prospective-v",
+        "label": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective"
       },
       {
-        "id": "nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
-        "label": "Nebius tests the neocloud playbook with $40 billion in planned spending"
+        "id": "internalizing-investment-mandates-a-neurosymbolic-rl-approach-to-portfolio-alloc",
+        "label": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allo"
       },
       {
-        "id": "jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
-        "label": "Jensen Huang’s exit puts Nvidia’s support for open source in question"
+        "id": "quantifying-structural-stability-of-transparent-models-for-general-insurance-pri",
+        "label": "Quantifying structural stability of transparent models for general insurance pri"
       },
       {
-        "id": "jensen-huang-agrees-to-testify-before-congress",
-        "label": "Jensen Huang agrees to testify before Congress"
+        "id": "consistent-video-to-video-translation-via-explicit-correspondences",
+        "label": "Consistent Video-to-Video Translation via Explicit Correspondences"
       },
       {
-        "id": "democrats-launch-nvidia-investigation-write-scathing-letter-on-huang8217s-8216sc",
-        "label": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#"
+        "id": "sketching-language-models-for-context-attribution",
+        "label": "Sketching Language Models for Context Attribution"
       },
       {
-        "id": "why-you-should-expect-an-ai-crash",
-        "label": "Why You Should Expect an AI Crash"
-      },
-      {
-        "id": "chinese-frontier-ai-models-carry-the-fingerprint-of-export-controlled-gpus",
-        "label": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs"
-      },
-      {
-        "id": "show-hn-agentrun-open-source-self-improving-managed-agents",
-        "label": "Show HN: AgentRun – open-source, Self-improving Managed Agents"
-      },
-      {
-        "id": "show-hn-ai-red-lines-write-down-what-would-make-you-act-on-ai",
-        "label": "Show HN: AI Red Lines – write down what would make you act on AI"
-      },
-      {
-        "id": "foundation-models-framework",
-        "label": "Foundation Models framework"
-      },
-      {
-        "id": "jensen-huang-third-affair-allegations-revealed",
-        "label": "Jensen Huang Third Affair Allegations Revealed"
-      },
-      {
-        "id": "vibes-dont-maintain",
-        "label": "Vibes Don't Maintain"
+        "id": "show-hn-realtimevad-trading-false-positives-for-110ms-earlier-end-of-speech",
+        "label": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech"
       }
     ],
-    "date_bj": "2026-11-13 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-13 08:04:54"
+    "date_bj": "2026-11-14 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-14 00:05:04"
   }
 }
