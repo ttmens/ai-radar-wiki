@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-11-12",
-    "headline": "今日 AI 情报 · 2026-11-12",
+    "date": "2026-11-13",
+    "headline": "今日 AI 情报 · 2026-11-13",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "jensen-huang-said-to-have-had-relationship-with-executive-who-reports-to-him",
-            "title": "Jensen Huang said to have had relationship with executive who reports ",
+            "id": "gemini-4-hydrogen",
+            "title": "Gemini 4 Hydrogen",
             "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50459321",
+            "url": "https://news.ycombinator.com/item?id=50471431",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -25,59 +25,24 @@
         "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
-            "id": "united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
-            "title": "United Airlines bans AI agents from booking flights on behalf of trave",
-            "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50458900",
-            "reason": "高价值信号"
-          },
-          {
-            "id": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h",
-            "title": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyra",
-            "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50452455",
-            "reason": "高价值信号"
-          },
-          {
-            "id": "databricks8217-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
-            "title": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished tr",
+            "id": "nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brand",
+            "title": "Nectar launches an AI agent to automate creator discovery and outreach",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/11/databricks-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth/",
+            "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
             "reason": "里程碑式进展"
           },
           {
-            "id": "plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-g",
-            "title": "Plurai wants to help AI agents work better using the same approach tha",
+            "id": "united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+            "title": "United Airlines blocks AI agents from booking flights, citing cybersec",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/11/plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-get-self-driving-cars-to-roads/",
+            "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
-            "id": "show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-available",
-            "title": "Show HN: Klad, a paint app your coding agent can drive (source-availab",
-            "score": 0.26,
-            "url": "https://github.com/klad-app/klad",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "launch-hn-pomerado-yc-f26-turn-any-website-into-an-mcp-for-agents",
-            "title": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents",
-            "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=50455811",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "i-gave-an-agent-a-lakehouse-and-control-of-my-garden",
-            "title": "I gave an agent a lakehouse and control of my garden",
-            "score": 0.15,
-            "url": "https://news.ycombinator.com/item?id=50415162",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "atuin-threads-all-your-agent-sessions-on-every-machine",
-            "title": "Atuin Threads: All your agent sessions on every machine",
-            "score": 0.15,
-            "url": "https://news.ycombinator.com/item?id=50453637",
+            "id": "show-hn-agentrun-open-source-self-improving-managed-agents",
+            "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50471650",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -86,13 +51,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施, 融资/投资。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施。",
         "evidence": [
           {
-            "id": "gemini-decisions-api",
-            "title": "Gemini Decisions API",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=50456791",
+            "id": "hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huang8217",
+            "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -101,14 +66,14 @@
       {
         "pillar": "💰 商业趋势",
         "pillar_key": "business",
-        "insight": "今日💰 商业趋势方向有新的动态。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "openai8217s-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
-            "title": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/11/openais-quarterly-revenue-reportedly-crosses-10b-for-the-first-time/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "anthropic-ipo",
+            "title": "Anthropic IPO",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50465829",
+            "reason": "高价值信号"
           }
         ],
         "trend": "new"
@@ -117,209 +82,149 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：United Airlines bans AI agents from book, Google SWE points 48 AI agents at NASA L, Databricks&#8217; new AI agent tells CEO。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Nectar launches an AI agent to automate , United Airlines blocks AI agents from bo。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI工具链从通用走向垂直专业化",
-        "body": "今日1条情报涉及AI工具链与基础设施。包括：The unfolding Jensen Huang scandal: a ti。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "body": "今日1条情报涉及AI工具链与基础设施。包括：Nebius tests the neocloud playbook with 。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
         "type": "maturation",
         "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日2条情报涉及AI商业动态。包括：Comparative Analysis of Agent Evaluation, TimeSeek: Multi-Task and Multi-Domain Pr。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日1条情报涉及AI商业动态。包括：Anthropic IPO。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "📱 产品模式: 10 | 🤖 技术能力: 25 | 🔧 工具生态: 9 | 💰 商业趋势: 1",
-    "total_items": 45,
-    "high_value_count": 35,
+    "stats": "💰 商业趋势: 1 | 🤖 技术能力: 21 | 📱 产品模式: 4 | 🔧 工具生态: 4",
+    "total_items": 30,
+    "high_value_count": 23,
     "all_today_ids": [
       {
-        "id": "united-airlines-bans-ai-agents-from-booking-flights-on-behalf-of-travelers",
-        "label": "United Airlines bans AI agents from booking flights on behalf of travelers"
+        "id": "anthropic-ipo",
+        "label": "Anthropic IPO"
       },
       {
-        "id": "google-swe-points-48-ai-agents-at-nasa-lidar-finds-unmapped-maya-pyramid-in-72h",
-        "label": "Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h"
+        "id": "gemini-4-hydrogen",
+        "label": "Gemini 4 Hydrogen"
       },
       {
-        "id": "jensen-huang-said-to-have-had-relationship-with-executive-who-reports-to-him",
-        "label": "Jensen Huang said to have had relationship with executive who reports to him"
+        "id": "pingdotggt3code",
+        "label": "pingdotgg/t3code"
       },
       {
-        "id": "gemini-decisions-api",
-        "label": "Gemini Decisions API"
+        "id": "codewhale-hqcodewhale",
+        "label": "codewhale-hq/Codewhale"
       },
       {
-        "id": "93-of-paint-splatters-are-valid-perl-programs-2019",
-        "label": "93% of paint splatters are valid Perl programs (2019)"
+        "id": "gemini-4-hydrogen-and-orchestrator",
+        "label": "Gemini 4 Hydrogen and Orchestrator"
       },
       {
-        "id": "emacs-in-the-age-of-magic",
-        "label": "Emacs in the Age of Magic"
+        "id": "im-making-llms-work-on-small-and-old-devices",
+        "label": "I'm making LLMs work on small and old devices"
       },
       {
-        "id": "30m-raised-to-redo-the-cpu",
-        "label": "$30M Raised to Redo the CPU"
+        "id": "muse-can-now-place-calls-to-us-businesses-if-you-pay",
+        "label": "Muse can now place calls to US businesses — if you pay"
       },
       {
-        "id": "is-jensen-huangs-bad-behavior-more-commonplace-than-it-seems",
-        "label": "Is Jensen Huang’s bad behavior more commonplace than it seems?"
+        "id": "nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brand",
+        "label": "Nectar launches an AI agent to automate creator discovery and outreach for brand"
       },
       {
-        "id": "who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors",
-        "label": "Who could replace Jensen Huang? A highly unscientific list of possible successor"
+        "id": "hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huang8217",
+        "label": "Hugging Face CEO vows to keep fighting for open source AI after Jensen Huang&#82"
       },
       {
-        "id": "openai8217s-quarterly-revenue-reportedly-crosses-10b-for-the-first-time",
-        "label": "OpenAI&#8217;s quarterly revenue reportedly crosses $10B for the first time"
+        "id": "trump-floats-apple-chairman-tim-cook-as-jensen-huang8217s-successor",
+        "label": "Trump floats Apple chairman Tim Cook as Jensen Huang&#8217;s successor"
       },
       {
-        "id": "databricks8217-new-ai-agent-tells-ceo-ali-ghodsi-the-unvarnished-truth",
-        "label": "Databricks&#8217; new AI agent tells CEO Ali Ghodsi the unvarnished truth"
+        "id": "five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry",
+        "label": "Five ways Jensen Huang’s ouster from Nvidia could damage the AI industry"
       },
       {
-        "id": "meta-is-losing-its-longtime-head-of-infrastructure",
-        "label": "Meta is losing its longtime head of  infrastructure"
+        "id": "softbanks-billion-dollar-loss-may-have-put-a-cap-on-ai8217s-natural-gas-ambition",
+        "label": "SoftBank’s billion-dollar loss may have put a cap on AI&#8217;s natural gas ambi"
       },
       {
-        "id": "faster-retrieval-for-better-more-efficient-rag",
-        "label": "Faster Retrieval for Better, More Efficient RAG"
+        "id": "show-hn-fable52games-play-and-inspect-fable-52-single-file-html-games",
+        "label": "Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games"
       },
       {
-        "id": "with-720m-round-britain8217s-fractile-gets-a-leg-up-in-the-race-for-ai-chips",
-        "label": "With $720M round, Britain&#8217;s Fractile gets a leg up in the race for AI chip"
+        "id": "jensen-huang-was-having-a-third-affair-reuters-reports",
+        "label": "Jensen Huang was having a third affair, Reuters reports"
       },
       {
-        "id": "coreweave-turns-to-customer-prepayments-shorter-contracts-to-fund-ai-growth",
-        "label": "CoreWeave turns to customer prepayments, shorter contracts to fund AI growth"
+        "id": "ai-is-turning-apples-app-review-process-into-a-nightmare-for-synth-developers",
+        "label": "AI is turning Apple's app review process into a nightmare for synth developers"
       },
       {
-        "id": "congress-to-call-jensen-huang-in-to-answer-for-alleged-chinese-spy-affair",
-        "label": "Congress to call Jensen Huang in to answer for alleged Chinese spy affair"
+        "id": "libreagi-save-oss-models",
+        "label": "Libreagi – Save OSS Models"
       },
       {
-        "id": "nvidias-crisis-has-corporate-governance-experts-reaching-for-the-popcorn",
-        "label": "Nvidia’s crisis has corporate governance experts reaching for the popcorn"
+        "id": "google8217s-latest-search-upgrade-promises-better-answers-to-your-most-complicat",
+        "label": "Google&#8217;s latest Search upgrade promises better answers to your most compli"
       },
       {
-        "id": "nvidias-stock-drops-as-board-reportedly-preps-to-oust-ceo-jensen-huang",
-        "label": "Nvidia’s stock drops as board reportedly preps to oust CEO Jensen Huang"
+        "id": "phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots",
+        "label": "Phota Labs uses AI to turn everyday photos into professional-looking shots"
       },
       {
-        "id": "the-unfolding-jensen-huang-scandal-a-timeline",
-        "label": "The unfolding Jensen Huang scandal: a timeline"
+        "id": "united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+        "label": "United Airlines blocks AI agents from booking flights, citing cybersecurity risk"
       },
       {
-        "id": "jensen-huang-accused-of-having-another-affair-with-an-nvidia-exec",
-        "label": "Jensen Huang accused of having another affair — with an Nvidia exec"
+        "id": "nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending",
+        "label": "Nebius tests the neocloud playbook with $40 billion in planned spending"
       },
       {
-        "id": "plurai-wants-to-help-ai-agents-work-better-using-the-same-approach-that-helped-g",
-        "label": "Plurai wants to help AI agents work better using the same approach that helped g"
+        "id": "jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question",
+        "label": "Jensen Huang’s exit puts Nvidia’s support for open source in question"
       },
       {
-        "id": "how-backlash-and-red-tape-continue-to-slow-data-centers-post-blue-wave",
-        "label": "How backlash and red tape continue to slow data centers post-Blue Wave"
+        "id": "jensen-huang-agrees-to-testify-before-congress",
+        "label": "Jensen Huang agrees to testify before Congress"
       },
       {
-        "id": "why-the-data-center-you-dread-might-never-even-be-built",
-        "label": "Why the data center you dread might never even be built"
+        "id": "democrats-launch-nvidia-investigation-write-scathing-letter-on-huang8217s-8216sc",
+        "label": "Democrats launch Nvidia investigation, write scathing letter on Huang&#8217;s &#"
       },
       {
-        "id": "contrastive-discovery-open-ended-scientific-discovery-over-competing-explanation",
-        "label": "Contrastive Discovery: Open-Ended Scientific Discovery over Competing Explanatio"
+        "id": "why-you-should-expect-an-ai-crash",
+        "label": "Why You Should Expect an AI Crash"
       },
       {
-        "id": "medical-image-segmentation-foundation-model-adaptation-versus-task-specific-trai",
-        "label": "Medical Image Segmentation: Foundation Model Adaptation versus Task-Specific Tra"
+        "id": "chinese-frontier-ai-models-carry-the-fingerprint-of-export-controlled-gpus",
+        "label": "Chinese frontier AI models carry the fingerprint of export-controlled GPUs"
       },
       {
-        "id": "retrace-distilling-tool-using-agents-into-planner-free-workflows",
-        "label": "ReTrace: Distilling Tool-Using Agents into Planner-Free Workflows"
+        "id": "show-hn-agentrun-open-source-self-improving-managed-agents",
+        "label": "Show HN: AgentRun – open-source, Self-improving Managed Agents"
       },
       {
-        "id": "torchcurves-differentiable-parametric-curves",
-        "label": "TorchCurves: Differentiable Parametric Curves"
+        "id": "show-hn-ai-red-lines-write-down-what-would-make-you-act-on-ai",
+        "label": "Show HN: AI Red Lines – write down what would make you act on AI"
       },
       {
-        "id": "comparative-analysis-of-agent-evaluation-frameworks-stability-detection-and-disc",
-        "label": "Comparative Analysis of Agent Evaluation Frameworks: Stability, Detection, and D"
+        "id": "foundation-models-framework",
+        "label": "Foundation Models framework"
       },
       {
-        "id": "continual-arc-measuring-skill-acquisition-over-a-working-lifetime",
-        "label": "Continual-ARC: Measuring Skill Acquisition over a Working Lifetime"
+        "id": "jensen-huang-third-affair-allegations-revealed",
+        "label": "Jensen Huang Third Affair Allegations Revealed"
       },
       {
-        "id": "when-does-the-real-wiring-win-testing-connectome-structure-function-claims-again",
-        "label": "When Does the Real Wiring Win? Testing connectome structure-function claims agai"
-      },
-      {
-        "id": "emergent-biological-capabilities-in-a-foundation-model-for-molecular-interaction",
-        "label": "Emergent Biological Capabilities in a Foundation Model for Molecular Interaction"
-      },
-      {
-        "id": "pyrite-building-and-benchmarking-protein-ligand-pose-ranking-agents",
-        "label": "Pyrite: Building and Benchmarking Protein-Ligand Pose Ranking Agents"
-      },
-      {
-        "id": "toward-foundation-detection-models-via-example-based-grounding-in-em-detr",
-        "label": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR"
-      },
-      {
-        "id": "timeseek-multi-task-and-multi-domain-pretraining-for-generalized-time-series-ana",
-        "label": "TimeSeek: Multi-Task and Multi-Domain Pretraining for Generalized Time Series An"
-      },
-      {
-        "id": "autoscaffold-ai-guided-scaffolding-for-reinforcement-learning-of-language-models",
-        "label": "AutoScaffold: AI-Guided Scaffolding for Reinforcement Learning of Language Model"
-      },
-      {
-        "id": "huawei-releases-macaq-its-internal-quantizer-for-local-inference",
-        "label": "Huawei releases MACaQ, its internal quantizer for local inference"
-      },
-      {
-        "id": "show-hn-klad-a-paint-app-your-coding-agent-can-drive-source-available",
-        "label": "Show HN: Klad, a paint app your coding agent can drive (source-available)"
-      },
-      {
-        "id": "launch-hn-pomerado-yc-f26-turn-any-website-into-an-mcp-for-agents",
-        "label": "Launch HN: Pomerado (YC F26) – Turn any website into an MCP for agents"
-      },
-      {
-        "id": "llms-play-zachtronics-tis-100",
-        "label": "LLMs Play Zachtronics' TIS-100"
-      },
-      {
-        "id": "show-hn-aircad-professional-drafting-and-3d-modeling-in-the-browser",
-        "label": "Show HN: Aircad – Professional drafting and 3D modeling in the browser"
-      },
-      {
-        "id": "i-gave-an-agent-a-lakehouse-and-control-of-my-garden",
-        "label": "I gave an agent a lakehouse and control of my garden"
-      },
-      {
-        "id": "atuin-threads-all-your-agent-sessions-on-every-machine",
-        "label": "Atuin Threads: All your agent sessions on every machine"
-      },
-      {
-        "id": "next-level-benchmarking-overfitting-thomas-neumann",
-        "label": "Next-Level Benchmarking Overfitting – Thomas Neumann"
-      },
-      {
-        "id": "show-hn-aq-an-attention-queue-tui-for-claude-code",
-        "label": "Show HN: Aq – an attention queue TUI for Claude Code"
-      },
-      {
-        "id": "tools-for-exploring-the-souls-of-large-language-models",
-        "label": "Tools for exploring the souls of large language models"
+        "id": "vibes-dont-maintain",
+        "label": "Vibes Don't Maintain"
       }
     ],
-    "date_bj": "2026-11-12 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-12 18:00:57"
+    "date_bj": "2026-11-13 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-13 08:04:54"
   }
 }

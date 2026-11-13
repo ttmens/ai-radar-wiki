@@ -6304,3 +6304,35 @@
 - create: show-hn-aircad-professional-drafting-and-3d-modeling-in-the-browser.md
 
 ## [2026-11-12 18:01] sync v3 | 0 new | pillars: {}
+
+## [2026-11-13 08:05] sync v3 | 32 new | pillars: {'ecosystem': 6, 'patterns': 5, 'capabilities': 20, 'business': 1}
+- create: codewhale-hqcodewhale.md
+- create: pingdotggt3code.md
+- create: why-you-should-expect-an-ai-crash.md
+- create: gemini-4-hydrogen-and-orchestrator.md
+- create: foundation-models-framework.md
+- create: im-making-llms-work-on-small-and-old-devices.md
+- create: ai-is-turning-apples-app-review-process-into-a-nightmare-for-synth-developers.md
+- create: gemini-4-hydrogen.md
+- create: chinese-frontier-ai-models-carry-the-fingerprint-of-export-controlled-gpus.md
+- create: anthropic-ipo.md
+- create: show-hn-agentrun-open-source-self-improving-managed-agents.md
+- create: libreagi-save-oss-models.md
+- create: jensen-huang-third-affair-allegations-revealed.md
+- create: vibes-dont-maintain.md
+- create: democrats-launch-nvidia-investigation-write-scathing-letter-on-huang8217s-8216sc.md
+- create: muse-can-now-place-calls-to-us-businesses-if-you-pay.md
+- create: nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending.md
+- create: jensen-huang-was-having-a-third-affair-reuters-reports.md
+- create: google8217s-latest-search-upgrade-promises-better-answers-to-your-most-complicat.md
+- create: nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brand.md
+- create: jensen-huangs-exit-puts-nvidias-support-for-open-source-in-question.md
+- create: hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huang8217.md
+- create: united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks.md
+- create: softbanks-billion-dollar-loss-may-have-put-a-cap-on-ai8217s-natural-gas-ambition.md
+- create: phota-labs-uses-ai-to-turn-everyday-photos-into-professional-looking-shots.md
+- create: jensen-huang-agrees-to-testify-before-congress.md
+- create: five-ways-jensen-huangs-ouster-from-nvidia-could-damage-the-ai-industry.md
+- create: trump-floats-apple-chairman-tim-cook-as-jensen-huang8217s-successor.md
+- create: show-hn-ai-red-lines-write-down-what-would-make-you-act-on-ai.md
+- create: show-hn-fable52games-play-and-inspect-fable-52-single-file-html-games.md

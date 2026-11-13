@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-12T18:01:29.839609+08:00",
-  "days_analyzed": 170,
+  "generated_at": "2026-11-13T08:05:26.231159+08:00",
+  "days_analyzed": 171,
   "pillar_trends": {
     "capabilities": {
       "trend": "stable",
@@ -10,10 +10,10 @@
       "has_data": true
     },
     "patterns": {
-      "trend": "up",
-      "delta": 5,
-      "current": 8,
-      "previous": 3,
+      "trend": "down",
+      "delta": -5,
+      "current": 3,
+      "previous": 8,
       "has_data": true
     },
     "ecosystem": {
@@ -111,7 +111,8 @@
         "2026-11-07",
         "2026-11-09",
         "2026-11-11",
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ],
       "instances": [
         {
@@ -2289,6 +2290,38 @@
               "pillar": "patterns"
             }
           ]
+        },
+        {
+          "date": "2026-11-13",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Nectar launches an AI agent to automate , United Airlines blocks AI agents from bo。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brand",
+              "title": "Nectar launches an AI agent to automate creator discovery and outreach",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/11/12/nectar-launches-an-ai-agent-to-automate-creator-discovery-and-outreach-for-brands/",
+              "reason": "里程碑式进展",
+              "pillar": "patterns"
+            },
+            {
+              "id": "united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks",
+              "title": "United Airlines blocks AI agents from booking flights, citing cybersec",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/11/12/united-airlines-blocks-ai-agents-from-booking-flights-citing-cybersecurity-risks/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-agentrun-open-source-self-improving-managed-agents",
+              "title": "Show HN: AgentRun – open-source, Self-improving Managed Agents",
+              "score": 0.2,
+              "url": "https://news.ycombinator.com/item?id=50471650",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -2363,7 +2396,8 @@
         "2026-11-09",
         "2026-11-10",
         "2026-11-11",
-        "2026-11-12"
+        "2026-11-12",
+        "2026-11-13"
       ],
       "instances": [
         {
@@ -3616,6 +3650,521 @@
               "pillar": "capabilities"
             }
           ]
+        },
+        {
+          "date": "2026-11-13",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日1条情报涉及AI商业动态。包括：Anthropic IPO。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "anthropic-ipo",
+              "title": "Anthropic IPO",
+              "score": 0.51,
+              "url": "https://news.ycombinator.com/item?id=50465829",
+              "reason": "高价值信号",
+              "pillar": "business"
+            }
+          ]
+        }
+      ],
+      "lifecycle": "declining"
+    },
+    {
+      "title": "AI工具链从通用走向垂直专业化",
+      "type": "maturation",
+      "latest_type": "maturation",
+      "days": [
+        "2026-05-08",
+        "2026-05-11",
+        "2026-05-12",
+        "2026-05-13",
+        "2026-06-26",
+        "2026-07-11",
+        "2026-07-14",
+        "2026-07-16",
+        "2026-08-30",
+        "2026-09-01",
+        "2026-09-07",
+        "2026-09-24",
+        "2026-09-29",
+        "2026-10-09",
+        "2026-10-10",
+        "2026-10-27",
+        "2026-10-30",
+        "2026-10-31",
+        "2026-11-06",
+        "2026-11-11",
+        "2026-11-12",
+        "2026-11-13"
+      ],
+      "instances": [
+        {
+          "date": "2026-05-08",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "Kstack专为Claude Code设计K8s监控技能包、OpenAI推出语音专用API——AI工具链正从「什么都能做」的大模型，转向「在特定场景做到极致」的垂直工具。这反映了AI行业成熟度提升：开发者不再满足于通用能力，而是需要针对具体工作流深度优化的专用工具。PM应当关注这种「工具链分层」趋势，在通用模型之上构建场景化壁垒。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
+              "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
+              "score": 0.52,
+              "url": "",
+              "reason": "高价值信号",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
+              "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
+              "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "bami-training-free-bias-mitigation-in-gui-grounding",
+              "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
+              "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
+              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
+              "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            },
+            {
+              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
+              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
+              "score": 0.48,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-11",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日6条情报涉及AI工具链与基础设施。包括：Show HN: adamsreview – better multi-agen, Show HN: Modafinil - Let agents continue。信号：开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "running-local-models-on-an-m4-with-24gb-memory",
+              "title": "Running local models on an M4 with 24GB memory",
+              "score": 0.35,
+              "url": "https://news.ycombinator.com/item?id=48089091",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-adamsreview-better-multi-agent-pr-revie",
+              "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
+              "score": 0.33,
+              "url": "https://news.ycombinator.com/item?id=48090276",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "chromes-ai-features-may-be-hogging-4gb-of-your-co",
+              "title": "Chrome's AI features may be hogging 4GB of your computer storage",
+              "score": 0.26,
+              "url": "https://news.ycombinator.com/item?id=48084710",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-modafinil-let-agents-continue-running-w",
+              "title": "Show HN: Modafinil - Let agents continue running while MacBook lid is ",
+              "score": 0.2,
+              "url": "https://github.com/narcotic-sh/modafinil",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "an-ai-coding-agent-used-to-write-code-needs-to-r",
+              "title": "An AI coding agent, used to write code, needs to reduce your maintenan",
+              "score": 0.2,
+              "url": "https://news.ycombinator.com/item?id=48089289",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-12",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日9条情报涉及AI工具链与基础设施。包括：Can Someone Please Explain Whether Cloud, GM just laid off hundreds of IT workers 。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "show-hn-slayer-a-semantic-layer-maintained-by-yo",
+              "title": "Show HN: SLayer, a semantic layer maintained by your agent",
+              "score": 0.33,
+              "url": "https://github.com/MotleyAI/slayer",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-e2a-open-source-email-gateway-for-ai-ag",
+              "title": "Show HN: E2a – Open-source email gateway for AI agents",
+              "score": 0.33,
+              "url": "https://github.com/Mnexa-AI/e2a",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "gm-just-laid-off-hundreds-of-it-workers-to-hire-th",
+              "title": "GM just laid off hundreds of IT workers to hire those with stronger AI",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
+              "reason": "里程碑式进展",
+              "pillar": "patterns"
+            },
+            {
+              "id": "dynamic-skill-lifecycle-management-for-agentic-reinforcement",
+              "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
+              "score": 0.3,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "revisiting-policy-gradients-for-restricted-policy-classes-e",
+              "title": "Revisiting Policy Gradients for Restricted Policy Classes: Escaping My",
+              "score": 0.3,
+              "url": "",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
+        },
+        {
+          "date": "2026-05-13",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日14条情报涉及AI工具链与基础设施。包括：Show HN: Statewright – Visual state mach, Hmbown/DeepSeek-TUI。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "hmbowndeepseek-tui",
+              "title": "Hmbown/DeepSeek-TUI",
+              "score": 0.58,
+              "url": "https://github.com/Hmbown/DeepSeek-TUI",
+              "reason": "高价值信号",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-statewright-visual-state-machines-that",
+              "title": "Show HN: Statewright – Visual state machines that make AI agents relia",
+              "score": 0.33,
+              "url": "https://news.ycombinator.com/item?id=48108778",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "poppy-debuts-a-proactive-ai-assistant-to-help-orga",
+              "title": "Poppy debuts a proactive AI assistant to help organize your digital li",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "ai-voice-startup-vapi-hits-500m-valuation-after-w",
+              "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring o",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "amazon-launches-an-ai-shopping-assistant-for-the-s",
+              "title": "Amazon launches an AI shopping assistant for the search bar, powered b",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+              "reason": "里程碑式进展",
+              "pillar": "patterns"
+            }
+          ]
+        },
+        {
+          "date": "2026-06-26",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Amazon ups India bet with fresh $13B AI 。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "show-hn-openknowledge-open-source-ai-first-alternative-to-obsidiannotion",
+              "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/",
+              "score": 0.53,
+              "url": "https://news.ycombinator.com/item?id=48675435",
+              "reason": "高价值信号",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-11",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Inference Optimization for MiMo v2.5: Pu。信号：开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": []
+        },
+        {
+          "date": "2026-07-14",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Show HN: MemStitch – Zero-copy context b。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "twitter_sama_2076824686307271125",
+              "title": "i thought this was satire, kept looking for the handle to be spelled c",
+              "score": 1.0,
+              "url": "https://x.com/sama/status/2076824686307271125",
+              "reason": "社区关注度高（5863 stars）；高价值信号",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-07-16",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Unsolved Problems in MLOps。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": []
+        },
+        {
+          "date": "2026-08-30",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：vLLM v0.28.0。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "debian-votes-to-allow-responsible-use-of-generative-ai",
+              "title": "Debian votes to allow \"responsible use of generative AI\"",
+              "score": 0.42,
+              "url": "https://news.ycombinator.com/item?id=49489982",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-01",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Nvidia’s $3.5B MediaTek bet reveals its 。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "career-ops-hqcareer-ops",
+              "title": "career-ops-hq/career-ops",
+              "score": 0.41,
+              "url": "https://github.com/career-ops-hq/career-ops",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-07",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Speculative Decoding in vLLM on AMD GPUs。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "your-intellectual-fly-is-open-when-you-use-an-llm-to-author-a-post-2025",
+              "title": "Your intellectual fly is open when you use an LLM to author a post (20",
+              "score": 0.51,
+              "url": "https://news.ycombinator.com/item?id=49585644",
+              "reason": "高价值信号",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-24",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：SWE-Serve: Benchmarking Agentic Engineer。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "swe-serve-benchmarking-agentic-engineering-for-production-inference-serving",
+              "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference S",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2609.26777v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            },
+            {
+              "id": "a2m-trace-optimized-agent-hijacking-in-the-mcp-ecosystem",
+              "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2609.26761v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-09-29",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Source: Inference provider Modal Labs cl。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "the-problem-is-not-ai-code-but-not-knowing-about-system-architecture-or-intent",
+              "title": "The problem is not AI code, but not knowing about system architecture ",
+              "score": 0.46,
+              "url": "https://news.ycombinator.com/item?id=49880312",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-09",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Hear from Ambrosia Energy and Bloom Ener。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": []
+        },
+        {
+          "date": "2026-10-10",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日2条情报涉及AI工具链与基础设施。包括：Amazon and others are done keeping data , Amazon drops data center NDAs, and AI ag。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
+              "title": "Amazon drops data center NDAs, and AI agents want your credit card",
+              "score": 0.3,
+              "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "why-are-coding-agents-so-dumb",
+              "title": "Why are coding agents so dumb?",
+              "score": 0.3,
+              "url": "https://news.ycombinator.com/item?id=50020947",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "rewriting-prime-agent-in-rust",
+              "title": "Rewriting Prime Agent in Rust",
+              "score": 0.15,
+              "url": "https://news.ycombinator.com/item?id=50027694",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-a-simple-to-do-app-for-iphone-mac-and-your-agent",
+              "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
+              "score": 0.15,
+              "url": "https://ilia.page/writing/introducing-nagare",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-27",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Fixing Tool-Call Accuracy in vLLM。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "anthropic-s-1",
+              "title": "Anthropic S-1",
+              "score": 0.51,
+              "url": "https://news.ycombinator.com/item?id=50242939",
+              "reason": "高价值信号",
+              "pillar": "capabilities"
+            }
+          ]
+        },
+        {
+          "date": "2026-10-30",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Deepgram acquires Pipecat-maker Daily to。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": []
+        },
+        {
+          "date": "2026-10-31",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Cracks are emerging in the AI spending b。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-8216a-great-opport",
+              "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+              "reason": "里程碑式进展",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-06",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Dropbox acquires Tigris Data for $350M t。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": []
+        },
+        {
+          "date": "2026-11-11",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Nvidia CEO Jensen Huang&#8217;s affair w。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "nvidia-ceo-jensen-huang8217s-affair-with-alleged-chinese-spy-a-timeline",
+              "title": "Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a tim",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-12",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：The unfolding Jensen Huang scandal: a ti。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "gemini-decisions-api",
+              "title": "Gemini Decisions API",
+              "score": 0.42,
+              "url": "https://news.ycombinator.com/item?id=50456791",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            }
+          ]
+        },
+        {
+          "date": "2026-11-13",
+          "title": "AI工具链从通用走向垂直专业化",
+          "body": "今日1条情报涉及AI工具链与基础设施。包括：Nebius tests the neocloud playbook with 。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+          "type": "maturation",
+          "evidence": [
+            {
+              "id": "hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huang8217",
+              "title": "Hugging Face CEO vows to keep fighting for open source AI after Jensen",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/11/12/hugging-face-ceo-vows-to-keep-fighting-for-open-source-ai-after-jensen-huangs-exit/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "ecosystem"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -4077,488 +4626,6 @@
       "lifecycle": "declining"
     },
     {
-      "title": "AI工具链从通用走向垂直专业化",
-      "type": "maturation",
-      "latest_type": "maturation",
-      "days": [
-        "2026-05-08",
-        "2026-05-11",
-        "2026-05-12",
-        "2026-05-13",
-        "2026-06-26",
-        "2026-07-11",
-        "2026-07-14",
-        "2026-07-16",
-        "2026-08-30",
-        "2026-09-01",
-        "2026-09-07",
-        "2026-09-24",
-        "2026-09-29",
-        "2026-10-09",
-        "2026-10-10",
-        "2026-10-27",
-        "2026-10-30",
-        "2026-10-31",
-        "2026-11-06",
-        "2026-11-11",
-        "2026-11-12"
-      ],
-      "instances": [
-        {
-          "date": "2026-05-08",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "Kstack专为Claude Code设计K8s监控技能包、OpenAI推出语音专用API——AI工具链正从「什么都能做」的大模型，转向「在特定场景做到极致」的垂直工具。这反映了AI行业成熟度提升：开发者不再满足于通用能力，而是需要针对具体工作流深度优化的专用工具。PM应当关注这种「工具链分层」趋势，在通用模型之上构建场景化壁垒。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "superintelligent-retrieval-agent-the-next-frontier-of-infor",
-              "title": "Superintelligent Retrieval Agent: The Next Frontier of Information Ret",
-              "score": 0.52,
-              "url": "",
-              "reason": "高价值信号",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "actcam-zero-shot-joint-camera-and-3d-motion-control-for-vid",
-              "title": "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generat",
-              "score": 0.48,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "bami-training-free-bias-mitigation-in-gui-grounding",
-              "title": "BAMI: Training-Free Bias Mitigation in GUI Grounding",
-              "score": 0.48,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "unipool-a-globally-shared-expert-pool-for-mixture-of-expert",
-              "title": "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts",
-              "score": 0.48,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            },
-            {
-              "id": "optimizer-model-consistency-full-finetuning-with-the-same-o",
-              "title": "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer a",
-              "score": 0.48,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            }
-          ]
-        },
-        {
-          "date": "2026-05-11",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日6条情报涉及AI工具链与基础设施。包括：Show HN: adamsreview – better multi-agen, Show HN: Modafinil - Let agents continue。信号：开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "running-local-models-on-an-m4-with-24gb-memory",
-              "title": "Running local models on an M4 with 24GB memory",
-              "score": 0.35,
-              "url": "https://news.ycombinator.com/item?id=48089091",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "show-hn-adamsreview-better-multi-agent-pr-revie",
-              "title": "Show HN: adamsreview – better multi-agent PR reviews for Claude Code",
-              "score": 0.33,
-              "url": "https://news.ycombinator.com/item?id=48090276",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "chromes-ai-features-may-be-hogging-4gb-of-your-co",
-              "title": "Chrome's AI features may be hogging 4GB of your computer storage",
-              "score": 0.26,
-              "url": "https://news.ycombinator.com/item?id=48084710",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "show-hn-modafinil-let-agents-continue-running-w",
-              "title": "Show HN: Modafinil - Let agents continue running while MacBook lid is ",
-              "score": 0.2,
-              "url": "https://github.com/narcotic-sh/modafinil",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "an-ai-coding-agent-used-to-write-code-needs-to-r",
-              "title": "An AI coding agent, used to write code, needs to reduce your maintenan",
-              "score": 0.2,
-              "url": "https://news.ycombinator.com/item?id=48089289",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            }
-          ]
-        },
-        {
-          "date": "2026-05-12",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日9条情报涉及AI工具链与基础设施。包括：Can Someone Please Explain Whether Cloud, GM just laid off hundreds of IT workers 。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "show-hn-slayer-a-semantic-layer-maintained-by-yo",
-              "title": "Show HN: SLayer, a semantic layer maintained by your agent",
-              "score": 0.33,
-              "url": "https://github.com/MotleyAI/slayer",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "show-hn-e2a-open-source-email-gateway-for-ai-ag",
-              "title": "Show HN: E2a – Open-source email gateway for AI agents",
-              "score": 0.33,
-              "url": "https://github.com/Mnexa-AI/e2a",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "gm-just-laid-off-hundreds-of-it-workers-to-hire-th",
-              "title": "GM just laid off hundreds of IT workers to hire those with stronger AI",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/11/gm-just-laid-off-hundreds-of-it-workers-to-hire-those-with-stronger-ai-skills/",
-              "reason": "里程碑式进展",
-              "pillar": "patterns"
-            },
-            {
-              "id": "dynamic-skill-lifecycle-management-for-agentic-reinforcement",
-              "title": "Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning",
-              "score": 0.3,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "revisiting-policy-gradients-for-restricted-policy-classes-e",
-              "title": "Revisiting Policy Gradients for Restricted Policy Classes: Escaping My",
-              "score": 0.3,
-              "url": "",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            }
-          ]
-        },
-        {
-          "date": "2026-05-13",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日14条情报涉及AI工具链与基础设施。包括：Show HN: Statewright – Visual state mach, Hmbown/DeepSeek-TUI。信号：基础设施, 开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "hmbowndeepseek-tui",
-              "title": "Hmbown/DeepSeek-TUI",
-              "score": 0.58,
-              "url": "https://github.com/Hmbown/DeepSeek-TUI",
-              "reason": "高价值信号",
-              "pillar": "patterns"
-            },
-            {
-              "id": "show-hn-statewright-visual-state-machines-that",
-              "title": "Show HN: Statewright – Visual state machines that make AI agents relia",
-              "score": 0.33,
-              "url": "https://news.ycombinator.com/item?id=48108778",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "poppy-debuts-a-proactive-ai-assistant-to-help-orga",
-              "title": "Poppy debuts a proactive AI assistant to help organize your digital li",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/13/poppy-debuts-a-proactive-ai-assistant-to-help-organize-your-digital-life/",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "ai-voice-startup-vapi-hits-500m-valuation-after-w",
-              "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring o",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "amazon-launches-an-ai-shopping-assistant-for-the-s",
-              "title": "Amazon launches an AI shopping assistant for the search bar, powered b",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-              "reason": "里程碑式进展",
-              "pillar": "patterns"
-            }
-          ]
-        },
-        {
-          "date": "2026-06-26",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Amazon ups India bet with fresh $13B AI 。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "show-hn-openknowledge-open-source-ai-first-alternative-to-obsidiannotion",
-              "title": "Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/",
-              "score": 0.53,
-              "url": "https://news.ycombinator.com/item?id=48675435",
-              "reason": "高价值信号",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-07-11",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Inference Optimization for MiMo v2.5: Pu。信号：开源工具。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": []
-        },
-        {
-          "date": "2026-07-14",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Show HN: MemStitch – Zero-copy context b。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "twitter_sama_2076824686307271125",
-              "title": "i thought this was satire, kept looking for the handle to be spelled c",
-              "score": 1.0,
-              "url": "https://x.com/sama/status/2076824686307271125",
-              "reason": "社区关注度高（5863 stars）；高价值信号",
-              "pillar": "capabilities"
-            }
-          ]
-        },
-        {
-          "date": "2026-07-16",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Unsolved Problems in MLOps。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": []
-        },
-        {
-          "date": "2026-08-30",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：vLLM v0.28.0。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "debian-votes-to-allow-responsible-use-of-generative-ai",
-              "title": "Debian votes to allow \"responsible use of generative AI\"",
-              "score": 0.42,
-              "url": "https://news.ycombinator.com/item?id=49489982",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            }
-          ]
-        },
-        {
-          "date": "2026-09-01",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Nvidia’s $3.5B MediaTek bet reveals its 。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "career-ops-hqcareer-ops",
-              "title": "career-ops-hq/career-ops",
-              "score": 0.41,
-              "url": "https://github.com/career-ops-hq/career-ops",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-09-07",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Speculative Decoding in vLLM on AMD GPUs。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "your-intellectual-fly-is-open-when-you-use-an-llm-to-author-a-post-2025",
-              "title": "Your intellectual fly is open when you use an LLM to author a post (20",
-              "score": 0.51,
-              "url": "https://news.ycombinator.com/item?id=49585644",
-              "reason": "高价值信号",
-              "pillar": "capabilities"
-            }
-          ]
-        },
-        {
-          "date": "2026-09-24",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：SWE-Serve: Benchmarking Agentic Engineer。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "swe-serve-benchmarking-agentic-engineering-for-production-inference-serving",
-              "title": "SWE-Serve: Benchmarking Agentic Engineering For Production Inference S",
-              "score": 0.3,
-              "url": "http://arxiv.org/abs/2609.26777v1",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            },
-            {
-              "id": "a2m-trace-optimized-agent-hijacking-in-the-mcp-ecosystem",
-              "title": "A2M: Trace-Optimized Agent Hijacking in the MCP Ecosystem",
-              "score": 0.3,
-              "url": "http://arxiv.org/abs/2609.26761v1",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-09-29",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Source: Inference provider Modal Labs cl。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "the-problem-is-not-ai-code-but-not-knowing-about-system-architecture-or-intent",
-              "title": "The problem is not AI code, but not knowing about system architecture ",
-              "score": 0.46,
-              "url": "https://news.ycombinator.com/item?id=49880312",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "capabilities"
-            }
-          ]
-        },
-        {
-          "date": "2026-10-09",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Hear from Ambrosia Energy and Bloom Ener。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": []
-        },
-        {
-          "date": "2026-10-10",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日2条情报涉及AI工具链与基础设施。包括：Amazon and others are done keeping data , Amazon drops data center NDAs, and AI ag。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card",
-              "title": "Amazon drops data center NDAs, and AI agents want your credit card",
-              "score": 0.3,
-              "url": "https://techcrunch.com/podcast/amazon-drops-data-center-ndas-and-ai-agents-want-your-credit-card/",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "why-are-coding-agents-so-dumb",
-              "title": "Why are coding agents so dumb?",
-              "score": 0.3,
-              "url": "https://news.ycombinator.com/item?id=50020947",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "rewriting-prime-agent-in-rust",
-              "title": "Rewriting Prime Agent in Rust",
-              "score": 0.15,
-              "url": "https://news.ycombinator.com/item?id=50027694",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            },
-            {
-              "id": "show-hn-a-simple-to-do-app-for-iphone-mac-and-your-agent",
-              "title": "Show HN: A simple to-do app for iPhone, Mac, and your agent",
-              "score": 0.15,
-              "url": "https://ilia.page/writing/introducing-nagare",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "patterns"
-            }
-          ]
-        },
-        {
-          "date": "2026-10-27",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Fixing Tool-Call Accuracy in vLLM。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "anthropic-s-1",
-              "title": "Anthropic S-1",
-              "score": 0.51,
-              "url": "https://news.ycombinator.com/item?id=50242939",
-              "reason": "高价值信号",
-              "pillar": "capabilities"
-            }
-          ]
-        },
-        {
-          "date": "2026-10-30",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Deepgram acquires Pipecat-maker Daily to。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": []
-        },
-        {
-          "date": "2026-10-31",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Cracks are emerging in the AI spending b。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-8216a-great-opport",
-              "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is &#8216;a",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-              "reason": "里程碑式进展",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-11-06",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Dropbox acquires Tigris Data for $350M t。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": []
-        },
-        {
-          "date": "2026-11-11",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：Nvidia CEO Jensen Huang&#8217;s affair w。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "nvidia-ceo-jensen-huang8217s-affair-with-alleged-chinese-spy-a-timeline",
-              "title": "Nvidia CEO Jensen Huang&#8217;s affair with alleged Chinese spy: a tim",
-              "score": 0.3,
-              "url": "https://techcrunch.com/2026/11/10/nvidia-ceo-jensen-huangs-affair-with-alleged-chinese-spy-a-timeline/",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            }
-          ]
-        },
-        {
-          "date": "2026-11-12",
-          "title": "AI工具链从通用走向垂直专业化",
-          "body": "今日1条情报涉及AI工具链与基础设施。包括：The unfolding Jensen Huang scandal: a ti。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-          "type": "maturation",
-          "evidence": [
-            {
-              "id": "gemini-decisions-api",
-              "title": "Gemini Decisions API",
-              "score": 0.42,
-              "url": "https://news.ycombinator.com/item?id=50456791",
-              "reason": "基于新颖度、影响力、相关性综合评分",
-              "pillar": "ecosystem"
-            }
-          ]
-        }
-      ],
-      "lifecycle": "declining"
-    },
-    {
       "title": "AI从对话式向自主操作系统级控制演进",
       "type": "paradigm_shift",
       "latest_type": "paradigm_shift",
@@ -4802,5 +4869,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-11-12**（170天），累计 **4850** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。 值得关注：📱 产品模式呈上升趋势"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-11-13**（171天），累计 **4880** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }
