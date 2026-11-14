@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-11-14 | Total pages: 6095
+> Last updated: 2026-11-15 | Total pages: 6099
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -859,6 +859,7 @@
 - [[general-intuition-in-talks-to-raise-300m-at-around-2b-valuation.md]] General Intuition in talks to raise $300M at around $2B valuation `pillar:capabilities` `score:0.48`
 - [[generate-fonts-where-every-llm-token-is-the-same-width.md]] Generate fonts where every LLM token is the same width `pillar:capabilities` `score:0.205`
 - [[generative-ai-is-an-engineering-disaster.md]] Generative AI Is an Engineering Disaster `pillar:capabilities` `score:0.33`
+- [[generative-ai-uses-more-energy-on-non-english-text.md]] Generative AI uses more energy on non-English text `pillar:capabilities` `score:0.255`
 - [[geoffrey-hinton-it-might-turn-out-we-were-better-off-without-ai.md]] Geoffrey Hinton: it might turn out we were better off without AI `pillar:capabilities` `score:0.455`
 - [[geosql-a-claudecodex-skill-for-geospatial-data.md]] Geosql: A Claude/Codex skill for geospatial data `pillar:capabilities` `score:0.38`
 - [[german-ai-consortium-releases-soofi-s-an-open-30b-model-that-tops-benchmarks.md]] German AI consortium releases Soofi S, an open 30B model that tops benchmarks `pillar:capabilities` `score:0.515`
@@ -1894,6 +1895,7 @@
 - [[semiconductor-lifeline-keeps-fighter-jets-in-the-air.md]] Semiconductor Lifeline Keeps Fighter Jets in the Air `pillar:capabilities` `score:0.275`
 - [[senior-swe-bench-open-source-benchmark-that-assesses-agents-as-senior-engineers.md]] Senior SWE-Bench: open-source benchmark that assesses agents as senior engineers `pillar:capabilities` `score:0.48`
 - [[serbia-just-elected-the-worlds-brainiest-parliament.md]] Serbia just elected the world's brainiest parliament `pillar:capabilities` `score:0.505`
+- [[serving-glm-53-at-6078-toks-across-two-nvidia-dgx-stations-with-vllm.md]] Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM `pillar:capabilities` `score:0.255`
 - [[setting-up-your-spare-mac-for-claude-code-to-control-a-step-by-step-guide.md]] Setting up your spare Mac for Claude Code to control, a step-by-step guide `pillar:capabilities` `score:0.515`
 - [[several-linux-kernel-vulnerabilities-accidentally-posted-to-public-mailing-list.md]] Several Linux kernel vulnerabilities accidentally posted to public mailing list `pillar:capabilities` `score:0.355`
 - [[sex-ai-and-the-apocalypse.md]] Sex, AI, and the Apocalypse `pillar:capabilities` `score:0.355`
@@ -2252,6 +2254,7 @@
 - [[talk-the-art-of-braiding-algorithms.md]] Talk: The Art of Braiding Algorithms `pillar:capabilities` `score:0.33`
 - [[tao-open-math-problems-being-non-renewably-mined-by-ai.md]] Tao: Open math problems being non-renewably mined by AI `pillar:capabilities` `score:0.255`
 - [[task-failed-successfully-saturating-nic-and-disk-bandwidth.md]] Task Failed Successfully: Saturating NIC and Disk Bandwidth `pillar:capabilities` `score:0.26`
+- [[tech-companies-are-trying-to-shift-the-concept-of-privacy-again.md]] Tech Companies Are Trying to Shift the Concept of Privacy (Again) `pillar:capabilities` `score:0.305`
 - [[techcrunch-disrupt-2026-aaron-edsinger-brings-hello-robots-stretch-4-to-life-ons.md]] TechCrunch Disrupt 2026: Aaron Edsinger brings Hello Robot’s Stretch 4 to life o `pillar:capabilities` `score:0.305`
 - [[techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-o.md]] TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation `pillar:capabilities` `score:0.305`
 - [[techcrunch-disrupt-2026-clays-kareem-amin-on-the-rise-of-the-gtm-engineer.md]] TechCrunch Disrupt 2026: Clay’s Kareem Amin on the rise of the GTM engineer `pillar:capabilities` `score:0.305`
@@ -4407,6 +4410,7 @@
 - [[show-hn-agentrun-open-source-self-improving-managed-agents.md]] Show HN: AgentRun – open-source, Self-improving Managed Agents `pillar:patterns` `score:0.205`
 - [[show-hn-agents-infer-lego-mechanisms-from-sources-then-animate-them.md]] Show HN: Agents infer Lego mechanisms from sources, then animate them `pillar:patterns` `score:0.155`
 - [[show-hn-agenttrust-zero-trust-security-and-human-approvals-for-ai-agents.md]] Show HN: AgentTrust – Zero-trust security and human approvals for AI agents `pillar:patterns` `score:0.155`
+- [[show-hn-agweb-a-browser-for-agents-that-stays-out-of-your-way.md]] Show HN: Agweb – a browser for agents that stays out of your way `pillar:patterns` `score:0.155`
 - [[show-hn-aireterag-a-rete-rule-engine-decides-rag-explains-why.md]] Show HN: AI·rete·RAG – a Rete rule engine decides, RAG explains why `pillar:patterns` `score:0.155`
 - [[show-hn-an-ai-agent-runs-ten-web-errands-a-day-every-transcript-published.md]] Show HN: An AI agent runs ten web errands a day, every transcript published `pillar:patterns` `score:0.155`
 - [[show-hn-atticus-hold-to-talk-voice-assistant-for-macos-that-runs-on-claude-p.md]] Show HN: Atticus – Hold-to-talk voice assistant for macOS that runs on Claude -p `pillar:patterns` `score:0.155`

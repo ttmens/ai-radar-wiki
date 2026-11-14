@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-11-14",
-    "headline": "今日 AI 情报 · 2026-11-14",
-    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "date": "2026-11-15",
+    "headline": "今日 AI 情报 · 2026-11-15",
+    "overview": "AI工具链从通用走向垂直专业化",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施。",
         "evidence": [
           {
-            "id": "eli-lilly-ceo-pushes-back-on-dario-amodeis-medical-claims",
-            "title": "Eli Lilly CEO pushes back on Dario Amodei's medical claims",
-            "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50483480",
+            "id": "tech-companies-are-trying-to-shift-the-concept-of-privacy-again",
+            "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=50496602",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,50 +22,13 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, AI Agent。",
+        "insight": "今日📱 产品模式方向有新的动态。",
         "evidence": [
           {
-            "id": "ai-agent-startup-langchain-hits-3b-valuation",
-            "title": "AI agent startup LangChain hits $3B valuation",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "chatgpt8217s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
-            "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/13/chatgpts-new-wallet-lets-ai-agents-shop-and-check-out-for-you/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent。",
-        "evidence": [
-          {
-            "id": "brave-search-api-now-accepts-agentic-payments-via-the-x402-protocol",
-            "title": "Brave Search API now accepts agentic payments via the x402 protocol",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=50477649",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
-        "evidence": [
-          {
-            "id": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-            "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its",
-            "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50493251",
+            "id": "show-hn-agweb-a-browser-for-agents-that-stays-out-of-your-way",
+            "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+            "score": 0.15,
+            "url": "https://github.com/paul-nameless/agweb",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -74,184 +37,34 @@
     ],
     "narratives": [
       {
-        "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Brave Search API now accepts agentic pay, AI agent startup LangChain hits $3B valu, ChatGPT&#8217;s new Wallet lets AI agent。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-        "type": "paradigm_shift",
-        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
-      },
-      {
-        "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日3条情报涉及AI商业动态。包括：AI agent startup LangChain hits $3B valu, Jensen Huang’s departure blasts big hole, Sketching Language Models for Context At。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
-        "type": "validation",
-        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+        "title": "AI工具链从通用走向垂直专业化",
+        "body": "今日1条情报涉及AI工具链与基础设施。包括：Serving GLM-5.3 at 607.8 tok/s across tw。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
+        "type": "maturation",
+        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
       }
     ],
-    "stats": "🤖 技术能力: 34 | 💰 商业趋势: 2 | 🔧 工具生态: 1 | 📱 产品模式: 3",
-    "total_items": 40,
-    "high_value_count": 37,
+    "stats": "🤖 技术能力: 3 | 📱 产品模式: 1",
+    "total_items": 4,
+    "high_value_count": 1,
     "all_today_ids": [
       {
-        "id": "eli-lilly-ceo-pushes-back-on-dario-amodeis-medical-claims",
-        "label": "Eli Lilly CEO pushes back on Dario Amodei's medical claims"
+        "id": "tech-companies-are-trying-to-shift-the-concept-of-privacy-again",
+        "label": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)"
       },
       {
-        "id": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
-        "label": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs"
+        "id": "serving-glm-53-at-6078-toks-across-two-nvidia-dgx-stations-with-vllm",
+        "label": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM"
       },
       {
-        "id": "jonathan-blow-if-ai-solved-coding-why-is-my-software-still-the-same-video",
-        "label": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]"
+        "id": "generative-ai-uses-more-energy-on-non-english-text",
+        "label": "Generative AI uses more energy on non-English text"
       },
       {
-        "id": "elevated-errors-on-claudeai-claude-code-and-platformclaudecom",
-        "label": "Elevated errors on claude.ai, Claude Code, and platform.claude.com"
-      },
-      {
-        "id": "brave-search-api-now-accepts-agentic-payments-via-the-x402-protocol",
-        "label": "Brave Search API now accepts agentic payments via the x402 protocol"
-      },
-      {
-        "id": "jaidedaieasyocr",
-        "label": "JaidedAI/EasyOCR"
-      },
-      {
-        "id": "ai-unlocks-gödels-notebooks-said-to-contain-hundreds-of-proved-theorems",
-        "label": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems"
-      },
-      {
-        "id": "edge0-145b-frontier-ai-capabilities-on-your-own-computer",
-        "label": "Edge0-145B: Frontier AI Capabilities on Your Own Computer"
-      },
-      {
-        "id": "live-airband-on-all-frequencies-from-kors-victoria-ca-also-ground-stopped",
-        "label": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped"
-      },
-      {
-        "id": "claude-is-down",
-        "label": "Claude Is Down"
-      },
-      {
-        "id": "after-600-experiments-heres-what-i-discovered-about-jepa-world-models",
-        "label": "After 600 experiments, here's what I discovered about JEPA world models"
-      },
-      {
-        "id": "ggml-v100",
-        "label": "Ggml v1.0.0"
-      },
-      {
-        "id": "reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
-        "label": "Reverse Engineering My Coway Air Purifier to Ditch the Cloud"
-      },
-      {
-        "id": "ai-is-destroying-the-trust-between-writers-and-readers",
-        "label": "AI Is Destroying the Trust Between Writers and Readers"
-      },
-      {
-        "id": "export-banned-nvidia-chips-are-behind-china8217s-most-powerful-ai-models-uh-oh-j",
-        "label": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh"
-      },
-      {
-        "id": "elevenlabs8217-new-app-combines-meeting-note-taking-and-dictation-for-teams",
-        "label": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams"
-      },
-      {
-        "id": "jensen-huang-didn8217t-show-confidence-in-his-successor-report-says",
-        "label": "Jensen Huang didn&#8217;t show confidence in his successor, report says"
-      },
-      {
-        "id": "perplexity-decider-v13-training-eval-and-use-cases",
-        "label": "Perplexity Decider v1.3: Training, eval, and use cases"
-      },
-      {
-        "id": "anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers",
-        "label": "Anthropic upgrades Claude Code Projects to run parallel AI workers"
-      },
-      {
-        "id": "ai-agent-startup-langchain-hits-3b-valuation",
-        "label": "AI agent startup LangChain hits $3B valuation"
-      },
-      {
-        "id": "jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-s",
-        "label": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders"
-      },
-      {
-        "id": "claude-meetings",
-        "label": "Claude Meetings"
-      },
-      {
-        "id": "chatgpt8217s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
-        "label": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you"
-      },
-      {
-        "id": "israel8217s-vcs-see-opportunity-for-challengers-in-nvidia8217s-turmoil",
-        "label": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil"
-      },
-      {
-        "id": "all-us-airports-are-currently-ground-stopped",
-        "label": "All US airports are currently ground stopped"
-      },
-      {
-        "id": "agentssl-can-mle-agents-leverage-unlabeled-data",
-        "label": "AgentSSL: Can MLE Agents Leverage Unlabeled Data?"
-      },
-      {
-        "id": "archspace-recording-reviewing-and-referencing-llm-architecture-research",
-        "label": "ArchSpace: Recording, Reviewing, and Referencing LLM Architecture Research"
-      },
-      {
-        "id": "linking-rapid-learning-to-compositional-structure-in-neural-networks-evidence-fr",
-        "label": "Linking Rapid Learning to Compositional Structure in Neural Networks: Evidence f"
-      },
-      {
-        "id": "classical-energies-learn-to-reason-1000x-faster-than-looped-models",
-        "label": "Classical Energies Learn to Reason 1,000x Faster than Looped Models"
-      },
-      {
-        "id": "towards-a-theory-of-learnability-via-debate",
-        "label": "Towards a Theory of Learnability via Debate"
-      },
-      {
-        "id": "unbundling-multimodal-vision-encoding",
-        "label": "Unbundling Multimodal Vision Encoding"
-      },
-      {
-        "id": "flex-lbp-learning-local-binary-patterns-with-exact-binary-inference-for-texture",
-        "label": "FLEX-LBP: Learning Local Binary Patterns with Exact Binary Inference for Texture"
-      },
-      {
-        "id": "coremem-cost-internalizing-memory-for-successive-coding-tasks-with-prospective-v",
-        "label": "CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective"
-      },
-      {
-        "id": "internalizing-investment-mandates-a-neurosymbolic-rl-approach-to-portfolio-alloc",
-        "label": "Internalizing Investment Mandates: A Neurosymbolic RL Approach to Portfolio Allo"
-      },
-      {
-        "id": "quantifying-structural-stability-of-transparent-models-for-general-insurance-pri",
-        "label": "Quantifying structural stability of transparent models for general insurance pri"
-      },
-      {
-        "id": "consistent-video-to-video-translation-via-explicit-correspondences",
-        "label": "Consistent Video-to-Video Translation via Explicit Correspondences"
-      },
-      {
-        "id": "sketching-language-models-for-context-attribution",
-        "label": "Sketching Language Models for Context Attribution"
-      },
-      {
-        "id": "show-hn-realtimevad-trading-false-positives-for-110ms-earlier-end-of-speech",
-        "label": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech"
-      },
-      {
-        "id": "show-hn-hexalexagons-a-daily-word-game-on-a-hexagonal-grid",
-        "label": "Show HN: Hexalexagons, a daily word game on a hexagonal grid"
-      },
-      {
-        "id": "show-hn-log-every-llm-call-with-tokens-cost-latency-and-time-to-first-token",
-        "label": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token"
+        "id": "show-hn-agweb-a-browser-for-agents-that-stays-out-of-your-way",
+        "label": "Show HN: Agweb – a browser for agents that stays out of your way"
       }
     ],
-    "date_bj": "2026-11-14 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-14 18:01:05"
+    "date_bj": "2026-11-15 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-15 00:02:09"
   }
 }

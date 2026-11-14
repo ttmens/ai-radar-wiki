@@ -6382,3 +6382,9 @@
 - create: show-hn-hexalexagons-a-daily-word-game-on-a-hexagonal-grid.md
 
 ## [2026-11-14 18:01] sync v3 | 0 new | pillars: {}
+
+## [2026-11-15 00:02] sync v3 | 4 new | pillars: {'capabilities': 3, 'patterns': 1}
+- create: generative-ai-uses-more-energy-on-non-english-text.md
+- create: tech-companies-are-trying-to-shift-the-concept-of-privacy-again.md
+- create: serving-glm-53-at-6078-toks-across-two-nvidia-dgx-stations-with-vllm.md
+- create: show-hn-agweb-a-browser-for-agents-that-stays-out-of-your-way.md
