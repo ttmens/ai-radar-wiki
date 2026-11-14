@@ -1,8 +1,19 @@
 {
   "date": "2026-11-15",
-  "generated_at": "2026-11-15T00:02:43.116048+08:00",
-  "item_count": 1,
+  "generated_at": "2026-11-15T06:02:35.107637+08:00",
+  "item_count": 4,
   "items": [
+    {
+      "id": "lovable-apps-expose-passport-details-and-more-than-200k-private-messages",
+      "label": "Lovable apps expose passport details and more than 200K private messages",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50499017",
+      "date": "2026-11-15"
+    },
     {
       "id": "tech-companies-are-trying-to-shift-the-concept-of-privacy-again",
       "label": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
@@ -13,10 +24,32 @@
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50496602",
       "date": "2026-11-15"
+    },
+    {
+      "id": "elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-h",
+      "label": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen",
+      "summary": "The petition had attracted more than 115,000 signatures as of Saturday afternoon.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "date": "2026-11-15"
+    },
+    {
+      "id": "asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+      "label": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+      "summary": "Some governments moved to confirm chip supply commitments, while others are monitoring the impact on local projects or addressing ongoing investigations.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+      "date": "2026-11-15"
     }
   ],
   "graph_totals": {
-    "real_nodes": 10514,
-    "edges": 11669
+    "real_nodes": 10520,
+    "edges": 11675
   }
 }

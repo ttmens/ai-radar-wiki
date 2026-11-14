@@ -6388,3 +6388,11 @@
 - create: tech-companies-are-trying-to-shift-the-concept-of-privacy-again.md
 - create: serving-glm-53-at-6078-toks-across-two-nvidia-dgx-stations-with-vllm.md
 - create: show-hn-agweb-a-browser-for-agents-that-stays-out-of-your-way.md
+
+## [2026-11-15 06:02] sync v3 | 7 new | pillars: {'capabilities': 6, 'ecosystem': 1}
+- create: lovable-apps-expose-passport-details-and-more-than-200k-private-messages.md
+- create: seagates-new-hybrid-drive-raises-some-old-questions.md
+- create: smuggling-of-15m-ai-gpus-could-be-the-cause-of-huangs-departure.md
+- create: elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-h.md
+- create: asian-governments-react-to-nvidia-ceo-jensen-huangs-exit.md
+- create: show-hn-cyberviber-a-15-touch-screen-to-show-which-claude-session-needs-you.md

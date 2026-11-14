@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-11-15 | Total pages: 6099
+> Last updated: 2026-11-15 | Total pages: 6105
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -716,6 +716,7 @@
 - [[elevenlabs8217-new-app-combines-meeting-note-taking-and-dictation-for-teams.md]] ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams `pillar:capabilities` `score:0.305`
 - [[elevenlabs8217s-new-music-generation-model-can-switch-genres-mid-track.md]] ElevenLabs&#8217;s new music generation model can switch genres mid-track `pillar:capabilities` `score:0.48`
 - [[eli-lilly-ceo-pushes-back-on-dario-amodeis-medical-claims.md]] Eli Lilly CEO pushes back on Dario Amodei's medical claims `pillar:capabilities` `score:0.455`
+- [[elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-h.md]] Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen `pillar:capabilities` `score:0.305`
 - [[elon-musk-throttles-grok-bot-limits-due-to-8216unsustainably-high8217-costs.md]] Elon Musk throttles Grok Bot limits due to &#8216;unsustainably high&#8217; cost `pillar:capabilities` `score:0.305`
 - [[ema-raises-77m-as-ai-starts-eating-into-enterprise-software-and-services.md]] Ema raises $77M as AI starts eating into enterprise software and services `pillar:capabilities` `score:0.305`
 - [[emacs-31-is-around-the-corner-the-changes-im-daily-driving.md]] Emacs 31 Is Around the Corner: The Changes I'm Daily Driving `pillar:capabilities` `score:0.565`
@@ -1341,6 +1342,7 @@
 - [[longcat-25-native-multimodality-for-agentic-tasks.md]] LongCat-2.5: Native Multimodality for Agentic Tasks `pillar:capabilities` `score:0.255`
 - [[longest-straight-line-paths-on-water-or-land-on-the-earth-2018.md]] Longest Straight Line Paths on Water or Land on the Earth (2018) `pillar:capabilities` `score:0.155`
 - [[loss-of-cell-identity-drives-human-aging-two-new-papers.md]] Loss of cell identity drives human aging: Two new papers `pillar:capabilities` `score:0.305`
+- [[lovable-apps-expose-passport-details-and-more-than-200k-private-messages.md]] Lovable apps expose passport details and more than 200K private messages `pillar:capabilities` `score:0.425`
 - [[lovable-signs-multiyear-deal-with-google-cloud-to-up-usage-5x-source-says.md]] Lovable signs multiyear deal with Google Cloud to up usage 5x, source says `pillar:capabilities` `score:0.48`
 - [[luanti-removed-from-google-play-due-to-baseless-ai-copyright-notice.md]] Luanti removed from Google Play due to baseless AI copyright notice `pillar:capabilities` `score:0.405`
 - [[lucidrainsdenoising-diffusion-pytorch.md]] lucidrains/denoising-diffusion-pytorch `pillar:capabilities` `score:0.51`
@@ -1879,6 +1881,7 @@
 - [[scrapegraphaiscrapegraph-ai.md]] ScrapeGraphAI/Scrapegraph-ai `pillar:capabilities` `score:0.405`
 - [[screenpipescreenpipe.md]] screenpipe/screenpipe `pillar:capabilities` `score:0.615`
 - [[scrolled-wants-to-turn-textbooks-into-tiktok.md]] ScrollEd wants to turn textbooks into TikTok `pillar:capabilities` `score:0.305`
+- [[seagates-new-hybrid-drive-raises-some-old-questions.md]] Seagate's new hybrid drive raises some old questions `pillar:capabilities` `score:0.255`
 - [[sealed-tomb-filled-with-paintings-and-inscriptions-discovered-in-egypt.md]] Sealed tomb filled with paintings and inscriptions discovered in Egypt `pillar:capabilities` `score:0.135`
 - [[sean-carroll-explains-the-biggest-ideas-in-the-universe-full-interview-video-202.md]] Sean Carroll explains the biggest ideas in the universe – Full Interview [video] `pillar:capabilities` `score:0.255`
 - [[sean-parker-is-rebuilding-stability-ai-around-music.md]] Sean Parker is rebuilding Stability AI around music `pillar:capabilities` `score:0.305`
@@ -1957,6 +1960,7 @@
 - [[show-hn-crespo-tree-sitter-ast-blueprints-instead-of-raw-code-for-llms.md]] Show HN: Crespo – Tree-sitter AST blueprints instead of raw code for LLMs `pillar:capabilities` `score:0.365`
 - [[show-hn-ctrlb-decompose-strip-the-noise-from-logs-before-sending-to-llms.md]] Show HN: Ctrlb-decompose: Strip the noise from logs before sending to LLMs `pillar:capabilities` `score:0.33`
 - [[show-hn-cua-s1-a-system-one-model-for-computer-use.md]] Show HN: CUA-S1 – A System One Model for Computer Use `pillar:capabilities` `score:0.155`
+- [[show-hn-cyberviber-a-15-touch-screen-to-show-which-claude-session-needs-you.md]] Show HN: Cyberviber – a $15 touch screen to show which Claude session needs you `pillar:capabilities` `score:0.155`
 - [[show-hn-dataviz-ranked-daily-from-github-npm-pypi-and-cran.md]] Show HN: Dataviz, ranked daily from GitHub, NPM, PyPI and CRAN `pillar:capabilities` `score:0.155`
 - [[show-hn-davit-a-apple-containers-ui.md]] Show HN: Davit, a Apple Containers UI `pillar:capabilities` `score:0.325`
 - [[show-hn-declarative-forms-await-an-object-the-way-prompt-awaits-a-string.md]] Show HN: Declarative-forms – await an object the way prompt() awaits a string `pillar:capabilities` `score:0.155`
@@ -2178,6 +2182,7 @@
 - [[small-models-have-arrived.md]] Small Models Have Arrived `pillar:capabilities` `score:0.425`
 - [[smartphone-led-detects-hidden-cameras-with-ai.md]] Smartphone LED detects hidden cameras with AI `pillar:capabilities` `score:0.405`
 - [[smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements.md]] Smartphone makers don't bother to comply with EU repairability requirements `pillar:capabilities` `score:0.355`
+- [[smuggling-of-15m-ai-gpus-could-be-the-cause-of-huangs-departure.md]] Smuggling of 1.5M AI GPUs could be the cause of Huang's departure `pillar:capabilities` `score:0.155`
 - [[snails-teeth-beats-spider-silk-as-natures-strongest-material-2015.md]] Snails' teeth beats spider silk as nature's strongest material (2015) `pillar:capabilities` `score:0.34`
 - [[snap-tries-to-make-the-case-again-for-its-2200-smart-glasses.md]] Snap tries to make the case again for its $2,200 smart glasses `pillar:capabilities` `score:0.305`
 - [[sneak-peek-at-new-siri-app-reveals-apple8217s-plans-to-take-on-chatgpt-and-more.md]] Sneak peek at new Siri app reveals Apple&#8217;s plans to take on ChatGPT and mo `pillar:capabilities` `score:0.515`
@@ -4907,6 +4912,7 @@
 - [[arcee-a-us-open-source-ai-lab-says-chinese-models-are-not-inherently-dangerous.md]] Arcee, a US open source AI lab, says Chinese models are not inherently dangerous `pillar:ecosystem` `score:0.48`
 - [[as-us-weighs-response-to-chinese-ai-industry-urges-against-broad-open-weight-res.md]] As US weighs response to Chinese AI, industry urges against broad open-weight re `pillar:ecosystem` `score:0.48`
 - [[asgeirtjsystem_prompts_leaks.md]] asgeirtj/system_prompts_leaks `pillar:ecosystem` `score:0.58`
+- [[asian-governments-react-to-nvidia-ceo-jensen-huangs-exit.md]] Asian governments react to Nvidia CEO Jensen Huang’s exit `pillar:ecosystem` `score:0.305`
 - [[ask-hn-why-is-the-hn-crowd-so-anti-ai.md]] Ask HN: Why is the HN crowd so anti-AI? `pillar:ecosystem` `score:0.545`
 - [[at-techcrunch-disrupt-2026-databricks-co-founder-on-what-kills-enterprise-ai-dea.md]] At TechCrunch Disrupt 2026: Databricks’ co-founder on what kills enterprise AI d `pillar:ecosystem` `score:0.48`
 - [[automattic8217s-33-hour-coup-and-can-ai-labs-police-themselves.md]] Automattic&#8217;s 33-Hour Coup, and can AI labs police themselves? `pillar:ecosystem` `score:0.305`

@@ -10,10 +10,10 @@
         "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施。",
         "evidence": [
           {
-            "id": "tech-companies-are-trying-to-shift-the-concept-of-privacy-again",
-            "title": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)",
-            "score": 0.3,
-            "url": "https://news.ycombinator.com/item?id=50496602",
+            "id": "lovable-apps-expose-passport-details-and-more-than-200k-private-messages",
+            "title": "Lovable apps expose passport details and more than 200K private messag",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50499017",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -33,6 +33,21 @@
           }
         ],
         "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+            "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
       }
     ],
     "narratives": [
@@ -43,13 +58,29 @@
         "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
       }
     ],
-    "stats": "🤖 技术能力: 3 | 📱 产品模式: 1",
-    "total_items": 4,
-    "high_value_count": 1,
+    "stats": "🤖 技术能力: 8 | 🔧 工具生态: 1 | 📱 产品模式: 1",
+    "total_items": 10,
+    "high_value_count": 4,
     "all_today_ids": [
+      {
+        "id": "lovable-apps-expose-passport-details-and-more-than-200k-private-messages",
+        "label": "Lovable apps expose passport details and more than 200K private messages"
+      },
       {
         "id": "tech-companies-are-trying-to-shift-the-concept-of-privacy-again",
         "label": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)"
+      },
+      {
+        "id": "elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-h",
+        "label": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen"
+      },
+      {
+        "id": "asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
+        "label": "Asian governments react to Nvidia CEO Jensen Huang’s exit"
+      },
+      {
+        "id": "seagates-new-hybrid-drive-raises-some-old-questions",
+        "label": "Seagate's new hybrid drive raises some old questions"
       },
       {
         "id": "serving-glm-53-at-6078-toks-across-two-nvidia-dgx-stations-with-vllm",
@@ -62,9 +93,17 @@
       {
         "id": "show-hn-agweb-a-browser-for-agents-that-stays-out-of-your-way",
         "label": "Show HN: Agweb – a browser for agents that stays out of your way"
+      },
+      {
+        "id": "smuggling-of-15m-ai-gpus-could-be-the-cause-of-huangs-departure",
+        "label": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure"
+      },
+      {
+        "id": "show-hn-cyberviber-a-15-touch-screen-to-show-which-claude-session-needs-you",
+        "label": "Show HN: Cyberviber – a $15 touch screen to show which Claude session needs you"
       }
     ],
     "date_bj": "2026-11-15 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-15 00:02:09"
+    "generated_at_bj": "2026-11-15 06:02:04"
   }
 }
