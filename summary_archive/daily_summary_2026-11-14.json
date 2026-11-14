@@ -22,8 +22,15 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, AI Agent。",
         "evidence": [
+          {
+            "id": "ai-agent-startup-langchain-hits-3b-valuation",
+            "title": "AI agent startup LangChain hits $3B valuation",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "chatgpt8217s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
             "title": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
@@ -48,29 +55,52 @@
           }
         ],
         "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
+        "evidence": [
+          {
+            "id": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+            "title": "Nvidia allegedly engineered scarcity by funding AI startups to buy its",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50493251",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
       }
     ],
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Brave Search API now accepts agentic pay, ChatGPT&#8217;s new Wallet lets AI agent。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Brave Search API now accepts agentic pay, AI agent startup LangChain hits $3B valu, ChatGPT&#8217;s new Wallet lets AI agent。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：Sketching Language Models for Context At。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：AI agent startup LangChain hits $3B valu, Jensen Huang’s departure blasts big hole, Sketching Language Models for Context At。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 21 | 🔧 工具生态: 1 | 📱 产品模式: 2",
-    "total_items": 24,
-    "high_value_count": 23,
+    "stats": "🤖 技术能力: 34 | 💰 商业趋势: 2 | 🔧 工具生态: 1 | 📱 产品模式: 3",
+    "total_items": 40,
+    "high_value_count": 37,
     "all_today_ids": [
       {
         "id": "eli-lilly-ceo-pushes-back-on-dario-amodeis-medical-claims",
         "label": "Eli Lilly CEO pushes back on Dario Amodei's medical claims"
+      },
+      {
+        "id": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+        "label": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs"
+      },
+      {
+        "id": "jonathan-blow-if-ai-solved-coding-why-is-my-software-still-the-same-video",
+        "label": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]"
       },
       {
         "id": "elevated-errors-on-claudeai-claude-code-and-platformclaudecom",
@@ -81,12 +111,32 @@
         "label": "Brave Search API now accepts agentic payments via the x402 protocol"
       },
       {
+        "id": "jaidedaieasyocr",
+        "label": "JaidedAI/EasyOCR"
+      },
+      {
+        "id": "ai-unlocks-gödels-notebooks-said-to-contain-hundreds-of-proved-theorems",
+        "label": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems"
+      },
+      {
         "id": "edge0-145b-frontier-ai-capabilities-on-your-own-computer",
         "label": "Edge0-145B: Frontier AI Capabilities on Your Own Computer"
       },
       {
+        "id": "live-airband-on-all-frequencies-from-kors-victoria-ca-also-ground-stopped",
+        "label": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped"
+      },
+      {
         "id": "claude-is-down",
         "label": "Claude Is Down"
+      },
+      {
+        "id": "after-600-experiments-heres-what-i-discovered-about-jepa-world-models",
+        "label": "After 600 experiments, here's what I discovered about JEPA world models"
+      },
+      {
+        "id": "ggml-v100",
+        "label": "Ggml v1.0.0"
       },
       {
         "id": "reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud",
@@ -97,6 +147,10 @@
         "label": "AI Is Destroying the Trust Between Writers and Readers"
       },
       {
+        "id": "export-banned-nvidia-chips-are-behind-china8217s-most-powerful-ai-models-uh-oh-j",
+        "label": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh"
+      },
+      {
         "id": "elevenlabs8217-new-app-combines-meeting-note-taking-and-dictation-for-teams",
         "label": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams"
       },
@@ -105,12 +159,36 @@
         "label": "Jensen Huang didn&#8217;t show confidence in his successor, report says"
       },
       {
+        "id": "perplexity-decider-v13-training-eval-and-use-cases",
+        "label": "Perplexity Decider v1.3: Training, eval, and use cases"
+      },
+      {
+        "id": "anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers",
+        "label": "Anthropic upgrades Claude Code Projects to run parallel AI workers"
+      },
+      {
+        "id": "ai-agent-startup-langchain-hits-3b-valuation",
+        "label": "AI agent startup LangChain hits $3B valuation"
+      },
+      {
+        "id": "jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-s",
+        "label": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders"
+      },
+      {
+        "id": "claude-meetings",
+        "label": "Claude Meetings"
+      },
+      {
         "id": "chatgpt8217s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
         "label": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you"
       },
       {
         "id": "israel8217s-vcs-see-opportunity-for-challengers-in-nvidia8217s-turmoil",
         "label": "Israel&#8217;s VCs see opportunity for challengers in Nvidia&#8217;s turmoil"
+      },
+      {
+        "id": "all-us-airports-are-currently-ground-stopped",
+        "label": "All US airports are currently ground stopped"
       },
       {
         "id": "agentssl-can-mle-agents-leverage-unlabeled-data",
@@ -163,9 +241,17 @@
       {
         "id": "show-hn-realtimevad-trading-false-positives-for-110ms-earlier-end-of-speech",
         "label": "Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech"
+      },
+      {
+        "id": "show-hn-hexalexagons-a-daily-word-game-on-a-hexagonal-grid",
+        "label": "Show HN: Hexalexagons, a daily word game on a hexagonal grid"
+      },
+      {
+        "id": "show-hn-log-every-llm-call-with-tokens-cost-latency-and-time-to-first-token",
+        "label": "Show HN: Log every LLM call with tokens, cost, latency, and time to first token"
       }
     ],
     "date_bj": "2026-11-14 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-14 00:05:04"
+    "generated_at_bj": "2026-11-14 16:03:13"
   }
 }

@@ -1,7 +1,7 @@
 {
   "date": "2026-11-14",
-  "generated_at": "2026-11-14T00:05:41.209919+08:00",
-  "item_count": 23,
+  "generated_at": "2026-11-14T16:03:48.263139+08:00",
+  "item_count": 37,
   "items": [
     {
       "id": "eli-lilly-ceo-pushes-back-on-dario-amodeis-medical-claims",
@@ -12,6 +12,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50483480",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus",
+      "label": "Nvidia allegedly engineered scarcity by funding AI startups to buy its GPUs",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "business",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50493251",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "jonathan-blow-if-ai-solved-coding-why-is-my-software-still-the-same-video",
+      "label": "Jonathan Blow – If AI solved coding, why is my software still the same? [video]",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50484658",
       "date": "2026-11-14"
     },
     {
@@ -37,6 +59,28 @@
       "date": "2026-11-14"
     },
     {
+      "id": "jaidedaieasyocr",
+      "label": "JaidedAI/EasyOCR",
+      "summary": "Ready-to-use OCR with 80+ supported languages and all popular writing scripts including Latin, Chinese, Arabic, Devanagari, Cyrillic and etc.",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/JaidedAI/EasyOCR",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "ai-unlocks-gödels-notebooks-said-to-contain-hundreds-of-proved-theorems",
+      "label": "AI unlocks Gödel's notebooks, said to contain hundreds of proved theorems",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50486748",
+      "date": "2026-11-14"
+    },
+    {
       "id": "edge0-145b-frontier-ai-capabilities-on-your-own-computer",
       "label": "Edge0-145B: Frontier AI Capabilities on Your Own Computer",
       "summary": "暂无中文摘要",
@@ -48,6 +92,17 @@
       "date": "2026-11-14"
     },
     {
+      "id": "live-airband-on-all-frequencies-from-kors-victoria-ca-also-ground-stopped",
+      "label": "Live airband on all frequencies from KORS. Victoria, CA also ground stopped",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50490593",
+      "date": "2026-11-14"
+    },
+    {
       "id": "claude-is-down",
       "label": "Claude Is Down",
       "summary": "暂无中文摘要",
@@ -56,6 +111,28 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50481220",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "after-600-experiments-heres-what-i-discovered-about-jepa-world-models",
+      "label": "After 600 experiments, here's what I discovered about JEPA world models",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50487185",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "ggml-v100",
+      "label": "Ggml v1.0.0",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50493062",
       "date": "2026-11-14"
     },
     {
@@ -81,6 +158,17 @@
       "date": "2026-11-14"
     },
     {
+      "id": "export-banned-nvidia-chips-are-behind-china8217s-most-powerful-ai-models-uh-oh-j",
+      "label": "Export-banned Nvidia chips are behind China&#8217;s most powerful AI models — uh",
+      "summary": "New research shows the most advanced AI models from China were trained on banned Nvidia chips.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/13/export-banned-nvidia-chips-are-behind-chinas-most-powerful-ai-models-uh-oh-jensen/",
+      "date": "2026-11-14"
+    },
+    {
       "id": "elevenlabs8217-new-app-combines-meeting-note-taking-and-dictation-for-teams",
       "label": "ElevenLabs&#8217; new app combines meeting note-taking and dictation for teams",
       "summary": "ElevenAI is a new meeting notetaker and dictation app aimed at teams and enterprises.",
@@ -103,6 +191,61 @@
       "date": "2026-11-14"
     },
     {
+      "id": "perplexity-decider-v13-training-eval-and-use-cases",
+      "label": "Perplexity Decider v1.3: Training, eval, and use cases",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50488464",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers",
+      "label": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50492141",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "ai-agent-startup-langchain-hits-3b-valuation",
+      "label": "AI agent startup LangChain hits $3B valuation",
+      "summary": "LangChain now claims 7,000 customers of its model and platform agnostic agent management tool LangSmith.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/13/ai-agent-startup-langchain-hits-3b-valuation/",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-s",
+      "label": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders",
+      "summary": "Nvidia poured tens of billions into AI startups under Huang. Without him at the helm, founders and VCs are bracing for smaller checks and lower valuations.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "claude-meetings",
+      "label": "Claude Meetings",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50491097",
+      "date": "2026-11-14"
+    },
+    {
       "id": "chatgpt8217s-new-wallet-lets-ai-agents-shop-and-check-out-for-you",
       "label": "ChatGPT&#8217;s new Wallet lets AI agents shop and check out for you",
       "summary": "ChatGPT Wallet lets AI agents shop and check out on users' behalf, starting with a limited rollout to U.S. Pro subscribers.",
@@ -122,6 +265,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/11/13/israels-vcs-see-opportunity-for-challengers-in-nvidias-turmoil/",
+      "date": "2026-11-14"
+    },
+    {
+      "id": "all-us-airports-are-currently-ground-stopped",
+      "label": "All US airports are currently ground stopped",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50489652",
       "date": "2026-11-14"
     },
     {
@@ -258,7 +412,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 10494,
-    "edges": 11649
+    "real_nodes": 10510,
+    "edges": 11665
   }
 }

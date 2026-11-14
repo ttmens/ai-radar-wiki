@@ -6362,3 +6362,21 @@
 - create: israel8217s-vcs-see-opportunity-for-challengers-in-nvidia8217s-turmoil.md
 - create: jensen-huang-didn8217t-show-confidence-in-his-successor-report-says.md
 - create: show-hn-realtimevad-trading-false-positives-for-110ms-earlier-end-of-speech.md
+
+## [2026-11-14 16:03] sync v3 | 16 new | pillars: {'capabilities': 13, 'business': 2, 'patterns': 1}
+- create: jaidedaieasyocr.md
+- create: ggml-v100.md
+- create: nvidia-allegedly-engineered-scarcity-by-funding-ai-startups-to-buy-its-gpus.md
+- create: live-airband-on-all-frequencies-from-kors-victoria-ca-also-ground-stopped.md
+- create: jonathan-blow-if-ai-solved-coding-why-is-my-software-still-the-same-video.md
+- create: after-600-experiments-heres-what-i-discovered-about-jepa-world-models.md
+- create: perplexity-decider-v13-training-eval-and-use-cases.md
+- create: ai-unlocks-gödels-notebooks-said-to-contain-hundreds-of-proved-theorems.md
+- create: all-us-airports-are-currently-ground-stopped.md
+- create: claude-meetings.md
+- create: anthropic-upgrades-claude-code-projects-to-run-parallel-ai-workers.md
+- create: jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-s.md
+- create: ai-agent-startup-langchain-hits-3b-valuation.md
+- create: export-banned-nvidia-chips-are-behind-china8217s-most-powerful-ai-models-uh-oh-j.md
+- create: show-hn-log-every-llm-call-with-tokens-cost-latency-and-time-to-first-token.md
+- create: show-hn-hexalexagons-a-daily-word-game-on-a-hexagonal-grid.md
