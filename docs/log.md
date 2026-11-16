@@ -6396,3 +6396,35 @@
 - create: elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-h.md
 - create: asian-governments-react-to-nvidia-ceo-jensen-huangs-exit.md
 - create: show-hn-cyberviber-a-15-touch-screen-to-show-which-claude-session-needs-you.md
+
+## [2026-11-15 18:02] sync v3 | 6 new | pillars: {'capabilities': 6}
+- create: show-hn-gawain-require-type-hints-on-all-python-variables.md
+- create: kiri-the-modern-container-runtime.md
+- create: 500-lines-or-less-a-3d-modeller.md
+- create: astro-spiral-greatest-car-stunt-was-also-first-computer-modeled-stunt.md
+- create: the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt.md
+
+## [2026-11-16 16:06] sync v3 | 25 new | pillars: {'ecosystem': 5, 'capabilities': 19, 'patterns': 1}
+- create: pairing-ais-with-rf-analysis-of-a-markovian-approach-for-maritime-data-fusion.md
+- create: fettuccine-fast-and-efficient-brain-to-text-decoding-on-mobile-devices.md
+- create: training-reasoning-models-in-simulation-to-natively-use-real-robots.md
+- create: bal-bidirectional-autoregression-in-latent-space-for-learning-human-movement-rep.md
+- create: weightbench-evaluating-language-models-as-weight-space-programmers.md
+- create: imitation-bootstrapped-multi-agent-reinforcement-learning.md
+- create: elliptic-sampling-optimal-interpolant-schedules-for-gaussians-and-beyond.md
+- create: why-finite-intelligence-works-in-an-infinite-world-a-mathematical-theory.md
+- create: modharness-rl-recasting-harnesses-as-learnable-and-evolving-programs-for-agentic.md
+- create: alignment-by-socialization-learning-tradeoffs-under-selection.md
+- create: understanding-contextual-bias-in-agricultural-cnns-through-hidden-neuron-concept.md
+- create: streamembed-real-time-indexing-from-pixels-for-screenshot-retrieval.md
+- create: tor-project-issues-rapid-response-dos-defense-fix-amid-sustained-ddos-attack.md
+- create: a-short-explainer-on-how-el-niño-works-video.md
+- create: claude-code-and-codex-reverse-engineered-my-1994-jeeps-ecu-over-a-3-arduino-vide.md
+- create: webgl-flight-simulator-with-seed-generated-terrain.md
+- create: artificial-intelligence-for-the-z80.md
+- create: vulcan-rocket-fails-during-return-to-flight-launch-40-amazon-satellites-lost.md
+- create: apple-launches-new-app-to-study-how-people-use-ai-for-health.md
+- create: indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor.md
+- create: is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry.md
+- create: snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft.md
+- create: show-hn-db-branch-database-branches-in-seconds-for-ai-agents-and-ci-via-zfs.md

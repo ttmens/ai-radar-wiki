@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-11-15",
-    "headline": "今日 AI 情报 · 2026-11-15",
-    "overview": "AI工具链从通用走向垂直专业化",
+    "date": "2026-11-16",
+    "headline": "今日 AI 情报 · 2026-11-16",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI工具链从通用走向垂直专业化。该方向的具体信号：基础设施。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, 安全/漏洞, AI Agent。",
         "evidence": [
           {
-            "id": "lovable-apps-expose-passport-details-and-more-than-200k-private-messages",
-            "title": "Lovable apps expose passport details and more than 200K private messag",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=50499017",
+            "id": "imitation-bootstrapped-multi-agent-reinforcement-learning",
+            "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
+            "score": 0.26,
+            "url": "http://arxiv.org/abs/2611.18543v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,13 +22,13 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向有新的动态。",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "show-hn-agweb-a-browser-for-agents-that-stays-out-of-your-way",
-            "title": "Show HN: Agweb – a browser for agents that stays out of your way",
+            "id": "show-hn-db-branch-database-branches-in-seconds-for-ai-agents-and-ci-via-zfs",
+            "title": "Show HN: db-branch – database branches in seconds for AI agents and CI",
             "score": 0.15,
-            "url": "https://github.com/paul-nameless/agweb",
+            "url": "https://github.com/db-branch/db-branch",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -40,10 +40,10 @@
         "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
-            "title": "Asian governments react to Nvidia CEO Jensen Huang’s exit",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/14/asian-governments-react-to-nvidia-ceo-jensen-huangs-exit/",
+            "id": "all-ai-generated-code-should-be-open-source",
+            "title": "All AI-generated code should be Open Source",
+            "score": 0.35,
+            "url": "https://news.ycombinator.com/item?id=50507303",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -52,58 +52,136 @@
     ],
     "narratives": [
       {
-        "title": "AI工具链从通用走向垂直专业化",
-        "body": "今日1条情报涉及AI工具链与基础设施。包括：Serving GLM-5.3 at 607.8 tok/s across tw。信号：基础设施。AI工具链正从通用框架向垂直场景深化，PM应关注开发者在特定工作流中的未满足需求。",
-        "type": "maturation",
-        "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：Imitation Bootstrapped Multi-Agent Reinf, ModHarness-RL: Recasting Harnesses as Le, Show HN: db-branch – database branches i。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：Indian chip startup Bharat Semi lands $2。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 8 | 🔧 工具生态: 1 | 📱 产品模式: 1",
-    "total_items": 10,
-    "high_value_count": 4,
+    "stats": "🤖 技术能力: 21 | 🔧 工具生态: 5 | 📱 产品模式: 2",
+    "total_items": 28,
+    "high_value_count": 10,
     "all_today_ids": [
       {
-        "id": "lovable-apps-expose-passport-details-and-more-than-200k-private-messages",
-        "label": "Lovable apps expose passport details and more than 200K private messages"
+        "id": "claude-code-and-codex-reverse-engineered-my-1994-jeeps-ecu-over-a-3-arduino-vide",
+        "label": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [v"
       },
       {
-        "id": "tech-companies-are-trying-to-shift-the-concept-of-privacy-again",
-        "label": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)"
+        "id": "a-short-explainer-on-how-el-niño-works-video",
+        "label": "A short explainer on how El Niño works [video]"
       },
       {
-        "id": "elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-h",
-        "label": "Elon Musk, other tech execs sign petition calling on Nvidia to reinstate Jensen"
+        "id": "all-ai-generated-code-should-be-open-source",
+        "label": "All AI-generated code should be Open Source"
       },
       {
-        "id": "asian-governments-react-to-nvidia-ceo-jensen-huangs-exit",
-        "label": "Asian governments react to Nvidia CEO Jensen Huang’s exit"
+        "id": "vulcan-rocket-fails-during-return-to-flight-launch-40-amazon-satellites-lost",
+        "label": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost"
       },
       {
-        "id": "seagates-new-hybrid-drive-raises-some-old-questions",
-        "label": "Seagate's new hybrid drive raises some old questions"
+        "id": "webgl-flight-simulator-with-seed-generated-terrain",
+        "label": "WebGL Flight Simulator with seed generated terrain"
       },
       {
-        "id": "serving-glm-53-at-6078-toks-across-two-nvidia-dgx-stations-with-vllm",
-        "label": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM"
+        "id": "is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
+        "label": "Is bad news for Jensen Huang also bad news for the AI industry?"
       },
       {
-        "id": "generative-ai-uses-more-energy-on-non-english-text",
-        "label": "Generative AI uses more energy on non-English text"
+        "id": "apple-launches-new-app-to-study-how-people-use-ai-for-health",
+        "label": "Apple launches new app to study how people use AI for health"
       },
       {
-        "id": "show-hn-agweb-a-browser-for-agents-that-stays-out-of-your-way",
-        "label": "Show HN: Agweb – a browser for agents that stays out of your way"
+        "id": "indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor",
+        "label": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI senso"
       },
       {
-        "id": "smuggling-of-15m-ai-gpus-could-be-the-cause-of-huangs-departure",
-        "label": "Smuggling of 1.5M AI GPUs could be the cause of Huang's departure"
+        "id": "tor-project-issues-rapid-response-dos-defense-fix-amid-sustained-ddos-attack",
+        "label": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack"
       },
       {
-        "id": "show-hn-cyberviber-a-15-touch-screen-to-show-which-claude-session-needs-you",
-        "label": "Show HN: Cyberviber – a $15 touch screen to show which Claude session needs you"
+        "id": "snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
+        "label": "SNL gathers all the tech tycoons for a lesson in dating and spycraft"
+      },
+      {
+        "id": "alignment-by-socialization-learning-tradeoffs-under-selection",
+        "label": "Alignment by Socialization: Learning Tradeoffs Under Selection"
+      },
+      {
+        "id": "weightbench-evaluating-language-models-as-weight-space-programmers",
+        "label": "WeightBench: Evaluating Language Models as Weight-Space Programmers"
+      },
+      {
+        "id": "understanding-contextual-bias-in-agricultural-cnns-through-hidden-neuron-concept",
+        "label": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept"
+      },
+      {
+        "id": "streamembed-real-time-indexing-from-pixels-for-screenshot-retrieval",
+        "label": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval"
+      },
+      {
+        "id": "elliptic-sampling-optimal-interpolant-schedules-for-gaussians-and-beyond",
+        "label": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond"
+      },
+      {
+        "id": "training-reasoning-models-in-simulation-to-natively-use-real-robots",
+        "label": "Training Reasoning Models in Simulation to Natively Use Real Robots"
+      },
+      {
+        "id": "why-finite-intelligence-works-in-an-infinite-world-a-mathematical-theory",
+        "label": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory"
+      },
+      {
+        "id": "imitation-bootstrapped-multi-agent-reinforcement-learning",
+        "label": "Imitation Bootstrapped Multi-Agent Reinforcement Learning"
+      },
+      {
+        "id": "modharness-rl-recasting-harnesses-as-learnable-and-evolving-programs-for-agentic",
+        "label": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agenti"
+      },
+      {
+        "id": "fettuccine-fast-and-efficient-brain-to-text-decoding-on-mobile-devices",
+        "label": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices"
+      },
+      {
+        "id": "bal-bidirectional-autoregression-in-latent-space-for-learning-human-movement-rep",
+        "label": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Re"
+      },
+      {
+        "id": "pairing-ais-with-rf-analysis-of-a-markovian-approach-for-maritime-data-fusion",
+        "label": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion"
+      },
+      {
+        "id": "what-thousands-of-conversations-look-like-inside-a-language-model",
+        "label": "What thousands of conversations look like inside a language model"
+      },
+      {
+        "id": "open-source-hf-communications-for-remote-communities-and-experimenters",
+        "label": "Open-Source HF Communications for Remote Communities and Experimenters"
+      },
+      {
+        "id": "understanding-positional-embeddings-in-modern-llms",
+        "label": "Understanding Positional Embeddings in Modern LLMs"
+      },
+      {
+        "id": "show-hn-db-branch-database-branches-in-seconds-for-ai-agents-and-ci-via-zfs",
+        "label": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS"
+      },
+      {
+        "id": "artificial-intelligence-for-the-z80",
+        "label": "Artificial Intelligence for the Z80"
+      },
+      {
+        "id": "show-hn-shotoku-local-first-action-governance-and-budget-caps-for-ai-agents",
+        "label": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents"
       }
     ],
-    "date_bj": "2026-11-15 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-15 06:02:04"
+    "date_bj": "2026-11-16 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-16 16:05:28"
   }
 }

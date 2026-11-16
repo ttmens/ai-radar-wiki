@@ -58,9 +58,9 @@
         "action": "建议：关注工具链发展，考虑引入专用工具或评估自研可行性。行业成熟意味着标准化窗口接近。"
       }
     ],
-    "stats": "🤖 技术能力: 8 | 🔧 工具生态: 1 | 📱 产品模式: 1",
-    "total_items": 10,
-    "high_value_count": 4,
+    "stats": "🤖 技术能力: 15 | 🔧 工具生态: 1 | 📱 产品模式: 1",
+    "total_items": 17,
+    "high_value_count": 5,
     "all_today_ids": [
       {
         "id": "lovable-apps-expose-passport-details-and-more-than-200k-private-messages",
@@ -69,6 +69,10 @@
       {
         "id": "tech-companies-are-trying-to-shift-the-concept-of-privacy-again",
         "label": "Tech Companies Are Trying to Shift the Concept of Privacy (Again)"
+      },
+      {
+        "id": "where-was-nvidia8217s-security-team",
+        "label": "Where was Nvidia&#8217;s security team?"
       },
       {
         "id": "elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-h",
@@ -83,12 +87,28 @@
         "label": "Seagate's new hybrid drive raises some old questions"
       },
       {
+        "id": "show-hn-gawain-require-type-hints-on-all-python-variables",
+        "label": "Show HN: Gawain – Require type hints on all Python variables"
+      },
+      {
+        "id": "the-single-router-in-southern-arkansas-that-ground-air-travel-to-a-halt",
+        "label": "The Single Router in Southern Arkansas That Ground Air Travel to a Halt"
+      },
+      {
         "id": "serving-glm-53-at-6078-toks-across-two-nvidia-dgx-stations-with-vllm",
         "label": "Serving GLM-5.3 at 607.8 tok/s across two Nvidia DGX stations with vLLM"
       },
       {
         "id": "generative-ai-uses-more-energy-on-non-english-text",
         "label": "Generative AI uses more energy on non-English text"
+      },
+      {
+        "id": "500-lines-or-less-a-3d-modeller",
+        "label": "500 Lines or Less A 3D Modeller"
+      },
+      {
+        "id": "kiri-the-modern-container-runtime",
+        "label": "Kiri – The Modern Container Runtime"
       },
       {
         "id": "show-hn-agweb-a-browser-for-agents-that-stays-out-of-your-way",
@@ -101,9 +121,17 @@
       {
         "id": "show-hn-cyberviber-a-15-touch-screen-to-show-which-claude-session-needs-you",
         "label": "Show HN: Cyberviber – a $15 touch screen to show which Claude session needs you"
+      },
+      {
+        "id": "astro-spiral-greatest-car-stunt-was-also-first-computer-modeled-stunt",
+        "label": "Astro Spiral: Greatest Car Stunt Was Also First Computer-Modeled Stunt"
+      },
+      {
+        "id": "show-hn-a-custom-font-based-on-the-jamaican-flag-alphabet",
+        "label": "Show HN: A custom font based on the Jamaican flag alphabet"
       }
     ],
     "date_bj": "2026-11-15 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-15 06:02:04"
+    "generated_at_bj": "2026-11-15 18:02:16"
   }
 }
