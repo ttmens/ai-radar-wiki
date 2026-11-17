@@ -1,0 +1,232 @@
+{
+  "daily_summary": {
+    "date": "2026-11-17",
+    "headline": "今日 AI 情报 · 2026-11-17",
+    "overview": "AI商业动态：资本与市场持续升温",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix",
+            "title": "Microsoft blames monster email outage on software defect introduced in",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50517321",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "windows-11-is-collecting-data-on-which-coding-agents-and-developer-tools-you-use",
+            "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Too",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50524736",
+            "reason": "高价值信号"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "when-tool-names-are-not-identities-measuring-provider-misbinding-in-mcp-based-ai",
+            "title": "When Tool Names Are Not Identities: Measuring Provider Misbinding in M",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.21577v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+            "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：Cybersecurity AI startup Corma reaches $。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "📱 产品模式: 7 | 🤖 技术能力: 26 | 💰 商业趋势: 1 | 🔧 工具生态: 3",
+    "total_items": 37,
+    "high_value_count": 35,
+    "all_today_ids": [
+      {
+        "id": "windows-11-is-collecting-data-on-which-coding-agents-and-developer-tools-you-use",
+        "label": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use"
+      },
+      {
+        "id": "microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix",
+        "label": "Microsoft blames monster email outage on software defect introduced in July fix"
+      },
+      {
+        "id": "united-airlines-experiencing-a-widespread-system-outage-airline-says",
+        "label": "United Airlines experiencing a widespread system outage, airline says"
+      },
+      {
+        "id": "strengthening-the-fight-against-online-child-sexual-abuse",
+        "label": "Strengthening the fight against online child sexual abuse"
+      },
+      {
+        "id": "datalab-tosurya",
+        "label": "datalab-to/surya"
+      },
+      {
+        "id": "datalab-tomarker",
+        "label": "datalab-to/marker"
+      },
+      {
+        "id": "interpreting-claims-that-a-theorem-is-correct-because-it-was-checked-in-lean",
+        "label": "Interpreting claims that a theorem is correct because it was checked in Lean"
+      },
+      {
+        "id": "running-coding-agents-without-handing-them-my-credentials",
+        "label": "Running coding agents without handing them my credentials"
+      },
+      {
+        "id": "fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-8216under",
+        "label": "FBI says Artex AI open source hacking tool used to breach networks in &#8216;und"
+      },
+      {
+        "id": "trump-says-ex-nvidia-ceo-jensen-huang8217s-affair-with-an-alleged-chinese-spy-di",
+        "label": "Trump says ex-Nvidia CEO Jensen Huang&#8217;s affair with an alleged Chinese spy"
+      },
+      {
+        "id": "openai-will-embed-safety-researchers-to-investigate-ai-subversion",
+        "label": "OpenAI will embed safety researchers to investigate AI subversion"
+      },
+      {
+        "id": "us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-co",
+        "label": "US tightens AI chip export controls to deter Chinese companies from accessing co"
+      },
+      {
+        "id": "freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+        "label": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM"
+      },
+      {
+        "id": "spamhaus-new-email-sender-requirements-in-november",
+        "label": "Spamhaus new email sender requirements in November"
+      },
+      {
+        "id": "openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
+        "label": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM"
+      },
+      {
+        "id": "sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-8216fine",
+        "label": "Sam Altman on Nvidia without Jensen Huang: The industry will be &#8216;fine’"
+      },
+      {
+        "id": "jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-8216wolf-of-wal",
+        "label": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the &#8216;Wolf"
+      },
+      {
+        "id": "cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+        "label": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months"
+      },
+      {
+        "id": "google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-sto",
+        "label": "Google Maps can now build trip itineraries with real-time details about each sto"
+      },
+      {
+        "id": "pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances",
+        "label": "Pentagon fails ninth straight audit despite progress in organizing finances"
+      },
+      {
+        "id": "all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+        "label": "All the questions Nvidia should answer on Tuesday — but probably won’t"
+      },
+      {
+        "id": "audible-turns-to-ai-to-help-users-discover-audiobooks",
+        "label": "Audible turns to AI to help users discover audiobooks"
+      },
+      {
+        "id": "california-state-ag-sues-openai-over-rogue-agent-incidents",
+        "label": "California state AG sues OpenAI over rogue agent incidents"
+      },
+      {
+        "id": "when-tool-names-are-not-identities-measuring-provider-misbinding-in-mcp-based-ai",
+        "label": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based A"
+      },
+      {
+        "id": "quantifying-the-added-value-of-human-forecaster-discussions-for-tropical-cyclone",
+        "label": "Quantifying the added value of human forecaster discussions for tropical cyclone"
+      },
+      {
+        "id": "sadl-on-the-demand-supply-geometry-of-representation-collapse",
+        "label": "SADL: On the Demand-Supply Geometry of Representation Collapse"
+      },
+      {
+        "id": "hyperlyve-parallelized-enumeration-and-exact-lyapunov-stability-certification-fo",
+        "label": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification f"
+      },
+      {
+        "id": "vira-toward-ultra-high-resolution-visual-agents-via-cross-input-relative-policy",
+        "label": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy"
+      },
+      {
+        "id": "how-vlms-plan-whats-next",
+        "label": "How VLMs Plan What's Next"
+      },
+      {
+        "id": "certisum-bitwise-identical-mxfp4-training-across-platforms-and-parallelism-layou",
+        "label": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layo"
+      },
+      {
+        "id": "optimal-autoregressive-chain-of-thought-learning-via-bagging",
+        "label": "Optimal Autoregressive Chain-of-Thought Learning via Bagging"
+      },
+      {
+        "id": "latent-lattice-language-models",
+        "label": "Latent Lattice Language Models"
+      },
+      {
+        "id": "mitigating-catastrophic-forgetting-with-physics-indexed-specialist-memory-the-ev",
+        "label": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the E"
+      },
+      {
+        "id": "surrogate-assisted-compact-model-extraction-for-sky130-cmos-at-77-k",
+        "label": "Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K"
+      },
+      {
+        "id": "scenarioforge-resource-grounded-generation-and-execution-validation-of-cyber-exe",
+        "label": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Ex"
+      },
+      {
+        "id": "show-hn-pulsar-cross-harness-agent-to-agent-communication-and-messaging",
+        "label": "Show HN: Pulsar – cross-harness agent to agent communication and messaging"
+      },
+      {
+        "id": "show-hn-canban-kanban-and-workflow-and-herdr-workbench-for-cli-agents",
+        "label": "Show HN: Canban – Kanban and Workflow and Herdr Workbench for CLI Agents"
+      }
+    ],
+    "date_bj": "2026-11-17 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-17 16:05:50"
+  }
+}

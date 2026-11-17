@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-11-16",
-    "headline": "今日 AI 情报 · 2026-11-16",
-    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "date": "2026-11-17",
+    "headline": "今日 AI 情报 · 2026-11-17",
+    "overview": "AI商业动态：资本与市场持续升温",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, 安全/漏洞, AI Agent。",
+        "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "imitation-bootstrapped-multi-agent-reinforcement-learning",
-            "title": "Imitation Bootstrapped Multi-Agent Reinforcement Learning",
-            "score": 0.26,
-            "url": "http://arxiv.org/abs/2611.18543v1",
+            "id": "microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix",
+            "title": "Microsoft blames monster email outage on software defect introduced in",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50517321",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,14 +22,14 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "insight": "今日📱 产品模式方向有新的动态。",
         "evidence": [
           {
-            "id": "show-hn-db-branch-database-branches-in-seconds-for-ai-agents-and-ci-via-zfs",
-            "title": "Show HN: db-branch – database branches in seconds for AI agents and CI",
-            "score": 0.15,
-            "url": "https://github.com/db-branch/db-branch",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "windows-11-is-collecting-data-on-which-coding-agents-and-developer-tools-you-use",
+            "title": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Too",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50524736",
+            "reason": "高价值信号"
           }
         ],
         "trend": "new"
@@ -40,10 +40,25 @@
         "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "all-ai-generated-code-should-be-open-source",
-            "title": "All AI-generated code should be Open Source",
-            "score": 0.35,
-            "url": "https://news.ycombinator.com/item?id=50507303",
+            "id": "when-tool-names-are-not-identities-measuring-provider-misbinding-in-mcp-based-ai",
+            "title": "When Tool Names Are Not Identities: Measuring Provider Misbinding in M",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.21577v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+            "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -52,136 +67,166 @@
     ],
     "narratives": [
       {
-        "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日4条情报涉及AI Agent及相关工具生态。典型项目包括：Imitation Bootstrapped Multi-Agent Reinf, ModHarness-RL: Recasting Harnesses as Le, Show HN: db-branch – database branches i。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-        "type": "paradigm_shift",
-        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
-      },
-      {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：Indian chip startup Bharat Semi lands $2。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日1条情报涉及AI商业动态。包括：Cybersecurity AI startup Corma reaches $。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 21 | 🔧 工具生态: 5 | 📱 产品模式: 2",
-    "total_items": 28,
-    "high_value_count": 10,
+    "stats": "📱 产品模式: 7 | 🤖 技术能力: 26 | 💰 商业趋势: 1 | 🔧 工具生态: 3",
+    "total_items": 37,
+    "high_value_count": 35,
     "all_today_ids": [
       {
-        "id": "claude-code-and-codex-reverse-engineered-my-1994-jeeps-ecu-over-a-3-arduino-vide",
-        "label": "Claude Code and Codex reverse engineered my 1994 Jeep's ECU over a $3 Arduino [v"
+        "id": "windows-11-is-collecting-data-on-which-coding-agents-and-developer-tools-you-use",
+        "label": "Windows 11 Is Collecting Data on Which Coding Agents and Developer Tools You Use"
       },
       {
-        "id": "a-short-explainer-on-how-el-niño-works-video",
-        "label": "A short explainer on how El Niño works [video]"
+        "id": "microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix",
+        "label": "Microsoft blames monster email outage on software defect introduced in July fix"
       },
       {
-        "id": "all-ai-generated-code-should-be-open-source",
-        "label": "All AI-generated code should be Open Source"
+        "id": "united-airlines-experiencing-a-widespread-system-outage-airline-says",
+        "label": "United Airlines experiencing a widespread system outage, airline says"
       },
       {
-        "id": "vulcan-rocket-fails-during-return-to-flight-launch-40-amazon-satellites-lost",
-        "label": "Vulcan rocket fails during return-to-flight launch, 40 Amazon satellites lost"
+        "id": "strengthening-the-fight-against-online-child-sexual-abuse",
+        "label": "Strengthening the fight against online child sexual abuse"
       },
       {
-        "id": "webgl-flight-simulator-with-seed-generated-terrain",
-        "label": "WebGL Flight Simulator with seed generated terrain"
+        "id": "datalab-tosurya",
+        "label": "datalab-to/surya"
       },
       {
-        "id": "is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry",
-        "label": "Is bad news for Jensen Huang also bad news for the AI industry?"
+        "id": "datalab-tomarker",
+        "label": "datalab-to/marker"
       },
       {
-        "id": "apple-launches-new-app-to-study-how-people-use-ai-for-health",
-        "label": "Apple launches new app to study how people use AI for health"
+        "id": "interpreting-claims-that-a-theorem-is-correct-because-it-was-checked-in-lean",
+        "label": "Interpreting claims that a theorem is correct because it was checked in Lean"
       },
       {
-        "id": "indian-chip-startup-bharat-semi-lands-24m-seed-round-as-it-eyes-global-ai-sensor",
-        "label": "Indian chip startup Bharat Semi lands $24M seed round as it eyes global AI senso"
+        "id": "running-coding-agents-without-handing-them-my-credentials",
+        "label": "Running coding agents without handing them my credentials"
       },
       {
-        "id": "tor-project-issues-rapid-response-dos-defense-fix-amid-sustained-ddos-attack",
-        "label": "Tor Project Issues Rapid-Response DoS-Defense Fix Amid Sustained DDoS Attack"
+        "id": "fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-8216under",
+        "label": "FBI says Artex AI open source hacking tool used to breach networks in &#8216;und"
       },
       {
-        "id": "snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft",
-        "label": "SNL gathers all the tech tycoons for a lesson in dating and spycraft"
+        "id": "trump-says-ex-nvidia-ceo-jensen-huang8217s-affair-with-an-alleged-chinese-spy-di",
+        "label": "Trump says ex-Nvidia CEO Jensen Huang&#8217;s affair with an alleged Chinese spy"
       },
       {
-        "id": "alignment-by-socialization-learning-tradeoffs-under-selection",
-        "label": "Alignment by Socialization: Learning Tradeoffs Under Selection"
+        "id": "openai-will-embed-safety-researchers-to-investigate-ai-subversion",
+        "label": "OpenAI will embed safety researchers to investigate AI subversion"
       },
       {
-        "id": "weightbench-evaluating-language-models-as-weight-space-programmers",
-        "label": "WeightBench: Evaluating Language Models as Weight-Space Programmers"
+        "id": "us-tightens-ai-chip-export-controls-to-deter-chinese-companies-from-accessing-co",
+        "label": "US tightens AI chip export controls to deter Chinese companies from accessing co"
       },
       {
-        "id": "understanding-contextual-bias-in-agricultural-cnns-through-hidden-neuron-concept",
-        "label": "Understanding Contextual Bias in Agricultural CNNs Through Hidden-Neuron Concept"
+        "id": "freshworks-alums-raise-53m-to-take-on-salesforce-hubspot-with-ai-native-crm",
+        "label": "Freshworks alums raise $53M to take on Salesforce, HubSpot with AI-native CRM"
       },
       {
-        "id": "streamembed-real-time-indexing-from-pixels-for-screenshot-retrieval",
-        "label": "StreamEmbed: Real-Time Indexing from Pixels for Screenshot Retrieval"
+        "id": "spamhaus-new-email-sender-requirements-in-november",
+        "label": "Spamhaus new email sender requirements in November"
       },
       {
-        "id": "elliptic-sampling-optimal-interpolant-schedules-for-gaussians-and-beyond",
-        "label": "Elliptic Sampling: Optimal Interpolant Schedules for Gaussians and Beyond"
+        "id": "openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam",
+        "label": "OpenAI releases a new image classifier and ChatGPT warnings to combat CSAM"
       },
       {
-        "id": "training-reasoning-models-in-simulation-to-natively-use-real-robots",
-        "label": "Training Reasoning Models in Simulation to Natively Use Real Robots"
+        "id": "sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-8216fine",
+        "label": "Sam Altman on Nvidia without Jensen Huang: The industry will be &#8216;fine’"
       },
       {
-        "id": "why-finite-intelligence-works-in-an-infinite-world-a-mathematical-theory",
-        "label": "Why Finite Intelligence Works in an Infinite World: A Mathematical Theory"
+        "id": "jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-8216wolf-of-wal",
+        "label": "Jordan Belfort’s new AI voice startup, Tone, wants to sell like the &#8216;Wolf"
       },
       {
-        "id": "imitation-bootstrapped-multi-agent-reinforcement-learning",
-        "label": "Imitation Bootstrapped Multi-Agent Reinforcement Learning"
+        "id": "cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months",
+        "label": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months"
       },
       {
-        "id": "modharness-rl-recasting-harnesses-as-learnable-and-evolving-programs-for-agentic",
-        "label": "ModHarness-RL: Recasting Harnesses as Learnable and Evolving Programs for Agenti"
+        "id": "google-maps-can-now-build-trip-itineraries-with-real-time-details-about-each-sto",
+        "label": "Google Maps can now build trip itineraries with real-time details about each sto"
       },
       {
-        "id": "fettuccine-fast-and-efficient-brain-to-text-decoding-on-mobile-devices",
-        "label": "FETTUCCINE: Fast and efficient brain-to-text decoding on mobile devices"
+        "id": "pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances",
+        "label": "Pentagon fails ninth straight audit despite progress in organizing finances"
       },
       {
-        "id": "bal-bidirectional-autoregression-in-latent-space-for-learning-human-movement-rep",
-        "label": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Re"
+        "id": "all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont",
+        "label": "All the questions Nvidia should answer on Tuesday — but probably won’t"
       },
       {
-        "id": "pairing-ais-with-rf-analysis-of-a-markovian-approach-for-maritime-data-fusion",
-        "label": "Pairing AIS with RF: Analysis of a Markovian Approach for Maritime Data Fusion"
+        "id": "audible-turns-to-ai-to-help-users-discover-audiobooks",
+        "label": "Audible turns to AI to help users discover audiobooks"
       },
       {
-        "id": "what-thousands-of-conversations-look-like-inside-a-language-model",
-        "label": "What thousands of conversations look like inside a language model"
+        "id": "california-state-ag-sues-openai-over-rogue-agent-incidents",
+        "label": "California state AG sues OpenAI over rogue agent incidents"
       },
       {
-        "id": "open-source-hf-communications-for-remote-communities-and-experimenters",
-        "label": "Open-Source HF Communications for Remote Communities and Experimenters"
+        "id": "when-tool-names-are-not-identities-measuring-provider-misbinding-in-mcp-based-ai",
+        "label": "When Tool Names Are Not Identities: Measuring Provider Misbinding in MCP-Based A"
       },
       {
-        "id": "understanding-positional-embeddings-in-modern-llms",
-        "label": "Understanding Positional Embeddings in Modern LLMs"
+        "id": "quantifying-the-added-value-of-human-forecaster-discussions-for-tropical-cyclone",
+        "label": "Quantifying the added value of human forecaster discussions for tropical cyclone"
       },
       {
-        "id": "show-hn-db-branch-database-branches-in-seconds-for-ai-agents-and-ci-via-zfs",
-        "label": "Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS"
+        "id": "sadl-on-the-demand-supply-geometry-of-representation-collapse",
+        "label": "SADL: On the Demand-Supply Geometry of Representation Collapse"
       },
       {
-        "id": "artificial-intelligence-for-the-z80",
-        "label": "Artificial Intelligence for the Z80"
+        "id": "hyperlyve-parallelized-enumeration-and-exact-lyapunov-stability-certification-fo",
+        "label": "Hyperlyve: Parallelized Enumeration and Exact Lyapunov Stability Certification f"
       },
       {
-        "id": "show-hn-shotoku-local-first-action-governance-and-budget-caps-for-ai-agents",
-        "label": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents"
+        "id": "vira-toward-ultra-high-resolution-visual-agents-via-cross-input-relative-policy",
+        "label": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy"
+      },
+      {
+        "id": "how-vlms-plan-whats-next",
+        "label": "How VLMs Plan What's Next"
+      },
+      {
+        "id": "certisum-bitwise-identical-mxfp4-training-across-platforms-and-parallelism-layou",
+        "label": "CertiSum: Bitwise-Identical MXFP4 Training Across Platforms and Parallelism Layo"
+      },
+      {
+        "id": "optimal-autoregressive-chain-of-thought-learning-via-bagging",
+        "label": "Optimal Autoregressive Chain-of-Thought Learning via Bagging"
+      },
+      {
+        "id": "latent-lattice-language-models",
+        "label": "Latent Lattice Language Models"
+      },
+      {
+        "id": "mitigating-catastrophic-forgetting-with-physics-indexed-specialist-memory-the-ev",
+        "label": "Mitigating Catastrophic Forgetting with Physics-Indexed Specialist Memory: the E"
+      },
+      {
+        "id": "surrogate-assisted-compact-model-extraction-for-sky130-cmos-at-77-k",
+        "label": "Surrogate-Assisted Compact-Model Extraction for SKY130 CMOS at 77 K"
+      },
+      {
+        "id": "scenarioforge-resource-grounded-generation-and-execution-validation-of-cyber-exe",
+        "label": "ScenarioForge: Resource-Grounded Generation and Execution Validation of Cyber Ex"
+      },
+      {
+        "id": "show-hn-pulsar-cross-harness-agent-to-agent-communication-and-messaging",
+        "label": "Show HN: Pulsar – cross-harness agent to agent communication and messaging"
+      },
+      {
+        "id": "show-hn-canban-kanban-and-workflow-and-herdr-workbench-for-cli-agents",
+        "label": "Show HN: Canban – Kanban and Workflow and Herdr Workbench for CLI Agents"
       }
     ],
-    "date_bj": "2026-11-16 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-16 16:05:28"
+    "date_bj": "2026-11-17 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-17 16:05:50"
   }
 }

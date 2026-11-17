@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, 安全/漏洞, AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, AI Agent, 安全/漏洞。",
         "evidence": [
           {
             "id": "imitation-bootstrapped-multi-agent-reinforcement-learning",
@@ -64,8 +64,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 21 | 🔧 工具生态: 5 | 📱 产品模式: 2",
-    "total_items": 28,
+    "stats": "🤖 技术能力: 22 | 🔧 工具生态: 5 | 📱 产品模式: 2",
+    "total_items": 29,
     "high_value_count": 10,
     "all_today_ids": [
       {
@@ -177,11 +177,15 @@
         "label": "Artificial Intelligence for the Z80"
       },
       {
+        "id": "parcel-a-desktop-mail-client-for-linux-built-with-zig",
+        "label": "Parcel: A desktop mail client for Linux, built with Zig"
+      },
+      {
         "id": "show-hn-shotoku-local-first-action-governance-and-budget-caps-for-ai-agents",
         "label": "Show HN: Shotoku – Local-first action governance and budget caps for AI agents"
       }
     ],
     "date_bj": "2026-11-16 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-16 16:05:28"
+    "generated_at_bj": "2026-11-16 18:02:28"
   }
 }

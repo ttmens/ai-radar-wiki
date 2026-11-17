@@ -6428,3 +6428,36 @@
 - create: is-bad-news-for-jensen-huang-also-bad-news-for-the-ai-industry.md
 - create: snl-gathers-all-the-tech-tycoons-for-a-lesson-in-dating-and-spycraft.md
 - create: show-hn-db-branch-database-branches-in-seconds-for-ai-agents-and-ci-via-zfs.md
+
+## [2026-11-17 16:06] sync v3 | 32 new | pillars: {'capabilities': 22, 'ecosystem': 3, 'patterns': 6, 'business': 1}
+- create: datalab-tomarker.md
+- create: datalab-tosurya.md
+- create: latent-lattice-language-models.md
+- create: vira-toward-ultra-high-resolution-visual-agents-via-cross-input-relative-policy.md
+- create: quantifying-the-added-value-of-human-forecaster-discussions-for-tropical-cyclone.md
+- create: how-vlms-plan-whats-next.md
+- create: hyperlyve-parallelized-enumeration-and-exact-lyapunov-stability-certification-fo.md
+- create: mitigating-catastrophic-forgetting-with-physics-indexed-specialist-memory-the-ev.md
+- create: optimal-autoregressive-chain-of-thought-learning-via-bagging.md
+- create: sadl-on-the-demand-supply-geometry-of-representation-collapse.md
+- create: surrogate-assisted-compact-model-extraction-for-sky130-cmos-at-77-k.md
+- create: certisum-bitwise-identical-mxfp4-training-across-platforms-and-parallelism-layou.md
+- create: scenarioforge-resource-grounded-generation-and-execution-validation-of-cyber-exe.md
+- create: when-tool-names-are-not-identities-measuring-provider-misbinding-in-mcp-based-ai.md
+- create: windows-11-is-collecting-data-on-which-coding-agents-and-developer-tools-you-use.md
+- create: running-coding-agents-without-handing-them-my-credentials.md
+- create: microsoft-blames-monster-email-outage-on-software-defect-introduced-in-july-fix.md
+- create: spamhaus-new-email-sender-requirements-in-november.md
+- create: united-airlines-experiencing-a-widespread-system-outage-airline-says.md
+- create: pentagon-fails-ninth-straight-audit-despite-progress-in-organizing-finances.md
+- create: strengthening-the-fight-against-online-child-sexual-abuse.md
+- create: cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months.md
+- create: all-the-questions-nvidia-should-answer-on-tuesday-but-probably-wont.md
+- create: california-state-ag-sues-openai-over-rogue-agent-incidents.md
+- create: trump-says-ex-nvidia-ceo-jensen-huang8217s-affair-with-an-alleged-chinese-spy-di.md
+- create: sam-altman-on-nvidia-without-jensen-huang-the-industry-will-be-8216fine.md
+- create: fbi-says-artex-ai-open-source-hacking-tool-used-to-breach-networks-in-8216under.md
+- create: jordan-belforts-new-ai-voice-startup-tone-wants-to-sell-like-the-8216wolf-of-wal.md
+- create: openai-will-embed-safety-researchers-to-investigate-ai-subversion.md
+- create: openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam.md
+- create: show-hn-pulsar-cross-harness-agent-to-agent-communication-and-messaging.md
