@@ -1,0 +1,196 @@
+{
+  "daily_summary": {
+    "date": "2026-11-19",
+    "headline": "今日 AI 情报 · 2026-11-19",
+    "overview": "AI商业动态：资本与市场持续升温",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "googles-ai-answers-reducing-search-traffic-by-40",
+            "title": "Google's AI answers reducing search traffic by 40%",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50540178",
+            "reason": "高价值信号"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
+            "title": "Harvard researchers find AI coding agents shifted the bottleneck to co",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50538303",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent。",
+        "evidence": [
+          {
+            "id": "agent-trust-infrastructure-ati-a-federated-identity-trust-attestation-and-accoun",
+            "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attesta",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.23202v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "nvidia-promises-that-revenue-will-keep-soaring-for-now",
+            "title": "Nvidia promises that revenue will keep soaring — for now",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/17/nvidia-promises-that-revenue-will-keep-soaring-for-now/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：Nvidia’s startup stakes ballooned to $65。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 22 | 📱 产品模式: 2 | 💰 商业趋势: 3 | 🔧 工具生态: 1",
+    "total_items": 28,
+    "high_value_count": 24,
+    "all_today_ids": [
+      {
+        "id": "googles-ai-answers-reducing-search-traffic-by-40",
+        "label": "Google's AI answers reducing search traffic by 40%"
+      },
+      {
+        "id": "ai-is-killing-all-about-berlin",
+        "label": "AI is killing All About Berlin"
+      },
+      {
+        "id": "harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
+        "label": "Harvard researchers find AI coding agents shifted the bottleneck to code review"
+      },
+      {
+        "id": "why-is-gemini-4-carbon-taking-so-long",
+        "label": "Why is Gemini 4 Carbon taking so long?"
+      },
+      {
+        "id": "energy-based-reasoners-385x-more-efficient-inference",
+        "label": "Energy-Based Reasoners: 385x more efficient inference"
+      },
+      {
+        "id": "claude-was-trained-on-protein-sequences-at-scale",
+        "label": "Claude was trained on protein sequences at scale"
+      },
+      {
+        "id": "nvidia-promises-that-revenue-will-keep-soaring-for-now",
+        "label": "Nvidia promises that revenue will keep soaring — for now"
+      },
+      {
+        "id": "felicis-leads-75m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-a",
+        "label": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI"
+      },
+      {
+        "id": "can-peer-review-survive-ai-generated-text-pdf",
+        "label": "Can Peer Review Survive AI-Generated Text? [pdf]"
+      },
+      {
+        "id": "nvidia-clarifies-when-it-will-and-won8217t-keep-financing-neoclouds",
+        "label": "Nvidia clarifies when it will — and won&#8217;t —keep financing neoclouds"
+      },
+      {
+        "id": "nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-dou",
+        "label": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals i"
+      },
+      {
+        "id": "indias-humyn-labs-raises-47m-to-feed-us-robotics-companies-the-data-they-need",
+        "label": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they nee"
+      },
+      {
+        "id": "ambient-llms-data-efficient-supervised-fine-tuning-via-temperature-matching",
+        "label": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching"
+      },
+      {
+        "id": "what-does-a-bias-head-measure-non-identifiability-in-head-level-bias-attribution",
+        "label": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attributio"
+      },
+      {
+        "id": "distortion-free-semantic-watermarks-for-black-box-generative-models",
+        "label": "Distortion-Free Semantic Watermarks for Black-Box Generative Models"
+      },
+      {
+        "id": "spool-low-latency-streaming-inference-for-hybrid-vision-language-models",
+        "label": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models"
+      },
+      {
+        "id": "fine-tuning-gemma-4-edge-models-for-matlab-signal-processing-code-with-sft-and-q",
+        "label": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and Q"
+      },
+      {
+        "id": "multimodal-masked-diffusion-autoencoder-for-modeling-impaired-driving",
+        "label": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving"
+      },
+      {
+        "id": "reading-scene-states-uncovering-safety-failures-in-vision-language-models",
+        "label": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models"
+      },
+      {
+        "id": "do-llm-agents-still-need-to-be-told-how-to-self-improve",
+        "label": "Do LLM Agents Still Need to Be Told How to Self-Improve?"
+      },
+      {
+        "id": "agent-trust-infrastructure-ati-a-federated-identity-trust-attestation-and-accoun",
+        "label": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and"
+      },
+      {
+        "id": "higher-scoring-coding-models-did-not-get-more-work-done",
+        "label": "Higher-Scoring Coding Models Did Not Get More Work Done"
+      },
+      {
+        "id": "stringqft-a-multiuse-textbook-resource-for-ai-assisted-theoretical-physics",
+        "label": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics"
+      },
+      {
+        "id": "an-inexact-stochastic-variance-reduced-gradient-method-for-constrained-convex-fi",
+        "label": "An inexact stochastic variance-reduced gradient method for constrained convex fi"
+      },
+      {
+        "id": "cerebras-disaggregated-inference",
+        "label": "Cerebras Disaggregated Inference"
+      },
+      {
+        "id": "when-ai-knows-more-than-it-can-offer",
+        "label": "When AI Knows More Than It Can Offer"
+      },
+      {
+        "id": "ipv6-delegation-an-unusually-subtle-failure-mode",
+        "label": "IPv6 delegation, an unusually subtle failure mode"
+      },
+      {
+        "id": "fun-with-constrained-programming-2012",
+        "label": "Fun with Constrained Programming (2012)"
+      }
+    ],
+    "date_bj": "2026-11-19 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-19 00:04:55"
+  }
+}

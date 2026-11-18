@@ -6491,3 +6491,33 @@
 - create: daydream8217s-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-to.md
 - create: show-hn-agav-an-open-source-terminal-agent-designed-to-waste-fewer-tokens.md
 - create: show-hn-an-open-virtual-office-to-cowork-with-humans-while-your-agents-work.md
+
+## [2026-11-19 00:05] sync v3 | 28 new | pillars: {'capabilities': 22, 'ecosystem': 1, 'patterns': 2, 'business': 3}
+- create: ambient-llms-data-efficient-supervised-fine-tuning-via-temperature-matching.md
+- create: spool-low-latency-streaming-inference-for-hybrid-vision-language-models.md
+- create: stringqft-a-multiuse-textbook-resource-for-ai-assisted-theoretical-physics.md
+- create: an-inexact-stochastic-variance-reduced-gradient-method-for-constrained-convex-fi.md
+- create: do-llm-agents-still-need-to-be-told-how-to-self-improve.md
+- create: what-does-a-bias-head-measure-non-identifiability-in-head-level-bias-attribution.md
+- create: higher-scoring-coding-models-did-not-get-more-work-done.md
+- create: multimodal-masked-diffusion-autoencoder-for-modeling-impaired-driving.md
+- create: distortion-free-semantic-watermarks-for-black-box-generative-models.md
+- create: reading-scene-states-uncovering-safety-failures-in-vision-language-models.md
+- create: fine-tuning-gemma-4-edge-models-for-matlab-signal-processing-code-with-sft-and-q.md
+- create: agent-trust-infrastructure-ati-a-federated-identity-trust-attestation-and-accoun.md
+- create: energy-based-reasoners-385x-more-efficient-inference.md
+- create: googles-ai-answers-reducing-search-traffic-by-40.md
+- create: why-is-gemini-4-carbon-taking-so-long.md
+- create: ipv6-delegation-an-unusually-subtle-failure-mode.md
+- create: when-ai-knows-more-than-it-can-offer.md
+- create: can-peer-review-survive-ai-generated-text-pdf.md
+- create: harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review.md
+- create: claude-was-trained-on-protein-sequences-at-scale.md
+- create: ai-is-killing-all-about-berlin.md
+- create: cerebras-disaggregated-inference.md
+- create: fun-with-constrained-programming-2012.md
+- create: nvidia-clarifies-when-it-will-and-won8217t-keep-financing-neoclouds.md
+- create: felicis-leads-75m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-a.md
+- create: indias-humyn-labs-raises-47m-to-feed-us-robotics-companies-the-data-they-need.md
+- create: nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-dou.md
+- create: nvidia-promises-that-revenue-will-keep-soaring-for-now.md
