@@ -1,0 +1,230 @@
+{
+  "daily_summary": {
+    "date": "2026-11-18",
+    "headline": "今日 AI 情报 · 2026-11-18",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "gpt62-astra-and-sol",
+            "title": "GPT‑6.2 Astra and Sol",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50535230",
+            "reason": "高价值信号"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "evidence": [
+          {
+            "id": "daydream8217s-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-to",
+            "title": "Daydream&#8217;s new AI agent acts as your personal stylist — and can ",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/17/daydreams-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-too/",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "pedestal-ai-raises-47-million-to-agentify-the-supply-chain",
+            "title": "Pedestal AI raises $4.7 million to agentify the supply chain",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/17/pedestal-ai-raises-4-7-million-to-agentify-the-supply-chain/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "launch-hn-starsling-yc-p25-self-improving-ci-for-agent-volume-repos",
+            "title": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume rep",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50536468",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "advancing-computer-use-agents-for-healthcare-teams",
+            "title": "Advancing computer-use agents for healthcare teams",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50535898",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-an-open-virtual-office-to-cowork-with-humans-while-your-agents-work",
+            "title": "Show HN: An open virtual office to cowork with humans while your agent",
+            "score": 0.15,
+            "url": "https://flat.social/virtual-office-platform",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telli",
+            "title": "AI models can be tricked into identifying civilians as military target",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/17/ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telling-them-its-a-game/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
+        "evidence": [
+          {
+            "id": "amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+            "title": "Amazon and Google will together own nearly 30% of Anthropic after its ",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/17/amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Daydream&#8217;s new AI agent acts as yo, Pedestal AI raises $4.7 million to agent。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日2条情报涉及AI商业动态。包括：AI models can be tricked into identifyin, Amazon and Google will together own near。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 19 | 📱 产品模式: 6 | 🔧 工具生态: 2 | 💰 商业趋势: 1",
+    "total_items": 28,
+    "high_value_count": 19,
+    "all_today_ids": [
+      {
+        "id": "gpt62-astra-and-sol",
+        "label": "GPT‑6.2 Astra and Sol"
+      },
+      {
+        "id": "mai-code-2-and-code-2-flash",
+        "label": "MAI Code 2 and Code 2 Flash"
+      },
+      {
+        "id": "how-the-claude-code-team-thinks-about-verification",
+        "label": "How the Claude Code team thinks about verification"
+      },
+      {
+        "id": "what-is-the-best-harness-for-each-model",
+        "label": "What is the best harness for each model?"
+      },
+      {
+        "id": "jensen-huang-says-he-would-be-8216honored8217-if-allowed-to-return-as-nvidia-ceo",
+        "label": "Jensen Huang says he would be &#8216;honored&#8217; if allowed to return as Nvid"
+      },
+      {
+        "id": "daydream8217s-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-to",
+        "label": "Daydream&#8217;s new AI agent acts as your personal stylist — and can shop for y"
+      },
+      {
+        "id": "nvidia-says-it-doesn8217t-plan-to-reappoint-jensen-huang-as-ceo",
+        "label": "Nvidia says it doesn&#8217;t plan to reappoint Jensen Huang as CEO"
+      },
+      {
+        "id": "google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases",
+        "label": "Google expands access to Gemini Tasks, which can help with calls, purchases"
+      },
+      {
+        "id": "google-joins-the-tech-outage-trend-by-announcing-it8217s-not-having-one",
+        "label": "Google joins the tech outage trend by announcing it&#8217;s not having one"
+      },
+      {
+        "id": "proton8217s-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on",
+        "label": "Proton&#8217;s Lumo, a privacy-focused alternative to ChatGPT and Claude, arrive"
+      },
+      {
+        "id": "ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telli",
+        "label": "AI models can be tricked into identifying civilians as military targets by telli"
+      },
+      {
+        "id": "nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huang8217s-e",
+        "label": "Nvidia says its open source AI strategy remains intact after Jensen Huang&#8217;"
+      },
+      {
+        "id": "amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo",
+        "label": "Amazon and Google will together own nearly 30% of Anthropic after its IPO"
+      },
+      {
+        "id": "model-ml-raises-250m-to-automate-investment-banking-grunt-work",
+        "label": "Model ML raises $250M to automate investment banking grunt work"
+      },
+      {
+        "id": "google-to-keep-gemini-chats-for-2-months-up-from-72-hours-even-with-history-off",
+        "label": "Google to keep Gemini chats for 2 months, up from 72 hours, even with history of"
+      },
+      {
+        "id": "sec-reportedly-investigating-nvidia-amid-huang-exit",
+        "label": "SEC reportedly investigating Nvidia amid Huang exit"
+      },
+      {
+        "id": "pedestal-ai-raises-47-million-to-agentify-the-supply-chain",
+        "label": "Pedestal AI raises $4.7 million to agentify the supply chain"
+      },
+      {
+        "id": "as-decision-model-use-skyrockets-is-customization-the-next-frontier",
+        "label": "As decision model use skyrockets, is customization the next frontier?"
+      },
+      {
+        "id": "nvidia-is-abandoning-china-after-jensen-huang8217s-ouster",
+        "label": "Nvidia is abandoning China after Jensen Huang&#8217;s ouster"
+      },
+      {
+        "id": "elephant-goldfish-model",
+        "label": "Elephant-Goldfish Model"
+      },
+      {
+        "id": "not-everything-needs-an-llm",
+        "label": "Not Everything Needs an LLM"
+      },
+      {
+        "id": "launch-hn-starsling-yc-p25-self-improving-ci-for-agent-volume-repos",
+        "label": "Launch HN: StarSling (YC P25) – Self-improving CI for agent-volume repos"
+      },
+      {
+        "id": "anthropic-paid-rubios-ex-chief-of-staffs-firm-740kit-lobbied-his-nsc",
+        "label": "Anthropic Paid Rubio's Ex-Chief of Staff's Firm $740k.it Lobbied His NSC"
+      },
+      {
+        "id": "advancing-computer-use-agents-for-healthcare-teams",
+        "label": "Advancing computer-use agents for healthcare teams"
+      },
+      {
+        "id": "show-hn-trnrt-an-open-source-llm-inference-engine-for-aws-trainium",
+        "label": "Show HN: TrnRT – An open-source LLM inference engine for AWS Trainium"
+      },
+      {
+        "id": "show-hn-an-open-virtual-office-to-cowork-with-humans-while-your-agents-work",
+        "label": "Show HN: An open virtual office to cowork with humans while your agents work"
+      },
+      {
+        "id": "show-hn-agav-an-open-source-terminal-agent-designed-to-waste-fewer-tokens",
+        "label": "Show HN: Agav – an open-source terminal agent designed to waste fewer tokens"
+      },
+      {
+        "id": "fixing-a-webkit-bug-to-see-if-promises-are-made-of-train-tracks",
+        "label": "Fixing a WebKit bug to see if promises are made of train tracks"
+      }
+    ],
+    "date_bj": "2026-11-18 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-18 08:04:15"
+  }
+}

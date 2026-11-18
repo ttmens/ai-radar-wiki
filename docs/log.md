@@ -6461,3 +6461,33 @@
 - create: openai-will-embed-safety-researchers-to-investigate-ai-subversion.md
 - create: openai-releases-a-new-image-classifier-and-chatgpt-warnings-to-combat-csam.md
 - create: show-hn-pulsar-cross-harness-agent-to-agent-communication-and-messaging.md
+
+## [2026-11-18 08:04] sync v3 | 28 new | pillars: {'capabilities': 19, 'patterns': 6, 'ecosystem': 2, 'business': 1}
+- create: gpt62-astra-and-sol.md
+- create: mai-code-2-and-code-2-flash.md
+- create: what-is-the-best-harness-for-each-model.md
+- create: not-everything-needs-an-llm.md
+- create: launch-hn-starsling-yc-p25-self-improving-ci-for-agent-volume-repos.md
+- create: how-the-claude-code-team-thinks-about-verification.md
+- create: show-hn-trnrt-an-open-source-llm-inference-engine-for-aws-trainium.md
+- create: advancing-computer-use-agents-for-healthcare-teams.md
+- create: fixing-a-webkit-bug-to-see-if-promises-are-made-of-train-tracks.md
+- create: elephant-goldfish-model.md
+- create: anthropic-paid-rubios-ex-chief-of-staffs-firm-740kit-lobbied-his-nsc.md
+- create: nvidia-is-abandoning-china-after-jensen-huang8217s-ouster.md
+- create: nvidia-says-its-open-source-ai-strategy-remains-intact-after-jensen-huang8217s-e.md
+- create: nvidia-says-it-doesn8217t-plan-to-reappoint-jensen-huang-as-ceo.md
+- create: amazon-and-google-will-together-own-nearly-30-of-anthropic-after-its-ipo.md
+- create: sec-reportedly-investigating-nvidia-amid-huang-exit.md
+- create: google-joins-the-tech-outage-trend-by-announcing-it8217s-not-having-one.md
+- create: model-ml-raises-250m-to-automate-investment-banking-grunt-work.md
+- create: google-expands-access-to-gemini-tasks-which-can-help-with-calls-purchases.md
+- create: google-to-keep-gemini-chats-for-2-months-up-from-72-hours-even-with-history-off.md
+- create: as-decision-model-use-skyrockets-is-customization-the-next-frontier.md
+- create: pedestal-ai-raises-47-million-to-agentify-the-supply-chain.md
+- create: proton8217s-lumo-a-privacy-focused-alternative-to-chatgpt-and-claude-arrives-on.md
+- create: ai-models-can-be-tricked-into-identifying-civilians-as-military-targets-by-telli.md
+- create: jensen-huang-says-he-would-be-8216honored8217-if-allowed-to-return-as-nvidia-ceo.md
+- create: daydream8217s-new-ai-agent-acts-as-your-personal-stylist-and-can-shop-for-you-to.md
+- create: show-hn-agav-an-open-source-terminal-agent-designed-to-waste-fewer-tokens.md
+- create: show-hn-an-open-virtual-office-to-cowork-with-humans-while-your-agents-work.md
