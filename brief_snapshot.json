@@ -1,8 +1,19 @@
 {
   "date": "2026-11-19",
-  "generated_at": "2026-11-19T00:05:30.847901+08:00",
-  "item_count": 24,
+  "generated_at": "2026-11-19T16:05:27.360256+08:00",
+  "item_count": 63,
   "items": [
+    {
+      "id": "gemini-4-neon",
+      "label": "Gemini 4 Neon",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50552424",
+      "date": "2026-11-19"
+    },
     {
       "id": "googles-ai-answers-reducing-search-traffic-by-40",
       "label": "Google's AI answers reducing search traffic by 40%",
@@ -26,6 +37,17 @@
       "date": "2026-11-19"
     },
     {
+      "id": "seven-new-models-at-scalable-price-performance",
+      "label": "Seven new models at scalable price-performance",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50548021",
+      "date": "2026-11-19"
+    },
+    {
       "id": "harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
       "label": "Harvard researchers find AI coding agents shifted the bottleneck to code review",
       "summary": "暂无中文摘要",
@@ -37,6 +59,28 @@
       "date": "2026-11-19"
     },
     {
+      "id": "ai-agents-ask-better-questions-than-kpmg-accountants-in-audit-trial",
+      "label": "AI agents ask better questions than KPMG accountants in audit trial",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50547777",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "genie-4-is-now-available",
+      "label": "Genie 4 is now available",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50550415",
+      "date": "2026-11-19"
+    },
+    {
       "id": "why-is-gemini-4-carbon-taking-so-long",
       "label": "Why is Gemini 4 Carbon taking so long?",
       "summary": "暂无中文摘要",
@@ -45,6 +89,39 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50541790",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "advancing-chip-design-with-openai-models",
+      "label": "Advancing chip design with OpenAI models",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50549493",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "gemini-4-neon-looks-like-an-opus-55-competitor",
+      "label": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50554374",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "anthropic-prices-initial-public-offering",
+      "label": "Anthropic prices initial public offering",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.375,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50553843",
       "date": "2026-11-19"
     },
     {
@@ -70,6 +147,116 @@
       "date": "2026-11-19"
     },
     {
+      "id": "daisyrose-27b",
+      "label": "DaisyRose-27B",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50551046",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "elon-musk-says-ousting-jensen-huang-is-like-8216kicking-michael-jordan-off-your",
+      "label": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off yo",
+      "summary": "“I don’t think [Huang is] disloyal to the United States,\" Musk said.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/elon-musk-says-ousting-jensen-huang-is-like-kicking-michael-jordan-off-your-team/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructu",
+      "label": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastruct",
+      "summary": "The Microsoft CEO downplayed the recent Outlook outage while noting that AI was causing both opportunities and new challenges for securing much of the connected world.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructure-is-unpatchable/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "anthropic-prices-ipo-at-83-a-share-above-projected-range",
+      "label": "Anthropic prices IPO at $83 a share, above projected range",
+      "summary": "The long-awaited IPO reportedly values the company at $1.5 trillion on a fully diluted basis.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "more-banks-say-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacke",
+      "label": "More banks say customers using AI agents are on their own — even if they get hac",
+      "summary": "Citi is the latest major financial institution to put the breaks on personal finance AI agents.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "the-magic-of-partial-evaluation",
+      "label": "The Magic of Partial Evaluation",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50550096",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
+      "label": "Satya Nadella predicts AI agents will reshuffle the economics of the web",
+      "summary": "Microsoft's CEO says AI agents could disrupt advertising-driven business models, forcing companies like Amazon to rethink how they compete for customers.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "llm-assisted-reverse-engineering",
+      "label": "LLM assisted reverse engineering",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50553225",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "dumping-an-aes-key-from-a-myq-garage-opener-to-stop-rebooting-when-offline",
+      "label": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50525260",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots",
+      "label": "Sam Altman warns against a future where AI, not humans, calls the shots",
+      "summary": "Sam Altman and Greg Brockman pushed back against Silicon Valley's growing debate over an AI takeover, while acknowledging the challenges of keeping advanced models under human control.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots/",
+      "date": "2026-11-19"
+    },
+    {
       "id": "nvidia-promises-that-revenue-will-keep-soaring-for-now",
       "label": "Nvidia promises that revenue will keep soaring — for now",
       "summary": "Despite the turmoil Nvidia is in after the departure of its disgraced founder and CEO Jensen Huang, the company projected that its streak of record-breaking revenue isn't about to stop.",
@@ -89,6 +276,94 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/11/18/felicis-leads-7-5m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-agents/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-8216it8217s-t",
+      "label": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: &#8216;It&#8",
+      "summary": "The Anduril co-founder says outdated technology is leaving systems vulnerable to a new wave of AI-enabled attacks.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-its-time-to-start-running/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
+      "label": "Nvidia created a weird bit of intrigue by not filing a routine SEC report",
+      "summary": "One Wall Street analyst got to the bottom of Nvidia's surprise announcement that it wouldn't be filing its formal quarterly results document, the 10-Q, for weeks.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
+      "label": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "summary": "Microsoft CEO Satya Nadella explained why he offered buyouts to 60,000 of his employees in October, essentially urging them to voluntarily quit, rather than reducing the workforce via another massive layoff. The short answer is AI, but not in the way you might expect.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "ai-will-not-make-you-rich-2025",
+      "label": "AI will not make you rich (2025)",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50555093",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "snapchat-now-lets-developers-build-ar-lenses-with-ai-assistants-like-claude-code",
+      "label": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code",
+      "summary": "Lens creators can describe the Lens they want in plain language, and their AI assistant handles the process from start to finish, Snapchat says.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/snapchat-now-lets-developers-build-ar-lenses-with-ai-coding-assistants-like-claude-code-and-cursor/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "sam-altman-says-his-life-is-so-weird-that-he8217s-unfazed-by-andrew-garfield-por",
+      "label": "Sam Altman says his life is so weird that he&#8217;s unfazed by Andrew Garfield",
+      "summary": "\"It doesn't feel like it's in like the top 10 weirdest things about my life,\" Altman said.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/sam-altman-says-his-life-is-so-weird-that-hes-unfazed-by-andrew-garfield-portraying-him-in-upcoming-movie/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "openai-ceo-sam-altman-says-it8217s-8216hard-to-imagine-the-ai-industry-without-j",
+      "label": "OpenAI CEO Sam Altman says it&#8217;s &#8216;hard to imagine the AI industry wit",
+      "summary": "Nvidia founder and former CEO Jensen Huang stepped down last week amid several scandals, including an affair with an alleged Chinese spy.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/openai-ceo-sam-altman-says-its-hard-to-imagine-the-ai-industry-without-jensen/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "palmer-luckey-thinks-china-is-8216thrilled-to-have-jensen-out8217-so-he-wants-th",
+      "label": "Palmer Luckey thinks China is &#8216;thrilled to have Jensen out,&#8217; so he w",
+      "summary": "\"It makes America weaker to knock him out,\" the Anduril CEO said about ousted Nvidia leader Jensen Huang.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/palmer-luckey-thinks-china-is-thrilled-to-have-jensen-out-so-he-wants-the-ousted-nvidia-ceo-reinstated/",
       "date": "2026-11-19"
     },
     {
@@ -114,6 +389,17 @@
       "date": "2026-11-19"
     },
     {
+      "id": "microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
+      "label": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit",
+      "summary": "Microsoft CEO Satya Nadella expressed confidence in Jensen Huang's successor Colette Kress, who is serving as Nvidia's interim CEO.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit/",
+      "date": "2026-11-19"
+    },
+    {
       "id": "nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-dou",
       "label": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals i",
       "summary": "The value of Nvidia’s private investments has nearly tripled over the past nine months, fueled by Jensen Huang’s aggressive dealmaking and rising valuations of its existing portfolio companies.",
@@ -125,6 +411,17 @@
       "date": "2026-11-19"
     },
     {
+      "id": "google8217s-ai-feature-in-search-gets-its-own-incognito-mode",
+      "label": "Google&#8217;s AI feature in Search gets its own incognito mode",
+      "summary": "Google's new temporary threads let users have conversations in AI Mode without adding them to their search history or influencing future recommendations.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/18/googles-ai-feature-in-search-gets-its-own-incognito-mode/",
+      "date": "2026-11-19"
+    },
+    {
       "id": "indias-humyn-labs-raises-47m-to-feed-us-robotics-companies-the-data-they-need",
       "label": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they nee",
       "summary": "Founded in February, Humyn Labs competes with startups including Mecka AI and XDOF, with about 90% of its revenue coming from the U.S.",
@@ -133,6 +430,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/11/18/accel-backs-indias-humyn-labs-to-supply-training-data-needed-by-u-s-robotics-ai-developers/",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "decomposing-sgd-dynamics-in-neural-networks-teacher-induced-spikes-and-variance",
+      "label": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance",
+      "summary": "We study two-layer neural networks trained by stochastic gradient descent (SGD) on a multi-index teacher model, focusing on how first-layer parameters orthogonal to the teacher subspace affect generalization. We decompose the first-layer weights into a signal component aligned with the teacher and a",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24908v1",
       "date": "2026-11-19"
     },
     {
@@ -169,6 +477,50 @@
       "date": "2026-11-19"
     },
     {
+      "id": "on-evaluating-user-simulators-for-interactive-agents",
+      "label": "On Evaluating User Simulators for Interactive Agents",
+      "summary": "User simulators offer a scalable way to evaluate interactive agents, but how to assess their quality remains underexplored. In particular, it is unclear whether existing user simulator evaluation frameworks reliably detect meaningful failures in simulated user behavior. This uncertainty makes it dif",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24892v1",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "auditing-black-box-clinical-prediction-models-with-a-large-language-model-throug",
+      "label": "Auditing black-box clinical prediction models with a large language model throug",
+      "summary": "Large language models (LLMs) are used to explain clinical prediction models, on the promise that they can say what a model computes, find its faults and even reveal new knowledge in it. We tested the three promises where the answers could be checked. From the International Stroke Trial we trained fo",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24877v1",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "who-are-you-the-personal-imitation-game",
+      "label": "Who are you? The Personal Imitation Game",
+      "summary": "Large Language Models (LLMs) now perform strongly on Alan Turing's 1950 Imitation Game, so we propose a harder challenge, the Personal Imitation Game, which asks whether a machine can replicate a specific individual in conversation rather than a generic human. Testing with 30 participants, we establ",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24888v1",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "learning-to-interact-in-multi-agent-self-play-for-controllable-autonomous-drivin",
+      "label": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Drivin",
+      "summary": "Large-scale, multi-agent self-play trains robust driving policies effectively in simulation, but controlling these models to generate specific, safety-critical edge cases remains a key challenge. Existing goal-conditioned self-play frameworks rely primarily on static map-location goals and fail to r",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24876v1",
+      "date": "2026-11-19"
+    },
+    {
       "id": "spool-low-latency-streaming-inference-for-hybrid-vision-language-models",
       "label": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
       "summary": "Applications such as visual accessibility agents and robotics require answering questions about recent video content promptly, over a bounded window of past frames (e.g., the last two minutes). Hybrid vision-language models (VLMs), which interleave attention with linear recurrent layers such as Gate",
@@ -188,6 +540,28 @@
       "type": "papers",
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2611.23205v1",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "mapping-the-ai-supply-chain-dependencies-vulnerabilities-and-market-concentratio",
+      "label": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentra",
+      "summary": "AI systems are built across many organizations that contribute models, data, compute, capital, talent, and other assets. While the layers of the AI stack are relatively well understood, the relationships between actors and components across layers remains sparsely documented. In this work, we focus",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24927v1",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "equivariant-modeling-with-polynomial-features-via-minimal-homogeneous-generators",
+      "label": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators",
+      "summary": "We present a general framework for modeling and learning equivariant functions between finite dimensional semisimple real group representations, unifying constructions developed across many application areas. Our model is a linear combination of equivariant polynomial features whose coefficients are",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24896v1",
       "date": "2026-11-19"
     },
     {
@@ -246,6 +620,50 @@
       "date": "2026-11-19"
     },
     {
+      "id": "knowing-what-you-know-a-trait-theory-of-reviewer-value-in-human-ai-cognitive-sys",
+      "label": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Sy",
+      "summary": "When a capable model and a human reviewer cooperate on the same decision, which human still adds value? We argue this is a question about a single cognitive trait, metacognitive calibration: the alignment between a reviewer's behavioral confidence and the actual correctness of their judgments. We de",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24932v1",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "cap-and-track-optimizing-llm-inference-request-dispatch-across-shifting-capacity",
+      "label": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacit",
+      "summary": "A fixed dispatch rate for LLM inference becomes stale as serving fleets resize and request sizes change. Generative output length is unknown at admission, and shared provider pools can lose capacity. We present Cap-and-Track, a design for asynchronous inference across provider capacity and internal",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24891v1",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "agentic-harness-engineering-beta-requirement-centered-evolution-of-agent-harness",
+      "label": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnes",
+      "summary": "Real-world harness engineering is driven by explicit and implicit user requirements, which guide development and validation. However, existing harness evolution methods often overlook implicit requirements and interaction needs, while using a single evolution agent to modify the harness and benchmar",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24924v1",
+      "date": "2026-11-19"
+    },
+    {
+      "id": "monoculture-robust-learning",
+      "label": "Monoculture Robust Learning",
+      "summary": "We introduce a notion of monoculture robustness in Probably Approximately Correct (PAC) learning, as a way to mitigate the problem of algorithmic monoculture (Kleinberg and Raghavan, 2021): the tendency of models sharing the same components (e.g., training data) to fail on the same inputs. Specifica",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24881v1",
+      "date": "2026-11-19"
+    },
+    {
       "id": "stringqft-a-multiuse-textbook-resource-for-ai-assisted-theoretical-physics",
       "label": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics",
       "summary": "We present StringQFT as a textbook collection for string constructions of quantum field theory and as infrastructure for AI-assisted theoretical physics. The collection comprises 18 volumes, 190 chapters and 3,795 pages, covering brane probes, brane webs, geometric engineering, F-theory construction",
@@ -266,10 +684,21 @@
       "source_type": "papers",
       "url": "http://arxiv.org/abs/2611.23221v1",
       "date": "2026-11-19"
+    },
+    {
+      "id": "local-ai-agents-in-power-electronics-simulation-deployment-measurements-and-cost",
+      "label": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Co",
+      "summary": "Agentic artificial intelligence (AI) is emerging in power electronics, where it drives the simulation loop that engineers used to close largely by hand. In this loop, a converter design, or a study of the network it connects to, is built, run, measured and revised until it satisfies its specificatio",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "papers",
+      "source_type": "papers",
+      "url": "http://arxiv.org/abs/2611.24880v1",
+      "date": "2026-11-19"
     }
   ],
   "graph_totals": {
-    "real_nodes": 10649,
-    "edges": 11838
+    "real_nodes": 10692,
+    "edges": 11896
   }
 }
