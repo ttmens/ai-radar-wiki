@@ -1,26 +1,26 @@
 {
-  "generated_at": "2026-11-20T08:04:59.996835+08:00",
-  "days_analyzed": 178,
+  "generated_at": "2026-11-21T00:05:58.835187+08:00",
+  "days_analyzed": 179,
   "pillar_trends": {
     "capabilities": {
-      "trend": "down",
-      "delta": -1,
+      "trend": "stable",
+      "delta": 0,
       "current": 1,
-      "previous": 2,
+      "previous": 1,
       "has_data": true
     },
     "patterns": {
-      "trend": "down",
-      "delta": -5,
+      "trend": "stable",
+      "delta": 0,
       "current": 2,
-      "previous": 7,
+      "previous": 2,
       "has_data": true
     },
     "ecosystem": {
-      "trend": "down",
-      "delta": -2,
+      "trend": "stable",
+      "delta": 0,
       "current": 1,
-      "previous": 3,
+      "previous": 1,
       "has_data": true
     },
     "business": {
@@ -117,7 +117,8 @@
         "2026-11-16",
         "2026-11-18",
         "2026-11-19",
-        "2026-11-20"
+        "2026-11-20",
+        "2026-11-21"
       ],
       "instances": [
         {
@@ -2463,6 +2464,30 @@
               "pillar": "patterns"
             }
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "title": "AI Agent 工具链与协作流程快速成熟",
+          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Apple may be developing its own AI agent, PlayCraft: Designing Engaging Games from。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "type": "paradigm_shift",
+          "evidence": [
+            {
+              "id": "apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+              "title": "Apple may be developing its own AI agent that runs your Mac",
+              "score": 0.3,
+              "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "playcraft-designing-engaging-games-from-agent-play-experience",
+              "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+              "score": 0.3,
+              "url": "http://arxiv.org/abs/2611.26624v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -2544,7 +2569,8 @@
         "2026-11-17",
         "2026-11-18",
         "2026-11-19",
-        "2026-11-20"
+        "2026-11-20",
+        "2026-11-21"
       ],
       "instances": [
         {
@@ -3916,6 +3942,22 @@
               "pillar": "ecosystem"
             }
           ]
+        },
+        {
+          "date": "2026-11-21",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日3条情报涉及AI商业动态。包括：Global stock markets slump as Anthropic', Anthropic&#8217;s 7 founders cashed out , Active Feature Acquisition by Distilling。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": [
+            {
+              "id": "anthropic-employee-claims-general-proof-of-the-riemann-hypothesis-pdf",
+              "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf",
+              "score": 0.51,
+              "url": "https://news.ycombinator.com/item?id=50574968",
+              "reason": "高价值信号",
+              "pillar": "capabilities"
+            }
+          ]
         }
       ],
       "lifecycle": "declining"
@@ -5136,5 +5178,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-11-20**（178天），累计 **5126** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-11-21**（179天），累计 **5153** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }

@@ -6592,3 +6592,32 @@
 - create: at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development.md
 - create: anthropic8217s-ipo-puts-ai8217s-circular-financing-boom-to-the-test.md
 - create: superhuman-pushes-its-go-assistant-everywhere.md
+
+## [2026-11-21 00:05] sync v3 | 27 new | pillars: {'capabilities': 21, 'patterns': 3, 'ecosystem': 1, 'business': 2}
+- create: rl-post-training-in-diffusion-transformers-is-activation-steering.md
+- create: playcraft-designing-engaging-games-from-agent-play-experience.md
+- create: tidecache-efficient-hybrid-llm-serving-with-transparent-cache-management-and-lay.md
+- create: one-prior-two-dynamics-repurposing-video-diffusion-transformers-for-self-supervi.md
+- create: bio-pm-guided-synthetic-imu-generation.md
+- create: depth-pro-2-sharp-and-temporally-consistent-metric-monocular-depth.md
+- create: sok-assessing-the-evolution-of-llm-capability-in-software-vulnerability-research.md
+- create: active-feature-acquisition-by-distilling-an-oracle-teacher.md
+- create: pgx-physically-grounded-execution-for-long-horizon-humanoid-loco-manipulation.md
+- create: realized-versus-population-reliability-anytime-valid-self-consistency-certificat.md
+- create: probing-the-conscious-mind-selective-access-and-global-workspace-in-vision-langu.md
+- create: verify-the-verifier-specification-grounded-llm-cross-checking-for-bugs-that-esca.md
+- create: anthropic-employee-claims-general-proof-of-the-riemann-hypothesis-pdf.md
+- create: if-you-cant-explain-something-in-simple-terms-you-dont-understand-it-2017.md
+- create: frostbite-a-new-cpu-architecture-discovered-designed-and-verified-by-ai.md
+- create: show-hn-i-made-an-audio-to-midi-model-60x-more-efficient.md
+- create: what-people-are-building-discovered-through-new-domains.md
+- create: global-stock-markets-slump-as-anthropics-record-ipo-fails-to-stem-ai-sell-off.md
+- create: why-the-airbus-a321xlr-often-gets-stuck-climbing-for-first-few-hours-of-flight.md
+- create: what-comes-after-agi.md
+- create: weight-space-programming-builds-neural-networks-like-a-1990s-researcher.md
+- create: chatgpt-for-snes.md
+- create: epic-games-turns-to-ai-coding-for-the-unreal-engine.md
+- create: the-fallout-from-nvidias-jensen-huang-scandal-continues.md
+- create: six-ai-powered-gadgets-that-could-make-your-home-office-smarter.md
+- create: apple-may-be-developing-its-own-ai-agent-that-runs-your-mac.md
+- create: anthropic8217s-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo.md

@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-11-20",
-    "headline": "今日 AI 情报 · 2026-11-20",
+    "date": "2026-11-21",
+    "headline": "今日 AI 情报 · 2026-11-21",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "anthropics-nasdaq-debut",
-            "title": "Anthropic’s Nasdaq debut",
+            "id": "anthropic-employee-claims-general-proof-of-the-riemann-hypothesis-pdf",
+            "title": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf",
             "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50562754",
+            "url": "https://news.ycombinator.com/item?id=50574968",
             "reason": "高价值信号"
           }
         ],
@@ -22,20 +22,20 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：语音交互, AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
-            "id": "metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-dat",
-            "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing ",
+            "id": "apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+            "title": "Apple may be developing its own AI agent that runs your Mac",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
+            "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
-            "id": "these-tech-outages-are-giving-y2k-ai-agent-style",
-            "title": "These tech outages are giving Y2K, AI agent style",
+            "id": "playcraft-designing-engaging-games-from-agent-play-experience",
+            "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
+            "url": "http://arxiv.org/abs/2611.26624v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -44,13 +44,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "insight": "今日🔧 工具生态方向有新的动态。",
         "evidence": [
           {
-            "id": "an-oregon-library-ditched-dewey-decimal-and-got-people-excited-about-books-again",
-            "title": "An Oregon library ditched Dewey Decimal and got people excited about b",
-            "score": 0.38,
-            "url": "https://news.ycombinator.com/item?id=50536950",
+            "id": "verify-the-verifier-specification-grounded-llm-cross-checking-for-bugs-that-esca",
+            "title": "Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bug",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.26588v1",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -62,10 +62,10 @@
         "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
         "evidence": [
           {
-            "id": "anthropic8217s-ipo-could-deliver-156b-to-charity",
-            "title": "Anthropic&#8217;s IPO could deliver $156B to charity",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
+            "id": "global-stock-markets-slump-as-anthropics-record-ipo-fails-to-stem-ai-sell-off",
+            "title": "Global stock markets slump as Anthropic's record IPO fails to stem AI ",
+            "score": 0.35,
+            "url": "https://news.ycombinator.com/item?id=50574383",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -75,119 +75,131 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Meta’s AI agent Muse is mixing up conver, These tech outages are giving Y2K, AI ag, Google gives Gemini the ability to use y。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Apple may be developing its own AI agent, PlayCraft: Designing Engaging Games from。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日3条情报涉及AI商业动态。包括：Anthropic&#8217;s IPO puts AI&#8217;s ci, Anthropic&#8217;s IPO could deliver $156, Anthropic hits Nasdaq exchanges at $111,。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：Global stock markets slump as Anthropic', Anthropic&#8217;s 7 founders cashed out , Active Feature Acquisition by Distilling。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 12 | 📱 产品模式: 8 | 🔧 工具生态: 3 | 💰 商业趋势: 1",
-    "total_items": 24,
-    "high_value_count": 22,
+    "stats": "🤖 技术能力: 21 | 💰 商业趋势: 2 | 📱 产品模式: 3 | 🔧 工具生态: 1",
+    "total_items": 27,
+    "high_value_count": 23,
     "all_today_ids": [
       {
-        "id": "anthropics-nasdaq-debut",
-        "label": "Anthropic’s Nasdaq debut"
+        "id": "anthropic-employee-claims-general-proof-of-the-riemann-hypothesis-pdf",
+        "label": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]"
       },
       {
-        "id": "garage-door-spam",
-        "label": "Garage Door Spam"
+        "id": "frostbite-a-new-cpu-architecture-discovered-designed-and-verified-by-ai",
+        "label": "Frostbite: A new CPU architecture discovered, designed and verified by AI"
       },
       {
-        "id": "pete-warden-on-local-ai-open-models-voice-interfaces-the-future-of-hardware",
-        "label": "Pete warden on local AI, open models, voice interfaces, the future of hardware"
+        "id": "if-you-cant-explain-something-in-simple-terms-you-dont-understand-it-2017",
+        "label": "If you can't explain something in simple terms, you don't understand it (2017)"
       },
       {
-        "id": "claude-solves-two-open-problems-in-the-physics-of-black-holes",
-        "label": "Claude solves two open problems in the physics of black holes"
+        "id": "what-comes-after-agi",
+        "label": "What Comes After AGI?"
       },
       {
-        "id": "fuck-your-ai-safeguards",
-        "label": "Fuck Your AI Safeguards"
+        "id": "global-stock-markets-slump-as-anthropics-record-ipo-fails-to-stem-ai-sell-off",
+        "label": "Global stock markets slump as Anthropic's record IPO fails to stem AI sell-off"
       },
       {
-        "id": "distributed-high-performance-blob-storage-on-sqlite",
-        "label": "Distributed, high-performance blob storage on SQLite"
+        "id": "anthropic8217s-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
+        "label": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO"
       },
       {
-        "id": "an-oregon-library-ditched-dewey-decimal-and-got-people-excited-about-books-again",
-        "label": "An Oregon library ditched Dewey Decimal and got people excited about books again"
+        "id": "chatgpt-for-snes",
+        "label": "ChatGPT for SNES"
       },
       {
-        "id": "ai-isnt-replacing-your-job-its-turning-it-into-low-paid-gig-work",
-        "label": "AI isn't replacing your job. It's turning it into low-paid gig work"
+        "id": "the-fallout-from-nvidias-jensen-huang-scandal-continues",
+        "label": "The fallout from Nvidia’s Jensen Huang scandal continues"
       },
       {
-        "id": "the-98-slot-machine-how-paid-advertising-became-an-extraction-tax",
-        "label": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax"
+        "id": "apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
+        "label": "Apple may be developing its own AI agent that runs your Mac"
       },
       {
-        "id": "should-governments-slow-frontier-ai-jacob-coxon-and-robin-hanson-debate-video",
-        "label": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]"
+        "id": "what-people-are-building-discovered-through-new-domains",
+        "label": "What people are building, discovered through new domains"
       },
       {
-        "id": "metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-dat",
-        "label": "Meta’s AI agent Muse is mixing up conversations and could be exposing private da"
+        "id": "six-ai-powered-gadgets-that-could-make-your-home-office-smarter",
+        "label": "Six AI-powered gadgets that could make your home office smarter"
       },
       {
-        "id": "former-alibaba-exec8217s-everful-raises-485m-to-connect-retailers-with-chinese-f",
-        "label": "Former Alibaba exec&#8217;s Everful raises $48.5M to connect retailers with Chin"
+        "id": "bio-pm-guided-synthetic-imu-generation",
+        "label": "Bio-PM-Guided Synthetic IMU Generation"
       },
       {
-        "id": "at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
-        "label": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development"
+        "id": "probing-the-conscious-mind-selective-access-and-global-workspace-in-vision-langu",
+        "label": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-La"
       },
       {
-        "id": "these-tech-outages-are-giving-y2k-ai-agent-style",
-        "label": "These tech outages are giving Y2K, AI agent style"
+        "id": "one-prior-two-dynamics-repurposing-video-diffusion-transformers-for-self-supervi",
+        "label": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Super"
       },
       {
-        "id": "meta8217s-new-muse-charm-device-may-cost-300",
-        "label": "Meta&#8217;s new Muse Charm device may cost $300"
+        "id": "realized-versus-population-reliability-anytime-valid-self-consistency-certificat",
+        "label": "Realized versus Population Reliability: Anytime-Valid Self-Consistency Certifica"
       },
       {
-        "id": "anthropic8217s-ipo-puts-ai8217s-circular-financing-boom-to-the-test",
-        "label": "Anthropic&#8217;s IPO puts AI&#8217;s circular financing boom to the test"
+        "id": "rl-post-training-in-diffusion-transformers-is-activation-steering",
+        "label": "RL Post-Training in Diffusion Transformers Is Activation Steering"
       },
       {
-        "id": "two-stealth-models-just-appeared-on-the-leaderboard-both-ahead-of-fable-52",
-        "label": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2"
+        "id": "verify-the-verifier-specification-grounded-llm-cross-checking-for-bugs-that-esca",
+        "label": "Verify the Verifier: Specification-Grounded LLM Cross-Checking for Bugs That Esc"
       },
       {
-        "id": "superhuman-pushes-its-go-assistant-everywhere",
-        "label": "Superhuman pushes its Go assistant everywhere"
+        "id": "depth-pro-2-sharp-and-temporally-consistent-metric-monocular-depth",
+        "label": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth"
       },
       {
-        "id": "anthropic8217s-ipo-could-deliver-156b-to-charity",
-        "label": "Anthropic&#8217;s IPO could deliver $156B to charity"
+        "id": "tidecache-efficient-hybrid-llm-serving-with-transparent-cache-management-and-lay",
+        "label": "TideCache: Efficient Hybrid LLM Serving with Transparent Cache Management and La"
       },
       {
-        "id": "chrome-ai-features-wasting-much-bandwidth",
-        "label": "Chrome AI features wasting much bandwidth"
+        "id": "pgx-physically-grounded-execution-for-long-horizon-humanoid-loco-manipulation",
+        "label": "PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation"
       },
       {
-        "id": "anthropic-hits-nasdaq-exchanges-at-111-33-above-ipo-price",
-        "label": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price"
+        "id": "active-feature-acquisition-by-distilling-an-oracle-teacher",
+        "label": "Active Feature Acquisition by Distilling an Oracle Teacher"
       },
       {
-        "id": "google-gives-gemini-the-ability-to-use-your-mac-for-you",
-        "label": "Google gives Gemini the ability to use your Mac for you"
+        "id": "sok-assessing-the-evolution-of-llm-capability-in-software-vulnerability-research",
+        "label": "SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Researc"
       },
       {
-        "id": "how-to-make-the-ink-used-to-write-hamlet-and-the-declaration-of-independence",
-        "label": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence"
+        "id": "playcraft-designing-engaging-games-from-agent-play-experience",
+        "label": "PlayCraft: Designing Engaging Games from Agent Play Experience"
       },
       {
-        "id": "rebuilding-my-local-voice-assistant-pipeline",
-        "label": "Rebuilding my local voice assistant pipeline"
+        "id": "why-the-airbus-a321xlr-often-gets-stuck-climbing-for-first-few-hours-of-flight",
+        "label": "Why the Airbus A321XLR often gets stuck climbing for first few hours of flight"
+      },
+      {
+        "id": "weight-space-programming-builds-neural-networks-like-a-1990s-researcher",
+        "label": "Weight-Space Programming builds neural networks like a 1990s researcher"
+      },
+      {
+        "id": "epic-games-turns-to-ai-coding-for-the-unreal-engine",
+        "label": "Epic Games Turns to AI Coding for the Unreal Engine"
+      },
+      {
+        "id": "show-hn-i-made-an-audio-to-midi-model-60x-more-efficient",
+        "label": "Show HN: I made an audio-to-MIDI model 60x more efficient"
       }
     ],
-    "date_bj": "2026-11-20 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-20 08:04:28"
+    "date_bj": "2026-11-21 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-21 00:05:13"
   }
 }

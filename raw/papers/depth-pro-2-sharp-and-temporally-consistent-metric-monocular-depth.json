@@ -1,0 +1,23 @@
+{
+  "title": "Depth Pro 2: Sharp and Temporally Consistent Metric Monocular Depth",
+  "summary": "We present Depth Pro 2, an approach to estimating dense metric depth for images and video at full resolution. By analyzing prior methods for monocular depth estimation, we find that they commonly trade off temporal consistency and boundary sharpness: multi-frame methods favor consistency, single-frame methods favor sharpness. To overcome this trade-off, we train a single, scalable network that processes both images and video and predicts depth maps at native resolution. Depth Pro 2 produces depth maps that are metrically accurate, sharp, and temporally consistent all at once, outperforming prior work in all of these dimensions. We release a family of models that define a new Pareto frontier in terms of metric accuracy, sharpness, temporal consistency, and runtime. We release code and weights at https://apple-aiml-research.github.io/ml-depth-pro-2/",
+  "url": "http://arxiv.org/abs/2611.26603v1",
+  "authors": [
+    "Peiyun Hu",
+    "Marko Mihajlovic",
+    "Lyndon Duong",
+    "Lahav Lipson",
+    "Wei Dong"
+  ],
+  "published": "2026-11-19T18:55:41Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "accuracy"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
