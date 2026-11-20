@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-11-21 | Total pages: 6330
+> Last updated: 2026-11-21 | Total pages: 6337
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -138,6 +138,7 @@
 - [[ai-changes-the-economics-of-software-rewrites.md]] AI changes the economics of software rewrites `pillar:capabilities` `score:0.5`
 - [[ai-chip-architectures.md]] AI Chip Architectures `pillar:capabilities` `score:0.255`
 - [[ai-chip-startup-etched-defies-skeptics-hits-103b-valuation-from-big-name-investo.md]] AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name inve `pillar:capabilities` `score:0.445`
+- [[ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too.md]] AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did, `pillar:capabilities` `score:0.305`
 - [[ai-coding-at-home-without-going-broke.md]] AI coding at home without going broke `pillar:capabilities` `score:0.55`
 - [[ai-coding-has-made-ci-a-bottleneck-so-we-reworked-ours-to-keep-up.md]] AI coding has made CI a bottleneck, so we reworked ours to keep up `pillar:capabilities` `score:0.375`
 - [[ai-compute-extensions-ace-specification.md]] AI Compute Extensions (ACE) Specification `pillar:capabilities` `score:0.26`
@@ -516,6 +517,7 @@
 - [[chinas-first-frontier-ai-export-controls-mofcom-announcement-no-48.md]] China's First Frontier AI Export Controls: Mofcom Announcement No. 48 `pillar:capabilities` `score:0.255`
 - [[chinese-cybercrime-operation-that-used-ai-to-scam-8216hundreds-of-thousands-of-v.md]] Chinese cybercrime operation that used AI to scam &#8216;hundreds of thousands o `pillar:capabilities` `score:0.445`
 - [[chinese-frontier-ai-models-carry-the-fingerprint-of-export-controlled-gpus.md]] Chinese frontier AI models carry the fingerprint of export-controlled GPUs `pillar:capabilities` `score:0.255`
+- [[chips-can-survive-the-space-environment-can-their-financing.md]] Chips can survive the space environment — can their financing? `pillar:capabilities` `score:0.305`
 - [[chrome-again-exempts-google-from-user-site-data-settings.md]] Chrome again exempts Google from user site data settings `pillar:capabilities` `score:0.255`
 - [[chrome-ai-features-wasting-much-bandwidth.md]] Chrome AI features wasting much bandwidth `pillar:capabilities` `score:0.305`
 - [[chrome-is-now-shipping-updates-every-2-weeks-as-ai-changes-the-security-landscap.md]] Chrome is now shipping updates every 2 weeks as AI changes the security landscap `pillar:capabilities` `score:0.305`
@@ -636,6 +638,7 @@
 - [[daily-pill-can-double-survival-time-for-deadliest-cancer-trial-shows.md]] Daily pill can double survival time for deadliest cancer, trial shows `pillar:capabilities` `score:0.305`
 - [[daisugi-the-japanese-technique-of-growing-trees-out-of-other-trees-2020.md]] Daisugi, the Japanese technique of growing trees out of other trees (2020) `pillar:capabilities` `score:0.43`
 - [[daisyrose-27b.md]] DaisyRose-27B `pillar:capabilities` `score:0.355`
+- [[daniel-ek-backs-ai-researcher8217s-fusion-power-startup-here8217s-what-they8217r.md]] Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what th `pillar:capabilities` `score:0.305`
 - [[danu-robotics8217-fight-to-build-a-better-recycling-robot.md]] Danu Robotics&#8217; fight to build a better recycling robot `pillar:capabilities` `score:0.305`
 - [[darpa-us-air-force-fly-ai-controlled-f-16.md]] DARPA, U.S. Air Force fly AI-controlled F-16 `pillar:capabilities` `score:0.55`
 - [[data-centers-are-turning-to-old-jet-engines-as-the-wait-for-power-grows.md]] Data centers are turning to old jet engines as the wait for power grows `pillar:capabilities` `score:0.305`
@@ -973,6 +976,7 @@
 - [[google-will-let-schools-disable-its-ai-tools-but-not-without-sacrificing-search.md]] Google will let schools disable its AI tools, but not without sacrificing Search `pillar:capabilities` `score:0.305`
 - [[google-will-pay-spacex-920m-per-month-for-compute.md]] Google will pay SpaceX $920M per month for compute `pillar:capabilities` `score:0.55`
 - [[google-will-turn-off-search-for-schools-that-reject-ai.md]] Google will turn off search for schools that reject AI `pillar:capabilities` `score:0.505`
+- [[google-workers-tell-their-employer-not-to-punish-schools-that-dont-want-ai.md]] Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI `pillar:capabilities` `score:0.425`
 - [[google-workspace-thinks-my-domain-is-an-email-provider.md]] Google Workspace thinks my domain is an email provider `pillar:capabilities` `score:0.155`
 - [[google8217s-899-googlebook-is-a-bet-that-you8217ll-buy-a-new-laptop-for-gemini.md]] Google&#8217;s $899 Googlebook is a bet that you&#8217;ll buy a new laptop for G `pillar:capabilities` `score:0.305`
 - [[google8217s-ai-feature-in-search-gets-its-own-incognito-mode.md]] Google&#8217;s AI feature in Search gets its own incognito mode `pillar:capabilities` `score:0.305`
@@ -1325,6 +1329,7 @@
 - [[labmlaiannotated_deep_learning_paper_implementations.md]] labmlai/annotated_deep_learning_paper_implementations `pillar:capabilities` `score:0.405`
 - [[laffaire-siloxane.md]] L'Affaire Siloxane `pillar:capabilities` `score:0.345`
 - [[language-courses-in-the-public-domain.md]] Language Courses in the Public Domain `pillar:capabilities` `score:0.26`
+- [[language-models-can-rewrite-their-own-weights.md]] Language Models Can Rewrite Their Own Weights `pillar:capabilities` `score:0.405`
 - [[language-models-for-text-classification-from-bag-of-words-to-jev.md]] Language models for text classification: From bag-of-words to Jev `pillar:capabilities` `score:0.205`
 - [[laplace-intelligence-red-teams-robots-and-self-driving-cars-before-they-hit-the.md]] Laplace Intelligence red-teams robots and self-driving cars before they hit the `pillar:capabilities` `score:0.305`
 - [[large-language-models-develop-novel-social-biases-through-adaptive-exploration.md]] Large language models develop novel social biases through adaptive exploration `pillar:capabilities` `score:0.255`
@@ -2639,6 +2644,7 @@
 - [[venices-failed-war-against-constantinople-led-to-the-first-bond-market.md]] Venice’s failed war against Constantinople led to the first bond market `pillar:capabilities` `score:0.205`
 - [[vghf-digital-archive-passes-5000-magazines-heres-whats-next.md]] VGHF Digital Archive passes 5000 magazines. Here's what's next `pillar:capabilities` `score:0.155`
 - [[vibe-coding-platform-base44-launches-own-model-as-ai-startups-seek-defensibility.md]] Vibe coding platform Base44 launches own model as AI startups seek defensibility `pillar:capabilities` `score:0.48`
+- [[vibecoding-an-inference-chip.md]] Vibecoding an inference chip `pillar:capabilities` `score:0.255`
 - [[vibes-dont-maintain.md]] Vibes Don't Maintain `pillar:capabilities` `score:0.155`
 - [[vibethinker-3b-param-model-that-beats-opus-45-on-reasoning-with-novel-sftgrpo.md]] VibeThinker: 3B param model that beats Opus 4.5 on reasoning with novel SFT+GRPO `pillar:capabilities` `score:0.43`
 - [[vintage-artificial-intelligence-before-it-got-awkward.md]] Vintage Artificial Intelligence: Before It Got Awkward `pillar:capabilities` `score:0.205`
@@ -5234,6 +5240,7 @@
 - [[hugging-face8217s-ceo-on-why-companies-are-done-renting-their-ai.md]] Hugging Face&#8217;s CEO on why companies are done renting their AI `pillar:ecosystem` `score:0.515`
 - [[hundreds-of-artex-ai-hacking-tools-found-publicly-exposed-to-the-web.md]] Hundreds of Artex AI hacking tools found publicly exposed to the web `pillar:ecosystem` `score:0.305`
 - [[if-youre-giving-a-commencement-speech-in-2026-maybe-dont-mention-ai.md]] If you’re giving a commencement speech in 2026, maybe don’t mention AI `pillar:ecosystem` `score:0.515`
+- [[ill-never-buy-framework-hardware-again.md]] I'll never buy Framework hardware again `pillar:ecosystem` `score:0.505`
 - [[in-praise-of-memcached.md]] In praise of memcached `pillar:ecosystem` `score:0.445`
 - [[in-the-hugging-face-breach-openai8217s-hacker-was-noisy-and-fast-but-not-unstopp.md]] In the Hugging Face breach, OpenAI&#8217;s hacker was noisy and fast — but not u `pillar:ecosystem` `score:0.375`
 - [[in-toto-a-framework-to-secure-the-integrity-of-software-supply-chains.md]] In-toto: A framework to secure the integrity of software supply chains `pillar:ecosystem` `score:0.33`

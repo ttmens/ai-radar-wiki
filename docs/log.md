@@ -6621,3 +6621,12 @@
 - create: six-ai-powered-gadgets-that-could-make-your-home-office-smarter.md
 - create: apple-may-be-developing-its-own-ai-agent-that-runs-your-mac.md
 - create: anthropic8217s-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo.md
+
+## [2026-11-21 06:02] sync v3 | 7 new | pillars: {'capabilities': 6, 'ecosystem': 1}
+- create: language-models-can-rewrite-their-own-weights.md
+- create: vibecoding-an-inference-chip.md
+- create: google-workers-tell-their-employer-not-to-punish-schools-that-dont-want-ai.md
+- create: ill-never-buy-framework-hardware-again.md
+- create: daniel-ek-backs-ai-researcher8217s-fusion-power-startup-here8217s-what-they8217r.md
+- create: ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too.md
+- create: chips-can-survive-the-space-environment-can-their-financing.md

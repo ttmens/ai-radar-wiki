@@ -1,7 +1,7 @@
 {
   "date": "2026-11-21",
-  "generated_at": "2026-11-21T00:05:59.219520+08:00",
-  "item_count": 23,
+  "generated_at": "2026-11-21T06:02:11.047220+08:00",
+  "item_count": 29,
   "items": [
     {
       "id": "anthropic-employee-claims-general-proof-of-the-riemann-hypothesis-pdf",
@@ -12,6 +12,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50574968",
+      "date": "2026-11-21"
+    },
+    {
+      "id": "ill-never-buy-framework-hardware-again",
+      "label": "I'll never buy Framework hardware again",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "ecosystem",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50576855",
       "date": "2026-11-21"
     },
     {
@@ -26,6 +37,17 @@
       "date": "2026-11-21"
     },
     {
+      "id": "google-workers-tell-their-employer-not-to-punish-schools-that-dont-want-ai",
+      "label": "Google Workers Tell Their Employer Not to Punish Schools That Don't Want AI",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.425,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50577901",
+      "date": "2026-11-21"
+    },
+    {
       "id": "if-you-cant-explain-something-in-simple-terms-you-dont-understand-it-2017",
       "label": "If you can't explain something in simple terms, you don't understand it (2017)",
       "summary": "暂无中文摘要",
@@ -34,6 +56,17 @@
       "type": "hn",
       "source_type": "hn",
       "url": "https://news.ycombinator.com/item?id=50572355",
+      "date": "2026-11-21"
+    },
+    {
+      "id": "language-models-can-rewrite-their-own-weights",
+      "label": "Language Models Can Rewrite Their Own Weights",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.405,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50577265",
       "date": "2026-11-21"
     },
     {
@@ -59,6 +92,17 @@
       "date": "2026-11-21"
     },
     {
+      "id": "daniel-ek-backs-ai-researcher8217s-fusion-power-startup-here8217s-what-they8217r",
+      "label": "Daniel Ek backs AI researcher&#8217;s fusion power startup. Here&#8217;s what th",
+      "summary": "Spotify founder Daniel Ek is backing Europa Fusion, a fusion power startup founded by an AI researcher. Here's what the startup is building.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
+      "date": "2026-11-21"
+    },
+    {
       "id": "anthropic8217s-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
       "label": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO",
       "summary": "At the upgraded $83/share IPO price, Anthropic's seven founders each pocketed $280 million, while the company nabbed nearly $105 billion.",
@@ -67,6 +111,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/11/19/anthropics-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo/",
+      "date": "2026-11-21"
+    },
+    {
+      "id": "chips-can-survive-the-space-environment-can-their-financing",
+      "label": "Chips can survive the space environment — can their financing?",
+      "summary": "Lenders don't want SpaceX shooting their collateral into orbit. What does that mean for space data centers writ large?",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/20/chips-can-survive-the-space-environment-can-their-financing/",
       "date": "2026-11-21"
     },
     {
@@ -122,6 +177,17 @@
       "type": "techcrunch",
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/11/20/6-ai-powered-gadgets-that-could-make-your-home-office-smarter/",
+      "date": "2026-11-21"
+    },
+    {
+      "id": "ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too",
+      "label": "AI claimed a solution to the 167-year-old Riemann Hypothesis — and a human did,",
+      "summary": "Mathematicians are having their minds blown by the latest AI-driven result — and there's a competing human solution, too.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/20/ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too/",
       "date": "2026-11-21"
     },
     {
@@ -258,7 +324,7 @@
     }
   ],
   "graph_totals": {
-    "real_nodes": 10745,
-    "edges": 11967
+    "real_nodes": 10752,
+    "edges": 11974
   }
 }
