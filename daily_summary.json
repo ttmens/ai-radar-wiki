@@ -1,27 +1,20 @@
 {
   "daily_summary": {
-    "date": "2026-11-19",
-    "headline": "今日 AI 情报 · 2026-11-19",
+    "date": "2026-11-20",
+    "headline": "今日 AI 情报 · 2026-11-20",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "do-llm-agents-still-need-to-be-told-how-to-self-improve",
-            "title": "Do LLM Agents Still Need to Be Told How to Self-Improve?",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2611.23219v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "agentic-harness-engineering-beta-requirement-centered-evolution-of-agent-harness",
-            "title": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Ag",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2611.24924v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "anthropics-nasdaq-debut",
+            "title": "Anthropic’s Nasdaq debut",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50562754",
+            "reason": "高价值信号"
           }
         ],
         "trend": "new"
@@ -29,55 +22,20 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：语音交互, AI Agent。",
         "evidence": [
           {
-            "id": "harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
-            "title": "Harvard researchers find AI coding agents shifted the bottleneck to co",
-            "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50538303",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "ai-agents-ask-better-questions-than-kpmg-accountants-in-audit-trial",
-            "title": "AI agents ask better questions than KPMG accountants in audit trial",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=50547777",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "more-banks-say-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacke",
-            "title": "More banks say customers using AI agents are on their own — even if th",
+            "id": "metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-dat",
+            "title": "Meta’s AI agent Muse is mixing up conversations and could be exposing ",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked/",
+            "url": "https://techcrunch.com/2026/11/19/metas-ai-agent-muse-is-mixing-up-conversations-and-exposing-private-data-report-says/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
-            "id": "satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
-            "title": "Satya Nadella predicts AI agents will reshuffle the economics of the w",
+            "id": "these-tech-outages-are-giving-y2k-ai-agent-style",
+            "title": "These tech outages are giving Y2K, AI agent style",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/18/satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web/",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "learning-to-interact-in-multi-agent-self-play-for-controllable-autonomous-drivin",
-            "title": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonom",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2611.24876v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "launch-hn-maritime-yc-f26-a-managed-cloud-for-production-ai-agents",
-            "title": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agent",
-            "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=50549188",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "show-hn-ade-index-a-sourced-and-ranked-index-of-975-agentic-coding-tools",
-            "title": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding ",
-            "score": 0.15,
-            "url": "https://adeindex.com",
+            "url": "https://techcrunch.com/2026/11/19/these-tech-outages-are-giving-y2k-ai-agent-style/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -86,27 +44,13 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资, AI Agent。",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "on-evaluating-user-simulators-for-interactive-agents",
-            "title": "On Evaluating User Simulators for Interactive Agents",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2611.24892v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "agent-trust-infrastructure-ati-a-federated-identity-trust-attestation-and-accoun",
-            "title": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attesta",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2611.23202v1",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "local-ai-agents-in-power-electronics-simulation-deployment-measurements-and-cost",
-            "title": "Local AI Agents in Power Electronics Simulation: Deployment, Measureme",
-            "score": 0.3,
-            "url": "http://arxiv.org/abs/2611.24880v1",
+            "id": "an-oregon-library-ditched-dewey-decimal-and-got-people-excited-about-books-again",
+            "title": "An Oregon library ditched Dewey Decimal and got people excited about b",
+            "score": 0.38,
+            "url": "https://news.ycombinator.com/item?id=50536950",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -118,10 +62,10 @@
         "insight": "今日💰 商业趋势方向的核心信号集中在融资/投资。",
         "evidence": [
           {
-            "id": "anthropic-prices-ipo-at-83-a-share-above-projected-range",
-            "title": "Anthropic prices IPO at $83 a share, above projected range",
+            "id": "anthropic8217s-ipo-could-deliver-156b-to-charity",
+            "title": "Anthropic&#8217;s IPO could deliver $156B to charity",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/18/anthropic-reportedly-prices-ipo-at-83-a-share-above-projected-range/",
+            "url": "https://techcrunch.com/2026/11/19/anthropics-ipo-could-deliver-156-billion-to-charity/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -131,307 +75,119 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日9条情报涉及AI Agent及相关工具生态。典型项目包括：AI agents ask better questions than KPMG, More banks say customers using AI agents, Satya Nadella predicts AI agents will re。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Meta’s AI agent Muse is mixing up conver, These tech outages are giving Y2K, AI ag, Google gives Gemini the ability to use y。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日4条情报涉及AI商业动态。包括：Anthropic prices IPO at $83 a share, abo, The Magic of Partial Evaluation, Nvidia’s startup stakes ballooned to $65。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日3条情报涉及AI商业动态。包括：Anthropic&#8217;s IPO puts AI&#8217;s ci, Anthropic&#8217;s IPO could deliver $156, Anthropic hits Nasdaq exchanges at $111,。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 48 | 📱 产品模式: 10 | 🔧 工具生态: 8 | 💰 商业趋势: 5",
-    "total_items": 71,
-    "high_value_count": 63,
+    "stats": "🤖 技术能力: 12 | 📱 产品模式: 8 | 🔧 工具生态: 3 | 💰 商业趋势: 1",
+    "total_items": 24,
+    "high_value_count": 22,
     "all_today_ids": [
       {
-        "id": "gemini-4-neon",
-        "label": "Gemini 4 Neon"
+        "id": "anthropics-nasdaq-debut",
+        "label": "Anthropic’s Nasdaq debut"
       },
       {
-        "id": "googles-ai-answers-reducing-search-traffic-by-40",
-        "label": "Google's AI answers reducing search traffic by 40%"
+        "id": "garage-door-spam",
+        "label": "Garage Door Spam"
       },
       {
-        "id": "ai-is-killing-all-about-berlin",
-        "label": "AI is killing All About Berlin"
+        "id": "pete-warden-on-local-ai-open-models-voice-interfaces-the-future-of-hardware",
+        "label": "Pete warden on local AI, open models, voice interfaces, the future of hardware"
       },
       {
-        "id": "seven-new-models-at-scalable-price-performance",
-        "label": "Seven new models at scalable price-performance"
+        "id": "claude-solves-two-open-problems-in-the-physics-of-black-holes",
+        "label": "Claude solves two open problems in the physics of black holes"
       },
       {
-        "id": "harvard-researchers-find-ai-coding-agents-shifted-the-bottleneck-to-code-review",
-        "label": "Harvard researchers find AI coding agents shifted the bottleneck to code review"
+        "id": "fuck-your-ai-safeguards",
+        "label": "Fuck Your AI Safeguards"
       },
       {
-        "id": "ai-agents-ask-better-questions-than-kpmg-accountants-in-audit-trial",
-        "label": "AI agents ask better questions than KPMG accountants in audit trial"
+        "id": "distributed-high-performance-blob-storage-on-sqlite",
+        "label": "Distributed, high-performance blob storage on SQLite"
       },
       {
-        "id": "genie-4-is-now-available",
-        "label": "Genie 4 is now available"
+        "id": "an-oregon-library-ditched-dewey-decimal-and-got-people-excited-about-books-again",
+        "label": "An Oregon library ditched Dewey Decimal and got people excited about books again"
       },
       {
-        "id": "why-is-gemini-4-carbon-taking-so-long",
-        "label": "Why is Gemini 4 Carbon taking so long?"
+        "id": "ai-isnt-replacing-your-job-its-turning-it-into-low-paid-gig-work",
+        "label": "AI isn't replacing your job. It's turning it into low-paid gig work"
       },
       {
-        "id": "advancing-chip-design-with-openai-models",
-        "label": "Advancing chip design with OpenAI models"
+        "id": "the-98-slot-machine-how-paid-advertising-became-an-extraction-tax",
+        "label": "The 98% Slot Machine: How Paid Advertising Became an Extraction Tax"
       },
       {
-        "id": "gemini-4-neon-looks-like-an-opus-55-competitor",
-        "label": "Gemini 4 Neon looks like an Opus 5.5 competitor"
+        "id": "should-governments-slow-frontier-ai-jacob-coxon-and-robin-hanson-debate-video",
+        "label": "Should governments slow frontier AI? Jacob Coxon and Robin Hanson debate [video]"
       },
       {
-        "id": "anthropic-prices-initial-public-offering",
-        "label": "Anthropic prices initial public offering"
+        "id": "metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-dat",
+        "label": "Meta’s AI agent Muse is mixing up conversations and could be exposing private da"
       },
       {
-        "id": "energy-based-reasoners-385x-more-efficient-inference",
-        "label": "Energy-Based Reasoners: 385x more efficient inference"
+        "id": "former-alibaba-exec8217s-everful-raises-485m-to-connect-retailers-with-chinese-f",
+        "label": "Former Alibaba exec&#8217;s Everful raises $48.5M to connect retailers with Chin"
       },
       {
-        "id": "claude-was-trained-on-protein-sequences-at-scale",
-        "label": "Claude was trained on protein sequences at scale"
+        "id": "at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development",
+        "label": "At Nasdaq opening bell, Anthropic CEO recommits to pacing AI development"
       },
       {
-        "id": "daisyrose-27b",
-        "label": "DaisyRose-27B"
+        "id": "these-tech-outages-are-giving-y2k-ai-agent-style",
+        "label": "These tech outages are giving Y2K, AI agent style"
       },
       {
-        "id": "elon-musk-says-ousting-jensen-huang-is-like-8216kicking-michael-jordan-off-your",
-        "label": "Elon Musk says ousting Jensen Huang is like &#8216;kicking Michael Jordan off yo"
+        "id": "meta8217s-new-muse-charm-device-may-cost-300",
+        "label": "Meta&#8217;s new Muse Charm device may cost $300"
       },
       {
-        "id": "amidst-fears-of-ai-cyberattacks-satya-nadella-says-lots-of-critical-infrastructu",
-        "label": "Amidst fears of AI cyberattacks, Satya Nadella says lots of critical infrastruct"
+        "id": "anthropic8217s-ipo-puts-ai8217s-circular-financing-boom-to-the-test",
+        "label": "Anthropic&#8217;s IPO puts AI&#8217;s circular financing boom to the test"
       },
       {
-        "id": "anthropic-prices-ipo-at-83-a-share-above-projected-range",
-        "label": "Anthropic prices IPO at $83 a share, above projected range"
+        "id": "two-stealth-models-just-appeared-on-the-leaderboard-both-ahead-of-fable-52",
+        "label": "Two stealth models just appeared on the leaderboard, both ahead of Fable 5.2"
       },
       {
-        "id": "more-banks-say-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacke",
-        "label": "More banks say customers using AI agents are on their own — even if they get hac"
+        "id": "superhuman-pushes-its-go-assistant-everywhere",
+        "label": "Superhuman pushes its Go assistant everywhere"
       },
       {
-        "id": "the-magic-of-partial-evaluation",
-        "label": "The Magic of Partial Evaluation"
+        "id": "anthropic8217s-ipo-could-deliver-156b-to-charity",
+        "label": "Anthropic&#8217;s IPO could deliver $156B to charity"
       },
       {
-        "id": "satya-nadella-predicts-ai-agents-will-reshuffle-the-economics-of-the-web",
-        "label": "Satya Nadella predicts AI agents will reshuffle the economics of the web"
+        "id": "chrome-ai-features-wasting-much-bandwidth",
+        "label": "Chrome AI features wasting much bandwidth"
       },
       {
-        "id": "llm-assisted-reverse-engineering",
-        "label": "LLM assisted reverse engineering"
+        "id": "anthropic-hits-nasdaq-exchanges-at-111-33-above-ipo-price",
+        "label": "Anthropic hits Nasdaq exchanges at $111, 33% above IPO price"
       },
       {
-        "id": "dumping-an-aes-key-from-a-myq-garage-opener-to-stop-rebooting-when-offline",
-        "label": "Dumping an AES key from a MyQ garage opener to stop rebooting when offline"
+        "id": "google-gives-gemini-the-ability-to-use-your-mac-for-you",
+        "label": "Google gives Gemini the ability to use your Mac for you"
       },
       {
-        "id": "sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots",
-        "label": "Sam Altman warns against a future where AI, not humans, calls the shots"
+        "id": "how-to-make-the-ink-used-to-write-hamlet-and-the-declaration-of-independence",
+        "label": "How to Make the Ink Used to Write Hamlet and the Declaration of Independence"
       },
       {
-        "id": "nvidia-promises-that-revenue-will-keep-soaring-for-now",
-        "label": "Nvidia promises that revenue will keep soaring — for now"
-      },
-      {
-        "id": "felicis-leads-75m-bet-on-unsiloed-ai-to-make-enterprise-documents-usable-by-ai-a",
-        "label": "Felicis leads $7.5M bet on Unsiloed AI to make enterprise documents usable by AI"
-      },
-      {
-        "id": "palmer-luckey-warns-ai-powered-cyberattacks-are-outpacing-defenses-8216it8217s-t",
-        "label": "Palmer Luckey warns AI-powered cyberattacks are outpacing defenses: &#8216;It&#8"
-      },
-      {
-        "id": "nvidia-created-a-weird-bit-of-intrigue-by-not-filing-a-routine-sec-report",
-        "label": "Nvidia created a weird bit of intrigue by not filing a routine SEC report"
-      },
-      {
-        "id": "microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit",
-        "label": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit"
-      },
-      {
-        "id": "ai-will-not-make-you-rich-2025",
-        "label": "AI will not make you rich (2025)"
-      },
-      {
-        "id": "snapchat-now-lets-developers-build-ar-lenses-with-ai-assistants-like-claude-code",
-        "label": "Snapchat now lets developers build AR Lenses with AI assistants like Claude Code"
-      },
-      {
-        "id": "sam-altman-says-his-life-is-so-weird-that-he8217s-unfazed-by-andrew-garfield-por",
-        "label": "Sam Altman says his life is so weird that he&#8217;s unfazed by Andrew Garfield"
-      },
-      {
-        "id": "openai-ceo-sam-altman-says-it8217s-8216hard-to-imagine-the-ai-industry-without-j",
-        "label": "OpenAI CEO Sam Altman says it&#8217;s &#8216;hard to imagine the AI industry wit"
-      },
-      {
-        "id": "palmer-luckey-thinks-china-is-8216thrilled-to-have-jensen-out8217-so-he-wants-th",
-        "label": "Palmer Luckey thinks China is &#8216;thrilled to have Jensen out,&#8217; so he w"
-      },
-      {
-        "id": "can-peer-review-survive-ai-generated-text-pdf",
-        "label": "Can Peer Review Survive AI-Generated Text? [pdf]"
-      },
-      {
-        "id": "nvidia-clarifies-when-it-will-and-won8217t-keep-financing-neoclouds",
-        "label": "Nvidia clarifies when it will — and won&#8217;t —keep financing neoclouds"
-      },
-      {
-        "id": "microsoft-ceo-satya-nadella-remains-confident-in-nvidia-after-huangs-exit",
-        "label": "Microsoft CEO Satya Nadella remains confident in Nvidia after Huang’s exit"
-      },
-      {
-        "id": "nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-dou",
-        "label": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future  deals i"
-      },
-      {
-        "id": "google8217s-ai-feature-in-search-gets-its-own-incognito-mode",
-        "label": "Google&#8217;s AI feature in Search gets its own incognito mode"
-      },
-      {
-        "id": "indias-humyn-labs-raises-47m-to-feed-us-robotics-companies-the-data-they-need",
-        "label": "India’s Humyn Labs raises $47M to feed U.S. robotics companies the data they nee"
-      },
-      {
-        "id": "decomposing-sgd-dynamics-in-neural-networks-teacher-induced-spikes-and-variance",
-        "label": "Decomposing SGD Dynamics in Neural Networks: Teacher-Induced Spikes and Variance"
-      },
-      {
-        "id": "ambient-llms-data-efficient-supervised-fine-tuning-via-temperature-matching",
-        "label": "Ambient LLMs: Data-Efficient Supervised Fine-tuning via Temperature Matching"
-      },
-      {
-        "id": "what-does-a-bias-head-measure-non-identifiability-in-head-level-bias-attribution",
-        "label": "What Does a Bias Head Measure? Non-Identifiability in Head-Level Bias Attributio"
-      },
-      {
-        "id": "distortion-free-semantic-watermarks-for-black-box-generative-models",
-        "label": "Distortion-Free Semantic Watermarks for Black-Box Generative Models"
-      },
-      {
-        "id": "on-evaluating-user-simulators-for-interactive-agents",
-        "label": "On Evaluating User Simulators for Interactive Agents"
-      },
-      {
-        "id": "auditing-black-box-clinical-prediction-models-with-a-large-language-model-throug",
-        "label": "Auditing black-box clinical prediction models with a large language model throug"
-      },
-      {
-        "id": "who-are-you-the-personal-imitation-game",
-        "label": "Who are you? The Personal Imitation Game"
-      },
-      {
-        "id": "learning-to-interact-in-multi-agent-self-play-for-controllable-autonomous-drivin",
-        "label": "Learning to Interact in Multi-Agent Self-Play for Controllable Autonomous Drivin"
-      },
-      {
-        "id": "spool-low-latency-streaming-inference-for-hybrid-vision-language-models",
-        "label": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models"
-      },
-      {
-        "id": "fine-tuning-gemma-4-edge-models-for-matlab-signal-processing-code-with-sft-and-q",
-        "label": "Fine-Tuning Gemma 4 Edge Models for MATLAB Signal-Processing Code with SFT and Q"
-      },
-      {
-        "id": "mapping-the-ai-supply-chain-dependencies-vulnerabilities-and-market-concentratio",
-        "label": "Mapping the AI Supply Chain: Dependencies, Vulnerabilities, and Market Concentra"
-      },
-      {
-        "id": "equivariant-modeling-with-polynomial-features-via-minimal-homogeneous-generators",
-        "label": "Equivariant Modeling with Polynomial Features via Minimal Homogeneous Generators"
-      },
-      {
-        "id": "multimodal-masked-diffusion-autoencoder-for-modeling-impaired-driving",
-        "label": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving"
-      },
-      {
-        "id": "reading-scene-states-uncovering-safety-failures-in-vision-language-models",
-        "label": "Reading Scene States: Uncovering Safety Failures in Vision-Language Models"
-      },
-      {
-        "id": "do-llm-agents-still-need-to-be-told-how-to-self-improve",
-        "label": "Do LLM Agents Still Need to Be Told How to Self-Improve?"
-      },
-      {
-        "id": "agent-trust-infrastructure-ati-a-federated-identity-trust-attestation-and-accoun",
-        "label": "Agent Trust Infrastructure (ATI): A Federated Identity, Trust, Attestation, and"
-      },
-      {
-        "id": "higher-scoring-coding-models-did-not-get-more-work-done",
-        "label": "Higher-Scoring Coding Models Did Not Get More Work Done"
-      },
-      {
-        "id": "knowing-what-you-know-a-trait-theory-of-reviewer-value-in-human-ai-cognitive-sys",
-        "label": "Knowing What You Know: A Trait Theory of Reviewer Value in Human-AI Cognitive Sy"
-      },
-      {
-        "id": "cap-and-track-optimizing-llm-inference-request-dispatch-across-shifting-capacity",
-        "label": "Cap-and-Track: Optimizing LLM Inference Request Dispatch Across Shifting Capacit"
-      },
-      {
-        "id": "agentic-harness-engineering-beta-requirement-centered-evolution-of-agent-harness",
-        "label": "Agentic Harness Engineering Beta: Requirement-Centered Evolution of Agent Harnes"
-      },
-      {
-        "id": "monoculture-robust-learning",
-        "label": "Monoculture Robust Learning"
-      },
-      {
-        "id": "stringqft-a-multiuse-textbook-resource-for-ai-assisted-theoretical-physics",
-        "label": "StringQFT: A Multiuse Textbook Resource for AI-Assisted Theoretical Physics"
-      },
-      {
-        "id": "an-inexact-stochastic-variance-reduced-gradient-method-for-constrained-convex-fi",
-        "label": "An inexact stochastic variance-reduced gradient method for constrained convex fi"
-      },
-      {
-        "id": "local-ai-agents-in-power-electronics-simulation-deployment-measurements-and-cost",
-        "label": "Local AI Agents in Power Electronics Simulation: Deployment, Measurements and Co"
-      },
-      {
-        "id": "black-high-school-students-sue-after-ai-mistakes-doritos-bag-for-gun",
-        "label": "Black high school students sue after AI mistakes Doritos bag for gun"
-      },
-      {
-        "id": "launch-hn-maritime-yc-f26-a-managed-cloud-for-production-ai-agents",
-        "label": "Launch HN: Maritime (YC F26) – A managed cloud for production AI agents"
-      },
-      {
-        "id": "cerebras-disaggregated-inference",
-        "label": "Cerebras Disaggregated Inference"
-      },
-      {
-        "id": "when-ai-knows-more-than-it-can-offer",
-        "label": "When AI Knows More Than It Can Offer"
-      },
-      {
-        "id": "ipv6-delegation-an-unusually-subtle-failure-mode",
-        "label": "IPv6 delegation, an unusually subtle failure mode"
-      },
-      {
-        "id": "fun-with-constrained-programming-2012",
-        "label": "Fun with Constrained Programming (2012)"
-      },
-      {
-        "id": "show-hn-ade-index-a-sourced-and-ranked-index-of-975-agentic-coding-tools",
-        "label": "Show HN: ADE Index – a sourced and ranked index of 975 agentic coding tools"
-      },
-      {
-        "id": "previous-token-prediction-based-llm-inversion-for-prompt-reconstruction",
-        "label": "Previous-Token Prediction Based LLM Inversion for Prompt Reconstruction"
+        "id": "rebuilding-my-local-voice-assistant-pipeline",
+        "label": "Rebuilding my local voice assistant pipeline"
       }
     ],
-    "date_bj": "2026-11-19 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-19 16:04:51"
+    "date_bj": "2026-11-20 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-20 08:04:28"
   }
 }

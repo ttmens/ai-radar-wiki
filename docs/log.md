@@ -6566,3 +6566,29 @@
 - create: sam-altman-warns-against-a-future-where-ai-not-humans-calls-the-shots.md
 - create: openai-ceo-sam-altman-says-it8217s-8216hard-to-imagine-the-ai-industry-without-j.md
 - create: show-hn-ade-index-a-sourced-and-ranked-index-of-975-agentic-coding-tools.md
+
+## [2026-11-20 08:04] sync v3 | 27 new | pillars: {'capabilities': 13, 'patterns': 8, 'ecosystem': 5, 'business': 1}
+- create: anthropics-nasdaq-debut.md
+- create: claude-solves-two-open-problems-in-the-physics-of-black-holes.md
+- create: garage-door-spam.md
+- create: the-98-slot-machine-how-paid-advertising-became-an-extraction-tax.md
+- create: should-governments-slow-frontier-ai-jacob-coxon-and-robin-hanson-debate-video.md
+- create: rebuilding-my-local-voice-assistant-pipeline.md
+- create: pete-warden-on-local-ai-open-models-voice-interfaces-the-future-of-hardware.md
+- create: an-oregon-library-ditched-dewey-decimal-and-got-people-excited-about-books-again.md
+- create: how-to-make-the-ink-used-to-write-hamlet-and-the-declaration-of-independence.md
+- create: distributed-high-performance-blob-storage-on-sqlite.md
+- create: fuck-your-ai-safeguards.md
+- create: chrome-ai-features-wasting-much-bandwidth.md
+- create: ai-isnt-replacing-your-job-its-turning-it-into-low-paid-gig-work.md
+- create: two-stealth-models-just-appeared-on-the-leaderboard-both-ahead-of-fable-52.md
+- create: meta8217s-new-muse-charm-device-may-cost-300.md
+- create: these-tech-outages-are-giving-y2k-ai-agent-style.md
+- create: anthropic8217s-ipo-could-deliver-156b-to-charity.md
+- create: google-gives-gemini-the-ability-to-use-your-mac-for-you.md
+- create: metas-ai-agent-muse-is-mixing-up-conversations-and-could-be-exposing-private-dat.md
+- create: former-alibaba-exec8217s-everful-raises-485m-to-connect-retailers-with-chinese-f.md
+- create: anthropic-hits-nasdaq-exchanges-at-111-33-above-ipo-price.md
+- create: at-nasdaq-opening-bell-anthropic-ceo-recommits-to-pacing-ai-development.md
+- create: anthropic8217s-ipo-puts-ai8217s-circular-financing-boom-to-the-test.md
+- create: superhuman-pushes-its-go-assistant-everywhere.md
