@@ -6630,3 +6630,16 @@
 - create: daniel-ek-backs-ai-researcher8217s-fusion-power-startup-here8217s-what-they8217r.md
 - create: ai-claimed-a-solution-to-the-167-year-old-riemann-hypothesis-and-a-human-did-too.md
 - create: chips-can-survive-the-space-environment-can-their-financing.md
+
+## [2026-11-21 18:02] sync v3 | 7 new | pillars: {'patterns': 2, 'capabilities': 5}
+- create: clawdos-an-ai-coding-agent-for-dos.md
+- create: surprisingly-adorable-insect-portraits.md
+- create: the-hungry-butler-effect-concealed-commercial-incentives-in-llms.md
+- create: i-dont-trust-visual-recordings-anymore-but-one-day-i-will-again.md
+
+## [2026-11-22 06:02] sync v3 | 8 new | pillars: {'capabilities': 6, 'patterns': 2}
+- create: pill-to-treat-pancreatic-cancer-hailed-as-biggest-breakthrough-in-decades.md
+- create: exponential-behavior-in-magic-the-gathering.md
+- create: signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-sur.md
+- create: a-tale-of-two-nvidias.md
+- create: is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-h.md

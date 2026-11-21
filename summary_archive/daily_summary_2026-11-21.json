@@ -25,6 +25,13 @@
         "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
+            "id": "restricting-ai-agents-in-mobile-operating-systems-platforms-from-capturing-data",
+            "title": "Restricting AI agents in mobile operating systems platforms from captu",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50572348",
+            "reason": "高价值信号"
+          },
+          {
             "id": "apple-may-be-developing-its-own-ai-agent-that-runs-your-mac",
             "title": "Apple may be developing its own AI agent that runs your Mac",
             "score": 0.3,
@@ -36,6 +43,13 @@
             "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
             "score": 0.3,
             "url": "http://arxiv.org/abs/2611.26624v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "clawdos-an-ai-coding-agent-for-dos",
+            "title": "ClawDOS – An AI coding agent for DOS",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50586292",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -75,7 +89,7 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Apple may be developing its own AI agent, PlayCraft: Designing Engaging Games from。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Restricting AI agents in mobile operatin, Apple may be developing its own AI agent, PlayCraft: Designing Engaging Games from。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
@@ -86,10 +100,14 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 27 | 🔧 工具生态: 2 | 💰 商业趋势: 2 | 📱 产品模式: 3",
-    "total_items": 34,
-    "high_value_count": 29,
+    "stats": "📱 产品模式: 5 | 🤖 技术能力: 32 | 🔧 工具生态: 2 | 💰 商业趋势: 2",
+    "total_items": 41,
+    "high_value_count": 31,
     "all_today_ids": [
+      {
+        "id": "restricting-ai-agents-in-mobile-operating-systems-platforms-from-capturing-data",
+        "label": "Restricting AI agents in mobile operating systems platforms from capturing data"
+      },
       {
         "id": "anthropic-employee-claims-general-proof-of-the-riemann-hypothesis-pdf",
         "label": "Anthropic employee claims general proof of the Riemann Hypothesis [pdf]"
@@ -129,6 +147,10 @@
       {
         "id": "anthropic8217s-7-founders-cashed-out-nearly-2b-in-record-breaking-ipo",
         "label": "Anthropic&#8217;s 7 founders cashed out nearly $2B in record-breaking IPO"
+      },
+      {
+        "id": "ninlive-the-nine-inch-nails-live-archive",
+        "label": "NINLIVE: The Nine Inch Nails live archive"
       },
       {
         "id": "chips-can-survive-the-space-environment-can-their-financing",
@@ -215,6 +237,10 @@
         "label": "Vibecoding an inference chip"
       },
       {
+        "id": "ai-is-giving-everyone-the-same-advice",
+        "label": "AI is giving everyone the same advice"
+      },
+      {
         "id": "weight-space-programming-builds-neural-networks-like-a-1990s-researcher",
         "label": "Weight-Space Programming builds neural networks like a 1990s researcher"
       },
@@ -225,9 +251,25 @@
       {
         "id": "show-hn-i-made-an-audio-to-midi-model-60x-more-efficient",
         "label": "Show HN: I made an audio-to-MIDI model 60x more efficient"
+      },
+      {
+        "id": "clawdos-an-ai-coding-agent-for-dos",
+        "label": "ClawDOS – An AI coding agent for DOS"
+      },
+      {
+        "id": "surprisingly-adorable-insect-portraits",
+        "label": "Surprisingly Adorable Insect Portraits"
+      },
+      {
+        "id": "i-dont-trust-visual-recordings-anymore-but-one-day-i-will-again",
+        "label": "I Don't Trust Visual Recordings Anymore. But One Day I Will Again"
+      },
+      {
+        "id": "the-hungry-butler-effect-concealed-commercial-incentives-in-llms",
+        "label": "The Hungry Butler Effect: Concealed Commercial Incentives in LLMs"
       }
     ],
     "date_bj": "2026-11-21 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-21 06:01:38"
+    "generated_at_bj": "2026-11-21 18:01:40"
   }
 }
