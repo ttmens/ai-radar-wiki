@@ -2,7 +2,7 @@
   "daily_summary": {
     "date": "2026-11-22",
     "headline": "今日 AI 情报 · 2026-11-22",
-    "overview": "今日共采集 8 条情报",
+    "overview": "今日共采集 15 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -22,13 +22,20 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向有新的动态。",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
         "evidence": [
           {
-            "id": "fewer-slides-more-dragons",
-            "title": "Fewer slides, more dragons",
-            "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=50556482",
+            "id": "pandex-official-european-law-for-ai-agents-over-mcp",
+            "title": "Pandex – Official European Law for AI Agents, over MCP",
+            "score": 0.15,
+            "url": "https://news.ycombinator.com/item?id=50593481",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-agent-mcts-monte-carlo-tree-search-on-top-of-claude-code",
+            "title": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code",
+            "score": 0.15,
+            "url": "https://github.com/natsu0529/agent-mcts",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -51,9 +58,9 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 6 | 🔧 工具生态: 1 | 📱 产品模式: 1",
-    "total_items": 8,
-    "high_value_count": 6,
+    "stats": "🤖 技术能力: 11 | 🔧 工具生态: 1 | 📱 产品模式: 3",
+    "total_items": 15,
+    "high_value_count": 7,
     "all_today_ids": [
       {
         "id": "pill-to-treat-pancreatic-cancer-hailed-as-biggest-breakthrough-in-decades",
@@ -62,6 +69,10 @@
       {
         "id": "cporter202api-mega-list",
         "label": "cporter202/API-mega-list"
+      },
+      {
+        "id": "the-mythology-of-conscious-ai",
+        "label": "The Mythology of Conscious AI"
       },
       {
         "id": "signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-sur",
@@ -86,9 +97,33 @@
       {
         "id": "llms-can-read-and-write-executables-byte-by-byte-from-a-hex-dump",
         "label": "LLMs can read and write executables byte by byte from a hex dump"
+      },
+      {
+        "id": "87-of-the-anthropic-power-will-come-from-gas-and-11-from-coal-in-2028",
+        "label": "87% of the Anthropic power will come from gas and 11% from coal in 2028"
+      },
+      {
+        "id": "tropical-rainforests-species-may-be-surprisingly-young",
+        "label": "Tropical Rainforests Species may be surprisingly young"
+      },
+      {
+        "id": "togetherai-prompt-leakage-for-requests",
+        "label": "Together.ai: Prompt Leakage for Requests"
+      },
+      {
+        "id": "data-processing-incidents-on-inference-providers",
+        "label": "Data Processing Incidents on Inference Providers"
+      },
+      {
+        "id": "pandex-official-european-law-for-ai-agents-over-mcp",
+        "label": "Pandex – Official European Law for AI Agents, over MCP"
+      },
+      {
+        "id": "show-hn-agent-mcts-monte-carlo-tree-search-on-top-of-claude-code",
+        "label": "Show HN: agent-mcts – Monte Carlo tree search on top of Claude Code"
       }
     ],
     "date_bj": "2026-11-22 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-22 06:01:37"
+    "generated_at_bj": "2026-11-22 18:01:53"
   }
 }

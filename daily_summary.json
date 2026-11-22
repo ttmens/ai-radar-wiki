@@ -1,8 +1,8 @@
 {
   "daily_summary": {
-    "date": "2026-11-22",
-    "headline": "今日 AI 情报 · 2026-11-22",
-    "overview": "今日共采集 8 条情报",
+    "date": "2026-11-23",
+    "headline": "今日 AI 情报 · 2026-11-23",
+    "overview": "今日共采集 6 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
@@ -10,11 +10,11 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "pill-to-treat-pancreatic-cancer-hailed-as-biggest-breakthrough-in-decades",
-            "title": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in dec",
-            "score": 0.41,
-            "url": "https://news.ycombinator.com/item?id=50582069",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+            "title": "Why data centers are at the center of the Big Tech backlash",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+            "reason": "里程碑式进展"
           }
         ],
         "trend": "new"
@@ -25,25 +25,10 @@
         "insight": "今日📱 产品模式方向有新的动态。",
         "evidence": [
           {
-            "id": "fewer-slides-more-dragons",
-            "title": "Fewer slides, more dragons",
-            "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=50556482",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "🔧 工具生态",
-        "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向有新的动态。",
-        "evidence": [
-          {
-            "id": "cporter202api-mega-list",
-            "title": "cporter202/API-mega-list",
-            "score": 0.35,
-            "url": "https://github.com/cporter202/API-mega-list",
+            "id": "show-hn-i-built-a-game-where-you-are-an-llms-subagent",
+            "title": "Show HN: I built a game where you are an LLM's subagent",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50599762",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -51,44 +36,36 @@
       }
     ],
     "narratives": [],
-    "stats": "🤖 技术能力: 6 | 🔧 工具生态: 1 | 📱 产品模式: 1",
-    "total_items": 8,
-    "high_value_count": 6,
+    "stats": "🤖 技术能力: 5 | 📱 产品模式: 1",
+    "total_items": 6,
+    "high_value_count": 2,
     "all_today_ids": [
       {
-        "id": "pill-to-treat-pancreatic-cancer-hailed-as-biggest-breakthrough-in-decades",
-        "label": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'"
+        "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+        "label": "Why data centers are at the center of the Big Tech backlash"
       },
       {
-        "id": "cporter202api-mega-list",
-        "label": "cporter202/API-mega-list"
+        "id": "openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+        "label": "OpenAI’s chief scientist has thoughts on how to limit AI development"
       },
       {
-        "id": "signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-sur",
-        "label": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI s"
+        "id": "show-hn-i-built-a-game-where-you-are-an-llms-subagent",
+        "label": "Show HN: I built a game where you are an LLM's subagent"
       },
       {
-        "id": "exponential-behavior-in-magic-the-gathering",
-        "label": "Exponential Behavior in Magic: The Gathering"
+        "id": "muru-ai-assisted-rust-server-for-python-apps-by-mod_wsgis-creator",
+        "label": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator"
       },
       {
-        "id": "a-tale-of-two-nvidias",
-        "label": "A tale of two Nvidias"
+        "id": "ai-is-becoming-a-disaster-for-the-climate",
+        "label": "AI is becoming a disaster for the climate"
       },
       {
-        "id": "is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-h",
-        "label": "Is selling an AI version of your face to this microdrama startup the future of H"
-      },
-      {
-        "id": "fewer-slides-more-dragons",
-        "label": "Fewer slides, more dragons"
-      },
-      {
-        "id": "llms-can-read-and-write-executables-byte-by-byte-from-a-hex-dump",
-        "label": "LLMs can read and write executables byte by byte from a hex dump"
+        "id": "c26-is-done-again-november-2026-iso-c-meeting-trip-report",
+        "label": "C++26 is done (again): November 2026 ISO C++ meeting trip report"
       }
     ],
-    "date_bj": "2026-11-22 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-22 06:01:37"
+    "date_bj": "2026-11-23 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-23 06:01:42"
   }
 }

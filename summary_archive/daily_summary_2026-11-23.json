@@ -1,0 +1,71 @@
+{
+  "daily_summary": {
+    "date": "2026-11-23",
+    "headline": "今日 AI 情报 · 2026-11-23",
+    "overview": "今日共采集 6 条情报",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+            "title": "Why data centers are at the center of the Big Tech backlash",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+            "reason": "里程碑式进展"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "show-hn-i-built-a-game-where-you-are-an-llms-subagent",
+            "title": "Show HN: I built a game where you are an LLM's subagent",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50599762",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [],
+    "stats": "🤖 技术能力: 5 | 📱 产品模式: 1",
+    "total_items": 6,
+    "high_value_count": 2,
+    "all_today_ids": [
+      {
+        "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+        "label": "Why data centers are at the center of the Big Tech backlash"
+      },
+      {
+        "id": "openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+        "label": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+      },
+      {
+        "id": "show-hn-i-built-a-game-where-you-are-an-llms-subagent",
+        "label": "Show HN: I built a game where you are an LLM's subagent"
+      },
+      {
+        "id": "muru-ai-assisted-rust-server-for-python-apps-by-mod_wsgis-creator",
+        "label": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator"
+      },
+      {
+        "id": "ai-is-becoming-a-disaster-for-the-climate",
+        "label": "AI is becoming a disaster for the climate"
+      },
+      {
+        "id": "c26-is-done-again-november-2026-iso-c-meeting-trip-report",
+        "label": "C++26 is done (again): November 2026 ISO C++ meeting trip report"
+      }
+    ],
+    "date_bj": "2026-11-23 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-23 06:01:42"
+  }
+}

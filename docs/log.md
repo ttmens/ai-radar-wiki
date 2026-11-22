@@ -6643,3 +6643,14 @@
 - create: signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-sur.md
 - create: a-tale-of-two-nvidias.md
 - create: is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-h.md
+
+## [2026-11-22 12:02] sync v3 | 4 new | pillars: {'capabilities': 2, 'patterns': 2}
+- create: data-processing-incidents-on-inference-providers.md
+- create: pandex-official-european-law-for-ai-agents-over-mcp.md
+- create: tropical-rainforests-species-may-be-surprisingly-young.md
+- create: show-hn-agent-mcts-monte-carlo-tree-search-on-top-of-claude-code.md
+
+## [2026-11-23 06:02] sync v3 | 7 new | pillars: {'patterns': 1, 'capabilities': 6}
+- create: c26-is-done-again-november-2026-iso-c-meeting-trip-report.md
+- create: openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development.md
+- create: why-data-centers-are-at-the-center-of-the-big-tech-backlash.md

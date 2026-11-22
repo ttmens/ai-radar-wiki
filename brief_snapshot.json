@@ -1,77 +1,33 @@
 {
-  "date": "2026-11-22",
-  "generated_at": "2026-11-22T06:02:08.145851+08:00",
-  "item_count": 6,
+  "date": "2026-11-23",
+  "generated_at": "2026-11-23T06:02:13.873455+08:00",
+  "item_count": 2,
   "items": [
     {
-      "id": "pill-to-treat-pancreatic-cancer-hailed-as-biggest-breakthrough-in-decades",
-      "label": "Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.405,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50582069",
-      "date": "2026-11-22"
-    },
-    {
-      "id": "cporter202api-mega-list",
-      "label": "cporter202/API-mega-list",
-      "summary": "This GitHub repo is a powerhouse collection of APIs you can start using immediately to build everything from simple automations to full-scale applications. One of the most valuable API lists on GitHub—period. 💪",
-      "pm_score": 0.355,
-      "pillar": "ecosystem",
-      "type": "github",
-      "source_type": "github",
-      "url": "https://github.com/cporter202/API-mega-list",
-      "date": "2026-11-22"
-    },
-    {
-      "id": "signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-sur",
-      "label": "Signal restricts mobile screenshots as it confronts ‘existential threat’ of AI s",
-      "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
+      "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
+      "label": "Why data centers are at the center of the Big Tech backlash",
+      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/21/signal-restricts-mobile-screenshots-as-it-confronts-existential-threat-of-ai-surveillance/",
-      "date": "2026-11-22"
+      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
+      "date": "2026-11-23"
     },
     {
-      "id": "exponential-behavior-in-magic-the-gathering",
-      "label": "Exponential Behavior in Magic: The Gathering",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50546495",
-      "date": "2026-11-22"
-    },
-    {
-      "id": "a-tale-of-two-nvidias",
-      "label": "A tale of two Nvidias",
-      "summary": "We got two very different pictures of Nvidia —  the company’s latest earnings report vs. the tech executives loudly calling for Jensen Huang’s return.",
+      "id": "openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
+      "label": "OpenAI’s chief scientist has thoughts on how to limit AI development",
+      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/21/a-tale-of-two-nvidias/",
-      "date": "2026-11-22"
-    },
-    {
-      "id": "is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-h",
-      "label": "Is selling an AI version of your face to this microdrama startup the future of H",
-      "summary": "An actor has licensed his face to a microdrama startup — in a trend that's already popular in China. Experts question the long-term consequences if this becomes a trend in Hollywood, too.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/21/is-selling-an-ai-version-of-your-face-to-this-microdrama-startup-the-future-of-hollywood/",
-      "date": "2026-11-22"
+      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
+      "date": "2026-11-23"
     }
   ],
   "graph_totals": {
-    "real_nodes": 10767,
-    "edges": 11989
+    "real_nodes": 10780,
+    "edges": 12002
   }
 }
