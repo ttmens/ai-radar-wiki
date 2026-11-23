@@ -1,0 +1,20 @@
+{
+  "title": "Optimal Linear Regression Without a Variance",
+  "summary": "We study high-probability linear regression in the infinite variance regime, wherecthe regression noise has only a finite conditional $α$-moment $ν$ for some unknown $α\\in(1,2)$, and the covariates may only have finite moments up to a given order (e.g., 4th moment). We give a black-box reduction that converts finite-variance regression procedures into weak-moment procedures. The reduction is based on empirical residual pruning and is agnostic to the moment exponent, the noise scale, the covariance, and the design moment. Under a finite fourth-moment condition on the covariates, any finite-variance subroutine attaining the sub-Gaussian rate yields the following when the number of samples $n$ is above a suitably defined threshold: Without knowing $α$ or $ν$, we have with probability at least $1-δ$ that $ \\|\\widehatθ-θ^*\\|_Σ\n  \\lesssim_α\n  ν^{1/α}\n  \\big(\\frac{d+\\log(1/δ)}{n}\\big)^{\\frac{α-1}α}, $ where $d$ is the dimension, $Σ$ is the covariate covariance matrix, and $\\|v\\|_Σ:=(v^\\topΣv)^{1/2}$. We further prove a matching minimax lower bound that holds under the same conditions. The reduction is computationally efficient whenever the finite-variance subroutine is. We also obtain a distribution-free prediction guarantee under a bounded raw $α$-moment assumption on the response, and give an analogous $α$-agnostic reduction for mean estimation.",
+  "url": "http://arxiv.org/abs/2611.27983v1",
+  "authors": [
+    "Artin Tajdini",
+    "Jasper C. H. Lee",
+    "Jonathan Scarlett",
+    "Kevin Jamieson"
+  ],
+  "published": "2026-11-20T18:58:45Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

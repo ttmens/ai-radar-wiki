@@ -1,0 +1,17 @@
+{
+  "title": "The Optimal Sample Complexity of Agnostic PAC Learning for Partial Concept Classes",
+  "summary": "Let $\\mathcal H\\subseteq\\{-1,+1,\\star\\}^{\\mathcal X}$ be a partial concept class of finite VC dimension $d$. We construct a deterministic agnostic PAC learner that, for every $\\varepsilon,δ\\in(0,1)$, uses $O((d+\\log(1/δ))/\\varepsilon^2)$ i.i.d. examples from an arbitrary distribution $\\mathcal D$ over $\\mathcal X\\times\\{-1,+1\\}$ and returns a total concept $\\hat h:\\mathcal X\\to\\{-1,+1\\}$ satisfying $\\text{er}_{\\mathcal D}(\\hat h)\\leq \\min_{h\\in\\mathcal H}\\text{er}_{\\mathcal D}(h)+\\varepsilon$ with probability at least $1-δ$, where $\\text{er}_{\\mathcal D}(h)=\\mathbb P_{(x,y)\\sim\\mathcal D}[h(x)\\neq y]$. This establishes the optimal sample complexity, matching the lower bound of Alon et al. (FOCS 2021).",
+  "url": "http://arxiv.org/abs/2611.27946v1",
+  "authors": [
+    "Liang-Yu Zou"
+  ],
+  "published": "2026-11-20T18:18:09Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

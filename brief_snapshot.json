@@ -1,8 +1,41 @@
 {
   "date": "2026-11-23",
-  "generated_at": "2026-11-23T06:02:13.873455+08:00",
-  "item_count": 2,
+  "generated_at": "2026-11-23T20:04:37.076356+08:00",
+  "item_count": 6,
   "items": [
+    {
+      "id": "a-beginners-guide-to-local-ai-with-inkling-qwen-and-unsloth",
+      "label": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.505,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50603845",
+      "date": "2026-11-23"
+    },
+    {
+      "id": "mvanhornlast30days-skill",
+      "label": "mvanhorn/last30days-skill",
+      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "pm_score": 0.405,
+      "pillar": "patterns",
+      "type": "github",
+      "source_type": "github",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "date": "2026-11-23"
+    },
+    {
+      "id": "glm-54-toward-generalized-coding-with-our-first-loop-transformer",
+      "label": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.355,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50609685",
+      "date": "2026-11-23"
+    },
     {
       "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
       "label": "Why data centers are at the center of the Big Tech backlash",
@@ -24,10 +57,21 @@
       "source_type": "techcrunch",
       "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
       "date": "2026-11-23"
+    },
+    {
+      "id": "how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+      "label": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IP",
+      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "pm_score": 0.305,
+      "pillar": "ecosystem",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "date": "2026-11-23"
     }
   ],
   "graph_totals": {
-    "real_nodes": 10780,
-    "edges": 12002
+    "real_nodes": 10800,
+    "edges": 12030
   }
 }

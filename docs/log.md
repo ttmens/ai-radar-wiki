@@ -6654,3 +6654,25 @@
 - create: c26-is-done-again-november-2026-iso-c-meeting-trip-report.md
 - create: openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development.md
 - create: why-data-centers-are-at-the-center-of-the-big-tech-backlash.md
+
+## [2026-11-23 20:04] sync v3 | 20 new | pillars: {'patterns': 2, 'capabilities': 15, 'ecosystem': 3}
+- create: mvanhornlast30days-skill.md
+- create: optimal-linear-regression-without-a-variance.md
+- create: a-methodologically-rigorous-benchmark-of-linear-regressionrnn-and-lstm-for-sp-50.md
+- create: on-the-complete-feature-set-for-adhd-classification-in-children-and-adolescents.md
+- create: non-penetrating-world-models.md
+- create: model-carving-training-transformers-that-optimize-their-own-topology.md
+- create: ranking-preserving-coreset-selection-for-efficient-evolutionary-hyperparameter-o.md
+- create: topology-hub-optimal-transport-eliminating-long-context-dilution-at-flash-speed.md
+- create: the-optimal-sample-complexity-of-agnostic-pac-learning-for-partial-concept-class.md
+- create: bioemu2-scalable-emulation-of-biomolecular-dynamics.md
+- create: suaf-spectral-universal-advantage-features-for-zero-shot-policy-improvement.md
+- create: stereovlm-binocular-vision-language-models-for-metric-3d-spatial-reasoning.md
+- create: star-panoptic-quality-selectively-evaluating-split-and-merged-instances.md
+- create: glm-54-toward-generalized-coding-with-our-first-loop-transformer.md
+- create: a-beginners-guide-to-local-ai-with-inkling-qwen-and-unsloth.md
+- create: verifying-formal-models-of-raft-implementations.md
+- create: 0rwx-a-simple-model-of-ai-usage-inspired-by-unix-permissions.md
+- create: localcode-open-source-agentic-coding-on-your-mac-with-one-command.md
+- create: harvard-cs-2881r-ai-safety.md
+- create: how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo.md

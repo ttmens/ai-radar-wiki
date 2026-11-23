@@ -2,19 +2,19 @@
   "daily_summary": {
     "date": "2026-11-23",
     "headline": "今日 AI 情报 · 2026-11-23",
-    "overview": "今日共采集 6 条情报",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向有新的动态。",
+        "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
         "evidence": [
           {
-            "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
-            "title": "Why data centers are at the center of the Big Tech backlash",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-            "reason": "里程碑式进展"
+            "id": "a-beginners-guide-to-local-ai-with-inkling-qwen-and-unsloth",
+            "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50603845",
+            "reason": "高价值信号"
           }
         ],
         "trend": "new"
@@ -22,8 +22,15 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向有新的动态。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
+          {
+            "id": "localcode-open-source-agentic-coding-on-your-mac-with-one-command",
+            "title": "Localcode, open source agentic coding on your Mac with one command",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50604540",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
           {
             "id": "show-hn-i-built-a-game-where-you-are-an-llms-subagent",
             "title": "Show HN: I built a game where you are an LLM's subagent",
@@ -33,13 +40,53 @@
           }
         ],
         "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+            "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic bef",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
       }
     ],
-    "narratives": [],
-    "stats": "🤖 技术能力: 5 | 📱 产品模式: 1",
-    "total_items": 6,
-    "high_value_count": 2,
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：mvanhorn/last30days-skill, Localcode, open source agentic coding on。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：Non-penetrating World Models。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "🤖 技术能力: 20 | 📱 产品模式: 3 | 🔧 工具生态: 3",
+    "total_items": 26,
+    "high_value_count": 6,
     "all_today_ids": [
+      {
+        "id": "a-beginners-guide-to-local-ai-with-inkling-qwen-and-unsloth",
+        "label": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth"
+      },
+      {
+        "id": "mvanhornlast30days-skill",
+        "label": "mvanhorn/last30days-skill"
+      },
+      {
+        "id": "glm-54-toward-generalized-coding-with-our-first-loop-transformer",
+        "label": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer"
+      },
       {
         "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
         "label": "Why data centers are at the center of the Big Tech backlash"
@@ -49,12 +96,80 @@
         "label": "OpenAI’s chief scientist has thoughts on how to limit AI development"
       },
       {
+        "id": "how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
+        "label": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IP"
+      },
+      {
+        "id": "a-methodologically-rigorous-benchmark-of-linear-regressionrnn-and-lstm-for-sp-50",
+        "label": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P"
+      },
+      {
+        "id": "star-panoptic-quality-selectively-evaluating-split-and-merged-instances",
+        "label": "Star Panoptic Quality: Selectively Evaluating Split and Merged Instances"
+      },
+      {
+        "id": "model-carving-training-transformers-that-optimize-their-own-topology",
+        "label": "Model Carving: Training Transformers That Optimize Their Own Topology"
+      },
+      {
+        "id": "stereovlm-binocular-vision-language-models-for-metric-3d-spatial-reasoning",
+        "label": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning"
+      },
+      {
+        "id": "bioemu2-scalable-emulation-of-biomolecular-dynamics",
+        "label": "BioEmu2: Scalable Emulation of Biomolecular Dynamics"
+      },
+      {
+        "id": "optimal-linear-regression-without-a-variance",
+        "label": "Optimal Linear Regression Without a Variance"
+      },
+      {
+        "id": "on-the-complete-feature-set-for-adhd-classification-in-children-and-adolescents",
+        "label": "On the Complete Feature Set for ADHD Classification in Children and Adolescents"
+      },
+      {
+        "id": "topology-hub-optimal-transport-eliminating-long-context-dilution-at-flash-speed",
+        "label": "Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed"
+      },
+      {
+        "id": "non-penetrating-world-models",
+        "label": "Non-penetrating World Models"
+      },
+      {
+        "id": "the-optimal-sample-complexity-of-agnostic-pac-learning-for-partial-concept-class",
+        "label": "The Optimal Sample Complexity of Agnostic PAC Learning for Partial Concept Class"
+      },
+      {
+        "id": "suaf-spectral-universal-advantage-features-for-zero-shot-policy-improvement",
+        "label": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement"
+      },
+      {
+        "id": "ranking-preserving-coreset-selection-for-efficient-evolutionary-hyperparameter-o",
+        "label": "Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter O"
+      },
+      {
+        "id": "0rwx-a-simple-model-of-ai-usage-inspired-by-unix-permissions",
+        "label": "0rwx – A simple model of AI usage, inspired by Unix permissions"
+      },
+      {
+        "id": "localcode-open-source-agentic-coding-on-your-mac-with-one-command",
+        "label": "Localcode, open source agentic coding on your Mac with one command"
+      },
+      {
         "id": "show-hn-i-built-a-game-where-you-are-an-llms-subagent",
         "label": "Show HN: I built a game where you are an LLM's subagent"
       },
       {
+        "id": "harvard-cs-2881r-ai-safety",
+        "label": "Harvard CS 2881R AI Safety"
+      },
+      {
         "id": "muru-ai-assisted-rust-server-for-python-apps-by-mod_wsgis-creator",
         "label": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator"
+      },
+      {
+        "id": "verifying-formal-models-of-raft-implementations",
+        "label": "Verifying formal models of Raft implementations"
       },
       {
         "id": "ai-is-becoming-a-disaster-for-the-climate",
@@ -66,6 +181,6 @@
       }
     ],
     "date_bj": "2026-11-23 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-23 06:01:42"
+    "generated_at_bj": "2026-11-23 20:03:54"
   }
 }

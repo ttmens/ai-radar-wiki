@@ -5,13 +5,29 @@
     <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     <description>AI 产品设计雷达 - 自动化追踪 AI 领域最新技术、产品、商业动态</description>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 22 Nov 2026 20:00:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 12:00:25 +0000</lastBuildDate>
     <atom:link href="https://ttmens.github.io/ai-radar-wiki/feed.xml" rel="self" type="application/rss+xml"/>
     <image>
       <url>https://ttmens.github.io/ai-radar-wiki/og-image.png</url>
       <title>AI Radar - 每日情报摘要</title>
       <link>https://ttmens.github.io/ai-radar-wiki/graph.html</link>
     </image>
+    <item>
+      <title>Why data centers are at the center of the Big Tech backlash</title>
+      <link>https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/</link>
+      <guid isPermaLink="false">why-data-centers-are-at-the-center-of-the-big-tech-backlash</guid>
+      <pubDate>2026-11-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>Journalist Paris Marx unpacks his new book "Hyperscale."</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>OpenAI’s chief scientist has thoughts on how to limit AI development</title>
+      <link>https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/</link>
+      <guid isPermaLink="false">openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development</guid>
+      <pubDate>2026-11-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> techcrunch</p><hr/><p>To establish a speed limit on AI development, you need to agree on how to measure speed.</p></description>
+      <category>🤖 技术能力</category>
+    </item>
     <item>
       <title>Show HN: I built a game where you are an LLM's subagent</title>
       <link>https://news.ycombinator.com/item?id=50599762</link>
@@ -32,6 +48,14 @@
       <title>AI is becoming a disaster for the climate</title>
       <link>https://news.ycombinator.com/item?id=50598961</link>
       <guid isPermaLink="false">ai-is-becoming-a-disaster-for-the-climate</guid>
+      <pubDate>2026-11-23T00:00:00+00:00</pubDate>
+      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
+      <category>🤖 技术能力</category>
+    </item>
+    <item>
+      <title>C++26 is done (again): November 2026 ISO C++ meeting trip report</title>
+      <link>https://news.ycombinator.com/item?id=50600838</link>
+      <guid isPermaLink="false">c26-is-done-again-november-2026-iso-c-meeting-trip-report</guid>
       <pubDate>2026-11-23T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.2/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
@@ -386,30 +410,6 @@
       <guid isPermaLink="false">active-feature-acquisition-by-distilling-an-oracle-teacher</guid>
       <pubDate>2026-11-21T00:00:00+00:00</pubDate>
       <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Acquiring every feature of an instance is often costly: a measurement can carry a monetary price, a time delay, or a privacy cost. Active Feature Acquisition (AFA) addresses this by learning a policy that decides, per instance, which features to acquire under a budget. Existing AFA methods train thi</p></description>
-      <category>🤖 技术能力</category>
-    </item>
-    <item>
-      <title>SoK: Assessing the Evolution of LLM Capability in Software Vulnerability Researc</title>
-      <link>http://arxiv.org/abs/2611.26601v1</link>
-      <guid isPermaLink="false">sok-assessing-the-evolution-of-llm-capability-in-software-vulnerability-research</guid>
-      <pubDate>2026-11-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>LLM-based agents are becoming increasingly capable at discovering, validating and patching vulnerabilities in real software, and vendors and researchers report that this is already changing how vulnerabilities are found and fixed. These claims, however, are scattered across papers, vendor reports an</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>PlayCraft: Designing Engaging Games from Agent Play Experience</title>
-      <link>http://arxiv.org/abs/2611.26624v1</link>
-      <guid isPermaLink="false">playcraft-designing-engaging-games-from-agent-play-experience</guid>
-      <pubDate>2026-11-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 📱 产品模式</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> papers</p><hr/><p>Recent AI agents can generate playable games, but these games are not necessarily engaging. Mastery is a key source of engagement, yet designing for it requires extensive human play and tuning. We propose PlayCraft, an automated framework that uses a vision-based agent to play games and draws on its</p></description>
-      <category>📱 产品模式</category>
-    </item>
-    <item>
-      <title>Why the Airbus A321XLR often gets stuck climbing for first few hours of flight</title>
-      <link>https://news.ycombinator.com/item?id=50495392</link>
-      <guid isPermaLink="false">why-the-airbus-a321xlr-often-gets-stuck-climbing-for-first-few-hours-of-flight</guid>
-      <pubDate>2026-11-21T00:00:00+00:00</pubDate>
-      <description><p><strong>分类:</strong> 🤖 技术能力</p><p><strong>PM Score:</strong> 0.3/10</p><p><strong>类型:</strong> hn</p><hr/><p>暂无中文摘要</p></description>
       <category>🤖 技术能力</category>
     </item>
   </channel>
