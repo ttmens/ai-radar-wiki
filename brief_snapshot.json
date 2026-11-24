@@ -1,77 +1,187 @@
 {
-  "date": "2026-11-23",
-  "generated_at": "2026-11-23T20:04:37.076356+08:00",
-  "item_count": 6,
+  "date": "2026-11-24",
+  "generated_at": "2026-11-24T16:04:54.867799+08:00",
+  "item_count": 16,
   "items": [
     {
-      "id": "a-beginners-guide-to-local-ai-with-inkling-qwen-and-unsloth",
-      "label": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+      "id": "dario-is-hyping-the-dangers-so-oss-models-are-illegal-and-he-stays-in-control",
+      "label": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\"",
       "summary": "暂无中文摘要",
       "pm_score": 0.505,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50603845",
-      "date": "2026-11-23"
+      "url": "https://news.ycombinator.com/item?id=50615308",
+      "date": "2026-11-24"
     },
     {
-      "id": "mvanhornlast30days-skill",
-      "label": "mvanhorn/last30days-skill",
-      "summary": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "id": "kagi-mail-public-beta",
+      "label": "Kagi Mail (public beta)",
+      "summary": "暂无中文摘要",
+      "pm_score": 0.455,
+      "pillar": "capabilities",
+      "type": "hn",
+      "source_type": "hn",
+      "url": "https://news.ycombinator.com/item?id=50615481",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "herdrdevherdr",
+      "label": "herdrdev/herdr",
+      "summary": "the runtime your coding agents live on",
       "pm_score": 0.405,
       "pillar": "patterns",
       "type": "github",
       "source_type": "github",
-      "url": "https://github.com/mvanhorn/last30days-skill",
-      "date": "2026-11-23"
+      "url": "https://github.com/herdrdev/herdr",
+      "date": "2026-11-24"
     },
     {
-      "id": "glm-54-toward-generalized-coding-with-our-first-loop-transformer",
-      "label": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.355,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50609685",
-      "date": "2026-11-23"
+      "id": "anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-cha",
+      "label": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "date": "2026-11-24"
     },
     {
-      "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
-      "label": "Why data centers are at the center of the Big Tech backlash",
-      "summary": "Journalist Paris Marx unpacks his new book \"Hyperscale.\"",
+      "id": "elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scanda",
+      "label": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scanda",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/22/why-data-centers-are-at-the-center-of-the-big-tech-backlash/",
-      "date": "2026-11-23"
+      "url": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "date": "2026-11-24"
     },
     {
-      "id": "openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
-      "label": "OpenAI’s chief scientist has thoughts on how to limit AI development",
-      "summary": "To establish a speed limit on AI development, you need to agree on how to measure speed.",
+      "id": "nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo",
+      "label": "Nvidia reverses course and brings Jensen Huang back as CEO",
+      "summary": "The stunning reversal was supported by senior officials in the U.S. government.",
       "pm_score": 0.305,
       "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/22/openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development/",
-      "date": "2026-11-23"
+      "url": "https://techcrunch.com/2026/11/23/nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo/",
+      "date": "2026-11-24"
     },
     {
-      "id": "how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
-      "label": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IP",
-      "summary": "Three significant backers share what gave them conviction to bet billions on Anthropic.",
+      "id": "amazon-snaps-up-decart8217s-ai-optimization-tech-for-75b-as-it-prepares-to-sell",
+      "label": "Amazon snaps up Decart&#8217;s AI optimization tech for $7.5B as it prepares to",
+      "summary": "Amazon is acquiring Decart’s AI optimization technology and research team in a reported $7.5 billion deal.",
       "pm_score": 0.305,
-      "pillar": "ecosystem",
+      "pillar": "capabilities",
       "type": "techcrunch",
       "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
-      "date": "2026-11-23"
+      "url": "https://techcrunch.com/2026/11/23/amazon-snaps-up-decarts-ai-optimization-tech-for-7-5b-as-it-prepares-to-sell-trainium-chips/",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-company8217s-hq",
+      "label": "Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s",
+      "summary": "\"I'm going to be a better CEO the second time around,\" Huang told employees.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/23/nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-companys-hq/",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huang8217s-ret",
+      "label": "Trump reportedly called into Nvidia board meeting to advocate for Huang&#8217;s",
+      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "trump-endorses-jensen-huang8217s-return-to-nvidia-says-us-has-no-evidence-of-wro",
+      "label": "Trump endorses Jensen Huang&#8217;s return to Nvidia, says US has no evidence of",
+      "summary": "The president cited the U.S. Attorney General in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-f",
+      "label": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as",
+      "label": "Jensen Huang scheduled to testify next week in Senate following reinstatement as",
+      "summary": "The public hearing follows bipartisan calls for Huang to testify about the affair with the suspected Chinese spy.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as-nvidia-ceo/",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "google-search8217s-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personaliz",
+      "label": "Google Search&#8217;s AI Mode can now tap into Drive and Wallet for more persona",
+      "summary": "By bringing Personal Intelligence in AI Mode to Drive, Wallet, and the Gemini app, Google is leveraging the wealth of user data that's already within its ecosystem",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/23/google-searchs-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personalized-responses/",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-o",
+      "label": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes",
+      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
+      "pm_score": 0.305,
+      "pillar": "business",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-po",
+      "label": "Supertake raises $20M to let AI agents turn your market predictions into stock p",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "pm_score": 0.305,
+      "pillar": "patterns",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "date": "2026-11-24"
+    },
+    {
+      "id": "jensen-huang-isn8217t-out-of-the-woods-yet",
+      "label": "Jensen Huang isn&#8217;t out of the woods yet",
+      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
+      "pm_score": 0.305,
+      "pillar": "capabilities",
+      "type": "techcrunch",
+      "source_type": "techcrunch",
+      "url": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
+      "date": "2026-11-24"
     }
   ],
   "graph_totals": {
-    "real_nodes": 10800,
-    "edges": 12030
+    "real_nodes": 10823,
+    "edges": 12055
   }
 }

@@ -6676,3 +6676,24 @@
 - create: localcode-open-source-agentic-coding-on-your-mac-with-one-command.md
 - create: harvard-cs-2881r-ai-safety.md
 - create: how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo.md
+
+## [2026-11-24 16:04] sync v3 | 19 new | pillars: {'ecosystem': 2, 'capabilities': 13, 'patterns': 4}
+- create: herdrdevherdr.md
+- create: dario-is-hyping-the-dangers-so-oss-models-are-illegal-and-he-stays-in-control.md
+- create: declare-is-a-ui-language-for-you-and-your-ai.md
+- create: latent-introspection-llms-can-detect-prior-concept-injections.md
+- create: kagi-mail-public-beta.md
+- create: shirudo-openai-and-ciscos-open-source-runtime-for-shielding-unpatched-linux.md
+- create: claude-ship.md
+- create: anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-cha.md
+- create: supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-po.md
+- create: elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scanda.md
+- create: megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-f.md
+- create: nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-company8217s-hq.md
+- create: google-search8217s-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personaliz.md
+- create: jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as.md
+- create: amazon-snaps-up-decart8217s-ai-optimization-tech-for-75b-as-it-prepares-to-sell.md
+- create: jensen-huang-isn8217t-out-of-the-woods-yet.md
+- create: trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huang8217s-ret.md
+- create: show-hn-firevoice-free-open-source-voice-studio-on-your-own-gpu.md
+- create: show-hn-placebench-testing-ai-on-opening-and-closing-hours-and-last-trains.md

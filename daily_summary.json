@@ -1,19 +1,19 @@
 {
   "daily_summary": {
-    "date": "2026-11-23",
-    "headline": "今日 AI 情报 · 2026-11-23",
+    "date": "2026-11-24",
+    "headline": "今日 AI 情报 · 2026-11-24",
     "overview": "AI Agent 工具链与协作流程快速成熟",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "今日🤖 技术能力方向的核心信号集中在安全/漏洞。",
+        "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "a-beginners-guide-to-local-ai-with-inkling-qwen-and-unsloth",
-            "title": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth",
+            "id": "dario-is-hyping-the-dangers-so-oss-models-are-illegal-and-he-stays-in-control",
+            "title": "\"Dario is hyping the dangers so OSS models are illegal and he stays in",
             "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50603845",
+            "url": "https://news.ycombinator.com/item?id=50615308",
             "reason": "高价值信号"
           }
         ],
@@ -25,17 +25,17 @@
         "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
         "evidence": [
           {
-            "id": "localcode-open-source-agentic-coding-on-your-mac-with-one-command",
-            "title": "Localcode, open source agentic coding on your Mac with one command",
-            "score": 0.2,
-            "url": "https://news.ycombinator.com/item?id=50604540",
-            "reason": "基于新颖度、影响力、相关性综合评分"
+            "id": "anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-cha",
+            "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and app",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+            "reason": "里程碑式进展"
           },
           {
-            "id": "show-hn-i-built-a-game-where-you-are-an-llms-subagent",
-            "title": "Show HN: I built a game where you are an LLM's subagent",
-            "score": 0.2,
-            "url": "https://news.ycombinator.com/item?id=50599762",
+            "id": "supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-po",
+            "title": "Supertake raises $20M to let AI agents turn your market predictions in",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -44,13 +44,28 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "show-hn-placebench-testing-ai-on-opening-and-closing-hours-and-last-trains",
+            "title": "Show HN: PlaceBench – Testing AI on opening and closing hours (and las",
+            "score": 0.15,
+            "url": "https://github.com/voygr-tech/placebench",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
         "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
         "evidence": [
           {
-            "id": "how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
-            "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic bef",
+            "id": "sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-o",
+            "title": "Sierra doubles valuation to $30B within six months as demand for AI in",
             "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+            "url": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -60,127 +75,115 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：mvanhorn/last30days-skill, Localcode, open source agentic coding on。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Anthropic launches Claude Ship, letting , Supertake raises $20M to let AI agents t。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
       },
       {
         "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：Non-penetrating World Models。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "body": "今日1条情报涉及AI商业动态。包括：Sierra doubles valuation to $30B within 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
         "type": "validation",
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 20 | 📱 产品模式: 3 | 🔧 工具生态: 3",
-    "total_items": 26,
-    "high_value_count": 6,
+    "stats": "🤖 技术能力: 16 | 📱 产品模式: 5 | 💰 商业趋势: 1 | 🔧 工具生态: 1",
+    "total_items": 23,
+    "high_value_count": 16,
     "all_today_ids": [
       {
-        "id": "a-beginners-guide-to-local-ai-with-inkling-qwen-and-unsloth",
-        "label": "A Beginner's Guide to Local AI with Inkling, Qwen, and Unsloth"
+        "id": "dario-is-hyping-the-dangers-so-oss-models-are-illegal-and-he-stays-in-control",
+        "label": "\"Dario is hyping the dangers so OSS models are illegal and he stays in control\""
       },
       {
-        "id": "mvanhornlast30days-skill",
-        "label": "mvanhorn/last30days-skill"
+        "id": "kagi-mail-public-beta",
+        "label": "Kagi Mail (public beta)"
       },
       {
-        "id": "glm-54-toward-generalized-coding-with-our-first-loop-transformer",
-        "label": "GLM-5.4: Toward Generalized Coding with Our First Loop Transformer"
+        "id": "herdrdevherdr",
+        "label": "herdrdev/herdr"
       },
       {
-        "id": "why-data-centers-are-at-the-center-of-the-big-tech-backlash",
-        "label": "Why data centers are at the center of the Big Tech backlash"
+        "id": "anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-cha",
+        "label": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code"
       },
       {
-        "id": "openais-chief-scientist-has-thoughts-on-how-to-limit-ai-development",
-        "label": "OpenAI’s chief scientist has thoughts on how to limit AI development"
+        "id": "elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scanda",
+        "label": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scanda"
       },
       {
-        "id": "how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo",
-        "label": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IP"
+        "id": "nvidia-reverses-course-and-brings-jensen-huang-back-as-ceo",
+        "label": "Nvidia reverses course and brings Jensen Huang back as CEO"
       },
       {
-        "id": "a-methodologically-rigorous-benchmark-of-linear-regressionrnn-and-lstm-for-sp-50",
-        "label": "A Methodologically Rigorous Benchmark of Linear Regression,RNN, and LSTM for S&P"
+        "id": "amazon-snaps-up-decart8217s-ai-optimization-tech-for-75b-as-it-prepares-to-sell",
+        "label": "Amazon snaps up Decart&#8217;s AI optimization tech for $7.5B as it prepares to"
       },
       {
-        "id": "star-panoptic-quality-selectively-evaluating-split-and-merged-instances",
-        "label": "Star Panoptic Quality: Selectively Evaluating Split and Merged Instances"
+        "id": "nvidia-employees-greet-jensen-huang-like-a-hero-as-he-returns-to-company8217s-hq",
+        "label": "Nvidia employees greet Jensen Huang like a hero as he returns to company&#8217;s"
       },
       {
-        "id": "model-carving-training-transformers-that-optimize-their-own-topology",
-        "label": "Model Carving: Training Transformers That Optimize Their Own Topology"
+        "id": "trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huang8217s-ret",
+        "label": "Trump reportedly called into Nvidia board meeting to advocate for Huang&#8217;s"
       },
       {
-        "id": "stereovlm-binocular-vision-language-models-for-metric-3d-spatial-reasoning",
-        "label": "StereoVLM: Binocular Vision-Language Models for Metric 3D Spatial Reasoning"
+        "id": "trump-endorses-jensen-huang8217s-return-to-nvidia-says-us-has-no-evidence-of-wro",
+        "label": "Trump endorses Jensen Huang&#8217;s return to Nvidia, says US has no evidence of"
       },
       {
-        "id": "bioemu2-scalable-emulation-of-biomolecular-dynamics",
-        "label": "BioEmu2: Scalable Emulation of Biomolecular Dynamics"
+        "id": "megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-f",
+        "label": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed"
       },
       {
-        "id": "optimal-linear-regression-without-a-variance",
-        "label": "Optimal Linear Regression Without a Variance"
+        "id": "jensen-huang-scheduled-to-testify-next-week-in-senate-following-reinstatement-as",
+        "label": "Jensen Huang scheduled to testify next week in Senate following reinstatement as"
       },
       {
-        "id": "on-the-complete-feature-set-for-adhd-classification-in-children-and-adolescents",
-        "label": "On the Complete Feature Set for ADHD Classification in Children and Adolescents"
+        "id": "google-search8217s-ai-mode-can-now-tap-into-drive-and-wallet-for-more-personaliz",
+        "label": "Google Search&#8217;s AI Mode can now tap into Drive and Wallet for more persona"
       },
       {
-        "id": "topology-hub-optimal-transport-eliminating-long-context-dilution-at-flash-speed",
-        "label": "Topology Hub Optimal Transport: Eliminating Long Context Dilution at Flash Speed"
+        "id": "sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-o",
+        "label": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes"
       },
       {
-        "id": "non-penetrating-world-models",
-        "label": "Non-penetrating World Models"
+        "id": "supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-po",
+        "label": "Supertake raises $20M to let AI agents turn your market predictions into stock p"
       },
       {
-        "id": "the-optimal-sample-complexity-of-agnostic-pac-learning-for-partial-concept-class",
-        "label": "The Optimal Sample Complexity of Agnostic PAC Learning for Partial Concept Class"
+        "id": "jensen-huang-isn8217t-out-of-the-woods-yet",
+        "label": "Jensen Huang isn&#8217;t out of the woods yet"
       },
       {
-        "id": "suaf-spectral-universal-advantage-features-for-zero-shot-policy-improvement",
-        "label": "SUAF: Spectral Universal Advantage Features for Zero-Shot Policy Improvement"
+        "id": "brake-check-hijacking-trailer-brakes-over-bluetooth",
+        "label": "Brake Check: Hijacking Trailer Brakes over Bluetooth"
       },
       {
-        "id": "ranking-preserving-coreset-selection-for-efficient-evolutionary-hyperparameter-o",
-        "label": "Ranking-Preserving Coreset Selection for Efficient Evolutionary Hyperparameter O"
+        "id": "latent-introspection-llms-can-detect-prior-concept-injections",
+        "label": "Latent Introspection: LLMs Can Detect Prior Concept Injections"
       },
       {
-        "id": "0rwx-a-simple-model-of-ai-usage-inspired-by-unix-permissions",
-        "label": "0rwx – A simple model of AI usage, inspired by Unix permissions"
+        "id": "declare-is-a-ui-language-for-you-and-your-ai",
+        "label": "Declare is a UI language for you and your AI"
       },
       {
-        "id": "localcode-open-source-agentic-coding-on-your-mac-with-one-command",
-        "label": "Localcode, open source agentic coding on your Mac with one command"
+        "id": "shirudo-openai-and-ciscos-open-source-runtime-for-shielding-unpatched-linux",
+        "label": "Shirudo: OpenAI and Cisco's open-source runtime for shielding unpatched Linux"
       },
       {
-        "id": "show-hn-i-built-a-game-where-you-are-an-llms-subagent",
-        "label": "Show HN: I built a game where you are an LLM's subagent"
+        "id": "show-hn-firevoice-free-open-source-voice-studio-on-your-own-gpu",
+        "label": "Show HN: FireVoice, free open-source voice studio on your own GPU"
       },
       {
-        "id": "harvard-cs-2881r-ai-safety",
-        "label": "Harvard CS 2881R AI Safety"
+        "id": "claude-ship",
+        "label": "Claude Ship"
       },
       {
-        "id": "muru-ai-assisted-rust-server-for-python-apps-by-mod_wsgis-creator",
-        "label": "Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator"
-      },
-      {
-        "id": "verifying-formal-models-of-raft-implementations",
-        "label": "Verifying formal models of Raft implementations"
-      },
-      {
-        "id": "ai-is-becoming-a-disaster-for-the-climate",
-        "label": "AI is becoming a disaster for the climate"
-      },
-      {
-        "id": "c26-is-done-again-november-2026-iso-c-meeting-trip-report",
-        "label": "C++26 is done (again): November 2026 ISO C++ meeting trip report"
+        "id": "show-hn-placebench-testing-ai-on-opening-and-closing-hours-and-last-trains",
+        "label": "Show HN: PlaceBench – Testing AI on opening and closing hours (and last trains)"
       }
     ],
-    "date_bj": "2026-11-23 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-23 20:03:54"
+    "date_bj": "2026-11-24 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-24 16:04:18"
   }
 }
