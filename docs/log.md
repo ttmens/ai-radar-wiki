@@ -6735,3 +6735,33 @@
 - create: show-hn-kradlebench-multi-agent-ai-evals-in-minecraft.md
 - create: show-hn-genesis-map-visualize-your-agents-changes-see-where-they-can-break.md
 - create: show-hn-open-interpretability-explain.md
+
+## [2026-11-26 00:06] sync v3 | 28 new | pillars: {'patterns': 4, 'ecosystem': 2, 'capabilities': 22}
+- create: yetonemagpie.md
+- create: omniact-one-policy-one-million-embodiments.md
+- create: bioloom-scaling-biomedical-vision-language-models-by-learning-from-the-structure.md
+- create: iwam-efficient-action-prediction-from-world-models-without-explicit-future-predi.md
+- create: a-bias-in-disguise-tiny-gradient-edits-stop-a-small-language-models-thinking-loo.md
+- create: exploratory-midtraining-for-robot-policies.md
+- create: metaforge-a-meta-learning-framework-for-harness-optimization-in-automated-code-g.md
+- create: draft-calibration-for-speculative-decoding-accelerating-llm-serving-by-matching.md
+- create: temporal-conditioning-for-human-behavioral-cloning-in-chess.md
+- create: reinforcement-learning-can-be-recovered-from-its-own-rollouts.md
+- create: gremlin-generating-random-environments-for-meta-learning-with-interacting-networ.md
+- create: delegent-a-multi-agent-harness-that-reduces-cost-without-sacrificing-performance.md
+- create: eventdiffusion-learning-native-event-stream-distribution-from-videos.md
+- create: the-short-age-of-dragon-riders.md
+- create: models-can-communicate-via-inference-servers-despite-being-sandboxed.md
+- create: show-hn-old-nvidia-and-ati-tech-demos-running-again-in-the-browser.md
+- create: getting-old-java-phones-online-again.md
+- create: taking-over-us-treasury-subdomains-for-3-each.md
+- create: pengpt-a-generative-transformer-for-handwriting-and-sketches.md
+- create: marginalia-search-money-c-rust-ai-stuff.md
+- create: when-in-doubt-flail-about.md
+- create: top-open-problems-in-mathematics-ranked-by-llm-assessed-importance.md
+- create: fable-52-tries-less-on-some-hard-tasks-when-a-shortcut-is-available.md
+- create: ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it.md
+- create: amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse.md
+- create: the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed.md
+- create: yale8217s-sonnenfeld-nvidia-is-a-8216detriment8217-to-us-industrial-might-not-a.md
+- create: show-hn-carry-save-every-ai-conversations-as-markdown-in-a-folder-you-own.md
