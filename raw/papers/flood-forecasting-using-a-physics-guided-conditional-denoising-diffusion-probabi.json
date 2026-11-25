@@ -1,0 +1,23 @@
+{
+  "title": "Flood forecasting using a physics-guided conditional denoising diffusion probabilistic model",
+  "summary": "High-resolution flood forecasting with full two-dimensional shallow water equation (SWE) solvers remains computationally expensive, even on GPUs. We develop a conditional denoising diffusion probabilistic model (DDPM) that forecasts the evolution of 30 m water-depth fields over a four-day horizon for the Des Plaines River watershed, Illinois. The model is trained on SynxFlow SWE simulations of 113 historical storms observed across twelve Midwestern states (2003-2024), each under three antecedent-wetness scenarios, and can optionally be conditioned on coarse 100 m or 150 m hydrodynamic simulations. Because reverse diffusion is stochastic, every forecast is a 20-member ensemble drawn from the same trained model. Coarse conditioning reduces the four-day mean water-depth RMSE of the ensemble mean from 0.170 m to 0.054 m (100 m) and 0.048 m (150 m). The coarser 150 m conditioning also gives the best critical success index (0.839), false alarm ratio, CRPS and Brier score at lower cost, so finer conditioning does not guarantee better skill. Averaging members reduces error by 5-11% relative to a single realization, and the ensemble provides spatially explicit exceedance probabilities, although the ensembles are under-dispersive (spread-to-error ratios 0.35-0.73). On a single GPU, a four-day forecast over 26 non-overlapping patches is 7.8x, 11.0x and 16.3x faster than the 30 m simulation for the 100 m, 150 m and unconditioned configurations, and projected speedups for a 14-day forecast reach 12-49x for one member and 48-58x for 20 members. Physics-guided diffusion models are thus promising probabilistic surrogates for regional-scale flood forecasting.",
+  "url": "http://arxiv.org/abs/2611.31212v1",
+  "authors": [
+    "Omar Sallam",
+    "David Coe",
+    "Jeremy Feinstein",
+    "Hugo Torres",
+    "Sofia Sahagun Covarrubias"
+  ],
+  "published": "2026-11-23T18:55:29Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "diffusion model"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

@@ -1,0 +1,269 @@
+{
+  "daily_summary": {
+    "date": "2026-11-25",
+    "headline": "今日 AI 情报 · 2026-11-25",
+    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：安全/漏洞, AI Agent。",
+        "evidence": [
+          {
+            "id": "active-intrusion-campaign-against-check-point-security-management-servers",
+            "title": "Active intrusion campaign against Check Point security management serv",
+            "score": 0.42,
+            "url": "https://news.ycombinator.com/item?id=50630594",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "evidence": [
+          {
+            "id": "llm-agents-work-for-their-parent-companies-not-for-you",
+            "title": "LLM agents work for their parent companies, not for you",
+            "score": 0.51,
+            "url": "https://news.ycombinator.com/item?id=50627340",
+            "reason": "高价值信号"
+          },
+          {
+            "id": "even-the-best-ai-agents-struggle-with-everyday-life",
+            "title": "Even the best AI agents struggle with everyday life",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/24/even-the-best-ai-agents-struggle-with-everyday-life/",
+            "reason": "里程碑式进展"
+          },
+          {
+            "id": "walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+            "title": "Walmart teams up with Meta to bring Black Friday deals to AI agent Mus",
+            "score": 0.3,
+            "url": "https://techcrunch.com/2026/11/24/walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse/",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "agentic-ai-for-intent-management-and-control-in-autonomous-communication-network",
+            "title": "Agentic AI for Intent Management and Control in Autonomous Communicati",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.31223v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-kradlebench-multi-agent-ai-evals-in-minecraft",
+            "title": "Show HN: KradleBench – Multi-agent AI evals in Minecraft",
+            "score": 0.15,
+            "url": "https://www.kradle.ai?1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-genesis-map-visualize-your-agents-changes-see-where-they-can-break",
+            "title": "Show HN: Genesis Map – Visualize your agent's changes. See where they ",
+            "score": 0.15,
+            "url": "https://github.com/GenesisAgentInfra/genesis",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "🔧 工具生态",
+        "pillar_key": "ecosystem",
+        "insight": "今日🔧 工具生态方向有新的动态。",
+        "evidence": [
+          {
+            "id": "how-far-can-linear-go-bipert-a-unified-framework-for-single-cell-perturbation-mo",
+            "title": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Per",
+            "score": 0.3,
+            "url": "http://arxiv.org/abs/2611.31227v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "💰 商业趋势",
+        "pillar_key": "business",
+        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
+        "evidence": [
+          {
+            "id": "anthropic-breaks-below-83-ipo-price",
+            "title": "Anthropic breaks below $83 IPO price",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50627836",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [
+      {
+        "title": "AI Agent 工具链与协作流程快速成熟",
+        "body": "今日6条情报涉及AI Agent及相关工具生态。典型项目包括：Even the best AI agents struggle with ev, Meta brings its Muse AI assistant direct, Walmart teams up with Meta to bring Blac。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "type": "paradigm_shift",
+        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日2条情报涉及AI商业动态。包括：Anthropic breaks below $83 IPO price, Anthropic shares fall below IPO price, a。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
+      }
+    ],
+    "stats": "📱 产品模式: 11 | 💰 商业趋势: 3 | 🤖 技术能力: 21 | 🔧 工具生态: 1",
+    "total_items": 36,
+    "high_value_count": 31,
+    "all_today_ids": [
+      {
+        "id": "llm-agents-work-for-their-parent-companies-not-for-you",
+        "label": "LLM agents work for their parent companies, not for you"
+      },
+      {
+        "id": "anthropic-breaks-below-83-ipo-price",
+        "label": "Anthropic breaks below $83 IPO price"
+      },
+      {
+        "id": "active-intrusion-campaign-against-check-point-security-management-servers",
+        "label": "Active intrusion campaign against Check Point security management servers"
+      },
+      {
+        "id": "ask-hn-anthropic-is-accusing-my-company-of-distilling-how-can-i-prove-im-not",
+        "label": "Ask HN: Anthropic is accusing my company of distilling. How can I prove I'm not?"
+      },
+      {
+        "id": "ternary-bonsai-25-27b",
+        "label": "Ternary Bonsai 2.5 27B"
+      },
+      {
+        "id": "anthropic-shares-fall-below-ipo-price-a-worrying-sign-for-ai-startups",
+        "label": "Anthropic shares fall below IPO price, a worrying sign for AI startups"
+      },
+      {
+        "id": "why-a-crusoe-investor-is-betting-on-solar-and-batteries-to-power-future-ai-data",
+        "label": "Why a Crusoe investor is betting on solar and batteries to power future AI data"
+      },
+      {
+        "id": "pinterest-will-now-let-parents-limit-the-ai-generated-content-their-teens-see",
+        "label": "Pinterest will now let parents limit the AI-generated content their teens see"
+      },
+      {
+        "id": "gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "label": "GPT-6 models demonstrate intrinsic protein-design capabilities"
+      },
+      {
+        "id": "a-training-engine-for-your-local-model-using-your-idle-compute",
+        "label": "A training engine for your local model, using your idle compute"
+      },
+      {
+        "id": "tidal-to-ban-and-remove-millions-of-ai-generated-tracks-as-ai-slop-inundates-mus",
+        "label": "Tidal to ban and remove millions of AI-generated tracks as AI slop inundates mus"
+      },
+      {
+        "id": "even-the-best-ai-agents-struggle-with-everyday-life",
+        "label": "Even the best AI agents struggle with everyday life"
+      },
+      {
+        "id": "in-all-hands-meeting-jensen-huang-thanks-white-house-and-says-he8217s-in-therapy",
+        "label": "In all-hands meeting, Jensen Huang thanks White House and says he&#8217;s in the"
+      },
+      {
+        "id": "maple-raises-53m-to-build-ai-products-that-protect-your-data-even-from-itself",
+        "label": "Maple raises $5.3M to build AI products that protect your data, even from itself"
+      },
+      {
+        "id": "meta-brings-its-muse-ai-assistant-directly-into-instagram-dms",
+        "label": "Meta brings its Muse AI assistant directly into Instagram DMs"
+      },
+      {
+        "id": "walmart-teams-up-with-meta-to-bring-black-friday-deals-to-ai-agent-muse",
+        "label": "Walmart teams up with Meta to bring Black Friday deals to AI agent Muse"
+      },
+      {
+        "id": "uk-warns-ai-driven-cyberattacks-are-exposing-years-of-weak-security",
+        "label": "UK warns AI-driven cyberattacks are exposing years of weak security"
+      },
+      {
+        "id": "amazon8217s-decart-acquisition-is-a-bet-on-using-software-to-narrow-the-silicon",
+        "label": "Amazon&#8217;s Decart acquisition is a bet on using software to narrow the silic"
+      },
+      {
+        "id": "jensen-huang-still-thinks-a-succession-plan-creates-unnecessary-hierarchy",
+        "label": "Jensen Huang still thinks a succession plan creates unnecessary hierarchy"
+      },
+      {
+        "id": "agentic-ai-for-intent-management-and-control-in-autonomous-communication-network",
+        "label": "Agentic AI for Intent Management and Control in Autonomous Communication Network"
+      },
+      {
+        "id": "lejepa-features-are-not-isotropic-and-should-not-be",
+        "label": "LeJEPA Features Are Not Isotropic, and Should Not Be"
+      },
+      {
+        "id": "ctlink-a-text-prompted-segmentation-model-for-linking-radiology-report-findings",
+        "label": "CTLink: A Text-Prompted Segmentation Model for Linking Radiology Report Findings"
+      },
+      {
+        "id": "pruning-autonomous-driving-vlas-what-to-preserve-for-reasoning-and-action",
+        "label": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action"
+      },
+      {
+        "id": "verifying-the-outputs-of-pde-solvers-from-finite-elements-to-neural-surrogates",
+        "label": "Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates"
+      },
+      {
+        "id": "language-models-steer-on-injected-uncertainty-tokens-but-fail-to-self-monitor-in",
+        "label": "Language Models Steer on Injected Uncertainty Tokens, but Fail to Self-Monitor I"
+      },
+      {
+        "id": "how-far-can-linear-go-bipert-a-unified-framework-for-single-cell-perturbation-mo",
+        "label": "How Far Can Linear Go? BiPert, a Unified Framework for Single-Cell Perturbation"
+      },
+      {
+        "id": "towerbridge-bridging-the-dual-encoder-modality-gap-via-weight-space-programming",
+        "label": "TowerBridge: Bridging the Dual-Encoder Modality Gap via Weight-Space Programming"
+      },
+      {
+        "id": "let-vision-language-models-generate-images-through-their-representations",
+        "label": "Let Vision-Language Models Generate Images through Their Representations"
+      },
+      {
+        "id": "seeking-in-space-benchmarking-purposeful-active-exploration-of-vision-language-m",
+        "label": "Seeking in Space: Benchmarking Purposeful Active Exploration of Vision-Language"
+      },
+      {
+        "id": "flood-forecasting-using-a-physics-guided-conditional-denoising-diffusion-probabi",
+        "label": "Flood forecasting using a physics-guided conditional denoising diffusion probabi"
+      },
+      {
+        "id": "self-supervised-dataset-distillation-via-mutual-information-maximization",
+        "label": "Self-Supervised Dataset Distillation via Mutual Information Maximization"
+      },
+      {
+        "id": "show-hn-mason-a-lightweight-postgres-read-replica-built-on-columnar-storage",
+        "label": "Show HN: Mason – A lightweight Postgres read-replica, built on columnar storage"
+      },
+      {
+        "id": "seastore-redesigning-cephs-storage-back-end-for-cpu-efficient-nvme-performance",
+        "label": "SeaStore: Redesigning Ceph's Storage Back End for CPU-Efficient NVMe Performance"
+      },
+      {
+        "id": "show-hn-kradlebench-multi-agent-ai-evals-in-minecraft",
+        "label": "Show HN: KradleBench – Multi-agent AI evals in Minecraft"
+      },
+      {
+        "id": "show-hn-open-interpretability-explain",
+        "label": "Show HN: Open-Interpretability Explain"
+      },
+      {
+        "id": "show-hn-genesis-map-visualize-your-agents-changes-see-where-they-can-break",
+        "label": "Show HN: Genesis Map – Visualize your agent's changes. See where they can break"
+      }
+    ],
+    "date_bj": "2026-11-25 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-25 08:04:54"
+  }
+}

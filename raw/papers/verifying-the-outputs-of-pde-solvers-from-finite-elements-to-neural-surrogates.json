@@ -1,0 +1,20 @@
+{
+  "title": "Verifying the Outputs of PDE Solvers: From Finite Elements to Neural Surrogates",
+  "summary": "Physics simulation outputs increasingly come from solvers that no expert inspects, such as third-party packages in automated pipelines, programs written by large language models (LLMs), and learned surrogates. In earlier work on cardiac pulsed field ablation, we proposed that solvers return a certificate with their answers. The certificate consists of an admissible potential and an exactly charge-conserving current, and a small independent checker turns it into guaranteed error bounds against a written specification of the physics. Here, the same checker verifies the outputs of other solvers on the same problem. Specifically, FEniCSx computes both fields and receives the same bounds as our own solver. Five plausible bugs in a correct solver, one of them about 0.2% from the true impedance, all converge and pass a grid convergence study, yet the certificate rejects or refutes all five. Of three solvers written by LLMs, one is correct and certified to 0.1%, and one never solves the equation but converges. Neural networks that predict the coefficients of a reduced basis emit admissible fields and receive valid per-prediction bounds, at most 0.0021% wide inside their training range and 0.3-25% wide outside it, where 90% conformal intervals cover none of 14 tests. Untuned Fourier neural operators with free nodal outputs receive valid but uninformative bounds. On a uniform grid, interpolation onto the certificate grid limits them, and on the certificate grid, thin cells turn small nodal errors into large energy errors. Energy-norm training narrows the certified interval tenfold, and projecting the nodal-loss outputs onto the reduced basis narrows it by two to four orders of magnitude, still uninformative. The guarantee concerns the stated model and holds for any output, wherever its input lies. It is informative only when the output is accurate in energy on a grid that resolves the problem.",
+  "url": "http://arxiv.org/abs/2611.31211v1",
+  "authors": [
+    "Konstantinos Dovelos"
+  ],
+  "published": "2026-11-23T18:55:06Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "training",
+    "neural network"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}
