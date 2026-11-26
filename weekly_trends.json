@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T00:06:10.844108+08:00",
+  "generated_at": "2026-11-26T16:06:20.465843+08:00",
   "days_analyzed": 184,
   "pillar_trends": {
     "capabilities": {
@@ -11,8 +11,8 @@
     },
     "patterns": {
       "trend": "down",
-      "delta": -4,
-      "current": 2,
+      "delta": -2,
+      "current": 4,
       "previous": 6,
       "has_data": true
     },
@@ -2576,7 +2576,7 @@
         {
           "date": "2026-11-26",
           "title": "AI Agent 工具链与协作流程快速成熟",
-          "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Amazon and Meta reportedly in talks to l, Delegent: A Multi-Agent Harness That Red。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+          "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Amazon and Meta reportedly in talks to l, Delegent: A Multi-Agent Harness That Red, Attack Policy Selection can Mislead Moni。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
           "type": "paradigm_shift",
           "evidence": [
             {
@@ -2588,10 +2588,26 @@
               "pillar": "patterns"
             },
             {
+              "id": "multiagent-coding-is-the-future",
+              "title": "Multiagent coding is the future",
+              "score": 0.3,
+              "url": "https://news.ycombinator.com/item?id=50645541",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
               "id": "delegent-a-multi-agent-harness-that-reduces-cost-without-sacrificing-performance",
               "title": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing ",
               "score": 0.3,
               "url": "http://arxiv.org/abs/2611.33098v1",
+              "reason": "基于新颖度、影响力、相关性综合评分",
+              "pillar": "patterns"
+            },
+            {
+              "id": "show-hn-an-agent-skill-that-optimizes-code-with-falsifiable-hypotheses",
+              "title": "Show HN: An agent skill that optimizes code with falsifiable hypothese",
+              "score": 0.26,
+              "url": "https://news.ycombinator.com/item?id=50611593",
               "reason": "基于新颖度、影响力、相关性综合评分",
               "pillar": "patterns"
             }
@@ -2681,7 +2697,8 @@
         "2026-11-21",
         "2026-11-23",
         "2026-11-24",
-        "2026-11-25"
+        "2026-11-25",
+        "2026-11-26"
       ],
       "instances": [
         {
@@ -4117,6 +4134,13 @@
               "pillar": "business"
             }
           ]
+        },
+        {
+          "date": "2026-11-26",
+          "title": "AI商业动态：资本与市场持续升温",
+          "body": "今日1条情报涉及AI商业动态。包括：$μ$-Bench: Benchmarking Multi-User Task 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+          "type": "validation",
+          "evidence": []
         }
       ],
       "lifecycle": "declining"
@@ -5337,5 +5361,5 @@
   ],
   "contradictions": [],
   "emerging_tags": [],
-  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-11-26**（184天），累计 **5295** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
+  "weekly_summary": "数据覆盖 **2026-05-08 至 2026-11-26**（184天），累计 **5324** 条情报。 焦点领域：**📱 产品模式**。 核心叙事：**AI Agent 工具链与协作流程快速成熟**。"
 }

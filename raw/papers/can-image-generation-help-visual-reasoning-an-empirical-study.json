@@ -1,0 +1,26 @@
+{
+  "title": "Can image generation help visual reasoning? An empirical study",
+  "summary": "Language models think in words; then multimodal models might think in images. We test whether a generated helper improves the answer to a visual question. A model describes the helper it needs and then answers using the original and generated images together. Across 13 vision-language model and generator pairs, generation lowers mean accuracy by 3.7 percentage points, with declines on nine of ten tasks. Two unified models, BAGEL and Janus-Pro-7B, each lose accuracy on eight tasks. On VSTAR, adding a generated image to the same planning hint lowers accuracy by 10.47 points. Repeated image edits yield different outcomes across tasks. ChartQAPro and MathVista stay below their no-generation baselines, while ERQA gains three points after ten edits.",
+  "url": "http://arxiv.org/abs/2611.34935v1",
+  "authors": [
+    "Xueyang Yu",
+    "Yifan Jing",
+    "Taiming Lu",
+    "Linrong Cai",
+    "Zhipeng Cai"
+  ],
+  "published": "2026-11-25T18:59:31Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "multimodal",
+    "vision",
+    "reasoning",
+    "accuracy"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

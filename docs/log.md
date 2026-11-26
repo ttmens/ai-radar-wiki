@@ -6765,3 +6765,34 @@
 - create: the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed.md
 - create: yale8217s-sonnenfeld-nvidia-is-a-8216detriment8217-to-us-industrial-might-not-a.md
 - create: show-hn-carry-save-every-ai-conversations-as-markdown-in-a-folder-you-own.md
+
+## [2026-11-26 16:06] sync v3 | 29 new | pillars: {'capabilities': 24, 'ecosystem': 1, 'patterns': 4}
+- create: spectrum-adaptation-of-ai-native-autoencoder-communications-with-transfer-learni.md
+- create: tokenisation-is-not-in-apx.md
+- create: can-image-generation-help-visual-reasoning-an-empirical-study.md
+- create: attack-policy-selection-can-mislead-monitor-evaluators.md
+- create: a-gene-informed-benchmark-for-bioscoring-of-pathology-foundation-models.md
+- create: diverse-alternative-reasoning-traces-for-hard-math-problems.md
+- create: mixture-of-loops-transformer.md
+- create: μ-bench-benchmarking-multi-user-task-completion-in-shared-interaction-voice-agen.md
+- create: enhancing-maritime-domain-awareness-using-latent-space-representations.md
+- create: what-a-drop-reveals-sim-to-real-material-estimation-for-deformable-objects-from.md
+- create: interpretable-and-accurate-hybrid-decision-trees-with-selective-case-based-split.md
+- create: stranger-things-when-objects-appear-without-their-typical-neighbors.md
+- create: much-shorter-version-of-grh-lean-verification-from-anthropic.md
+- create: the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features.md
+- create: tell-hn-lots-of-ask-hns-again.md
+- create: gpt-62-astra-is-the-first-model-to-beat-googlers-code-golf-records.md
+- create: openai-cuts-gpt-62-usage-astra-hits-limits-40-faster-sol-25-faster.md
+- create: porting-rockbox-to-an-undocumented-9-aliexpress-yp3-mp3-player-with-llms.md
+- create: britains-ghost-stations.md
+- create: show-hn-an-agent-skill-that-optimizes-code-with-falsifiable-hypotheses.md
+- create: multiagent-coding-is-the-future.md
+- create: s038p-considers-nvidia-credit-downgrade-over-governance-and-8216key-man8217-risk.md
+- create: openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work.md
+- create: jensen-huang-broke-nvidia8217s-code-of-conduct-and-his-employees-may-not-forget.md
+- create: anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-ab.md
+- create: want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york.md
+- create: characterais-plan-to-auction-off-users-private-chats-challenged-by-state-ags.md
+- create: show-hn-rust-agent-with-an-inkling-2-mini-inference-engine-for-apple-silicon.md
+- create: show-hn-keeping-faces-and-features-consistent-across-24-ai-driven-comic-pages.md

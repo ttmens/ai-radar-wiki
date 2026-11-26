@@ -1,0 +1,23 @@
+{
+  "title": "Tokenisation is not in APX",
+  "summary": "In this paper, we prove that, unless P=NP, no polynomial-time algorithm can find a tokeniser whose objective is within any constant factor of the optimum, meaning that tokenisation is not in the APX complexity class. We prove this for direct and bottom-up tokenisation, under both a compression or unigram log-likelihood objectives, and for binary or larger alphabets. We further show that, even over unary alphabets, direct tokenisation is APX-hard, and thus admits no polynomial-time approximation scheme.",
+  "url": "http://arxiv.org/abs/2611.34938v1",
+  "authors": [
+    "Violeta Kastreva",
+    "Philip Whittington",
+    "Dennis Komm",
+    "Tiago Pimentel"
+  ],
+  "published": "2026-11-25T18:59:38Z",
+  "tag": "Paper",
+  "pillar": "capabilities",
+  "pillar_keywords": [
+    "token",
+    "compression"
+  ],
+  "summary_cn": "",
+  "pm_relevance": 3,
+  "concepts": [],
+  "entities": [],
+  "patterns": []
+}

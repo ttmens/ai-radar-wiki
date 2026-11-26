@@ -10,10 +10,10 @@
         "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "models-can-communicate-via-inference-servers-despite-being-sandboxed",
-            "title": "Models Can Communicate via Inference Servers Despite Being Sandboxed",
-            "score": 0.42,
-            "url": "https://news.ycombinator.com/item?id=50637686",
+            "id": "the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+            "title": "The New York Times warns photographers not to update Photoshop over AI",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50647673",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -22,7 +22,7 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：AI Agent。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：融资/投资, AI Agent。",
         "evidence": [
           {
             "id": "amazon-and-meta-reportedly-in-talks-to-lift-blockade-on-ai-agent-muse",
@@ -32,10 +32,24 @@
             "reason": "基于新颖度、影响力、相关性综合评分"
           },
           {
+            "id": "multiagent-coding-is-the-future",
+            "title": "Multiagent coding is the future",
+            "score": 0.3,
+            "url": "https://news.ycombinator.com/item?id=50645541",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
             "id": "delegent-a-multi-agent-harness-that-reduces-cost-without-sacrificing-performance",
             "title": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing ",
             "score": 0.3,
             "url": "http://arxiv.org/abs/2611.33098v1",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          },
+          {
+            "id": "show-hn-an-agent-skill-that-optimizes-code-with-falsifiable-hypotheses",
+            "title": "Show HN: An agent skill that optimizes code with falsifiable hypothese",
+            "score": 0.26,
+            "url": "https://news.ycombinator.com/item?id=50611593",
             "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
@@ -44,7 +58,7 @@
       {
         "pillar": "🔧 工具生态",
         "pillar_key": "ecosystem",
-        "insight": "今日🔧 工具生态方向有新的动态。",
+        "insight": "今日🔧 工具生态方向的核心信号集中在AI Agent。",
         "evidence": [
           {
             "id": "omniact-one-policy-one-million-embodiments",
@@ -60,18 +74,32 @@
     "narratives": [
       {
         "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日2条情报涉及AI Agent及相关工具生态。典型项目包括：Amazon and Meta reportedly in talks to l, Delegent: A Multi-Agent Harness That Red。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
+        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Amazon and Meta reportedly in talks to l, Delegent: A Multi-Agent Harness That Red, Attack Policy Selection can Mislead Moni。具体信号：AI Agent。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
         "type": "paradigm_shift",
         "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
+      },
+      {
+        "title": "AI商业动态：资本与市场持续升温",
+        "body": "今日1条情报涉及AI商业动态。包括：$μ$-Bench: Benchmarking Multi-User Task 。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
+        "type": "validation",
+        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "📱 产品模式: 4 | 🤖 技术能力: 22 | 🔧 工具生态: 2",
-    "total_items": 28,
-    "high_value_count": 25,
+    "stats": "📱 产品模式: 8 | 🤖 技术能力: 46 | 🔧 工具生态: 3",
+    "total_items": 57,
+    "high_value_count": 51,
     "all_today_ids": [
       {
         "id": "yetonemagpie",
         "label": "yetone/magpie"
+      },
+      {
+        "id": "the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
+        "label": "The New York Times warns photographers not to update Photoshop over AI features"
+      },
+      {
+        "id": "much-shorter-version-of-grh-lean-verification-from-anthropic",
+        "label": "Much shorter version of GRH Lean verification from Anthropic"
       },
       {
         "id": "models-can-communicate-via-inference-servers-despite-being-sandboxed",
@@ -80,6 +108,18 @@
       {
         "id": "pengpt-a-generative-transformer-for-handwriting-and-sketches",
         "label": "PenGPT: A Generative Transformer for Handwriting and Sketches"
+      },
+      {
+        "id": "gpt-62-astra-is-the-first-model-to-beat-googlers-code-golf-records",
+        "label": "GPT-6.2 Astra is the first model to beat Googlers' code golf records"
+      },
+      {
+        "id": "tell-hn-lots-of-ask-hns-again",
+        "label": "Tell HN: Lots of Ask HNs again"
+      },
+      {
+        "id": "porting-rockbox-to-an-undocumented-9-aliexpress-yp3-mp3-player-with-llms",
+        "label": "Porting Rockbox to an undocumented $9 AliExpress 'YP3' MP3 player with LLMs"
       },
       {
         "id": "show-hn-old-nvidia-and-ati-tech-demos-running-again-in-the-browser",
@@ -94,6 +134,10 @@
         "label": "Getting old Java phones online again"
       },
       {
+        "id": "openai-cuts-gpt-62-usage-astra-hits-limits-40-faster-sol-25-faster",
+        "label": "OpenAI cuts GPT-6.2 usage: Astra hits limits 40% faster, Sol 25% faster"
+      },
+      {
         "id": "marginalia-search-money-c-rust-ai-stuff",
         "label": "Marginalia Search, Money, C++, Rust, AI, Stuff"
       },
@@ -102,28 +146,68 @@
         "label": "Amazon and Meta reportedly in talks to lift blockade on AI agent Muse"
       },
       {
+        "id": "jensen-huang-broke-nvidia8217s-code-of-conduct-and-his-employees-may-not-forget",
+        "label": "Jensen Huang broke Nvidia&#8217;s code of conduct, and his employees may not for"
+      },
+      {
         "id": "yale8217s-sonnenfeld-nvidia-is-a-8216detriment8217-to-us-industrial-might-not-a",
         "label": "Yale&#8217;s Sonnenfeld: Nvidia is a &#8216;detriment&#8217; to US industrial mi"
+      },
+      {
+        "id": "want-to-buy-your-kid-an-ai-toy-this-christmas-not-in-new-york",
+        "label": "Want to buy your kid an AI toy this Christmas? Not in New York"
+      },
+      {
+        "id": "multiagent-coding-is-the-future",
+        "label": "Multiagent coding is the future"
+      },
+      {
+        "id": "characterais-plan-to-auction-off-users-private-chats-challenged-by-state-ags",
+        "label": "Character.AI’s plan to auction off users’ private chats challenged by state AGs"
       },
       {
         "id": "taking-over-us-treasury-subdomains-for-3-each",
         "label": "Taking over US Treasury subdomains for $3 each"
       },
       {
+        "id": "britains-ghost-stations",
+        "label": "Britain's ghost stations"
+      },
+      {
         "id": "the-questions-jensen-huang-and-nvidia-will-still-have-to-answer-about-megaspeed",
         "label": "The questions Jensen Huang and Nvidia will still have to answer about Megaspeed"
+      },
+      {
+        "id": "openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work",
+        "label": "OpenAI says heavy ChatGPT users may hit limits sooner as it merges Chat and Work"
       },
       {
         "id": "fable-52-tries-less-on-some-hard-tasks-when-a-shortcut-is-available",
         "label": "Fable 5.2 tries less on some hard tasks when a shortcut is available"
       },
       {
+        "id": "anthropics-dario-amodei-calls-accusations-of-surrendering-human-control-to-ai-ab",
+        "label": "Anthropic’s Dario Amodei calls accusations of surrendering human control to AI ‘"
+      },
+      {
         "id": "ai-data-centers-are-becoming-harder-to-build-and-neoclouds-are-feeling-it",
         "label": "AI data centers are becoming harder to build, and neoclouds are feeling it"
       },
       {
+        "id": "s038p-considers-nvidia-credit-downgrade-over-governance-and-8216key-man8217-risk",
+        "label": "S&#038;P considers Nvidia credit downgrade over governance and &#8216;key man&#8"
+      },
+      {
+        "id": "tokenisation-is-not-in-apx",
+        "label": "Tokenisation is not in APX"
+      },
+      {
         "id": "omniact-one-policy-one-million-embodiments",
         "label": "OmniAct: One Policy, One Million Embodiments"
+      },
+      {
+        "id": "diverse-alternative-reasoning-traces-for-hard-math-problems",
+        "label": "Diverse Alternative Reasoning Traces for Hard Math Problems"
       },
       {
         "id": "bioloom-scaling-biomedical-vision-language-models-by-learning-from-the-structure",
@@ -134,16 +218,40 @@
         "label": "Delegent: A Multi-Agent Harness That Reduces Cost without Sacrificing Performanc"
       },
       {
+        "id": "stranger-things-when-objects-appear-without-their-typical-neighbors",
+        "label": "Stranger Things: When Objects Appear Without Their Typical Neighbors"
+      },
+      {
         "id": "temporal-conditioning-for-human-behavioral-cloning-in-chess",
         "label": "Temporal Conditioning for Human Behavioral Cloning in Chess"
+      },
+      {
+        "id": "can-image-generation-help-visual-reasoning-an-empirical-study",
+        "label": "Can image generation help visual reasoning? An empirical study"
       },
       {
         "id": "metaforge-a-meta-learning-framework-for-harness-optimization-in-automated-code-g",
         "label": "MetaFORGE: A Meta-Learning Framework for Harness Optimization in Automated Code"
       },
       {
+        "id": "enhancing-maritime-domain-awareness-using-latent-space-representations",
+        "label": "Enhancing Maritime Domain Awareness using Latent Space Representations"
+      },
+      {
+        "id": "attack-policy-selection-can-mislead-monitor-evaluators",
+        "label": "Attack Policy Selection can Mislead Monitor Evaluators"
+      },
+      {
         "id": "gremlin-generating-random-environments-for-meta-learning-with-interacting-networ",
         "label": "GREMLIN: Generating Random Environments for Meta-Learning with Interacting Netwo"
+      },
+      {
+        "id": "μ-bench-benchmarking-multi-user-task-completion-in-shared-interaction-voice-agen",
+        "label": "$μ$-Bench: Benchmarking Multi-User Task Completion in Shared Interaction Voice A"
+      },
+      {
+        "id": "spectrum-adaptation-of-ai-native-autoencoder-communications-with-transfer-learni",
+        "label": "Spectrum Adaptation of AI-Native Autoencoder Communications with Transfer Learni"
       },
       {
         "id": "reinforcement-learning-can-be-recovered-from-its-own-rollouts",
@@ -154,6 +262,10 @@
         "label": "EventDiffusion: Learning Native Event Stream Distribution from Videos"
       },
       {
+        "id": "a-gene-informed-benchmark-for-bioscoring-of-pathology-foundation-models",
+        "label": "A gene informed benchmark for BioScoring of pathology foundation models"
+      },
+      {
         "id": "iwam-efficient-action-prediction-from-world-models-without-explicit-future-predi",
         "label": "iWAM: Efficient Action Prediction from World Models without Explicit Future Pred"
       },
@@ -162,8 +274,20 @@
         "label": "Draft Calibration for Speculative Decoding: Accelerating LLM Serving by Matching"
       },
       {
+        "id": "what-a-drop-reveals-sim-to-real-material-estimation-for-deformable-objects-from",
+        "label": "What a Drop Reveals: Sim-to-Real Material Estimation for Deformable Objects from"
+      },
+      {
+        "id": "interpretable-and-accurate-hybrid-decision-trees-with-selective-case-based-split",
+        "label": "Interpretable and Accurate Hybrid Decision Trees with Selective Case-Based Split"
+      },
+      {
         "id": "exploratory-midtraining-for-robot-policies",
         "label": "Exploratory Midtraining for Robot Policies"
+      },
+      {
+        "id": "mixture-of-loops-transformer",
+        "label": "Mixture-of-Loops Transformer"
       },
       {
         "id": "a-bias-in-disguise-tiny-gradient-edits-stop-a-small-language-models-thinking-loo",
@@ -178,11 +302,23 @@
         "label": "Top open problems in mathematics ranked by LLM-assessed importance"
       },
       {
+        "id": "show-hn-an-agent-skill-that-optimizes-code-with-falsifiable-hypotheses",
+        "label": "Show HN: An agent skill that optimizes code with falsifiable hypotheses"
+      },
+      {
+        "id": "show-hn-keeping-faces-and-features-consistent-across-24-ai-driven-comic-pages",
+        "label": "Show HN: Keeping faces and features consistent across 24 AI-driven comic pages"
+      },
+      {
+        "id": "show-hn-rust-agent-with-an-inkling-2-mini-inference-engine-for-apple-silicon",
+        "label": "Show HN: Rust agent with an Inkling 2 Mini inference engine for Apple Silicon"
+      },
+      {
         "id": "show-hn-carry-save-every-ai-conversations-as-markdown-in-a-folder-you-own",
         "label": "Show HN: Carry – Save every AI conversations as Markdown, in a folder you Own"
       }
     ],
     "date_bj": "2026-11-26 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-26 00:05:26"
+    "generated_at_bj": "2026-11-26 16:05:41"
   }
 }
