@@ -6798,3 +6798,18 @@
 - create: show-hn-keeping-faces-and-features-consistent-across-24-ai-driven-comic-pages.md
 
 ## [2026-11-26 18:01] sync v3 | 0 new | pillars: {}
+
+## [2026-11-27 16:03] sync v3 | 14 new | pillars: {'capabilities': 12, 'patterns': 2}
+- create: the-group-chat-where-your-ai-talks-behind-your-back.md
+- create: the-need-for-a-formally-verifiable-mainstream-programming-language.md
+- create: ai-made-self-hosting-fun-again.md
+- create: amd-specific-fork-of-llamacpp.md
+- create: an-introduction-to-uncertainty-in-machine-learning.md
+- create: google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one-cant-send-email.md
+- create: whats-claudes-fursona-and-other-questions.md
+- create: novita-streamlake-etc-are-bytedance-ark-wrappers.md
+- create: the-usaid-files.md
+- create: openai-may-be-in-cost-control-mode.md
+- create: ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments.md
+- create: nvidia-hits-pause-on-chip-shipments-to-southeast-asia.md
+- create: show-hn-silent-dictation-for-claude-code-via-on-device-lip-reading.md
