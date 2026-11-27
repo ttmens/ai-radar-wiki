@@ -1,110 +1,55 @@
 {
-  "date": "2026-11-27",
-  "generated_at": "2026-11-27T16:03:58.889799+08:00",
-  "item_count": 9,
+  "date": "2026-11-28",
+  "generated_at": "2026-11-28T06:02:37.336910+08:00",
+  "item_count": 4,
   "items": [
     {
-      "id": "ai-made-self-hosting-fun-again",
-      "label": "AI made self-hosting fun again",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.505,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50660180",
-      "date": "2026-11-27"
-    },
-    {
-      "id": "the-usaid-files",
-      "label": "The USAID Files",
+      "id": "claude-sabotaging-ml-research-tasks",
+      "label": "Claude sabotaging ML research tasks?",
       "summary": "暂无中文摘要",
       "pm_score": 0.455,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50649040",
-      "date": "2026-11-27"
+      "url": "https://news.ycombinator.com/item?id=50664325",
+      "date": "2026-11-28"
     },
     {
-      "id": "google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one-cant-send-email",
-      "label": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
+      "id": "michael-nielsen-took-down-his-book-on-neural-nets",
+      "label": "Michael Nielsen took down his book on neural nets",
       "summary": "暂无中文摘要",
-      "pm_score": 0.455,
-      "pillar": "patterns",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50653477",
-      "date": "2026-11-27"
-    },
-    {
-      "id": "openai-may-be-in-cost-control-mode",
-      "label": "OpenAI may be in cost control mode",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.455,
+      "pm_score": 0.425,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50652527",
-      "date": "2026-11-27"
+      "url": "https://news.ycombinator.com/item?id=50670757",
+      "date": "2026-11-28"
     },
     {
-      "id": "amd-specific-fork-of-llamacpp",
-      "label": "AMD-specific fork of llama.cpp",
+      "id": "us-air-forces-cloud-computing-platform-hacked",
+      "label": "US Air Force's cloud computing platform hacked",
       "summary": "暂无中文摘要",
-      "pm_score": 0.405,
+      "pm_score": 0.425,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50657265",
-      "date": "2026-11-27"
+      "url": "https://news.ycombinator.com/item?id=50666375",
+      "date": "2026-11-28"
     },
     {
-      "id": "the-need-for-a-formally-verifiable-mainstream-programming-language",
-      "label": "The need for a formally verifiable mainstream programming language",
+      "id": "gpt-62-astra-solves-a-historical-mystery",
+      "label": "GPT 6.2 Astra Solves a Historical Mystery",
       "summary": "暂无中文摘要",
-      "pm_score": 0.355,
+      "pm_score": 0.375,
       "pillar": "capabilities",
       "type": "hn",
       "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50663089",
-      "date": "2026-11-27"
-    },
-    {
-      "id": "an-algebraic-quantization-of-gravity-from-the-null-cone",
-      "label": "An algebraic quantization of gravity from the null cone",
-      "summary": "暂无中文摘要",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "hn",
-      "source_type": "hn",
-      "url": "https://news.ycombinator.com/item?id=50651863",
-      "date": "2026-11-27"
-    },
-    {
-      "id": "nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
-      "label": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "summary": "Nvidia has told manufacturing partners to pause server shipments to Malaysia, Singapore, Thailand and Indonesia as the U.S. tightens its push to keep AI chips out of China.",
-      "pm_score": 0.305,
-      "pillar": "capabilities",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "date": "2026-11-27"
-    },
-    {
-      "id": "as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isn8217t-a-virtue",
-      "label": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn&#8217;t a virtu",
-      "summary": "On the same day that Anthropic entered the public market, a painstakingly human video game became one of most successful entertainment launches of all time.",
-      "pm_score": 0.305,
-      "pillar": "business",
-      "type": "techcrunch",
-      "source_type": "techcrunch",
-      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-      "date": "2026-11-27"
+      "url": "https://news.ycombinator.com/item?id=50643158",
+      "date": "2026-11-28"
     }
   ],
   "graph_totals": {
-    "real_nodes": 10933,
-    "edges": 12208
+    "real_nodes": 10939,
+    "edges": 12214
   }
 }

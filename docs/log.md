@@ -6813,3 +6813,10 @@
 - create: ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments.md
 - create: nvidia-hits-pause-on-chip-shipments-to-southeast-asia.md
 - create: show-hn-silent-dictation-for-claude-code-via-on-device-lip-reading.md
+
+## [2026-11-28 06:02] sync v3 | 5 new | pillars: {'capabilities': 4, 'patterns': 1}
+- create: gpt-62-astra-solves-a-historical-mystery.md
+- create: michael-nielsen-took-down-his-book-on-neural-nets.md
+- create: show-hn-dragdropmath-learn-math-by-feel.md
+- create: us-air-forces-cloud-computing-platform-hacked.md
+- create: claude-sabotaging-ml-research-tasks.md

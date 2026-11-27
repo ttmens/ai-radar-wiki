@@ -1,20 +1,20 @@
 {
   "daily_summary": {
-    "date": "2026-11-27",
-    "headline": "今日 AI 情报 · 2026-11-27",
-    "overview": "AI Agent 工具链与协作流程快速成熟",
+    "date": "2026-11-28",
+    "headline": "今日 AI 情报 · 2026-11-28",
+    "overview": "今日共采集 5 条情报",
     "insights": [
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化。",
+        "insight": "今日🤖 技术能力方向有新的动态。",
         "evidence": [
           {
-            "id": "ai-made-self-hosting-fun-again",
-            "title": "AI made self-hosting fun again",
-            "score": 0.51,
-            "url": "https://news.ycombinator.com/item?id=50660180",
-            "reason": "高价值信号"
+            "id": "claude-sabotaging-ml-research-tasks",
+            "title": "Claude sabotaging ML research tasks?",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50664325",
+            "reason": "基于新颖度、影响力、相关性综合评分"
           }
         ],
         "trend": "new"
@@ -22,129 +22,46 @@
       {
         "pillar": "📱 产品模式",
         "pillar_key": "patterns",
-        "insight": "今日📱 产品模式方向的核心信号集中在AI Agent。",
+        "insight": "今日📱 产品模式方向有新的动态。",
         "evidence": [
           {
-            "id": "google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one-cant-send-email",
-            "title": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Se",
-            "score": 0.46,
-            "url": "https://news.ycombinator.com/item?id=50653477",
+            "id": "show-hn-dragdropmath-learn-math-by-feel",
+            "title": "Show HN: DragDropMath – Learn math by feel",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50669673",
             "reason": "基于新颖度、影响力、相关性综合评分"
-          },
-          {
-            "id": "ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments",
-            "title": "AI agents now control part of DeepMind's compute for Gemini experiment",
-            "score": 0.26,
-            "url": "https://news.ycombinator.com/item?id=50661218",
-            "reason": "基于新颖度、影响力、相关性综合评分"
-          }
-        ],
-        "trend": "new"
-      },
-      {
-        "pillar": "💰 商业趋势",
-        "pillar_key": "business",
-        "insight": "AI商业动态：资本与市场持续升温。该方向的具体信号：融资/投资。",
-        "evidence": [
-          {
-            "id": "as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isn8217t-a-virtue",
-            "title": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn&#8217",
-            "score": 0.3,
-            "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
-            "reason": "里程碑式进展"
           }
         ],
         "trend": "new"
       }
     ],
-    "narratives": [
-      {
-        "title": "AI Agent 工具链与协作流程快速成熟",
-        "body": "今日3条情报涉及AI Agent及相关工具生态。典型项目包括：Google Will Make AI Agents Use Its MCP S, AI agents now control part of DeepMind's, Show HN: Silent dictation for Claude Cod。具体信号：AI Agent, 桌面/本地化。这表明Agent开发工具和协作流程正在快速成熟，PM应关注Agent工程化的基础设施需求。",
-        "type": "paradigm_shift",
-        "action": "建议：安排一次团队讨论，评估此趋势对产品交互范式的影响。重点关注权限模型和用户体验边界的变化。"
-      },
-      {
-        "title": "AI商业动态：资本与市场持续升温",
-        "body": "今日1条情报涉及AI商业动态。包括：As Anthropic IPOs, Grand Theft Auto VI p。资本市场持续加码AI应用层，PM应关注竞品融资动态和市場格局变化。",
-        "type": "validation",
-        "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
-      }
-    ],
-    "stats": "🤖 技术能力: 14 | 📱 产品模式: 2 | 💰 商业趋势: 1",
-    "total_items": 17,
-    "high_value_count": 9,
+    "narratives": [],
+    "stats": "🤖 技术能力: 4 | 📱 产品模式: 1",
+    "total_items": 5,
+    "high_value_count": 4,
     "all_today_ids": [
       {
-        "id": "ai-made-self-hosting-fun-again",
-        "label": "AI made self-hosting fun again"
+        "id": "claude-sabotaging-ml-research-tasks",
+        "label": "Claude sabotaging ML research tasks?"
       },
       {
-        "id": "the-usaid-files",
-        "label": "The USAID Files"
+        "id": "michael-nielsen-took-down-his-book-on-neural-nets",
+        "label": "Michael Nielsen took down his book on neural nets"
       },
       {
-        "id": "google-will-make-ai-agents-use-its-mcp-servers-the-gmail-one-cant-send-email",
-        "label": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email"
+        "id": "us-air-forces-cloud-computing-platform-hacked",
+        "label": "US Air Force's cloud computing platform hacked"
       },
       {
-        "id": "openai-may-be-in-cost-control-mode",
-        "label": "OpenAI may be in cost control mode"
+        "id": "gpt-62-astra-solves-a-historical-mystery",
+        "label": "GPT 6.2 Astra Solves a Historical Mystery"
       },
       {
-        "id": "amd-specific-fork-of-llamacpp",
-        "label": "AMD-specific fork of llama.cpp"
-      },
-      {
-        "id": "the-need-for-a-formally-verifiable-mainstream-programming-language",
-        "label": "The need for a formally verifiable mainstream programming language"
-      },
-      {
-        "id": "an-algebraic-quantization-of-gravity-from-the-null-cone",
-        "label": "An algebraic quantization of gravity from the null cone"
-      },
-      {
-        "id": "nvidia-hits-pause-on-chip-shipments-to-southeast-asia",
-        "label": "Nvidia hits pause on chip shipments to Southeast Asia"
-      },
-      {
-        "id": "as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isn8217t-a-virtue",
-        "label": "As Anthropic IPOs, Grand Theft Auto VI proves why efficiency isn&#8217;t a virtu"
-      },
-      {
-        "id": "whats-claudes-fursona-and-other-questions",
-        "label": "\"What's Claude's Fursona?\" and Other Questions"
-      },
-      {
-        "id": "the-group-chat-where-your-ai-talks-behind-your-back",
-        "label": "The group chat where your AI talks behind your back"
-      },
-      {
-        "id": "ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments",
-        "label": "AI agents now control part of DeepMind's compute for Gemini experiments"
-      },
-      {
-        "id": "novita-streamlake-etc-are-bytedance-ark-wrappers",
-        "label": "Novita, StreamLake, etc. are ByteDance Ark wrappers"
-      },
-      {
-        "id": "an-introduction-to-uncertainty-in-machine-learning",
-        "label": "An introduction to uncertainty in machine learning"
-      },
-      {
-        "id": "show-hn-silent-dictation-for-claude-code-via-on-device-lip-reading",
-        "label": "Show HN: Silent dictation for Claude Code via on-device lip reading"
-      },
-      {
-        "id": "training-on-documents-about-monitoring-leads-to-cot-obfuscation",
-        "label": "Training on Documents About Monitoring Leads to Cot Obfuscation"
-      },
-      {
-        "id": "show-hn-cerulion-harness-for-robotics-gemini-38-flash-matches-gpt-6-astra",
-        "label": "Show HN: Cerulion – Harness for Robotics, Gemini 3.8 Flash Matches GPT-6 Astra"
+        "id": "show-hn-dragdropmath-learn-math-by-feel",
+        "label": "Show HN: DragDropMath – Learn math by feel"
       }
     ],
-    "date_bj": "2026-11-27 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-27 16:03:22"
+    "date_bj": "2026-11-28 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-28 06:02:05"
   }
 }

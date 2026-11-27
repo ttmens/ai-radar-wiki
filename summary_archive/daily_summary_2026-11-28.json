@@ -1,0 +1,67 @@
+{
+  "daily_summary": {
+    "date": "2026-11-28",
+    "headline": "今日 AI 情报 · 2026-11-28",
+    "overview": "今日共采集 5 条情报",
+    "insights": [
+      {
+        "pillar": "🤖 技术能力",
+        "pillar_key": "capabilities",
+        "insight": "今日🤖 技术能力方向有新的动态。",
+        "evidence": [
+          {
+            "id": "claude-sabotaging-ml-research-tasks",
+            "title": "Claude sabotaging ML research tasks?",
+            "score": 0.46,
+            "url": "https://news.ycombinator.com/item?id=50664325",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      },
+      {
+        "pillar": "📱 产品模式",
+        "pillar_key": "patterns",
+        "insight": "今日📱 产品模式方向有新的动态。",
+        "evidence": [
+          {
+            "id": "show-hn-dragdropmath-learn-math-by-feel",
+            "title": "Show HN: DragDropMath – Learn math by feel",
+            "score": 0.2,
+            "url": "https://news.ycombinator.com/item?id=50669673",
+            "reason": "基于新颖度、影响力、相关性综合评分"
+          }
+        ],
+        "trend": "new"
+      }
+    ],
+    "narratives": [],
+    "stats": "🤖 技术能力: 4 | 📱 产品模式: 1",
+    "total_items": 5,
+    "high_value_count": 4,
+    "all_today_ids": [
+      {
+        "id": "claude-sabotaging-ml-research-tasks",
+        "label": "Claude sabotaging ML research tasks?"
+      },
+      {
+        "id": "michael-nielsen-took-down-his-book-on-neural-nets",
+        "label": "Michael Nielsen took down his book on neural nets"
+      },
+      {
+        "id": "us-air-forces-cloud-computing-platform-hacked",
+        "label": "US Air Force's cloud computing platform hacked"
+      },
+      {
+        "id": "gpt-62-astra-solves-a-historical-mystery",
+        "label": "GPT 6.2 Astra Solves a Historical Mystery"
+      },
+      {
+        "id": "show-hn-dragdropmath-learn-math-by-feel",
+        "label": "Show HN: DragDropMath – Learn math by feel"
+      }
+    ],
+    "date_bj": "2026-11-28 (北京时区 UTC+8)",
+    "generated_at_bj": "2026-11-28 06:02:05"
+  }
+}

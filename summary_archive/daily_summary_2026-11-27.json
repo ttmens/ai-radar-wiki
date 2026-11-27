@@ -7,7 +7,7 @@
       {
         "pillar": "🤖 技术能力",
         "pillar_key": "capabilities",
-        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：桌面/本地化。",
+        "insight": "AI Agent 工具链与协作流程快速成熟。该方向的具体信号：模型能力, 桌面/本地化。",
         "evidence": [
           {
             "id": "ai-made-self-hosting-fun-again",
@@ -71,8 +71,8 @@
         "action": "建议：研究标杆案例，评估差异化空间和进入时机。有产业积累的团队获得青睐说明 Know-how 比纯算法更重要。"
       }
     ],
-    "stats": "🤖 技术能力: 14 | 📱 产品模式: 2 | 💰 商业趋势: 1",
-    "total_items": 17,
+    "stats": "🤖 技术能力: 15 | 📱 产品模式: 2 | 💰 商业趋势: 1",
+    "total_items": 18,
     "high_value_count": 9,
     "all_today_ids": [
       {
@@ -124,6 +124,10 @@
         "label": "AI agents now control part of DeepMind's compute for Gemini experiments"
       },
       {
+        "id": "claude-sabotaging-sota-ml-research-tasks",
+        "label": "Claude sabotaging SOTA ML research tasks"
+      },
+      {
         "id": "novita-streamlake-etc-are-bytedance-ark-wrappers",
         "label": "Novita, StreamLake, etc. are ByteDance Ark wrappers"
       },
@@ -145,6 +149,6 @@
       }
     ],
     "date_bj": "2026-11-27 (北京时区 UTC+8)",
-    "generated_at_bj": "2026-11-27 16:03:22"
+    "generated_at_bj": "2026-11-27 18:02:13"
   }
 }

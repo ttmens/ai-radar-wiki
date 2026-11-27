@@ -1,6 +1,6 @@
 # AI Radar Wiki — Index
 > 面向 AI 产品经理的 4 大支柱知识库
-> Last updated: 2026-11-27 | Total pages: 6518
+> Last updated: 2026-11-28 | Total pages: 6524
 
 ## 🤖 Capabilities (模型与技术能力)
 > Context, Latency, Cost, Multimodal, Reasoning
@@ -591,6 +591,8 @@
 - [[claude-opus-55.md]] Claude Opus 5.5 `pillar:capabilities` `score:0.505`
 - [[claude-real-video-any-llm-can-watch-a-video.md]] Claude-real-video － any LLM can watch a video `pillar:capabilities` `score:0.33`
 - [[claude-reveals-ecdsa-curve-origins.md]] Claude reveals ECDSA curve origins `pillar:capabilities` `score:0.505`
+- [[claude-sabotaging-ml-research-tasks.md]] Claude sabotaging ML research tasks? `pillar:capabilities` `score:0.455`
+- [[claude-sabotaging-sota-ml-research-tasks.md]] Claude sabotaging SOTA ML research tasks `pillar:capabilities` `score:0.255`
 - [[claude-science.md]] Claude Science `pillar:capabilities` `score:0.6`
 - [[claude-session-url-appended-to-commit-messages-and-pr-descriptions-by-default.md]] Claude Session URL appended to commit messages and PR descriptions by default `pillar:capabilities` `score:0.325`
 - [[claude-ship.md]] Claude Ship `pillar:capabilities` `score:0.155`
@@ -1052,6 +1054,7 @@
 - [[gpt-61-sol-near-astra-intelligence-for-a-fifth-of-the-price.md]] GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price `pillar:capabilities` `score:0.505`
 - [[gpt-61-terra.md]] GPT-6.1 Terra `pillar:capabilities` `score:0.455`
 - [[gpt-62-astra-is-the-first-model-to-beat-googlers-code-golf-records.md]] GPT-6.2 Astra is the first model to beat Googlers' code golf records `pillar:capabilities` `score:0.405`
+- [[gpt-62-astra-solves-a-historical-mystery.md]] GPT 6.2 Astra Solves a Historical Mystery `pillar:capabilities` `score:0.375`
 - [[gpt-synopsys-frontier-intelligence-to-revolutionize-chip-design.md]] GPT-Synopsys: Frontier Intelligence to Revolutionize Chip Design `pillar:capabilities` `score:0.355`
 - [[gpt6-and-intelligent-ui-for-everyone.md]] GPT‑6 and Intelligent UI for everyone `pillar:capabilities` `score:0.455`
 - [[gpt62-astra-and-sol.md]] GPT‑6.2 Astra and Sol `pillar:capabilities` `score:0.505`
@@ -1527,6 +1530,7 @@
 - [[metas-muse-appears-to-use-an-openai-model-labeled-muse-special.md]] Meta's Muse appears to use an OpenAI model labeled muse-special `pillar:capabilities` `score:0.155`
 - [[metr-and-redwood-offer-holy-postmortem-of-the-huggingface-hack.md]] METR and Redwood Offer Holy %^ Postmortem of the HuggingFace Hack `pillar:capabilities` `score:0.375`
 - [[metr-report-on-openai-hugging-face-hacking-incident.md]] METR Report on OpenAI / Hugging Face Hacking Incident `pillar:capabilities` `score:0.155`
+- [[michael-nielsen-took-down-his-book-on-neural-nets.md]] Michael Nielsen took down his book on neural nets `pillar:capabilities` `score:0.425`
 - [[microllm-lab-try-7-tiny-llms-in-the-browser.md]] MicroLLM Lab – Try 7 tiny LLM's in the browser `pillar:capabilities` `score:0.255`
 - [[microsoft-and-cmu-team-up-to-train-early-career-software-engineers.md]] Microsoft and CMU Team Up to Train Early Career Software Engineers `pillar:capabilities` `score:0.205`
 - [[microsoft-and-epic-games-suddenly-agree-that-ai-is-theft.md]] Microsoft and Epic Games Suddenly Agree That AI Is Theft `pillar:capabilities` `score:0.155`
@@ -2696,6 +2700,7 @@
 - [[ur-nammu-founder-of-the-sumerian-renaissance.md]] Ur-Nammu Founder of the Sumerian Renaissance `pillar:capabilities` `score:0.155`
 - [[uranium-cubes-reveal-why-the-german-nuclear-project-failed.md]] Uranium cubes reveal why the German nuclear project failed `pillar:capabilities` `score:0.355`
 - [[us-air-force-b-52-bomber-crashes-after-takeoff-edwards-air-force-base-says.md]] US Air Force B-52 bomber crashes after takeoff, Edwards Air Force Base says `pillar:capabilities` `score:0.235`
+- [[us-air-forces-cloud-computing-platform-hacked.md]] US Air Force's cloud computing platform hacked `pillar:capabilities` `score:0.425`
 - [[us-allows-anthropic-to-release-mythos-ai-to-trusted-us-organizations.md]] U.S. allows Anthropic to release Mythos AI to ‘trusted’ US organizations `pillar:capabilities` `score:0.63`
 - [[us-appeals-court-upholds-designation-of-anthropic-as-supply-chain-risk.md]] U.S. appeals court upholds designation of Anthropic as supply chain risk `pillar:capabilities` `score:0.455`
 - [[us-army-corps-of-engineers-bay-model.md]] U.S. Army Corps of Engineers Bay Model `pillar:capabilities` `score:0.375`
@@ -4799,6 +4804,7 @@
 - [[show-hn-db-branch-database-branches-in-seconds-for-ai-agents-and-ci-via-zfs.md]] Show HN: db-branch – database branches in seconds for AI agents and CI, via ZFS `pillar:patterns` `score:0.155`
 - [[show-hn-deepsql-a-self-hostable-dba-agent-for-postgres-and-mysql.md]] Show HN: DeepSQL – A self-hostable DBA agent for Postgres and MySQL `pillar:patterns` `score:0.38`
 - [[show-hn-displaydev-the-agent-agnostic-workspace-for-html-and-md-artifacts.md]] Show HN: Display.dev – the agent-agnostic workspace for HTML and .md artifacts `pillar:patterns` `score:0.33`
+- [[show-hn-dragdropmath-learn-math-by-feel.md]] Show HN: DragDropMath – Learn math by feel `pillar:patterns` `score:0.205`
 - [[show-hn-e2a-open-source-email-gateway-for-ai-ag.md]] Show HN: E2a – Open-source email gateway for AI agents `pillar:patterns` `score:0.33`
 - [[show-hn-echologue-the-private-ai-voice-journal-i-built-for-myself.md]] Show HN: Echologue – the private AI voice journal I built for myself `pillar:patterns` `score:0.295`
 - [[show-hn-ego-lite-why-our-browser-agent-writes-javascript-not-cli-commands.md]] Show HN: Ego lite – why our browser agent writes JavaScript not CLI commands `pillar:patterns` `score:0.33`
